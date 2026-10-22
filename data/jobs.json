@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:19:32.697Z",
+  "generatedAt": "2026-10-22T21:36:11.880Z",
   "items": [
     {
       "id": "ashby-openai-83730f3e-3a96-476e-afb0-15f1f045ab03",
@@ -24,6 +24,30 @@
       "remote": true,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
+    },
+    {
+      "id": "amzn-10586334",
+      "company": "Amazon",
+      "title": "Research Scientist III, Last Mile Science",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10586334/research-scientist-iii-last-mile-science",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-10-22T21:36:11.880Z"
+    },
+    {
+      "id": "amzn-10586531",
+      "company": "Amazon",
+      "title": "Applied Scientist, Minerva",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10586531/applied-scientist-minerva",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-10-22T21:36:11.880Z"
     },
     {
       "id": "ashby-openai-5ef10e09-2b3f-41de-b77c-829787302101",

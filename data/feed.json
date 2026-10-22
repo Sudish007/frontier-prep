@@ -1,6 +1,320 @@
 {
-  "generatedAt": "2026-10-22T12:19:32.697Z",
+  "generatedAt": "2026-10-22T21:36:11.880Z",
   "items": [
+    {
+      "id": "4f47d04e31195ccd",
+      "url": "https://alignment.anthropic.com/2026/graft",
+      "title": "Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It When a model is caught cheating on a task during training, we confine its learning to a separate set of parameters. After training, we delete th",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "anthropic-alignment",
+      "sourceName": "Anthropic Alignment Science blog",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "alignment"
+      ]
+    },
+    {
+      "id": "86405d6d1e9fb855",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "anthropic-news",
+      "sourceName": "Anthropic news",
+      "class": "html-links",
+      "topics": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "16908a10cf40c0fb",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.37.0",
+      "title": "v3.37.0",
+      "summary": "3.37.0 (2026-10-22) ⚠ BREAKING CHANGES api: This minor release includes a breaking change to Decisions types. In Live response models, question instructions can now be a string or a list of structured text, image, or JSON parts; check isinstance(question.instructions, str)…",
+      "publishedAt": "2026-10-22T20:03:54.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "ece244a82d3ea239",
+      "url": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
+      "title": "The science behind TorchNeuron, Amazon’s new PyTorch backend for AWS Trainium chips",
+      "summary": "Runtime optimizations and a thorough evaluation process driven by agentic AI help ensure that models written in PyTorch will execute efficiently and reliably on Trainium systems.",
+      "publishedAt": "2026-10-22T19:36:42.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "amazon-science",
+      "sourceName": "Amazon Science",
+      "class": "rss",
+      "topics": [
+        "amazon",
+        "research"
+      ]
+    },
+    {
+      "id": "27825e3003584012",
+      "url": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "f29afd1567254e52",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we…",
+      "publishedAt": "2026-10-22T18:09:56.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "ad44bdcab03f890e",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
+      "title": "Amazon Polly delivers a major upgrade to its Generative engine",
+      "summary": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in…",
+      "publishedAt": "2026-10-22T18:06:35.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "762687ac4e575ecb",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases",
+      "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
+      "summary": "Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three…",
+      "publishedAt": "2026-10-22T18:01:53.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "ab41ce0092eca74b",
+      "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
+      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
+      "summary": "Following a 1,000-person pilot, Uber is bringing ChatGPT Work to more than 30,000 employees worldwide in its first company-wide deployment of an agentic platform for knowledge work. Uber CTO Praveen Neppalli Naga and OpenAI co-founder and President Greg Brockman discuss…",
+      "publishedAt": "2026-10-22T18:00:13.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "418ae447f600fa7e",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
+      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "summary": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU…",
+      "publishedAt": "2026-10-22T18:00:04.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "f5b85121619c1f6e",
+      "url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions",
+      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
+      "summary": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a…",
+      "publishedAt": "2026-10-22T18:00:01.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "1fc68e0e835ed772",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick",
+      "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+      "summary": "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents…",
+      "publishedAt": "2026-10-22T17:48:22.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "2e13c1358e1008b3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai",
+      "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+      "summary": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio…",
+      "publishedAt": "2026-10-22T17:45:58.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "d636564ee5d912b3",
+      "url": "https://www.latent.space/p/modal-d",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "publishedAt": "2026-10-22T17:40:57.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "a197b917a3d021e8",
+      "url": "https://www.youtube.com/watch?v=jT6aYMQ0Lqw",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Sensing Uncertainty in Sustainable HCI",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 2, 2026 This lecture covers: • Sensing uncertainty • When a sensor may not be reporting on an event as it occurred • How user interfaces (UIs) and their…",
+      "publishedAt": "2026-10-22T17:00:10.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "251516e27a00f0ed",
+      "url": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai",
+      "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
+      "summary": "Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two…",
+      "publishedAt": "2026-10-22T16:30:06.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "01f69b83a34ae371",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc",
+      "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
+      "summary": "Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its…",
+      "publishedAt": "2026-10-22T16:25:57.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "eaa0ebff7daf626e",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "",
+      "publishedAt": "2026-10-22T16:11:31.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "d5083253508c23ff",
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data…",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "msr-blog",
+      "sourceName": "Microsoft Research blog",
+      "class": "rss",
+      "topics": [
+        "microsoft",
+        "research"
+      ]
+    },
+    {
+      "id": "655df0fb22ace891",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "c4f0d40ba70c1c71",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
+      "publishedAt": "2026-10-22T14:08:21.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "40a420c5a611c5f5",
+      "url": "https://www.latent.space/p/moshi",
+      "title": "You are the Team — Anekha Sokhal, Moshi",
+      "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "publishedAt": "2026-10-22T14:03:40.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "00aee046d19f7c39",
       "url": "https://www.anthropic.com/research/april-23-postmortem",
@@ -685,20 +999,6 @@
       "topics": [
         "anthropic",
         "research"
-      ]
-    },
-    {
-      "id": "0c54f135033108d0",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-news",
-      "sourceName": "Anthropic news",
-      "class": "html-links",
-      "topics": [
-        "anthropic"
       ]
     },
     {
@@ -1945,7 +2245,7 @@
     {
       "id": "e90598d819f2282e",
       "url": "https://alignment.anthropic.com/2026/red-teaming-auto-mode",
-      "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents We red-team production blocking monitors (Auto Mode in Claude Code, Guardian in OpenAI's Codex) with an adversarial agent in an experimen",
+      "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents We red-team the blocking monitors in Claude Code and OpenAI's Codex with an adversarial agent, and strengthen Auto Mode against the attac",
       "summary": "",
       "publishedAt": null,
       "firstSeen": "2026-10-22T11:09:02.285Z",
@@ -2061,6 +2361,20 @@
       ]
     },
     {
+      "id": "63c31ca523f91ccf",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "publishedAt": "2026-10-22T06:00:00.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
       "id": "831ab4bfc7768f3a",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
       "title": "v2.1.308",
@@ -2088,6 +2402,20 @@
       "topics": [
         "openai",
         "engineering"
+      ]
+    },
+    {
+      "id": "ba6fa07d677a8221",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -3692,7 +4020,7 @@
       "id": "209f0f415bceb89a",
       "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
       "title": "Work management context for AI agents with Smartsheet MCP on AWS",
-      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching…",
+      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
       "publishedAt": "2026-10-20T17:59:07.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "aws-ml-blog",
@@ -3861,34 +4189,6 @@
       ]
     },
     {
-      "id": "ca293d8533a3487d",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "summary": "",
-      "publishedAt": "2026-10-20T16:09:19.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "e5f6d3284f597c04",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws",
-      "title": "Securing AI agent identity with X.509 PKI on AWS",
-      "summary": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693 audience-scoped tokens, and real-time OCSP revocation to…",
-      "publishedAt": "2026-10-20T16:03:48.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "88ef1e9846f173ed",
       "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
       "title": "Called to serve: Tech, research, and positive impact",
@@ -3916,62 +4216,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "441fb3c5749df7f5",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore",
-      "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
-      "summary": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and cutting new-engineer…",
-      "publishedAt": "2026-10-20T15:57:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "9b29e0f65dbe9ce7",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore",
-      "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
-      "summary": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360 view an agent queries in VQL, with identity propagation and…",
-      "publishedAt": "2026-10-20T15:39:04.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "31ded39c9d23707e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore",
-      "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
-      "summary": "The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server, and enforces per-user row and column security end-to-end.",
-      "publishedAt": "2026-10-20T15:36:39.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "bedc00d59bfc6b97",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore",
-      "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
-      "summary": "The third post in our semantic-layer series builds a governed customer 360 model on Amazon Redshift with AtScale, then exposes it to a Strands agent on Amazon Bedrock AgentCore through the AtScale MCP server. Identity propagation, RBAC, row security, and full query audit are…",
-      "publishedAt": "2026-10-20T15:33:54.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -4133,20 +4377,6 @@
       ]
     },
     {
-      "id": "ea83f0dd69c5142c",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
-      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-      "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema…",
-      "publishedAt": "2026-10-19T23:32:19.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "00a32ca182209bae",
       "url": "https://www.youtube.com/watch?v=3Vaj0Oka_t4",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 4 - Reinforcement Learning with LLMs",
@@ -4207,20 +4437,6 @@
       ]
     },
     {
-      "id": "87cd33ee12bd9f5e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience",
-      "title": "Developers can now access SageMaker Studio through the new AWS experience",
-      "summary": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Google, with no advanced AWS account or credit card required for most customers,…",
-      "publishedAt": "2026-10-19T22:39:24.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "3ab5b12e04feb01f",
       "url": "https://arxiv.org/abs/2610.27350",
       "title": "Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops",
@@ -4263,20 +4479,6 @@
       "topics": [
         "engineering",
         "evals"
-      ]
-    },
-    {
-      "id": "4bf843f5f5fd2876",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review",
-      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
-      "summary": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face…",
-      "publishedAt": "2026-10-19T21:14:44.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -5178,21 +5380,6 @@
       ]
     },
     {
-      "id": "2591949cc1b12958",
-      "url": "https://www.youtube.com/watch?v=BOTAeAU5ExQ",
-      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
-      "summary": "Cybersecurity research, moving from weeks to hours. SentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks. That lets security teams…",
-      "publishedAt": "2026-10-15T14:12:09.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "fa14b8f7db4605df",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "title": "Teaching students to think and learn through questions",
@@ -6042,21 +6229,6 @@
       ]
     },
     {
-      "id": "8ace020676f4e8ba",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.29.0",
-      "title": "v3.29.0",
-      "summary": "3.29.0 (2026-10-11) Features api: add billing_not_active session error code ( #4052 ) ( c88b320 ) api: add shida to named Live voices ( #4053 ) ( 7352cf5 ) api: add vault updates and metadata filters ( #4047 ) ( e72f493 ) api: align beta pagination limits and non-null parameters…",
-      "publishedAt": "2026-10-11T17:38:54.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
       "id": "fee9bab748db3442",
       "url": "https://www.latent.space/p/nyc2026",
       "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
@@ -6090,20 +6262,6 @@
       "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
       "summary": "Wow.",
       "publishedAt": "2026-10-10T06:45:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "d2e5912a3db67930",
-      "url": "https://www.latent.space/p/biohub-deepmind",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology.",
-      "publishedAt": "2026-10-10T00:31:26.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
@@ -6197,20 +6355,6 @@
       "topics": [
         "engineering",
         "inference"
-      ]
-    },
-    {
-      "id": "595120ff24813cee",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
-      "title": "[AINews] not much happened today",
-      "summary": "a quiet day.",
-      "publishedAt": "2026-10-08T23:29:43.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -7049,6 +7193,20 @@
       ]
     },
     {
+      "id": "dd66acaed2a04b44",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "publishedAt": "2026-09-29T17:00:00.000Z",
+      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
       "id": "04392c500debfe18",
       "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
       "title": "Why has Shopify dropped React Native?",
@@ -7096,20 +7254,6 @@
       "url": "https://openai.com/index/devday-2026-recap",
       "title": "DevDay 2026 Recap",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "dd66acaed2a04b44",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "publishedAt": "2026-09-29T10:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
@@ -7432,21 +7576,6 @@
       "class": "rss",
       "topics": [
         "career"
-      ]
-    },
-    {
-      "id": "fc7b4c2bae45ce13",
-      "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
-      "title": "Offloaded inference for real-world physical AI robotics",
-      "summary": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads. The post Offloaded inference for…",
-      "publishedAt": "2026-09-23T16:01:36.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "msr-blog",
-      "sourceName": "Microsoft Research blog",
-      "class": "rss",
-      "topics": [
-        "microsoft",
-        "research"
       ]
     },
     {
@@ -8908,49 +9037,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "4b452612c5a51b63",
-      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.2.0",
-      "title": "v2.2.0",
-      "summary": "pip install -U mcp . Docs: https://py.sdk.modelcontextprotocol.io/ A few defaults changed in this release. If you run a server or client on 2.x, skim these first: Behaviour changes HTTP client redirects are only followed within the endpoint's origin ( #3397 )…",
-      "publishedAt": "2026-09-07T15:53:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-mcp-py",
-      "sourceName": "MCP python-sdk releases",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "9403a5642709a566",
-      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v1.30.0",
-      "title": "v1.30.0",
-      "summary": "Maintenance release of the 1.x line. 2.x is the current line; 1.x docs are at https://py.sdk.modelcontextprotocol.io/v1/ . A few defaults changed in this release. If you run a server or client on 1.x, skim these first: Behaviour changes HTTP client redirects are only followed…",
-      "publishedAt": "2026-09-07T14:03:59.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-mcp-py",
-      "sourceName": "MCP python-sdk releases",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "ef3a54d6ef5afd4a",
-      "url": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
-      "title": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
-      "summary": "Plus, a machine hermeneutics story",
-      "publishedAt": "2026-09-07T12:26:31.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "import-ai",
-      "sourceName": "Import AI (Jack Clark)",
-      "class": "rss",
-      "topics": [
-        "research",
-        "policy"
       ]
     }
   ]
