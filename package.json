@@ -1,0 +1,25 @@
+{
+  "name": "frontier-prep",
+  "version": "0.1.0",
+  "private": true,
+  "description": "One place to prepare for AI roles at Anthropic, OpenAI, Google DeepMind, Microsoft and Amazon: roadmap, question bank, resource library, auto-updating feed and jobs watch",
+  "homepage": "https://sudish007.github.io/frontier-prep/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudish007/frontier-prep.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test \"tests/**/*.test.js\"",
+    "fetch": "node scripts/fetch.mjs",
+    "check-links": "node scripts/check-links.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.11.2"
+  }
+}

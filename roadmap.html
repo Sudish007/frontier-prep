@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Roadmap · Frontier Prep</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+<script type="module" src="assets/pages/roadmap.js"></script>
+</head>
+<body>
+<main class="page" id="main">
+  <section class="hero">
+    <h1>Roadmap</h1>
+    <p class="lede" id="lede"></p>
+    <div class="toolbar">
+      <button type="button" id="export">Export progress</button>
+      <label class="button" for="import-file">Import progress <input id="import-file" type="file" accept="application/json" class="sr-only"></label>
+      <button type="button" class="danger" id="reset">Reset all progress</button>
+    </div>
+  </section>
+
+  <section aria-labelledby="targets-h">
+    <h2 id="targets-h">Target roles</h2>
+    <div id="targets"></div>
+  </section>
+
+  <section aria-labelledby="gaps-h">
+    <h2 id="gaps-h">The gap, plainly</h2>
+    <div class="table-wrap" id="gaps"></div>
+  </section>
+
+  <section aria-labelledby="phases-h">
+    <h2 id="phases-h">Phases and tasks</h2>
+    <p class="muted">Checkboxes are saved in this browser. Export before switching machines.</p>
+    <div id="phases"></div>
+  </section>
+
+  <section aria-labelledby="checkpoints-h">
+    <h2 id="checkpoints-h">Checkpoints and pivot criteria</h2>
+    <div class="table-wrap" id="checkpoints"></div>
+  </section>
+
+  <section aria-labelledby="pillars-h">
+    <h2 id="pillars-h">Skill pillars and what to study</h2>
+    <div id="pillars"></div>
+  </section>
+
+  <section aria-labelledby="flagship-h">
+    <h2 id="flagship-h">Flagship projects</h2>
+    <div class="grid" id="flagship"></div>
+  </section>
+
+  <section aria-labelledby="week-h">
+    <h2 id="week-h">Weekly template</h2>
+    <div class="table-wrap" id="week"></div>
+  </section>
+</main>
+</body>
+</html>

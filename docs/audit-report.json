@@ -1,0 +1,642 @@
+{
+  "base": "http://127.0.0.1:8791/frontier-prep/",
+  "pages": {
+    "index.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Everything you need to get into a frontier lab, in one place.",
+        "cards": 26,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Everything you need to get into a frontier lab, in one place.",
+        "cards": 26,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Everything you need to get into a frontier lab, in one place.",
+        "cards": 26,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Everything you need to get into a frontier lab, in one place.",
+        "cards": 26,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Everything you need to get into a frontier lab, in one place.",
+        "cards": 26,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Everything you need to get into a frontier lab, in one place.",
+        "cards": 26,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "interactions": {
+        "theme_after_t": "dark"
+      },
+      "console_errors": [],
+      "failed_requests": []
+    },
+    "roadmap.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Roadmap",
+        "cards": 3,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Roadmap",
+        "cards": 3,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Roadmap",
+        "cards": 3,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Roadmap",
+        "cards": 3,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Roadmap",
+        "cards": 3,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Roadmap",
+        "cards": 3,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "interactions": {
+        "persisted": true
+      },
+      "console_errors": [],
+      "failed_requests": []
+    },
+    "practice.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Practice",
+        "cards": 19,
+        "emptyBoxes": 1,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Practice",
+        "cards": 19,
+        "emptyBoxes": 1,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Practice",
+        "cards": 19,
+        "emptyBoxes": 1,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Practice",
+        "cards": 19,
+        "emptyBoxes": 1,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Practice",
+        "cards": 19,
+        "emptyBoxes": 1,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Practice",
+        "cards": 19,
+        "emptyBoxes": 1,
+        "smallControls": 0
+      },
+      "interactions": {
+        "prompt": "Stateful iterator\n\nBuild stage 1 with tests in the first third of the time, then",
+        "timer": "59:59",
+        "history_rows": 1
+      },
+      "console_errors": [],
+      "failed_requests": []
+    },
+    "questions.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Question bank",
+        "cards": 257,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Question bank",
+        "cards": 257,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Question bank",
+        "cards": 257,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Question bank",
+        "cards": 257,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Question bank",
+        "cards": 257,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Question bank",
+        "cards": 257,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "interactions": {
+        "anthropic_count": "82 of 257 questions \u00b7 0 practiced",
+        "practiced": "82 of 257 questions \u00b7 1 practiced"
+      },
+      "console_errors": [],
+      "failed_requests": []
+    },
+    "resources.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Resource library",
+        "cards": 289,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Resource library",
+        "cards": 289,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Resource library",
+        "cards": 289,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Resource library",
+        "cards": 289,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Resource library",
+        "cards": 289,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Resource library",
+        "cards": 289,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "interactions": {
+        "search": "5 of 167 resources \u00b7 about 53 hours \u00b7 0 done",
+        "discovered_items": 122
+      },
+      "console_errors": [],
+      "failed_requests": []
+    },
+    "companies.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Companies",
+        "cards": 0,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Companies",
+        "cards": 0,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Companies",
+        "cards": 0,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Companies",
+        "cards": 0,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Companies",
+        "cards": 0,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Companies",
+        "cards": 0,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "interactions": {},
+      "console_errors": [],
+      "failed_requests": []
+    },
+    "feed.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Feed",
+        "cards": 60,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Feed",
+        "cards": 60,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Feed",
+        "cards": 60,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Feed",
+        "cards": 60,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Feed",
+        "cards": 60,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Feed",
+        "cards": 60,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "interactions": {
+        "source_rows": 39,
+        "items": 60
+      },
+      "console_errors": [],
+      "failed_requests": []
+    },
+    "jobs.html": {
+      "390-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Jobs watch",
+        "cards": 45,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "390-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 17,
+        "overflow": false,
+        "scrollWidth": 390,
+        "clientWidth": 390,
+        "h1": "Jobs watch",
+        "cards": 45,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Jobs watch",
+        "cards": 45,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1024-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 21.728,
+        "overflow": false,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "h1": "Jobs watch",
+        "cards": 45,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-light": {
+        "theme": "light",
+        "bg": "rgb(255, 255, 255)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Jobs watch",
+        "cards": 45,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "1440-dark": {
+        "theme": "dark",
+        "bg": "rgb(15, 17, 21)",
+        "bodyFont": 22,
+        "overflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "h1": "Jobs watch",
+        "cards": 45,
+        "emptyBoxes": 0,
+        "smallControls": 0
+      },
+      "interactions": {
+        "india_roles": 45,
+        "all_roles": 193
+      },
+      "console_errors": [],
+      "failed_requests": []
+    }
+  },
+  "failures": []
+}

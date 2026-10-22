@@ -1,0 +1,109 @@
+{
+  "updatedAt": "2026-10-22",
+  "items": [
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "color": "#c96a3c",
+      "india": "Bengaluru office opened 16 Feb 2026, led by Irina Ghose (ex-Microsoft India MD); hiring across applied AI, engineering, sales and management. India partnerships include Karya and the Collective Intelligence Project on locally relevant evaluations (agriculture, law).",
+      "rolesIndia": ["Applied AI Engineer", "Solutions Architect, Applied AI", "Forward Deployed Engineer (watch for India windows)", "GTM and startups roles"],
+      "careersUrl": "https://www.anthropic.com/careers/jobs",
+      "loop": [
+        { "stage": "Resume screen", "note": "Extremely competitive; independent research, blog posts and OSS belong at the top of the resume." },
+        { "stage": "CodeSignal assessment (90 min)", "note": "One practical OOP problem in four cumulative levels; Python strongly preferred; test-case gaming is reportedly detected." },
+        { "stage": "Recruiter call (30 min)", "note": "Substantive and failable: why Anthropic specifically, what AI safety means to you, recent decisions you disagreed with." },
+        { "stage": "Hiring manager screen (1 h)", "note": "Past systems, architectural decisions, what you would change today." },
+        { "stage": "Virtual onsite (4–5 × 55 min)", "note": "Two coding (OOP, concurrency, incremental complexity), one system design (LLM infra), one culture (45 min, every loop), one hiring manager / project." },
+        { "stage": "Applied AI / FDE extras", "note": "Technical use-case screen with live Claude and an MCP scenario; customer-conversation simulation (reported as decisive); solution design for an enterprise customer." },
+        { "stage": "References and team matching", "note": "2–4 weeks; references are taken seriously and may be requested early." }
+      ],
+      "failsPeople": "The culture/values round. Performed agreement reads as badly as dismissiveness; they want genuine engagement including disagreement.",
+      "aiPolicy": "Draft your application yourself, then refine with Claude. Take-homes: no AI unless they say so. Live interviews: no AI unless the interviewer indicates otherwise. Prepare with Claude as much as you like.",
+      "values": ["Act for the global good", "Hold light and shade", "Be good to our users", "Ignite a race to the top on safety", "Do the simple thing that works", "Be helpful, honest and harmless", "Put the mission first"],
+      "readFirst": ["core-views", "rsp", "claude-constitution", "anthropic-company", "building-effective-agents", "anthropic-ai-guidance", "igao-anthropic-culture"],
+      "sources": ["https://igotanoffer.com/en/advice/anthropic-software-engineer-interview", "https://www.anthropic.com/candidate-ai-guidance", "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india", "https://www.aced.io/guides/anthropic-forward-deployed-engineer-interview"]
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "color": "#2f7d6d",
+      "india": "New Delhi office with Mumbai and Bengaluru planned; Prabhjeet Singh (ex-Uber India) is MD India from Sept 2026. Hiring Applied AI Engineers and Architects (Delhi, Mumbai; Technical Success org) and AI Deployment Engineers (Delhi; Startups, Bengaluru). India has 100M+ weekly ChatGPT users.",
+      "rolesIndia": ["Applied AI Engineer (Technical Success)", "Applied AI Architect", "AI Deployment Engineer (5+ yrs SWE/ML, Python and JavaScript, founder experience preferred)", "Enterprise sales and partnerships"],
+      "careersUrl": "https://openai.com/careers/search/",
+      "loop": [
+        { "stage": "Intro call (30–45 min)", "note": "Background, motivation, why OpenAI, understanding of the mission." },
+        { "stage": "Skills-based assessment", "note": "Varies by team: pair coding, take-home project or technical test (official guide). Reported: 60-min practical screen escalating through gates; some teams a ~48-hour paid take-home work trial under NDA." },
+        { "stage": "System design (60 min)", "note": "Deep probing of every decision; webhook systems, enterprise search with RBAC, rate limiters for inference, NSFW detection." },
+        { "stage": "Final loop (4–6 h, 4–6 interviewers, 1–2 days)", "note": "Coding, design, project presentation (often with slides), behavioral; sometimes a round with senior leadership." },
+        { "stage": "Role-specific", "note": "Research Engineer: transformer debugging + KV cache, information theory, distributed ops. FDE: customer scenario plus LLM deployment design. Beta agentic-coding round reported on some loops." },
+        { "stage": "Decision", "note": "About a week after finals; references may be requested. 3–8 weeks end to end." }
+      ],
+      "failsPeople": "Design deep-probing (name-dropping a technology you cannot defend) and incomplete multi-part coding under time; interviewers give few hints.",
+      "aiPolicy": "Varies by track. Assume no AI unless your recruiter says otherwise; the beta agentic-coding round provides an agent and grades how you direct and verify it.",
+      "values": ["Ensure AGI benefits all of humanity (Charter)", "Preparedness Framework for frontier risks", "Model Spec: how models should behave"],
+      "readFirst": ["openai-charter", "openai-preparedness", "openai-model-spec", "openai-docs", "openai-agents-guide", "igao-openai-behavioral"],
+      "sources": ["https://igotanoffer.com/en/advice/openai-interview-questions", "https://www.aced.io/guides/openai-research-engineer-interview-guide", "https://analyticsindiamag.com/ai-news/openai-is-hiring-ai-engineers-in-delhi-mumbai", "https://analyticsindiamag.com/ai-news/openai-is-hiring-in-bengaluru"]
+    },
+    {
+      "id": "google",
+      "name": "Google and Google DeepMind",
+      "color": "#3b6fd1",
+      "india": "Large Bengaluru and Hyderabad engineering presence; ML Engineer, AI Engineer and Google Cloud AI roles post regularly. DeepMind Research Engineer roles are mostly London and Mountain View with a small Bengaluru footprint.",
+      "rolesIndia": ["Machine Learning Engineer", "AI Engineer / GenAI Engineer (Cloud)", "Customer Engineer, AI (Cloud)", "Research Engineer (DeepMind, limited)"],
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results?q=%22machine%20learning%22%20OR%20%22AI%20engineer%22&location=India",
+      "loop": [
+        { "stage": "Hiring assessment and recruiter screen", "note": "Behavioral-style assessment, then a 30-minute recruiter call." },
+        { "stage": "Technical screens (1–2 × 45–60 min)", "note": "DSA in a Google Doc with no IDE; graphs and trees dominate." },
+        { "stage": "Onsite (~5 × 45 min)", "note": "1–2 coding, ML domain, ML system design, behavioral (Googleyness and leadership). Some loops are one coding round plus an AI/ML deep dive." },
+        { "stage": "Hiring committee and team matching", "note": "Feedback packet reviewed by a committee; team matching can take weeks." },
+        { "stage": "DeepMind RE", "note": "Separate process: two coding rounds (code must run), gated ML 'quiz' with derivations, ML design, team-lead and culture finals; AI assistants limited in technical rounds." },
+        { "stage": "AI-assisted coding (new)", "note": "Some Google loops now include reading, debugging and optimizing real code with Gemini available; graded on prompting, validation and debugging." }
+      ],
+      "failsPeople": "DeepMind ML design and the fundamentals quiz (intuition and derivations, not definitions); Googleyness is scored in every round.",
+      "aiPolicy": "No AI in standard rounds; a separate AI-assisted format exists where Gemini is provided.",
+      "values": ["Googleyness: comfort with ambiguity, bias to action, collaboration", "Emergent leadership", "DeepMind: responsible path to AGI"],
+      "readFirst": ["google-how-we-hire", "ml-sd-interview-book", "goodfellow-dl", "deepmind-agi-safety", "google-agents-whitepaper"],
+      "sources": ["https://igotanoffer.com/blogs/tech/google-machine-learning-engineer-interview", "https://igotanoffer.com/en/advice/google-deepmind-research-engineer-interview", "https://tryexponent.com/blog/google-ai-coding-interview/"]
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "color": "#6b5bd2",
+      "india": "Hyderabad (IDC) and Bengaluru host AI engineering, Applied Scientist and Azure AI roles across CoreAI, Foundry, M365 Copilot and platform teams.",
+      "rolesIndia": ["Software Engineer / Senior SWE (AI teams)", "AI Engineer", "Applied Scientist / Senior Applied Scientist", "Technical Specialist / Cloud Solution Architect (AI)"],
+      "careersUrl": "https://jobs.careers.microsoft.com/global/en/search?q=AI&lc=India",
+      "loop": [
+        { "stage": "Recruiter and hiring-manager screens", "note": "Background, competencies, team fit; AS recruiter screens include team-specific technical questions." },
+        { "stage": "AS technical phone screen (30 min)", "note": "~15 min ML-grounded coding (k-means, bag-of-words, top-n words), 5 min on your CV, 5–10 min fundamentals." },
+        { "stage": "Virtual onsite (4–5 rounds on Teams)", "note": "SWE/AI: 2–3 DSA rounds (sometimes hard), one design (AI/LLM for AI teams), behavioral woven in. AS: hiring manager + two design rounds, each half technical, half behavioral; optional extra coding round." },
+        { "stage": "AI fluency round", "note": "Prompting vs RAG vs fine-tuning, evals, production tradeoffs on the Copilot/Foundry stack." },
+        { "stage": "Debrief and offer", "note": "A senior IC or manager consolidates feedback and makes the leveling call; days to weeks." }
+      ],
+      "failsPeople": "Behavioral is about half of every AS round; shallow growth-mindset answers and surface-level ML explanations get probed until gaps show.",
+      "aiPolicy": "Some Microsoft loops use an AI-assisted coding format with approved tools; otherwise standard no-AI rounds.",
+      "values": ["Growth mindset: learn-it-all over know-it-all", "Customer obsession", "Collaboration, drive for results, influencing for impact, judgment, adaptability"],
+      "readFirst": ["azure-ai-foundry", "chip-dmls", "statquest", "ml-sd-interview-book"],
+      "sources": ["https://www.aced.io/guides/microsoft-applied-scientist-as-interview", "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/main/14-company-interview-questions/microsoft.md", "https://www.datainterview.com/blog/microsoft-ai-engineer-interview"]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon (AWS and AGI)",
+      "color": "#c9871f",
+      "india": "Bengaluru, Hyderabad, Chennai and Delhi host AWS AI (Bedrock, SageMaker, Q), retail ML and Applied Science teams. As a current Amazonian, internal transfer into a Bedrock/GenAI SA or applied role is the roadmap's bridge.",
+      "rolesIndia": ["SDE on Bedrock / SageMaker / Q teams", "Applied Scientist", "Machine Learning Engineer", "Solutions Architect / Prototyping Architect (GenAI)", "Research Scientist (AGI, limited)"],
+      "careersUrl": "https://www.amazon.jobs/en/search?base_query=generative+AI&loc_query=India",
+      "loop": [
+        { "stage": "Online assessment (SDE/MLE) or technical phone screens (AS)", "note": "AS: 1–2 × 60 min with a senior leader, behavioral plus technical (official)." },
+        { "stage": "Loop (4–6 × 55–60 min)", "note": "Coding (classic DSA), ML breadth, ML depth, ML system design, science application or tech talk, behavioral LPs in every round." },
+        { "stage": "Bar Raiser", "note": "An interviewer from outside the team with veto power; the hardest LP probing." },
+        { "stage": "Debrief and offer", "note": "Interviewers vote; the Bar Raiser must agree; team matching on level and location can be slower than the loop." },
+        { "stage": "AGI org", "note": "Science-style loops with heavy modern-LLM content (training techniques, perplexity and preference evals, data quality) and fewer behavioral questions." }
+      ],
+      "failsPeople": "Weak Leadership Principle stories; technically strong candidates fail on LPs. Design answers that ignore multi-tenancy, throttling and operational excellence.",
+      "aiPolicy": "Standard no-AI rounds; a guardrailed-assistant debugging format has been described as representative.",
+      "values": ["16 Leadership Principles, 2–3 assigned per interviewer", "Dive Deep as a technical signal", "Frugality applied to GPUs: cost per token"],
+      "readFirst": ["amazon-lps", "amazon-as-prep", "amazon-interviewing", "bedrock-docs", "chip-dmls"],
+      "sources": ["https://amazon.jobs/content/en/how-we-hire/applied-scientist-interview-prep", "https://igotanoffer.com/blogs/tech/amazon-machine-learning-engineer-interview", "https://igotanoffer.com/en/advice/amazon-applied-scientist-interview", "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/main/14-company-interview-questions/amazon.md"]
+    }
+  ]
+}

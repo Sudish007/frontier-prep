@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Practice · Frontier Prep</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+<script type="module" src="assets/pages/practice.js"></script>
+</head>
+<body>
+<main class="page" id="main">
+  <section class="hero">
+    <h1>Practice</h1>
+    <p class="lede">Draw one of the twelve coding shapes every lab keeps asking, run it as a four-stage problem under the clock, then log the session. The checkpoints on the Roadmap read this log.</p>
+  </section>
+
+  <section class="panel" aria-labelledby="drill-h">
+    <h2 id="drill-h" style="margin-top:0">Drill</h2>
+    <div class="toolbar">
+      <label>Kind
+        <select id="drill-kind">
+          <option value="coding">Coding shape (12)</option>
+          <option value="question">Question from the bank</option>
+          <option value="design">System design prompt</option>
+          <option value="values">Values / behavioral prompt</option>
+        </select>
+      </label>
+      <label>Company
+        <select id="drill-company">
+          <option value="">Any</option>
+          <option value="anthropic">Anthropic</option>
+          <option value="openai">OpenAI</option>
+          <option value="google">Google / DeepMind</option>
+          <option value="microsoft">Microsoft</option>
+          <option value="amazon">Amazon</option>
+        </select>
+      </label>
+      <label>Minutes <input id="drill-minutes" type="number" min="5" max="240" value="60"></label>
+      <button type="button" class="primary" id="draw">Draw (d)</button>
+    </div>
+    <div id="prompt" class="callout" aria-live="polite"><p class="muted" style="margin:0">Press Draw to get a prompt.</p></div>
+    <div style="display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin-top:1rem">
+      <div class="timer" id="timer" aria-live="off">60:00</div>
+      <div style="display:flex;gap:0.5rem;flex-wrap:wrap">
+        <button type="button" id="start">Start (space)</button>
+        <button type="button" id="pause">Pause</button>
+        <button type="button" id="resetTimer">Reset</button>
+      </div>
+    </div>
+    <h3>Log this session</h3>
+    <div class="toolbar">
+      <label>Outcome
+        <select id="log-outcome">
+          <option value="complete">Finished all stages</option>
+          <option value="partial">Finished some stages</option>
+          <option value="stuck">Got stuck</option>
+        </select>
+      </label>
+      <label class="grow">Notes (what stalled you, what to review) <input id="log-notes" type="text" placeholder="e.g. lost 10 min on TTL expiry edge case"></label>
+      <button type="button" class="primary" id="log">Log coding session</button>
+    </div>
+  </section>
+
+  <section aria-labelledby="other-h">
+    <h2 id="other-h">Log other work</h2>
+    <p class="muted">Designs, mock loops, informational chats and merged PRs count toward the checkpoints too.</p>
+    <div class="toolbar">
+      <label>Kind
+        <select id="other-kind">
+          <option value="design">System design written + critiqued</option>
+          <option value="mock">Mock interview / loop</option>
+          <option value="chat">Informational conversation</option>
+          <option value="pr">Merged open-source PR</option>
+          <option value="reading">Primary-source reading with notes</option>
+          <option value="project">Flagship project session</option>
+        </select>
+      </label>
+      <label class="grow">What <input id="other-notes" type="text" placeholder="e.g. Designed batched inference API; mock with R."></label>
+      <button type="button" id="other-log">Log</button>
+    </div>
+  </section>
+
+  <section aria-labelledby="totals-h">
+    <h2 id="totals-h">Totals against the next checkpoint</h2>
+    <div class="grid" id="totals"></div>
+  </section>
+
+  <section aria-labelledby="history-h">
+    <h2 id="history-h">History</h2>
+    <div class="table-wrap" id="history"></div>
+  </section>
+
+  <section aria-labelledby="shapes-h">
+    <h2 id="shapes-h">The twelve shapes</h2>
+    <div class="grid" id="shapes"></div>
+  </section>
+</main>
+</body>
+</html>

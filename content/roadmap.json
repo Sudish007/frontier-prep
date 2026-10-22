@@ -1,0 +1,161 @@
+{
+  "updatedAt": "2026-10-22",
+  "owner": "Sudish Kumar",
+  "start": "2026-10-22",
+  "horizon": "12 months to a real loop; 24–36 months for the research-engineering stretch path",
+  "positioning": "I build production LLM systems and measure whether they work.",
+  "weeklyHours": 13,
+  "targets": {
+    "tier1": [
+      { "company": "anthropic", "role": "Applied AI Engineer / Solutions Architect (Bengaluru)", "why": "Builds on Claude with customer engineering teams; your agent and eval background is directly relevant." },
+      { "company": "anthropic", "role": "Forward Deployed Engineer (when an India window opens)", "why": "Same skills; the FDE function launched inside Applied AI in late 2025 and is expanding regionally." },
+      { "company": "anthropic", "role": "Eval-adjacent roles tied to India (Karya / Collective Intelligence Project evaluations)", "why": "Your day job is benchmarking; your Bhojpuri and Telugu apps show Indic-language depth." },
+      { "company": "openai", "role": "Applied AI Engineer (Delhi / Mumbai, Technical Success)", "why": "Explicitly wants eval systems, integrations and production judgment." },
+      { "company": "openai", "role": "AI Deployment Engineer (Delhi; Startups, Bengaluru)", "why": "Founder-style builders preferred; the 5-year bar is the hurdle, KaatDo is your founder story." }
+    ],
+    "tier2": [
+      { "company": "anthropic", "role": "Software Engineer (product/platform), Safeguards or Trust & Safety engineering" },
+      { "company": "openai", "role": "Software Engineer, Human Data or Evals engineering" },
+      { "company": "amazon", "role": "AWS Bedrock / GenAI Solutions Architect or applied role (internal mobility bridge)" },
+      { "company": "microsoft", "role": "AI Engineer or Applied Scientist (Hyderabad / Bengaluru)" },
+      { "company": "google", "role": "ML Engineer / AI Engineer (India)" }
+    ],
+    "tier3": [
+      { "company": "anthropic", "role": "Research Engineer / MTS (public research-engineering evidence required)" },
+      { "company": "openai", "role": "Research Engineer" },
+      { "company": "google", "role": "DeepMind Research Engineer (London / MTV, relocation)" }
+    ]
+  },
+  "gaps": [
+    { "dimension": "Title and track record", "now": "'Associate' and 'Specialist' titles read as data/benchmarking ops to a recruiter", "bar": "Software or ML engineer who has owned production systems", "move": "Lead the resume with KaatDo and Ahead as engineering work with reliability numbers; reframe benchmarking as eval engineering" },
+    { "dimension": "Years of experience", "now": "~3 years in AI roles plus side businesses", "bar": "5+ years for OpenAI deployment roles; Anthropic applied roles are senior-leaning", "move": "Count KaatDo as founder experience, truthfully; keep the stepping-stone option open" },
+    { "dimension": "Coding under pressure", "now": "Strong at shipping; untested in 60-minute practical rounds", "bar": "Build-and-extend problems with heavy follow-ups, clean code, tests", "move": "40+ timed practice sessions logged on the Practice page" },
+    { "dimension": "LLM systems design", "now": "Have built RAG and agents; no written designs", "bar": "Design the infra that serves and evaluates LLMs with cost and latency tradeoffs", "move": "10 written designs plus mocks" },
+    { "dimension": "Customer conversation", "now": "Have sold to clinics and traders; never simulated at lab level", "bar": "Decisive round for Applied AI / FDE loops", "move": "6+ recorded mock discovery calls" },
+    { "dimension": "Mission and values", "now": "Interested; not yet articulated", "bar": "Nuanced, genuine views on safety, where you disagree, what you'd refuse", "move": "Read the primary sources in the Safety pillar; write your position" },
+    { "dimension": "Public signal", "now": "447 contributions, 42 active days in 12 months; sprawling toolkit list", "bar": "Sustained building, a few deep repos, writing with measurements", "move": "4+ active days per week; trim the toolkit to what survives a ten-minute deep dive" }
+  ],
+  "phases": [
+    {
+      "id": "p0",
+      "name": "Phase 0 · Positioning",
+      "from": "2026-10-22",
+      "to": "2026-11-15",
+      "goal": "Make the profile read as engineering, pick the flagship, measure the baseline.",
+      "tasks": [
+        { "id": "p0-headline", "text": "Rewrite headline and resume around one story: production LLM systems, measured. Drop the six-role wishlist." },
+        { "id": "p0-resume-top", "text": "Resume top third: KaatDo (uptime, cancel latency, broker failure handling, users) and Ahead (sources, dedup rate, brief quality metric)." },
+        { "id": "p0-benchmark-bullets", "text": "Benchmarking job bullets: how many models, which metrics you designed, which decisions changed because of your evals." },
+        { "id": "p0-toolkit", "text": "Cut the toolkit to what survives a ten-minute deep dive; everything else off or marked familiar." },
+        { "id": "p0-flagship-doc", "text": "Write the one-page design doc for the flagship project (India-domain eval suite)." },
+        { "id": "p0-baseline", "text": "Do two 60-minute timed practical problems cold, recorded; note where you stall." },
+        { "id": "p0-github-cadence", "text": "Start the 4+ active GitHub days per week habit." }
+      ]
+    },
+    {
+      "id": "p1",
+      "name": "Phase 1 · Fundamentals and signal",
+      "from": "2026-11-16",
+      "to": "2027-01-31",
+      "goal": "Coding fluency, written designs, the four reference implementations, flagship v1, first merged PRs.",
+      "tasks": [
+        { "id": "p1-coding", "text": "3 timed practical coding sessions per week (Practice page), Python first, TypeScript second." },
+        { "id": "p1-design", "text": "1 written LLM-infra design per week, 45 minutes, then a 20-minute self-critique." },
+        { "id": "p1-ref-agent", "text": "Reference implementation 1: tool-calling agent loop with structured outputs, retries, token/cost budget and a trace viewer, on both Claude and OpenAI APIs." },
+        { "id": "p1-ref-mcp", "text": "Reference implementation 2: an MCP server over something real (KaatDo broker abstraction or Ahead source registry) plus a client." },
+        { "id": "p1-ref-eval", "text": "Reference implementation 3: eval harness with 200+ cases, three grader types, bootstrap confidence intervals, a regression gate." },
+        { "id": "p1-ref-cost", "text": "Reference implementation 4: prompt-caching and batch cost study on Ahead's daily brief." },
+        { "id": "p1-flagship-v1", "text": "Flagship v1 live by 31 Jan with a public write-up." },
+        { "id": "p1-oss-2", "text": "Two merged PRs (docs, tests, small fixes) in a lab-adjacent repo." },
+        { "id": "p1-values-reading", "text": "One values primary source per week with half a page of your own notes, disagreements included." },
+        { "id": "p1-claude-code-week", "text": "Use Claude Code seriously for a week on a real project; write down where the harness helped and where it fell over." }
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Phase 2 · Depth, network, first applications",
+      "from": "2027-02-01",
+      "to": "2027-04-30",
+      "goal": "Mock loops, flagship v2 with published evals, five informational conversations, first applications.",
+      "tasks": [
+        { "id": "p2-mocks", "text": "Two full mock loops per month (coding, design, customer conversation, values), recorded and reviewed." },
+        { "id": "p2-flagship-v2", "text": "Flagship v2: evals published with methodology, costs and failure analysis; the artifact linked in every application." },
+        { "id": "p2-network", "text": "Five informational conversations with ICs at Anthropic / OpenAI India; share flagship findings, no asks in the first conversation." },
+        { "id": "p2-apply", "text": "Apply to Tier 1 roles once flagship v2 is live; one lab first, the other 3–4 weeks later." },
+        { "id": "p2-oss-5", "text": "Five merged PRs total, at least one non-trivial (a feature or a real bug with a test)." },
+        { "id": "p2-why-anthropic", "text": "Write the 'Why Anthropic' and 'Why OpenAI' answers yourself; refine with Claude afterwards, per Anthropic's policy." },
+        { "id": "p2-takehomes", "text": "Two self-timed 4-hour builds, no AI, README written in the last 20 minutes." }
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Phase 3 · Loops and iteration",
+      "from": "2027-05-01",
+      "to": "2027-10-31",
+      "goal": "Run the loops, post-mortem each round the same day, keep shipping monthly.",
+      "tasks": [
+        { "id": "p3-loops", "text": "Complete at least two real loops." },
+        { "id": "p3-postmortems", "text": "Write a post-mortem the same day after every rejected round; adjust the practice mix." },
+        { "id": "p3-monthly-release", "text": "One flagship release and one write-up per month." },
+        { "id": "p3-decision", "text": "1 Sep 2027 decision checkpoint: offer, re-apply window, or stepping-stone move." }
+      ]
+    },
+    {
+      "id": "stretch",
+      "name": "Stretch · Research engineering path (2028+)",
+      "from": "2028-01-01",
+      "to": "2029-12-31",
+      "goal": "Public research-engineering evidence, then Research Engineer applications with relocation.",
+      "tasks": [
+        { "id": "st-repro", "text": "Reproduce one alignment or eval paper end to end at small scale; publish code and results." },
+        { "id": "st-infra", "text": "Sustained infrastructure contributions to Inspect or lm-evaluation-harness." },
+        { "id": "st-apply", "text": "Apply to Research Engineer roles with a body of public work." }
+      ]
+    }
+  ],
+  "checkpoints": [
+    { "id": "c1", "date": "2026-11-15", "must": "Resume rewritten; flagship design doc done; baseline recorded.", "ifNot": "Nothing else starts until this is done.", "metrics": { "sessions": 2 } },
+    { "id": "c2", "date": "2027-01-31", "must": "35+ timed coding sessions; 10 designs; flagship v1 live with write-up; 2 merged PRs; 4+ GitHub-active days per week.", "ifNot": "Cut scope on the flagship, keep the coding cadence.", "metrics": { "sessions": 35, "designs": 10, "prs": 2 } },
+    { "id": "c3", "date": "2027-04-30", "must": "Flagship v2 with published evals; 5 merged PRs; 6 mock loops; 5 informational chats; first applications in.", "ifNot": "Delay applications by one month, not more.", "metrics": { "sessions": 70, "designs": 22, "prs": 5, "mocks": 6, "chats": 5 } },
+    { "id": "c4", "date": "2027-09-01", "must": "At least two real loops completed.", "ifNot": "Decide the stepping stone: founding/forward-deployed engineer at an AI-native startup, a GSI's Anthropic/OpenAI practice, or an AWS Bedrock applied/SA role, for 12–18 months; then re-run Phases 2–3.", "metrics": { "sessions": 110, "designs": 35, "prs": 6, "mocks": 12, "chats": 10 } }
+  ],
+  "week": [
+    { "day": "Mon", "hours": 1.5, "block": "Timed practical coding + 15-minute review" },
+    { "day": "Tue", "hours": 1.5, "block": "Flagship project" },
+    { "day": "Wed", "hours": 1.5, "block": "Timed practical coding" },
+    { "day": "Thu", "hours": 1.5, "block": "System design doc or mock" },
+    { "day": "Fri", "hours": 1, "block": "Primary-source reading, write notes" },
+    { "day": "Sat", "hours": 3, "block": "Flagship project / open-source PR (protect this block)" },
+    { "day": "Sun", "hours": 2, "block": "Timed practical coding, write-up, plan next week" },
+    { "day": "Any", "hours": 1, "block": "Networking: one substantive message or conversation" }
+  ],
+  "pillars": [
+    { "id": "coding", "name": "Practical coding", "plan": "Rotate the twelve shapes as 4-stage problems under a 60–90 minute timer, Python, tests included. Once a week do a fix-the-broken-codebase or refactor-this-file format.", "resources": ["codesignal", "realpython-asyncio", "py-threading-docs", "neetcode", "hello-interview", "fluent-python", "ts-handbook"] },
+    { "id": "design", "name": "System design", "plan": "Alternate LLM-infra prompts with enterprise-deployment prompts; one-page design, then defend it in a mock.", "resources": ["hi-sdiah", "kipply-inference", "eugene-llm-patterns", "alirezadir-ml-interviews", "ml-sd-interview-book", "ddia", "vllm-docs", "anyscale-cb"] },
+    { "id": "apps", "name": "LLM implementation", "plan": "Build the four reference implementations on both APIs; know the docs cold; one week of serious Claude Code use.", "resources": ["claude-docs", "claude-prompting", "anthropic-courses", "anthropic-cookbook", "building-effective-agents", "writing-tools-for-agents", "context-engineering", "mcp-docs", "openai-docs", "openai-agents-sdk", "simonw-prompt-injection", "bedrock-docs"] },
+    { "id": "evals", "name": "Evaluation", "plan": "Eval-driven development on the flagship: golden set, rubric graders, LLM judge calibrated against human labels, regression gate, confidence intervals.", "resources": ["hamel-evals", "hamel-evals-faq", "anthropic-eval-stats", "inspect-ai", "eugene-evals", "langfuse"] },
+    { "id": "ml", "name": "ML fundamentals", "plan": "The Amazon breadth list plus the DeepMind quiz is the union of what Google, Microsoft and Amazon ask. Flashcard it; derive, don't recite.", "resources": ["3b1b-nn", "statquest", "cs229", "ng-dl-spec", "d2l", "mackay-itila"] },
+    { "id": "llm", "name": "LLM internals", "plan": "Zero to Hero end to end, then attention from scratch in PyTorch, then the inference arithmetic.", "resources": ["karpathy-z2h", "karpathy-deepdive", "illustrated-transformer", "raschka-llms", "rlhf-book", "eleuther-transformer-math", "cs336"] },
+    { "id": "safety", "name": "Values and safety", "plan": "Read the primary sources and write your position in plain language, including disagreements, for both labs.", "resources": ["core-views", "rsp", "claude-constitution", "anthropic-company", "alignment-faking", "openai-charter", "openai-preparedness", "openai-model-spec", "machines-of-loving-grace", "bluedot"] },
+    { "id": "behavioral", "name": "Behavioral and customer", "plan": "8–10 quantified STAR stories mapped to Amazon LPs and Microsoft competencies; six recorded discovery-call mocks; two project deep dives (KaatDo, Ahead) with diagrams.", "resources": ["amazon-lps", "igao-anthropic-culture", "mom-test", "exponent-fde-guide", "aced-anthropic-fde", "tih-behavioral", "exponent-practice"] }
+  ],
+  "flagship": [
+    { "id": "indic-evals", "name": "A. India-domain LLM evaluation suite (primary)", "text": "An open-source eval harness for Indian-language and India-domain tasks (Hindi, Bhojpuri, Telugu; agriculture, law, healthcare workflows you know from the clinic apps). Run Claude, GPT and open models; publish a leaderboard with methodology, confidence intervals, cost per task and failure analysis; build on Inspect so others can run it. Converts your benchmarking day job into public evidence and lines up with Anthropic's India eval work.", "resources": ["inspect-ai", "ai4bharat", "milu", "indic-gen-bench", "hf-hub", "anthropic-eval-stats"] },
+    { "id": "prod-agent", "name": "B. Production agent with MCP, evals and observability", "text": "Turn a piece of KaatDo or Ahead into an agent with an MCP server, tracing, cost controls, eval-gated releases and a written incident post-mortem. The FDE/Applied AI portfolio piece: a customer-shaped system, not a demo.", "resources": ["mcp-docs", "mcp-servers", "claude-agent-sdk", "openai-agents-sdk", "langfuse", "building-effective-agents"] },
+    { "id": "hoshlab", "name": "C. Finish Hoshlab", "text": "Write it up as a case study with measured outcomes: drafts accepted vs rejected, QA catch rate, cost per post. Finishing things is itself a signal.", "resources": ["hamel-evals", "context-engineering"] }
+  ],
+  "shapes": [
+    { "id": "kv-store", "name": "In-memory KV store", "stages": ["SET/GET/DELETE", "prefix or filtered scans", "TTL with timestamps", "snapshots, backup/restore or disk persistence in shards"] },
+    { "id": "bank", "name": "Banking ledger", "stages": ["create account, deposit, withdraw", "transfers with validation", "rank accounts by transaction volume", "scheduled payments and cancellation"] },
+    { "id": "scheduler", "name": "Scheduler with credits or dependencies", "stages": ["submit and run jobs", "dependencies and ordering", "credits/quotas, queue or reject", "preemption, retries and cancellation"] },
+    { "id": "rate-limiter", "name": "Rate limiter", "stages": ["fixed window per key", "token bucket with bursts", "sliding window, per-tenant limits", "distributed across instances"] },
+    { "id": "cache", "name": "LRU / file cache with constraints", "stages": ["get/put LRU", "TTL expiry", "size limits in bytes and eviction policy", "thread safety and metrics"] },
+    { "id": "crawler", "name": "Web crawler", "stages": ["serial crawl within a domain", "dedupe and count by domain", "concurrency with a worker pool", "rate limiting, retries and failure handling"] },
+    { "id": "iterator", "name": "Stateful iterator", "stages": ["iterate a range (e.g. IPs)", "skip and peek", "pause/resume with serialized state", "reset and composition"] },
+    { "id": "serializer", "name": "Serializer / deserializer", "stages": ["encode keys and values with arbitrary characters", "round-trip tests", "nested structures and versioning", "store and restore full system state"] },
+    { "id": "spreadsheet", "name": "Spreadsheet with formulas", "stages": ["getCell/setCell", "formulas referencing cells", "dependency tracking and recomputation", "cycle detection"] },
+    { "id": "path", "name": "Path resolution (cd) with symlinks", "stages": [". and .. handling", "absolute vs relative", "symlink resolution", "cycle detection and limits"] },
+    { "id": "trace", "name": "Call stacks to execution trace", "stages": ["parse sampled stacks", "emit start/end events", "handle recursion and interleaving", "aggregate durations per function"] },
+    { "id": "top-k", "name": "Top-k frequent items", "stages": ["batch count and heap", "ties and ordering", "sliding window over a stream", "bounded memory across machines"] }
+  ]
+}

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Feed · Frontier Prep</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+<script type="module" src="assets/pages/feed.js"></script>
+</head>
+<body>
+<main class="page" id="main">
+  <section class="hero">
+    <h1>Feed</h1>
+    <p class="lede">Lab blogs, research posts, papers, YouTube channels, interview-process trackers and SDK releases that matter for these roles, refreshed every six hours. <span id="generated" class="muted"></span></p>
+  </section>
+  <div class="toolbar">
+    <label class="grow">Search <input id="q" type="search" placeholder="agents, evals, Bengaluru…"></label>
+    <label>Topic <select id="topic"><option value="">All</option></select></label>
+    <label>Kind <select id="kind"><option value="">All</option></select></label>
+    <label>Source <select id="source"><option value="">All</option></select></label>
+    <label>Show <select id="read"><option value="">All</option><option value="unread">Unread</option><option value="saved">Saved</option></select></label>
+  </div>
+  <p class="count" id="count"></p>
+  <div class="list" id="list"></div>
+  <p><button type="button" id="more" hidden>Show more</button></p>
+
+  <h2 id="sources-h">Source status</h2>
+  <p class="muted">A failed source is shown with its error class, never hidden. Sources without a feed are scraped for links and dated by first sighting.</p>
+  <div class="table-wrap" id="sources"></div>
+</main>
+</body>
+</html>

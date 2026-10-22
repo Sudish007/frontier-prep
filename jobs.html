@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jobs · Frontier Prep</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+<script type="module" src="assets/pages/jobs.js"></script>
+</head>
+<body>
+<main class="page" id="main">
+  <section class="hero">
+    <h1>Jobs watch</h1>
+    <p class="lede">Open roles matching the AI/ML title filter on Anthropic's, OpenAI's, Amazon's and Microsoft's public job APIs, refreshed every six hours. Google has no public endpoint, so it is a manual check. <span id="generated" class="muted"></span></p>
+  </section>
+  <div class="toolbar">
+    <label class="grow">Search <input id="q" type="search" placeholder="applied ai, deployment, bengaluru…"></label>
+    <label>Company <select id="company"><option value="">All</option></select></label>
+    <label>Location <select id="loc"><option value="india">India</option><option value="remote">Remote</option><option value="india-remote">India or remote</option><option value="">Anywhere</option></select></label>
+    <label>Show <select id="seen"><option value="">All</option><option value="new">New since last visit</option><option value="saved">Saved</option></select></label>
+  </div>
+  <p class="count" id="count"></p>
+  <div class="list" id="list"></div>
+
+  <h2>Boards</h2>
+  <div class="table-wrap" id="boards"></div>
+</main>
+</body>
+</html>

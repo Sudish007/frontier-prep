@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Resources · Frontier Prep</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+<script type="module" src="assets/pages/resources.js"></script>
+</head>
+<body>
+<main class="page" id="main">
+  <section class="hero">
+    <h1>Resource library</h1>
+    <p class="lede">Courses, videos, books, papers, docs, practice sites, communities and tools, each with why it matters for which company and round. Priority 1 is what to do first. Mark items done; progress feeds the Roadmap.</p>
+    <div class="segmented" role="group" aria-label="View">
+      <button type="button" data-view="library" aria-pressed="true">Curated library</button>
+      <button type="button" data-view="discovered" aria-pressed="false">Auto-discovered <span class="count" id="disc-count"></span></button>
+    </div>
+  </section>
+
+  <section id="library">
+    <div class="toolbar">
+      <label class="grow">Search <input id="q" type="search" placeholder="karpathy, evals, MCP, Bedrock…"></label>
+      <label>Pillar <select id="pillar"><option value="">All</option></select></label>
+      <label>Kind <select id="kind"><option value="">All</option></select></label>
+      <label>Cost <select id="cost"><option value="">All</option><option value="free">Free</option><option value="freemium">Freemium</option><option value="paid">Paid</option></select></label>
+      <label>Level <select id="level"><option value="">All</option><option value="beginner">Beginner</option><option value="intermediate">Intermediate</option><option value="advanced">Advanced</option></select></label>
+      <label>Company <select id="company"><option value="">All</option><option value="anthropic">Anthropic</option><option value="openai">OpenAI</option><option value="google">Google / DeepMind</option><option value="microsoft">Microsoft</option><option value="amazon">Amazon</option></select></label>
+      <label>Priority <select id="priority"><option value="">All</option><option value="1">1 · do first</option><option value="2">2</option><option value="3">3</option></select></label>
+      <label>Show <select id="done"><option value="">All</option><option value="open">Not done</option><option value="done">Done</option></select></label>
+    </div>
+    <p class="count" id="count"></p>
+    <div id="pillar-blurb" class="callout" hidden></div>
+    <div class="grid" id="list"></div>
+  </section>
+
+  <section id="discovered" hidden>
+    <p class="muted">Items from the feed that look like courses, tutorials, interview write-ups or papers, found by keyword heuristics on each refresh. A match means “worth a look”, not “endorsed”. Promote the good ones into <code>content/resources.json</code>.</p>
+    <div class="toolbar">
+      <label>Kind <select id="disc-kind"><option value="">All</option><option value="course">Course</option><option value="tutorial">Tutorial</option><option value="interview">Interview</option><option value="video">Video</option><option value="paper">Paper</option></select></label>
+      <label>Show <select id="disc-hide"><option value="">All</option><option value="open">Not dismissed</option></select></label>
+    </div>
+    <div class="list" id="disc-list"></div>
+  </section>
+</main>
+</body>
+</html>

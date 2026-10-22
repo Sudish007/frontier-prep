@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Questions · Frontier Prep</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+<script type="module" src="assets/pages/questions.js"></script>
+</head>
+<body>
+<main class="page" id="main">
+  <section class="hero">
+    <h1>Question bank</h1>
+    <p class="lede">Reported interview questions from Anthropic, OpenAI, Google and DeepMind, Microsoft and Amazon AI/ML loops, with provenance. <span class="chip tag-R">R</span> reported by candidates · <span class="chip tag-O">O</span> official · <span class="chip tag-S">S</span> representative practice prompt synthesized by guide authors, not a report.</p>
+  </section>
+  <div class="toolbar">
+    <label class="grow">Search <input id="q" type="search" placeholder="rate limiter, RLHF, why Anthropic…"></label>
+    <label>Company <select id="company"><option value="">All</option><option value="anthropic">Anthropic</option><option value="openai">OpenAI</option><option value="google">Google / DeepMind</option><option value="microsoft">Microsoft</option><option value="amazon">Amazon</option><option value="all">Cross-company</option></select></label>
+    <label>Round <select id="round"><option value="">All</option></select></label>
+    <label>Provenance <select id="tag"><option value="">All</option><option value="R">Reported</option><option value="O">Official</option><option value="S">Representative</option></select></label>
+    <label>Show <select id="done"><option value="">All</option><option value="open">Not practiced</option><option value="done">Practiced</option></select></label>
+  </div>
+  <p class="count" id="count"></p>
+  <div class="list" id="list"></div>
+</main>
+</body>
+</html>
