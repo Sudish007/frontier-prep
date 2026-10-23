@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-23T04:49:24.807Z",
+  "generatedAt": "2026-10-23T11:39:27.578Z",
   "items": [
+    {
+      "id": "24a759e0d336f63e",
+      "url": "https://latent.space/p/ainews-black-october",
+      "title": "[AINews] Black October",
+      "summary": "the Cyber onslaught continues.",
+      "publishedAt": "2026-10-23T10:09:29.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "1360bd8eb5a8e67e",
       "url": "https://www.anthropic.com/research/formal-verification",
@@ -31,6 +45,20 @@
       ]
     },
     {
+      "id": "15c1f8ef7a582594",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
       "id": "95eb6975ad245049",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -57,6 +85,21 @@
       "topics": [
         "anthropic",
         "engineering"
+      ]
+    },
+    {
+      "id": "d12e8348865205fd",
+      "url": "https://www.youtube.com/shorts/RLQR5_5fJDA",
+      "title": "Messi asks ChatGPT to teach him a chess opening",
+      "summary": "Messi asked ChatGPT to teach him a chess opening that matched his style. It suggested Goat Horns. 🐐🤘 Try ChatGPT's Intelligent UI yourself: “Based on what you know about me, teach me something new. Show me step by step.\"",
+      "publishedAt": "2026-10-22T21:58:00.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
       ]
     },
     {
@@ -246,6 +289,21 @@
       ]
     },
     {
+      "id": "3fde963dbc89fdb5",
+      "url": "https://arxiv.org/abs/2610.31650",
+      "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+      "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We…",
+      "publishedAt": "2026-10-22T17:57:04.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "268e3f8b9097888c",
       "url": "https://arxiv.org/abs/2610.31636",
       "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
@@ -302,12 +360,12 @@
       ]
     },
     {
-      "id": "d636564ee5d912b3",
-      "url": "https://www.latent.space/p/modal-d",
+      "id": "a4d3526d3b30867d",
+      "url": "https://latent.space/p/modal-d",
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
       "publishedAt": "2026-10-22T17:40:57.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -457,6 +515,21 @@
       ]
     },
     {
+      "id": "fb4493d32b297bc4",
+      "url": "https://arxiv.org/abs/2610.31483",
+      "title": "Training Small Language Models for Transferable Tool Selection",
+      "summary": "As LLM agents operate over corpora of more than ten thousand tools, selecting the right tool for a complex multi-step user instruction becomes a central bottleneck. Tool descriptions cannot all fit in context, and relevance-based retrievers only rank tools without knowing which…",
+      "publishedAt": "2026-10-22T16:07:49.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "d5083253508c23ff",
       "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
       "title": "Flint-interactive: A language for creating interactive data visualizations",
@@ -570,6 +643,21 @@
       ]
     },
     {
+      "id": "f41f89fe8be7950f",
+      "url": "https://arxiv.org/abs/2610.31376",
+      "title": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action",
+      "summary": "This paper studies the problem of safe tool execution for large language model (LLM) agents under prompt injection. Using Petri nets, we formalize the execution harness between the LLM and its tools as a supervisory control problem, in which marks represent capabilities,…",
+      "publishedAt": "2026-10-22T14:48:16.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "c90d84f40236aad6",
       "url": "https://arxiv.org/abs/2610.31366",
       "title": "AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents",
@@ -609,6 +697,21 @@
       "class": "rss",
       "topics": [
         "google"
+      ]
+    },
+    {
+      "id": "3b8f7874d4a3746b",
+      "url": "https://arxiv.org/abs/2610.31325",
+      "title": "Consistent but Biased: Chair Personas Trade Noise for Bias in Multi-Agent Clinical Decisions",
+      "summary": "In clinical systems built from several large language model (LLM) agents, one agent often chairs the discussion and makes the final decision. Whether the chair's persona prompt changes that decision, or the agreement between repeated runs that some systems treat as reliability,…",
+      "publishedAt": "2026-10-22T14:16:14.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -654,12 +757,12 @@
       ]
     },
     {
-      "id": "40a420c5a611c5f5",
-      "url": "https://www.latent.space/p/moshi",
+      "id": "d15a17ff1fda8ddd",
+      "url": "https://latent.space/p/moshi",
       "title": "You are the Team — Anekha Sokhal, Moshi",
       "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
       "publishedAt": "2026-10-22T14:03:40.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -763,6 +866,21 @@
       "class": "atom",
       "topics": [
         "papers"
+      ]
+    },
+    {
+      "id": "4359aa1dc5a10cf3",
+      "url": "https://arxiv.org/abs/2610.31169",
+      "title": "SARIA: Persistence-Aware KV Caching with Coordinated DRAM--SSD Reload for LLM Agents",
+      "summary": "Multi-turn LLM agents usually reuse long context prefixes, making key value (KV) caching crucial for reducing prefill latency. SSDs provide a low-cost extension to limited DRAM capacity but introduce two key challenges. Eagerly persisting all KV cache blocks incurs substantial…",
+      "publishedAt": "2026-10-22T12:25:27.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -2838,6 +2956,21 @@
       ]
     },
     {
+      "id": "db55572b6283c254",
+      "url": "https://arxiv.org/abs/2610.31096",
+      "title": "GeoAgent: Contract-Constrained LLM Agents for Seismic Data Processing",
+      "summary": "Large language models (LLMs) can drive scientific software through function calling, but free-form tool use is fragile on long, data-dependent processing chains. Models omit arguments, invent units, feed the previous artifact into the wrong input, and report completion without a…",
+      "publishedAt": "2026-10-22T11:07:12.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "2ccb150ec039c169",
       "url": "https://arxiv.org/abs/2610.31090",
       "title": "What Pairwise Evaluation Misses: Reward Scores across Prompts",
@@ -2877,6 +3010,51 @@
       "class": "atom",
       "topics": [
         "papers"
+      ]
+    },
+    {
+      "id": "3b99bde4d53309b5",
+      "url": "https://arxiv.org/abs/2610.31014",
+      "title": "CARL: Chat Assisted Reinforcement Learning",
+      "summary": "Failure of applied Reinforcement Learning (RL) to solve a given problem predominantly stems from unaddressed specification gaps, where the intent of human experts in the problem's domain is inaccurately or incompletely translated by AI into mathematical objectives, constraints,…",
+      "publishedAt": "2026-10-22T09:48:43.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "5e8916f0ac6ab4c8",
+      "url": "https://arxiv.org/abs/2610.31013",
+      "title": "Multi-Tool Selection for Robotic Systems: Comparing Semantic Retrieval and LLM",
+      "summary": "Natural-language interfaces allow users to command robotic systems without interacting directly with mission planners or robotics middleware. Their reliable use depends on robot tool routing, defined here as the selection of the smallest complete subset of predefined executable…",
+      "publishedAt": "2026-10-22T09:48:18.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "96fd37cdd692677b",
+      "url": "https://arxiv.org/abs/2610.31003",
+      "title": "Agri-SCHOLAR: Simulation-Grounded In-Season Rolling Advisories for Agricultural Crops Using LLM-Bounded Optimization",
+      "summary": "Existing agricultural advisories to farmers suffer from several limitations: (a) remain largely expert-driven, (b) do not adequately account for in-season weather, and (c) do not scale to individual farms. In this paper, our objective is to close these gaps by developing…",
+      "publishedAt": "2026-10-22T09:43:19.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -2922,6 +3100,21 @@
       ]
     },
     {
+      "id": "b4df059e827f3a2c",
+      "url": "https://arxiv.org/abs/2610.30933",
+      "title": "ReflectPO: Reflection-Guided Policy Optimization for Long-Horizon LLM Agents",
+      "summary": "With external tools, large language models (LLMs) can tackle complex tasks through sustained environmental interaction. LLM-based agents are therefore increasingly used to tackle complex long-horizon tasks in real-world environments. However, these tasks involve sequential,…",
+      "publishedAt": "2026-10-22T08:54:24.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "5d118fadbe793ddd",
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "title": "Ensemble forecasting with IBM Granite time-series models",
@@ -2936,16 +3129,61 @@
       ]
     },
     {
-      "id": "4e2ec0dca813afc7",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "id": "77ee642a843bbee0",
+      "url": "https://arxiv.org/abs/2610.30867",
+      "title": "Separate Field Scoring Protects Unused Tools When Agents Pool Tool-Use Experience",
+      "summary": "Agents that call tools from a shared catalog can pool what they learn about which tool serves which request. We measure what pooled usage examples do to tool retrieval, reporting separately the held-out tools, for which no agent has usage, and all other tools. Adding usage…",
+      "publishedAt": "2026-10-22T07:45:24.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "dc028fea27bbb478",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program",
       "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
       "summary": "The Big Hardening begins",
       "publishedAt": "2026-10-22T07:42:44.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
       "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "5c53aafd621848da",
+      "url": "https://arxiv.org/abs/2610.30791",
+      "title": "Gandalf: Flash Shall Not Die! Increasing Flash Storage Lifetime for KV Cache Offloading in LLM Serving",
+      "summary": "KV caching reduces the serving cost of large language models (LLMs), but the growing KV cache footprint is increasingly exceeds GPU and host-memory capacity. Therefore, people use SSD to expand the KV cache storage capacity with high I/O bandwidth. However, in production LLM…",
+      "publishedAt": "2026-10-22T06:10:08.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "9c88d7b23ece1ed1",
+      "url": "https://arxiv.org/abs/2610.30790",
+      "title": "Agentic Knowledge-Model Co-Evolution via Consistency Regularization",
+      "summary": "LLM agents can evolve by learning from accumulated experience. Existing approaches extract reusable external knowledge, such as skills and memories, from experience to guide subsequent task solving, with some further internalizing this knowledge through model training. However,…",
+      "publishedAt": "2026-10-22T06:09:10.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
         "engineering"
       ]
     },
@@ -2964,6 +3202,51 @@
       ]
     },
     {
+      "id": "3ab3025a16ca2b13",
+      "url": "https://arxiv.org/abs/2610.30769",
+      "title": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
+      "summary": "Large language models (LLMs) increasingly operate in multi-agent systems where they collaborate by responding to others' choices, creating endogenous feedback loops with vulnerability to social influence, herding behavior and runaway cascades. Following the design of the classic…",
+      "publishedAt": "2026-10-22T05:42:55.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "52d618005f0fee2c",
+      "url": "https://arxiv.org/abs/2610.30760",
+      "title": "AgentDP: Towards Automated Model Deployment for Heterogeneous Embedded AI Applications",
+      "summary": "This paper presents AgentDP, which aims to deploy pre-trained AI models on heterogeneous embedded devices by fully automating model optimization and adaptation (O&A) with Large Language Model (LLM) agents. AgentDP not only significantly reduces human effort via automation but…",
+      "publishedAt": "2026-10-22T05:29:35.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "00d2d33c4a5b9689",
+      "url": "https://arxiv.org/abs/2610.30738",
+      "title": "AgentTriage: Replayable Security Diagnosis Across Heterogeneous Agent Runtimes",
+      "summary": "When tool-use agents write files, execute code, or send data, their final responses do not explain the resulting security events, and heterogeneous runtimes expose the relevant evidence through incompatible interfaces. We present AgentTriage, an executable contract for…",
+      "publishedAt": "2026-10-22T05:09:44.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "831ab4bfc7768f3a",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
       "title": "v2.1.308",
@@ -2979,6 +3262,21 @@
       ]
     },
     {
+      "id": "858aaa79266573e2",
+      "url": "https://arxiv.org/abs/2610.30698",
+      "title": "Governance-State Corruption in Long-Term Memory for LLM Agents: A Cross-Model Stress Test",
+      "summary": "An LLM agent can retrieve a memory correctly yet use it incorrectly after its validity state changes. We study governance-state corruption: faults that alter which retained records enter model-visible context while stored content and tasks remain fixed. Across six providers, 731…",
+      "publishedAt": "2026-10-22T04:13:09.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "a4ee712b36dcac99",
       "url": "https://github.com/openai/openai-python/releases/tag/v3.36.1",
       "title": "v3.36.1",
@@ -2990,6 +3288,51 @@
       "class": "atom",
       "topics": [
         "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "12d1817baa9bdc23",
+      "url": "https://arxiv.org/abs/2610.30635",
+      "title": "What the Specification Did Not Say: Specification-Oracle Gaps in Test-Graded Coding-Agent Benchmarks",
+      "summary": "Coding-agent benchmarks often describe a task in natural language but grade it with tests taken from the upstream project. Passing those tests can require information the description never states: a constant's name, a module path, an exact message. We call this a…",
+      "publishedAt": "2026-10-22T02:56:44.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "c19211af82edc8c6",
+      "url": "https://arxiv.org/abs/2610.30568",
+      "title": "Beyond Better Ideas: How Human-AI Collaboration Shapes Scientific Ideas and Human Perceptions",
+      "summary": "As AI increasingly becomes a collaborator in scientific research, its impact may extend beyond improving ideas to reshaping how they are evaluated, attributed, and perceived by humans. Yet existing research has largely examined these dimensions in isolation. We present a unified…",
+      "publishedAt": "2026-10-22T00:53:21.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "b210c37e4164043a",
+      "url": "https://arxiv.org/abs/2610.30557",
+      "title": "Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core",
+      "summary": "LLM agents that act on live Web data must combine heterogeneous evidence, remember what they have done and improve from outcomes without weakening their own safeguards. We study this problem in autonomous investing, where every action is irreversible and based on untrusted Web…",
+      "publishedAt": "2026-10-22T00:22:47.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
         "engineering"
       ]
     },
@@ -3022,6 +3365,21 @@
       ]
     },
     {
+      "id": "0f14f728a35adf57",
+      "url": "https://arxiv.org/abs/2610.30533",
+      "title": "IFC-MCQ: Automatically Generating Multiple-Choice Benchmarks for Evaluating LLM Agents on IFC Data Retrieval",
+      "summary": "Industry Foundation Classes (IFC), the standard for building information exchange in architecture, engineering, and construction (AEC), is increasingly queried through large language models (LLMs) using natural language. Evaluating these systems at scale is difficult because…",
+      "publishedAt": "2026-10-21T23:38:01.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "833d3d328a66d09f",
       "url": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
       "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
@@ -3033,6 +3391,36 @@
       "class": "rss",
       "topics": [
         "amazon"
+      ]
+    },
+    {
+      "id": "b8584c45b55542af",
+      "url": "https://arxiv.org/abs/2610.30499",
+      "title": "Can LLMs Improve Their Own Harness? A Controlled Study on ARC-AGI-3",
+      "summary": "A generally intelligent system acquires new skills efficiently without requiring humans to redesign its software scaffold for every new task. Yet language models rarely act alone. A harness is a symbolic program that orchestrates calls to the model, handling perception, memory,…",
+      "publishedAt": "2026-10-21T22:29:47.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "d3dc13f325441fd8",
+      "url": "https://arxiv.org/abs/2610.30491",
+      "title": "What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation",
+      "summary": "LLM agents are often evaluated by reducing execution traces to labels such as final-answer correctness, tool verification, and fault propagation. These labels are measurements produced by parsers, behavioral detectors, and harness rules, and they may not fully capture what the…",
+      "publishedAt": "2026-10-21T22:18:16.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -3109,6 +3497,21 @@
       ]
     },
     {
+      "id": "efccbde72b019611",
+      "url": "https://arxiv.org/abs/2610.30436",
+      "title": "Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems",
+      "summary": "Sixth-generation (6G) communication systems are expected to support immersive, intent-driven, and latency-critical services through tight integration of multimodal intelligence, edge computing, and autonomous network control. In this setting, agentic AI systems can reason over…",
+      "publishedAt": "2026-10-21T20:47:14.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "a9959304a32a3da4",
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.283",
       "title": "v0.3.283",
@@ -3124,6 +3527,21 @@
       ]
     },
     {
+      "id": "11ca1ce21569a130",
+      "url": "https://arxiv.org/abs/2610.30418",
+      "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+      "summary": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic…",
+      "publishedAt": "2026-10-21T20:25:11.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "ff2a2ed5c2250c2f",
       "url": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan",
       "title": "Train Qwen3 on AWS Trainium with torchtitan",
@@ -3135,6 +3553,21 @@
       "class": "rss",
       "topics": [
         "amazon"
+      ]
+    },
+    {
+      "id": "4a1fdae5cd4de53c",
+      "url": "https://arxiv.org/abs/2610.30379",
+      "title": "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
+      "summary": "LLM agents are flexible in language interaction, but using them as long-horizon planners is costly and prone to hallucinated or invalid actions. This paper targets a different role for LLMs: constrained bridges between language and symbolic planning. We propose MemPlan, a…",
+      "publishedAt": "2026-10-21T19:40:12.000Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -3190,36 +3623,6 @@
       "sourceName": "Hugging Face blog",
       "class": "rss",
       "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "65a0534d66feb473",
-      "url": "https://arxiv.org/abs/2610.30051",
-      "title": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
-      "summary": "Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising the possibility of using general-purpose AI models for robot manipulation without task-specific training. However, their…",
-      "publishedAt": "2026-10-21T17:11:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "2fe4bf6d85df9724",
-      "url": "https://arxiv.org/abs/2610.30041",
-      "title": "Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents",
-      "summary": "Text skills can extend the capabilities of tool-using agents, but long skill descriptions increase computational costs. Soft prompts provide a compact alternative, yet learning from entire successful trajectories may also introduce unnecessary behavioral changes. We find that…",
-      "publishedAt": "2026-10-21T17:02:06.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
         "engineering"
       ]
     },
@@ -3281,21 +3684,6 @@
       ]
     },
     {
-      "id": "0c0d4266063b0032",
-      "url": "https://arxiv.org/abs/2610.29932",
-      "title": "FrontierCS 2: A Benchmark for Computer Science R&D",
-      "summary": "Can LLM agents make contributions to frontier computer science R&D? We introduce FrontierCS 2, a benchmark of 48 open-ended tasks. We take a paper and the code its authors released and delete the paper's contribution. The deleted code becomes the human reference that sets the…",
-      "publishedAt": "2026-10-21T16:04:27.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "5deb86848ff9874f",
       "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
       "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
@@ -3341,21 +3729,6 @@
       ]
     },
     {
-      "id": "c486661cd47d400c",
-      "url": "https://arxiv.org/abs/2610.29850",
-      "title": "Automated Discovery of Physically Interpretable Subgrid Length Scales for Detached Eddy Simulation via Agentic AI",
-      "summary": "Traditional turbulence-model development relies heavily on expert knowledge and is time-consuming. This study develops an agentic AI framework, DEScover (automated Discovery of DES closures), to explore subgrid length scales for detached eddy simulation (DES). The user provides…",
-      "publishedAt": "2026-10-21T15:09:33.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "9b35c0bfb2f0e3cd",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
       "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
@@ -3370,12 +3743,12 @@
       ]
     },
     {
-      "id": "0fff47054cc39cd5",
-      "url": "https://www.latent.space/p/claude-mods",
+      "id": "5c33d37c37b5fa3c",
+      "url": "https://latent.space/p/claude-mods",
       "title": "Claude Mods: Flipping the Harness Inside Out",
       "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
       "publishedAt": "2026-10-21T13:04:19.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -3409,126 +3782,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "003ec57f6ccd1b3c",
-      "url": "https://arxiv.org/abs/2610.29588",
-      "title": "SatCraft: Agentic Optimization of Scheduling Policies for Satellite-Cellular Edge Services",
-      "summary": "Mobile edge services can combine local computation with satellite and cellular access to deliver time-sensitive results in areas with intermittent terrestrial coverage. Meeting their deadlines and quality requirements calls for joint computation and transmission scheduling that…",
-      "publishedAt": "2026-10-21T11:29:37.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "5c87f00ab725cca9",
-      "url": "https://arxiv.org/abs/2610.29443",
-      "title": "DynaWeave: Learning to Adapt through Dynamic Scenario Synthesis",
-      "summary": "Large language model (LLM) agents increasingly use tools to complete tasks in stateful environments. However, many training environments remain largely static apart from changes caused by the agent's own actions, whereas external events introduced by other users, services, or…",
-      "publishedAt": "2026-10-21T09:03:10.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "a48f62e513f7d15c",
-      "url": "https://arxiv.org/abs/2610.29427",
-      "title": "One Act, Many Masks: Effect-Marginal Policy Optimization for Long-Horizon Agents",
-      "summary": "Recent advances in multi-turn reinforcement learning (RL) have substantially improved the performance of LLM agents on complex, long-horizon interactive tasks. However, despite progress in fine-grained credit assignment, policy optimization still applies these learning signals…",
-      "publishedAt": "2026-10-21T08:51:14.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "551b903cdf265e60",
-      "url": "https://arxiv.org/abs/2610.29346",
-      "title": "Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents",
-      "summary": "As Large Language Models (LLMs) evolve into autonomous Deep Search and Deep Research Agents capable of executing long-horizon, multi-step tasks, evaluating their reliability becomes increasingly critical. However, existing evaluation paradigms predominantly focus on final task…",
-      "publishedAt": "2026-10-21T07:38:29.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "34e78babb1f7bdbc",
-      "url": "https://arxiv.org/abs/2610.29331",
-      "title": "From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?",
-      "summary": "Large language models (LLMs) are increasingly applied across the scientific discovery pipeline, from synthesizing literature to generating hypotheses to informing experimental design. A unifying principle behind these tasks is the need to continuously update beliefs as evidence…",
-      "publishedAt": "2026-10-21T07:29:24.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "fbf77ef87d1394c3",
-      "url": "https://arxiv.org/abs/2610.29330",
-      "title": "AgentMonopoly: Behavioral Patterns and Persona Control in LLM Agents",
-      "summary": "How do LLM agents' strategies differ, and how much can instructions to adopt a persona change their behavior over a game? We study these questions with AgentMonopoly, an environment where agents communicate, buy and trade properties, and make decisions that affect later turns.…",
-      "publishedAt": "2026-10-21T07:29:06.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "c11c74720b69a99a",
-      "url": "https://arxiv.org/abs/2610.29328",
-      "title": "Seeing the Forest for the Trees: Emergent Agreement from Individual Conversations",
-      "summary": "As LLM agents interact in the wild and shape each other's decisions, understanding how they converge toward agreement becomes important. We study this in multi-turn conversations where two LLMs discuss subjective matters, can agree or disagree, and may change their stances.…",
-      "publishedAt": "2026-10-21T07:27:08.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "fb5e8edc7db9f507",
-      "url": "https://arxiv.org/abs/2610.29326",
-      "title": "Signals and Queries: Token-Efficient Agentic Context Discovery",
-      "summary": "User-facing LLM agents must identify which behavioral policies apply at each turn, but evaluating every policy with an LLM is costly. We introduce Signals and Queries (S&Q), a lightweight first-stage relevance filter developed for Parlant 4.0 that removes at least 30% of…",
-      "publishedAt": "2026-10-21T07:25:59.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
       ]
     },
     {
@@ -3575,31 +3828,16 @@
       ]
     },
     {
-      "id": "7dadac6a05821def",
-      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "id": "f8078d89c26a395a",
+      "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source",
       "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
       "summary": "An open source “bomb” drops from China",
       "publishedAt": "2026-10-21T06:54:09.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
       "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "31ab1841998c77c5",
-      "url": "https://arxiv.org/abs/2610.29245",
-      "title": "CrashGym: Measuring the Decision Value of Experimentation for LLM Agents in Counterfactual Market Crashes",
-      "summary": "Language-model agents are increasingly asked to run experiments, yet benchmarks rarely measure whether those experiments improve the decisions they are meant to inform. We introduce CrashGym, a deterministic, replayable limit-order-book simulator in which an agent must choose…",
-      "publishedAt": "2026-10-21T05:51:02.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
         "engineering"
       ]
     },
@@ -3619,12 +3857,12 @@
       ]
     },
     {
-      "id": "a6e1fb4e076b0df6",
-      "url": "https://www.latent.space/p/tenex",
+      "id": "27ced8676a2635d4",
+      "url": "https://latent.space/p/tenex",
       "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+      "summary": "Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
       "publishedAt": "2026-10-21T05:01:26.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -3647,21 +3885,6 @@
       ]
     },
     {
-      "id": "04f49366fe84bf05",
-      "url": "https://arxiv.org/abs/2610.29174",
-      "title": "LocalAgent: Collaborative Agentic Verification for Fine-Grained Instance-Level Consistency",
-      "summary": "Multimodal large language models (MLLMs) have made rapid progress in general visual understanding, yet they still struggle with fine-grained instance-level consistency verification, where the goal is to determine whether two images depict the exact same physical object under…",
-      "publishedAt": "2026-10-21T04:04:32.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "6bc0a4e087e6311f",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -3673,51 +3896,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "3250fe3e2d237560",
-      "url": "https://arxiv.org/abs/2610.29155",
-      "title": "5uGUE: Agentic Hardware-in-the-Loop Fuzzing for 5G Devices and beyond",
-      "summary": "In this paper, we present 5uGUE, a large language model (LLM)-driven hardware-in-the-loop agent, which enables the wireless fuzzing of 5G-enabled devices (such as mobile phones). 5uGUE combines multi-step reasoning with tool-assisted interaction and integrates into the fuzzing…",
-      "publishedAt": "2026-10-21T03:45:25.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "fef84f565f8b6aae",
-      "url": "https://arxiv.org/abs/2610.29143",
-      "title": "VeeReview: Measuring Build-Verify Pairs in Agent-Authored Pull Requests from a V-Model Perspective",
-      "summary": "Context: Reviewing a pull request requires verification evidence that addresses the proposed change. Coding agent benchmarks and studies of pull request outcomes do not directly assess this relationship. Objective: We test whether the V-Model's build and verify pairs can measure…",
-      "publishedAt": "2026-10-21T03:25:44.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "a040d6c7fd72b610",
-      "url": "https://arxiv.org/abs/2610.29139",
-      "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
-      "summary": "Frontier black-box Large Language Model (LLM) agents are proficient at long-horizon reasoning and precise action generation. However, when it comes to a specific agentic task, they have no internalized knowledge of how that particular environment unfolds. A world model offers a…",
-      "publishedAt": "2026-10-21T03:20:32.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
       ]
     },
     {
@@ -3748,36 +3926,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "804aa603dd330abe",
-      "url": "https://arxiv.org/abs/2610.29023",
-      "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
-      "summary": "Large language model (LLM) agents are often improved by iterating until a fixed verifier is done. Once that verifier saturates, the loop has nothing left to climb. We instead score agents against the current population, and a frozen panel records whether anyone got better. The…",
-      "publishedAt": "2026-10-21T00:56:02.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "caa17ae20a7abd42",
-      "url": "https://arxiv.org/abs/2610.29005",
-      "title": "VeriEvolve: Evaluator-First Evolution for Tool-Using Agents",
-      "summary": "A central obstacle to self-improving agents is the absence of a reliable fitness signal for realistic stateful tasks. We introduce \\textsc{VeriEvolve}, an evaluator-first evolution framework that constructs this missing evaluation layer before optimizing the agent. From task…",
-      "publishedAt": "2026-10-21T00:13:29.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
       ]
     },
     {
@@ -3824,51 +3972,6 @@
       ]
     },
     {
-      "id": "d28e0927f1f9bb2f",
-      "url": "https://arxiv.org/abs/2610.28988",
-      "title": "Attention-based Classification for Indirect Prompt Injection",
-      "summary": "Indirect prompt injection (IPI) attacks, in which adversarial instructions are embedded in external data processed by a language model, pose a significant threat to the integrity of deployed LLM agents. Attention Tracker (Hung et al., 2025) is a recently proposed white-box…",
-      "publishedAt": "2026-10-20T23:31:19.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "a254cb1e7ad7c36e",
-      "url": "https://arxiv.org/abs/2610.28987",
-      "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
-      "summary": "Persistent memory is a largely undefended surface for injection and poisoning, and the same risk limits memory sharing among agents. We present PerMIT, a memory architecture with provable integrity guarantees under an explicit trust assumption: only user-typed inputs and values…",
-      "publishedAt": "2026-10-20T23:31:06.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "f64266e6609bea41",
-      "url": "https://arxiv.org/abs/2610.28982",
-      "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
-      "summary": "While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use. We construct a benchmark…",
-      "publishedAt": "2026-10-20T23:14:30.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "300899173caea624",
       "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8",
       "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
@@ -3884,21 +3987,6 @@
       ]
     },
     {
-      "id": "ca34b7f265a3d619",
-      "url": "https://arxiv.org/abs/2610.28966",
-      "title": "Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning",
-      "summary": "Large language model (LLM) agents are increasingly deployed in multi-agent systems (MAS) to accomplish complex tasks. Prior black-box red-teaming attacks mainly focus on single agents, but we find that these methods are far less effective in MAS, where multiple sub-agents may…",
-      "publishedAt": "2026-10-20T22:32:22.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "7893e1432c21566d",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0",
       "title": "v1.17.0",
@@ -3910,36 +3998,6 @@
       "class": "atom",
       "topics": [
         "anthropic",
-        "engineering"
-      ]
-    },
-    {
-      "id": "63253a26afe80eb6",
-      "url": "https://arxiv.org/abs/2610.28954",
-      "title": "Pair-Free Coarse-to-Real Video Generation via Real-to-Coarse Image Supervision",
-      "summary": "Coarse-to-real (C2R) video generation converts coarse animation, simulation, or game-rendered videos into photorealistic videos while preserving scene layout, camera motion, and dynamics. Training such models requires aligned (coarse, realistic) video pairs, which are expensive…",
-      "publishedAt": "2026-10-20T22:09:29.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "e4e346123d96874d",
-      "url": "https://arxiv.org/abs/2610.28945",
-      "title": "Self-Improving Agents with World Model Predictive Paths",
-      "summary": "Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support decision-making remains…",
-      "publishedAt": "2026-10-20T21:46:29.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
         "engineering"
       ]
     },
@@ -3987,12 +4045,12 @@
       ]
     },
     {
-      "id": "b88101e5b9e04737",
-      "url": "https://www.latent.space/p/sfcompute2",
+      "id": "977d926a0cb6cc70",
+      "url": "https://latent.space/p/sfcompute2",
       "title": "The Programmable Data Center — Evan Conrad, SF Compute",
       "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
       "publishedAt": "2026-10-20T19:31:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -4028,21 +4086,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "0b96f1eb0ed1dbb1",
-      "url": "https://arxiv.org/abs/2610.28787",
-      "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
-      "summary": "Evaluations of large language model (LLM) agents report that pricing agents collude at others' expense. Yet collusion is defined by enforcement: a cartel, in which competitors share monopoly profits, holds only if a member who cheats is punished. We introduce an audit that tests…",
-      "publishedAt": "2026-10-20T18:18:10.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
       ]
     },
     {
@@ -4321,12 +4364,12 @@
       ]
     },
     {
-      "id": "fb236cc542ed4478",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "id": "4d5d66fe73afb35f",
+      "url": "https://latent.space/p/ainews-not-much-happened-today-f09",
       "title": "[AINews] not much happened today",
       "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
       "publishedAt": "2026-10-20T05:21:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -4971,12 +5014,12 @@
       ]
     },
     {
-      "id": "25f370b6a2f3e641",
-      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "id": "dc3d830e0a0da473",
+      "url": "https://latent.space/p/ainews-high-taste-testers-ep-1",
       "title": "[AINews] High Taste Testers Ep. 1",
       "summary": "a quiet day lets us pilot a new show",
       "publishedAt": "2026-10-17T07:47:38.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -5133,12 +5176,12 @@
       ]
     },
     {
-      "id": "6def1af444f0bb8a",
-      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "id": "483d6307e687a2d8",
+      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity",
       "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
       "summary": "Nick Cammarata out of nowhere with some major claims!",
       "publishedAt": "2026-10-16T04:16:45.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -5321,21 +5364,6 @@
       ]
     },
     {
-      "id": "63789e28842f28df",
-      "url": "https://arxiv.org/abs/2610.24006",
-      "title": "What Social Media Teaches Us About Accumulative AI Risks",
-      "summary": "Prominent AI safety discussions emphasize existential threats and catastrophic events, such as AI-enabled nuclear conflict or engineered biological outbreaks. This position paper argues that there is another type of AI risk that arises and accumulates from the widespread use of…",
-      "publishedAt": "2026-10-15T18:04:53.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
-      ]
-    },
-    {
       "id": "8fa77228ea422a66",
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.281",
       "title": "v0.3.281",
@@ -5394,21 +5422,6 @@
       ]
     },
     {
-      "id": "bd02def313d062e4",
-      "url": "https://www.youtube.com/shorts/3IVo-MNwk2I",
-      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
-      "summary": "Cybersecurity research, moving from weeks to hours. SentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eight hours on reverse-engineering work that would take a top researcher four to six weeks. That lets security teams…",
-      "publishedAt": "2026-10-15T14:13:38.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "fa14b8f7db4605df",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "title": "Teaching students to think and learn through questions",
@@ -5423,12 +5436,12 @@
       ]
     },
     {
-      "id": "0c6f09c40e01f053",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "id": "7908d899cb3e3fcc",
+      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
       "summary": "Sandboxes are all you need.",
       "publishedAt": "2026-10-15T10:08:08.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -5582,12 +5595,12 @@
       ]
     },
     {
-      "id": "5f0e4286e522ac24",
-      "url": "https://www.latent.space/p/crossing-the-threshold",
+      "id": "f992f00e022a5af8",
+      "url": "https://latent.space/p/crossing-the-threshold",
       "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
       "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
       "publishedAt": "2026-10-14T21:40:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -5610,12 +5623,12 @@
       ]
     },
     {
-      "id": "ecfb2d56ace4033f",
-      "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+      "id": "b6bc6eaa39157467",
+      "url": "https://latent.space/p/lab-in-the-loop-at-compute-speed",
       "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
       "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
       "publishedAt": "2026-10-14T20:35:09.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -5754,12 +5767,12 @@
       ]
     },
     {
-      "id": "268ff6550bc0eba8",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "id": "2c1c2c493e6e992d",
+      "url": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
       "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
       "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
       "publishedAt": "2026-10-14T05:40:28.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -5869,12 +5882,12 @@
       ]
     },
     {
-      "id": "e16422c6b35ba3e6",
-      "url": "https://www.latent.space/p/dyna",
+      "id": "51d4d67553279daf",
+      "url": "https://latent.space/p/dyna",
       "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
       "summary": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
       "publishedAt": "2026-10-13T22:25:55.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -6055,12 +6068,12 @@
       ]
     },
     {
-      "id": "ec132ecc411f087e",
-      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "id": "a2c304623a61d6cf",
+      "url": "https://latent.space/p/ainews-meta-muse-wonder-and-wonder",
       "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
       "summary": "MSL’s emergence as a frontier lab is finally complete.",
       "publishedAt": "2026-10-13T09:37:04.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -6142,12 +6155,12 @@
       ]
     },
     {
-      "id": "728a22683c3ed7dc",
-      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "id": "13b0230e9df62ae9",
+      "url": "https://latent.space/p/claude-dynamic-workflows",
       "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)",
       "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
       "publishedAt": "2026-10-12T18:18:17.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -6243,12 +6256,12 @@
       ]
     },
     {
-      "id": "fee9bab748db3442",
-      "url": "https://www.latent.space/p/nyc2026",
+      "id": "45bc2fccc930f517",
+      "url": "https://latent.space/p/nyc2026",
       "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
       "summary": "Tomorrow and Tuesday. If you see this you’re in!",
       "publishedAt": "2026-10-10T22:07:17.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -6257,26 +6270,12 @@
       ]
     },
     {
-      "id": "37d5b84c7a91448c",
-      "url": "https://www.latent.space/p/standard-bots",
+      "id": "06d39cf072ff31d8",
+      "url": "https://latent.space/p/standard-bots",
       "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
       "summary": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
       "publishedAt": "2026-10-10T14:04:11.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "368f80aabb67a0d5",
-      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "summary": "Wow.",
-      "publishedAt": "2026-10-10T06:45:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "firstSeen": "2026-10-23T11:39:27.578Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
@@ -8960,77 +8959,6 @@
       "title": "The Work Now Within Reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "publishedAt": "2026-09-08T13:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "305f03a4aa6aa16d",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "publishedAt": "2026-09-08T11:30:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "671a9fed35e21548",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "publishedAt": "2026-09-08T11:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "fbb79928f7d9c051",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "publishedAt": "2026-09-08T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "5b3265a80bcff06f",
-      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.1",
-      "title": "v0.22.1",
-      "summary": "What's Changed feat(core): support image results in web search tools by @seratch in #4898 feat(core): customize output guardrail blocked messages by @seratch in #4594 feat(mcp): add server-wide guardrails to MCP tools by @seratch in #4632 feat(sandbox): add configurable…",
-      "publishedAt": "2026-09-08T09:18:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-agents",
-      "sourceName": "openai-agents-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "99c22bc85dd5ff7a",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "title": "Funding grants for new research into AI and teen development",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "publishedAt": "2026-09-08T09:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",
