@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-23T17:07:27.560Z",
+  "generatedAt": "2026-10-23T21:24:45.587Z",
   "items": [
+    {
+      "id": "ashby-openai-0ed5f6c7-3977-4da9-9961-202fe76de456",
+      "company": "OpenAI",
+      "title": "Applied AI Engineer, Digital Natives",
+      "location": "São Paulo; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/0ed5f6c7-3977-4da9-9961-202fe76de456",
+      "postedAt": "2026-10-23T17:25:44.476Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-10-23T21:24:45.587Z"
+    },
     {
       "id": "gh-anthropic-5461873008",
       "company": "Anthropic",

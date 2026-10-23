@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-10-23T17:07:27.560Z",
+  "generatedAt": "2026-10-23T21:24:45.587Z",
   "items": [
+    {
+      "id": "829f9c5b4d23efee",
+      "url": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
+      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | The Robot Operating System (ROS)",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education Guest Lecture — The Robot Operating System (ROS) Note: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and…",
+      "publishedAt": "2026-10-23T21:00:06.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "95364ce770790d21",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the…",
+      "publishedAt": "2026-10-23T17:48:54.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "c764dbeb21a3918f",
       "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
@@ -1623,20 +1651,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "a36debeef24d1d8a",
-      "url": "https://www.youtube.com/watch?v=S3bCDcJhz4s",
-      "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 3 - LLM training",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education To follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/ Chapters: 00:00:00 Introduction 00:03:36 Pretraining 00:10:33…",
-      "publishedAt": "2026-10-15T23:03:23.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
       ]
     },
     {

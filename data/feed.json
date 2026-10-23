@@ -1,6 +1,169 @@
 {
-  "generatedAt": "2026-10-23T17:07:27.560Z",
+  "generatedAt": "2026-10-23T21:24:45.587Z",
   "items": [
+    {
+      "id": "829f9c5b4d23efee",
+      "url": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
+      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | The Robot Operating System (ROS)",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education Guest Lecture — The Robot Operating System (ROS) Note: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and…",
+      "publishedAt": "2026-10-23T21:00:06.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "6c51129e93f61d6b",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+      "title": "Introducing Kimi K3.1 Pro",
+      "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token…",
+      "publishedAt": "2026-10-23T19:40:54.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "057a86be6882ac7b",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "summary": "Generative AI",
+      "publishedAt": "2026-10-23T18:51:33.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "82d4bb2a63b8a968",
+      "url": "https://www.youtube.com/shorts/7Cs5qyBlYQk",
+      "title": "From notes to AI training with ChatGPT Work | Realpage.",
+      "summary": "Austin Braham at Realpage. uses ChatGPT Work to turn ideas, notes and source materials into complete AI training packages tailored to different teams, roles and skill levels.",
+      "publishedAt": "2026-10-23T18:42:11.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "e7b76001ca222409",
+      "url": "https://www.youtube.com/watch?v=hgX1hgyWD4g",
+      "title": "How Realpage. builds AI training with ChatGPT Work",
+      "summary": "At Realpage., Austin Braham creates AI training for different teams, roles and skill levels. He uses ChatGPT Work to turn ideas, notes and source materials into complete enablement packages tailored to each audience. The result is more relevant, consistent education that helps…",
+      "publishedAt": "2026-10-23T18:39:14.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "1aa60556379e2e50",
+      "url": "https://www.youtube.com/shorts/2lNUGkCg_qc",
+      "title": "AI agents for everyday IT fixes | Shield and OpenAI",
+      "summary": "Shield’s AI agents use Astra to work directly in business software and handle routine IT fixes, giving technicians more time for harder problems that need their judgment.",
+      "publishedAt": "2026-10-23T18:36:34.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "51de56c2848f8bde",
+      "url": "https://www.youtube.com/watch?v=m6MlxaFMmPI",
+      "title": "How Shield uses OpenAI’s Astra to support IT teams",
+      "summary": "When someone can’t log in or get online, their IT team often has to put other work on hold. Shield is building Forge to help IT services teams get their customers back to work faster. Its AI agents use Astra to work directly in business software and resolve problems that…",
+      "publishedAt": "2026-10-23T18:34:39.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "f4d897bc46eacbf0",
+      "url": "https://www.youtube.com/watch?v=V39_L7uh66M",
+      "title": "How AT&T is building AI-powered legal workflows with OpenAI",
+      "summary": "AT&T’s David McAtee and Bill Ryan describe how AI is changing their legal team’s work—and what they plan to build with OpenAI next. One initiative is a natural-language intake system that would classify and prioritize legal matters, then connect them with relevant knowledge. The…",
+      "publishedAt": "2026-10-23T18:32:03.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "8cd20ee84ea49a9b",
+      "url": "https://www.youtube.com/shorts/qyGvwLgqmaU",
+      "title": "From analyst to builder with Codex | Benefit Street Partners",
+      "summary": "Anant Kumar at Benefit Street Partners used Codex to build a tool that collects loan valuations from SEC filings and turns them into a website with visualizations. The first version took about a day. “I’ve gone from being just an analyst and a portfolio manager to being a…",
+      "publishedAt": "2026-10-23T18:22:30.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "e8cea7d61e610ac9",
+      "url": "https://www.youtube.com/watch?v=CTkDi1THc_g",
+      "title": "How Benefit Street Partners is building financial analysis tools with Codex",
+      "summary": "“I’ve gone from being just an analyst and a portfolio manager to being a developer as well now. I can build things.” Benefit Street Partners’ Anant Kumar wanted to compare how firms valued the same loans. The information was spread across SEC filings. He built a tool to collect…",
+      "publishedAt": "2026-10-23T18:20:02.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "95364ce770790d21",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the…",
+      "publishedAt": "2026-10-23T17:48:54.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
     {
       "id": "0b2744e224d2a974",
       "url": "https://www.anthropic.com/research/riemann-zeta",
@@ -172,6 +335,20 @@
       "class": "rss",
       "topics": [
         "engineering"
+      ]
+    },
+    {
+      "id": "48e2274fdf2ba9fe",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "firstSeen": "2026-10-23T21:24:45.587Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -4291,20 +4468,6 @@
       ]
     },
     {
-      "id": "80e6bced4c1b925f",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
-      "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "summary": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where…",
-      "publishedAt": "2026-10-20T17:48:27.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "536d96aeb1a62728",
       "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
       "title": "What’s the ROI of software engineers’ spending on AI?",
@@ -4805,51 +4968,6 @@
       ]
     },
     {
-      "id": "27efbd794215bf67",
-      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM",
-      "title": "UK: This is the new ChatGPT Voice, powered by GPT Live",
-      "summary": "You’ll want to turn the sound on for this one. Read more here: https://chatgpt.com/features/voice/",
-      "publishedAt": "2026-10-19T05:30:13.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "b2233fee3b4b1dd5",
-      "url": "https://www.youtube.com/watch?v=xIEzjwReF2s",
-      "title": "Germany: This is the new ChatGPT Voice, powered by GPT Live",
-      "summary": "Ein kleiner Tipp von uns: Ton an, denn das willst du hören. Hier weiterlesen: https://chatgpt.com/de-DE/features/voice/",
-      "publishedAt": "2026-10-19T04:30:15.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "bcc38eff25b03d6d",
-      "url": "https://www.youtube.com/watch?v=-vpwIHxkDFw",
-      "title": "France: This is the new ChatGPT Voice, powered by GPT Live",
-      "summary": "Pour cette vidéo, pensez à activez le son pour ne rien manquer. En savoir plus: https://chatgpt.com/fr-FR/features/voice/",
-      "publishedAt": "2026-10-19T04:30:12.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "2c09c7ba199654ac",
       "url": "https://arxiv.org/abs/2610.25604",
       "title": "Adversarial Post-Training of Foundation Models for High-Frequency Trading",
@@ -5159,21 +5277,6 @@
       ]
     },
     {
-      "id": "51cd0b873b2ee59a",
-      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw",
-      "title": "Put your dot on call",
-      "summary": "Ali, an engineer at OpenAI, used his dot to triage an on-call incident at 3am. His dot investigated the issue and started a Codex thread, so he could steer the work from his phone in the ChatGPT app.",
-      "publishedAt": "2026-10-16T21:43:48.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "0c6e6f470183a107",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
       "title": "v2.1.302",
@@ -5230,21 +5333,6 @@
       "topics": [
         "google",
         "research"
-      ]
-    },
-    {
-      "id": "f27502f1697ab3ed",
-      "url": "https://www.youtube.com/watch?v=OMxEUdIgsQc",
-      "title": "How teams can automate recurring tasks with ChatGPT",
-      "summary": "Set up recurring work your team can manage together with team tasks in ChatGPT. Follow a legal team's daily intake workflow—from reviewing incoming requests and checking deadlines to refining shared instructions for the next run. Tasks run in the cloud, so teammates can review…",
-      "publishedAt": "2026-10-16T18:00:49.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -5348,36 +5436,6 @@
       ]
     },
     {
-      "id": "a36debeef24d1d8a",
-      "url": "https://www.youtube.com/watch?v=S3bCDcJhz4s",
-      "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 3 - LLM training",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education To follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/ Chapters: 00:00:00 Introduction 00:03:36 Pretraining 00:10:33…",
-      "publishedAt": "2026-10-15T23:03:23.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
-      ]
-    },
-    {
-      "id": "5d5b614db5cd2d67",
-      "url": "https://www.youtube.com/watch?v=KJ_7KPKlO_Q",
-      "title": "Build more personal sites with Codex",
-      "summary": "Keep your team's Sites up to date and make them personal to each visitor. Connect scheduled tasks to refresh site data automatically and let your users connect their plugins for a personalized view of your site. To try it out, just ask Codex.",
-      "publishedAt": "2026-10-15T20:48:59.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "fc710191e832cb3b",
       "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
       "title": "Chirp Pong",
@@ -5433,21 +5491,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "a17194c12de359bf",
-      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc",
-      "title": "GPT-Live-1.1 has new voices and better accents.",
-      "summary": "New voices. Better accents. And less \"checking...\" GPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. Rolling out today to all users. Coming soon to the API.",
-      "publishedAt": "2026-10-15T18:24:44.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
