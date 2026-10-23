@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-22T21:36:11.880Z",
+  "generatedAt": "2026-10-23T04:49:24.807Z",
   "items": [
+    {
+      "id": "gh-anthropic-5455627008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Public Sector (Federal Civilan)",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008",
+      "postedAt": "2026-10-23T01:53:49.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-10-23T04:49:24.807Z"
+    },
+    {
+      "id": "gh-anthropic-5460211008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Public Sector (GovTech)",
+      "location": "Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460211008",
+      "postedAt": "2026-10-23T01:53:09.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-10-23T04:49:24.807Z"
+    },
     {
       "id": "ashby-openai-83730f3e-3a96-476e-afb0-15f1f045ab03",
       "company": "OpenAI",

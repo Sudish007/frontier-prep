@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-22T21:36:11.880Z",
+  "generatedAt": "2026-10-23T04:49:24.807Z",
   "windowDays": 45,
   "jobWindowDays": 60,
   "counts": {
     "items": 625,
     "discovered": 124,
-    "jobs": 195,
+    "jobs": 197,
     "jobsIndia": 47,
     "sources": {
-      "ok": 37,
+      "ok": 27,
       "empty": 0,
-      "failed": 2,
+      "failed": 12,
       "skipped": 0
     }
   },
@@ -23,9 +23,9 @@
       "homepage": "https://www.anthropic.com/news",
       "status": "ok",
       "count": 21,
-      "newest": "2026-10-22T21:36:11.880Z",
+      "newest": "2026-10-23T04:49:24.807Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": "no feed; links scraped, dated by first sighting"
     },
@@ -37,9 +37,9 @@
       "homepage": "https://www.anthropic.com/research",
       "status": "ok",
       "count": 22,
-      "newest": "2026-10-22T11:09:02.285Z",
+      "newest": "2026-10-23T04:49:24.807Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": "no feed; links scraped"
     },
@@ -53,7 +53,7 @@
       "count": 23,
       "newest": "2026-10-22T11:11:38.073Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": "no feed; links scraped (engineering posts now live under /research)"
     },
@@ -67,7 +67,7 @@
       "count": 55,
       "newest": "2026-10-22T21:36:11.880Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": "no feed; links scraped"
     },
@@ -78,10 +78,10 @@
       "kind": "lab",
       "homepage": "https://openai.com/news",
       "status": "ok",
-      "count": 109,
+      "count": 108,
       "newest": "2026-10-22T19:00:00.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -95,7 +95,7 @@
       "count": 14,
       "newest": "2026-10-22T14:30:24.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -109,7 +109,7 @@
       "count": 15,
       "newest": "2026-10-21T16:23:53.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -123,7 +123,7 @@
       "count": 10,
       "newest": "2026-10-22T16:00:00.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -137,7 +137,7 @@
       "count": 20,
       "newest": "2026-10-22T18:06:35.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -151,7 +151,7 @@
       "count": 8,
       "newest": "2026-10-22T19:36:42.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -162,10 +162,10 @@
       "kind": "community",
       "homepage": "https://huggingface.co/blog",
       "status": "ok",
-      "count": 30,
-      "newest": "2026-10-22T16:11:31.000Z",
+      "count": 31,
+      "newest": "2026-10-22T22:24:34.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -179,7 +179,7 @@
       "count": 18,
       "newest": "2026-10-22T18:09:56.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -193,7 +193,7 @@
       "count": 0,
       "newest": null,
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -207,7 +207,7 @@
       "count": 11,
       "newest": "2026-10-20T17:04:21.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -221,7 +221,7 @@
       "count": 20,
       "newest": "2026-10-22T17:40:57.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -235,7 +235,7 @@
       "count": 0,
       "newest": null,
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -249,7 +249,7 @@
       "count": 5,
       "newest": "2026-10-19T12:31:37.000Z",
       "error": "blocked: 403 Cloudflare",
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": "2026-10-22T12:18:24.323Z",
       "note": null
     },
@@ -261,9 +261,9 @@
       "homepage": "https://arxiv.org/list/cs.CL/recent",
       "status": "ok",
       "count": 40,
-      "newest": "2026-10-21T17:59:14.000Z",
+      "newest": "2026-10-22T17:59:48.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -273,12 +273,12 @@
       "class": "atom",
       "kind": "papers",
       "homepage": "https://arxiv.org/list/cs.AI/recent",
-      "status": "ok",
+      "status": "failed",
       "count": 30,
       "newest": "2026-10-21T07:00:26.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "timeout",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -290,8 +290,8 @@
       "status": "failed",
       "count": 26,
       "newest": "2026-10-21T17:11:52.000Z",
-      "error": "timeout",
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "error": "http: 429",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": "2026-10-22T21:36:11.880Z",
       "note": null
     },
@@ -301,12 +301,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@AndrejKarpathy",
-      "status": "ok",
+      "status": "failed",
       "count": 0,
       "newest": null,
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -315,12 +315,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@anthropic-ai",
-      "status": "ok",
+      "status": "failed",
       "count": 1,
       "newest": "2026-09-23T18:01:32.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -329,12 +329,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@OpenAI",
-      "status": "ok",
+      "status": "failed",
       "count": 15,
       "newest": "2026-10-22T18:00:13.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -343,12 +343,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@Google_DeepMind",
-      "status": "ok",
+      "status": "failed",
       "count": 9,
       "newest": "2026-10-13T16:38:17.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -357,12 +357,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@3blue1brown",
-      "status": "ok",
+      "status": "failed",
       "count": 4,
       "newest": "2026-10-16T16:15:20.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -371,12 +371,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@YannicKilcher",
-      "status": "ok",
+      "status": "failed",
       "count": 0,
       "newest": null,
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -385,12 +385,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@aiexplained-official",
-      "status": "ok",
+      "status": "failed",
       "count": 4,
       "newest": "2026-10-12T22:52:31.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -399,12 +399,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@stanfordonline",
-      "status": "ok",
+      "status": "failed",
       "count": 3,
       "newest": "2026-10-22T17:00:10.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -413,12 +413,12 @@
       "class": "atom",
       "kind": "video",
       "homepage": "https://www.youtube.com/@hello_interview",
-      "status": "ok",
+      "status": "failed",
       "count": 2,
       "newest": "2026-10-18T16:06:57.000Z",
-      "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
-      "failingSince": null,
+      "error": "blocked: 404",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
+      "failingSince": "2026-10-23T04:49:24.807Z",
       "note": null
     },
     {
@@ -431,7 +431,7 @@
       "count": 18,
       "newest": "2026-10-21T04:00:00.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -445,7 +445,7 @@
       "count": 18,
       "newest": "2026-10-22T11:11:38.073Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": "no feed; links scraped, dated by first sighting"
     },
@@ -459,7 +459,7 @@
       "count": 17,
       "newest": "2026-10-22T14:08:21.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -473,7 +473,7 @@
       "count": 10,
       "newest": "2026-10-21T22:00:30.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -485,9 +485,9 @@
       "homepage": "https://github.com/anthropics/claude-code",
       "status": "ok",
       "count": 10,
-      "newest": "2026-10-22T04:34:55.000Z",
+      "newest": "2026-10-22T22:18:57.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -501,7 +501,7 @@
       "count": 1,
       "newest": "2026-10-02T22:02:27.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -515,7 +515,7 @@
       "count": 10,
       "newest": "2026-10-22T20:03:54.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -529,7 +529,7 @@
       "count": 6,
       "newest": "2026-10-15T02:37:43.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -543,7 +543,7 @@
       "count": 10,
       "newest": "2026-10-21T20:41:27.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     },
@@ -557,7 +557,7 @@
       "count": 10,
       "newest": "2026-10-18T10:23:45.000Z",
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z",
+      "fetchedAt": "2026-10-23T04:49:24.807Z",
       "failingSince": null,
       "note": null
     }
@@ -569,9 +569,9 @@
       "kind": "greenhouse",
       "status": "ok",
       "url": "https://www.anthropic.com/careers/jobs",
-      "count": 53,
+      "count": 55,
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z"
+      "fetchedAt": "2026-10-23T04:49:24.807Z"
     },
     {
       "id": "openai",
@@ -581,7 +581,7 @@
       "url": "https://openai.com/careers/search/",
       "count": 98,
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z"
+      "fetchedAt": "2026-10-23T04:49:24.807Z"
     },
     {
       "id": "amazon-genai-india",
@@ -591,7 +591,7 @@
       "url": "https://www.amazon.jobs/en/search?base_query=generative+AI&country=IND",
       "count": 25,
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z"
+      "fetchedAt": "2026-10-23T04:49:24.807Z"
     },
     {
       "id": "amazon-ml-india",
@@ -601,7 +601,7 @@
       "url": "https://www.amazon.jobs/en/search?base_query=machine+learning&country=IND",
       "count": 19,
       "error": null,
-      "fetchedAt": "2026-10-22T21:36:11.880Z"
+      "fetchedAt": "2026-10-23T04:49:24.807Z"
     },
     {
       "id": "microsoft-manual",
