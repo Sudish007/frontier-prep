@@ -1,6 +1,165 @@
 {
-  "generatedAt": "2026-10-23T11:39:27.578Z",
+  "generatedAt": "2026-10-23T17:07:27.560Z",
   "items": [
+    {
+      "id": "0b2744e224d2a974",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "bf6986b39fbc3713",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "298c8de07d18f423",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "c764dbeb21a3918f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "summary": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling…",
+      "publishedAt": "2026-10-23T16:30:10.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "d543a8c819225bfc",
+      "url": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
+      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+      "summary": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and…",
+      "publishedAt": "2026-10-23T16:24:55.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "7f0dec178da37fe0",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "summary": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design…",
+      "publishedAt": "2026-10-23T16:21:36.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "d5dfb55b012918e7",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "",
+      "publishedAt": "2026-10-23T16:15:50.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "b6c56d0d791abb14",
+      "url": "https://www.youtube.com/watch?v=cfnLXAXTadA",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Designing AI for Societal Good",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 9, 2026 This lecture covers: • Improving generative AI chatbots' influence on public mental health as a case study • A new way of thinking about \"designing AI…",
+      "publishedAt": "2026-10-23T16:00:05.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "2db5899be23b0474",
+      "url": "https://www.amazon.science/blog/better-speech-synthesis-for-audiobooks",
+      "title": "Better speech synthesis for audiobooks",
+      "summary": "“Controllable text to speech” makes speech more expressive, character voices more distinct and consistent.",
+      "publishedAt": "2026-10-23T15:20:02.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "amazon-science",
+      "sourceName": "Amazon Science",
+      "class": "rss",
+      "topics": [
+        "amazon",
+        "research"
+      ]
+    },
+    {
+      "id": "619059630d1f6d6c",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "publishedAt": "2026-10-23T15:19:48.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "64c302135dcd1898",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
+      "title": "v2.2.0",
+      "summary": "Features api: add support for message threads api: add usage and cost reports by dimension, mark older reports legacy Bug Fixes client: stop suggesting math.inf in the max_retries error message tools: leave the tool runner's history to the caller after append_messages() , and…",
+      "publishedAt": "2026-10-23T13:10:10.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
     {
       "id": "24a759e0d336f63e",
       "url": "https://latent.space/p/ainews-black-october",
@@ -13,21 +172,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "1360bd8eb5a8e67e",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-23T04:49:24.807Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
       ]
     },
     {
@@ -56,6 +200,20 @@
       "class": "rss",
       "topics": [
         "openai"
+      ]
+    },
+    {
+      "id": "6430909168b58685",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
       ]
     },
     {
@@ -498,20 +656,6 @@
       "class": "rss",
       "topics": [
         "amazon"
-      ]
-    },
-    {
-      "id": "eaa0ebff7daf626e",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary": "",
-      "publishedAt": "2026-10-22T16:11:31.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -2542,21 +2686,6 @@
       ]
     },
     {
-      "id": "af863cb3b215d959",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "title": "Patterns and problems in emerging multiagent systems",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
-      ]
-    },
-    {
       "id": "afc3cd4d8cabcdc5",
       "url": "https://alignment.anthropic.com/2026/psm",
       "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans We discuss a perspective where Claude is something like a character in an AI-generated story.",
@@ -4190,20 +4319,6 @@
       ]
     },
     {
-      "id": "d42536b869033e81",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
-      "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "summary": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without crossing tenant…",
-      "publishedAt": "2026-10-20T17:34:04.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "10e267962d11ab72",
       "url": "https://arxiv.org/abs/2610.28539",
       "title": "Humans Correct Their Judgments Through Debate, but Weaker AI Models Do Not",
@@ -4230,34 +4345,6 @@
       "class": "rss",
       "topics": [
         "research"
-      ]
-    },
-    {
-      "id": "753fc98bb47cb9f3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
-      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-      "summary": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post covers the models and inference profiles, how to set up permissions, and how to…",
-      "publishedAt": "2026-10-20T16:42:53.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "402f87a8f5c1ffb0",
-      "url": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry",
-      "title": "Discover tools at runtime with AWS Agent Registry",
-      "summary": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, where an orchestrator discovers MCP servers and A2A agents through semantic…",
-      "publishedAt": "2026-10-20T16:22:24.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -6270,20 +6357,6 @@
       ]
     },
     {
-      "id": "06d39cf072ff31d8",
-      "url": "https://latent.space/p/standard-bots",
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "summary": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
-      "publishedAt": "2026-10-10T14:04:11.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "992438874f535dcc",
       "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
       "title": "I expect rapid progress but not towards general superintelligence",
@@ -7059,21 +7132,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "8c48d5dcaa16e670",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.11.0",
-      "title": "v1.11.0",
-      "summary": "1.11.0 (2026-09-30) Full Changelog: v1.10.0...v1.11.0 Features api: add list spend limits endpoint ( e8f0cac ) Chores client: deprecate sonnet 4.5 ( 22b36b1 )",
-      "publishedAt": "2026-09-30T22:58:09.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
       ]
     },
     {
@@ -8859,106 +8917,6 @@
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "publishedAt": "2026-09-09T11:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "167bce5d47e71e47",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "publishedAt": "2026-09-08T17:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "8fca408ec7e0dc8f",
-      "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
-      "title": "What is happening with code reviews?",
-      "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt – or is it doomed? A look into this decades-old practice and the approaches that could replace it",
-      "publishedAt": "2026-09-08T16:32:01.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "2089fa5ad760cf48",
-      "url": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
-      "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
-      "summary": "The open model ecosystem continues to expand in its breadth",
-      "publishedAt": "2026-09-08T14:15:25.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "interconnects",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "class": "rss",
-      "topics": [
-        "research"
-      ]
-    },
-    {
-      "id": "99761375f76fa3a3",
-      "url": "https://www.youtube.com/shorts/ya04CpsRJH0",
-      "title": "AlphaGenome Atlas: Using AI to find disease causing variants 🧬",
-      "summary": "How do you find a single typo in a person's DNA that causes a rare disease? It is like finding a needle in a 9-billion-piece haystack. Enter AlphaGenome Atlas: a new AI-powered database charting the molecular impact of every possible genetic variant. Scientists are already using…",
-      "publishedAt": "2026-09-08T14:02:28.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "f7dd334d631adf7d",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "publishedAt": "2026-09-08T14:00:15.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "c82af191371f1d78",
-      "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
-      "title": "AlphaGenome Atlas: Understanding the human genome",
-      "summary": "We’ve used AlphaGenome to predict the molecular impact of every possible single-letter change in the human genome. All nine billion of them. AlphaGenome Atlas is a 1PB dataset containing every single possible nucleotide variant alongside an AlphaGenome Variant Impact (AVI)…",
-      "publishedAt": "2026-09-08T13:58:27.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "aaada63e998e3254",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "title": "The Work Now Within Reach",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "publishedAt": "2026-09-08T13:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",

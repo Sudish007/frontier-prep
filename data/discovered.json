@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-10-23T11:39:27.578Z",
+  "generatedAt": "2026-10-23T17:07:27.560Z",
   "items": [
+    {
+      "id": "c764dbeb21a3918f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "summary": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling…",
+      "publishedAt": "2026-10-23T16:30:10.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "b6c56d0d791abb14",
+      "url": "https://www.youtube.com/watch?v=cfnLXAXTadA",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Designing AI for Societal Good",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 9, 2026 This lecture covers: • Improving generative AI chatbots' influence on public mental health as a case study • A new way of thinking about \"designing AI…",
+      "publishedAt": "2026-10-23T16:00:05.000Z",
+      "firstSeen": "2026-10-23T17:07:27.560Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
     {
       "id": "d12e8348865205fd",
       "url": "https://www.youtube.com/shorts/RLQR5_5fJDA",

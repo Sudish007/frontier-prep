@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-23T11:39:27.578Z",
+  "generatedAt": "2026-10-23T17:07:27.560Z",
   "items": [
+    {
+      "id": "gh-anthropic-5461873008",
+      "company": "Anthropic",
+      "title": "Applied AI Security Architect - Healthcare & Life Sciences",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461873008",
+      "postedAt": "2026-10-23T14:31:11.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-10-23T17:07:27.560Z"
+    },
     {
       "id": "gh-anthropic-5455627008",
       "company": "Anthropic",
@@ -227,18 +239,6 @@
       "india": false,
       "remote": false,
       "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
-      "company": "OpenAI",
-      "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
-      "location": "San Francisco; New York City; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
-      "postedAt": "2026-10-19T19:55:35.364Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
