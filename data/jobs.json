@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:24:45.587Z",
+  "generatedAt": "2026-10-24T04:36:52.402Z",
   "items": [
     {
       "id": "ashby-openai-0ed5f6c7-3977-4da9-9961-202fe76de456",
@@ -2363,18 +2363,6 @@
       "india": false,
       "remote": false,
       "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-5a682b9f-ef1a-4e47-813a-72b23414d43e",
-      "company": "OpenAI",
-      "title": "People Research Scientist",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/5a682b9f-ef1a-4e47-813a-72b23414d43e",
-      "postedAt": "2026-08-25T00:46:30.177Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]

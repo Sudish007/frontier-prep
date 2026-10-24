@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-23T21:24:45.587Z",
+  "generatedAt": "2026-10-24T04:36:52.402Z",
   "items": [
+    {
+      "id": "27b067f2e1fb95dc",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+      "title": "v2.1.310",
+      "summary": "What's changed Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too Fixed requests failing behind some gateways and compatible servers that reject the…",
+      "publishedAt": "2026-10-23T23:39:00.000Z",
+      "firstSeen": "2026-10-24T04:36:52.402Z",
+      "source": "rel-claude-code",
+      "sourceName": "claude-code releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "0e439f001b823840",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0",
+      "title": "v2.3.0",
+      "summary": "Features api: add Claude Tag endpoints for Claude Enterprise organizations Bug Fixes google-cloud: send user profiles requests to the organization endpoint Chores client: stop sending query params hardcoded in endpoint paths docs: improve the descriptions of the code execution…",
+      "publishedAt": "2026-10-23T23:18:22.000Z",
+      "firstSeen": "2026-10-24T04:36:52.402Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "18216b018fb1ff4f",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+      "title": "Quick Study",
+      "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a…",
+      "publishedAt": "2026-10-23T21:35:13.000Z",
+      "firstSeen": "2026-10-24T04:36:52.402Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "829f9c5b4d23efee",
       "url": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
@@ -5767,21 +5811,6 @@
       ]
     },
     {
-      "id": "29f9840eaa57bc2e",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
-      "title": "v2.1.300",
-      "summary": "What's changed Added virtualText to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry api_request event, splitting cache writes by lifetime…",
-      "publishedAt": "2026-10-14T18:24:25.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-claude-code",
-      "sourceName": "claude-code releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "bc6f7d6d13e5ee6f",
       "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "title": "Uber’s AI infra, from the inside",
@@ -6584,21 +6613,6 @@
       "topics": [
         "google",
         "research"
-      ]
-    },
-    {
-      "id": "9535cea5f62aca34",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.12.0",
-      "title": "v1.12.0",
-      "summary": "1.12.0 (2026-10-07) Full Changelog: v1.11.0...v1.12.0 Features api: add claude-haiku-5-5 and typed computer and browser toolset tool calls ( f6346e6 ) api: add disabled to thinking types in model capabilities ( 78d815d ) api: add display_name to RBAC roles and deprecate name (…",
-      "publishedAt": "2026-10-07T17:57:07.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
       ]
     },
     {
