@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:57:27.083Z",
+  "generatedAt": "2026-10-24T20:49:52.160Z",
   "items": [
     {
       "id": "c1ad71a16e1f5eab",
@@ -8866,63 +8866,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "534907e0d31e4171",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "publishedAt": "2026-09-09T17:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "9dfbbba1ce508483",
-      "url": "https://www.youtube.com/watch?v=O_EWbnkjXdk",
-      "title": "How AI is transforming weather prediction",
-      "summary": "Can artificial intelligence solve one of science’s most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down with Peter Battaglia, Senior Director of Research at Google DeepMind, to explore how machine learning is transforming global weather forecasting. From…",
-      "publishedAt": "2026-09-09T16:10:39.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "91d5074fb05aebf1",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-      "title": "Get ready for the game with new football features in Search",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "ada2f64613585383",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
       ]
     }
   ]
