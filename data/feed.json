@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-24T04:36:52.402Z",
+  "generatedAt": "2026-10-24T11:00:12.837Z",
   "items": [
+    {
+      "id": "c1ad71a16e1f5eab",
+      "url": "https://latent.space/p/ainews-kimi-31",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "summary": "We have Fable at home... or so we are being told by paid shills",
+      "publishedAt": "2026-10-24T07:18:29.000Z",
+      "firstSeen": "2026-10-24T11:00:12.837Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "27b067f2e1fb95dc",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
@@ -29,6 +43,21 @@
       "topics": [
         "anthropic",
         "engineering"
+      ]
+    },
+    {
+      "id": "d5afef49e89fa5a7",
+      "url": "https://www.youtube.com/watch?v=6f7ojkd4_Wc",
+      "title": "Hunt bugs with your dot",
+      "summary": "We’re using dots to build better dots. Rennie Song, an engineer at OpenAI, uses her dot to gather feedback from social media and user reports, update a live tracker in ChatGPT Space, and investigate and fix bugs with Codex. Get started with dots today:…",
+      "publishedAt": "2026-10-23T22:05:37.000Z",
+      "firstSeen": "2026-10-24T11:00:12.837Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
       ]
     },
     {
@@ -4908,21 +4937,6 @@
       ]
     },
     {
-      "id": "ff2f40db29aa3714",
-      "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0",
-      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
-      "summary": "Bringing legal expertise and frontier AI together starts with trust. For Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on. Camillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal…",
-      "publishedAt": "2026-10-19T15:07:35.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "041ce34505c8b7e3",
       "url": "https://arxiv.org/abs/2610.26496",
       "title": "Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties",
@@ -6412,20 +6426,6 @@
       "topics": [
         "research",
         "policy"
-      ]
-    },
-    {
-      "id": "45bc2fccc930f517",
-      "url": "https://latent.space/p/nyc2026",
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "summary": "Tomorrow and Tuesday. If you see this you’re in!",
-      "publishedAt": "2026-10-10T22:07:17.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -8966,20 +8966,6 @@
       "class": "rss",
       "topics": [
         "research"
-      ]
-    },
-    {
-      "id": "587a70348a735f61",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "publishedAt": "2026-09-09T11:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]
