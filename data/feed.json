@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:00:12.837Z",
+  "generatedAt": "2026-10-24T15:57:27.083Z",
   "items": [
     {
       "id": "c1ad71a16e1f5eab",
@@ -11,6 +11,20 @@
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "5699208333bf1755",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works…",
+      "publishedAt": "2026-10-24T03:59:57.000Z",
+      "firstSeen": "2026-10-24T15:57:27.083Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
       "topics": [
         "engineering"
       ]
@@ -8909,63 +8923,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "bd9f5944e4459618",
-      "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
-      "title": "Building Codex with Tibo Sottiaux",
-      "summary": "OpenAI’s Tibo Sottiaux shares how Codex was built and how it’s reshaping software development.",
-      "publishedAt": "2026-09-09T15:57:24.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "9786c92a289dc0ec",
-      "url": "https://openai.com/index/ai-policy-window",
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "publishedAt": "2026-09-09T13:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "f46b90765bafdbe3",
-      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.2",
-      "title": "v0.22.2",
-      "summary": "What's Changed feat: support current image generation tool options by @seratch in #4932 fix(sandbox): prevent UnixLocal file API symlink races by @seratch in #4931 fix(sessions): reset compaction response chain after pop by @rksharma-owg in #4934 Documentation & Other Changes…",
-      "publishedAt": "2026-09-09T12:36:10.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-agents",
-      "sourceName": "openai-agents-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "af4f922db583ae67",
-      "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
-      "title": "When will average people feel AI’s impact?",
-      "summary": "We’re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
-      "publishedAt": "2026-09-09T11:01:23.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "interconnects",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "class": "rss",
-      "topics": [
-        "research"
       ]
     }
   ]
