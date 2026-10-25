@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-25T11:29:36.446Z",
+  "generatedAt": "2026-10-25T16:19:34.647Z",
   "items": [
+    {
+      "id": "c49166f03baf9f66",
+      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+      "title": "Sphere Intersection Puzzle Corrected",
+      "summary": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
+      "publishedAt": "2026-10-25T14:30:46.000Z",
+      "firstSeen": "2026-10-25T16:19:34.647Z",
+      "source": "yt-3b1b",
+      "sourceName": "3Blue1Brown (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "63279317fe75954b",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.285",
+      "title": "v0.3.285",
+      "summary": "0.3.285 (2026-10-25) Features viewer Terminals tab for recorded terminal sessions and a merged Info tab ( #6079 ) ( e37ce2f ) Bug Fixes .eval reads with exclude_fields failing on large float literals ( #6045 ) ( 641b871 ) agent bridge returns non-beta Anthropic usage to…",
+      "publishedAt": "2026-10-25T14:27:46.000Z",
+      "firstSeen": "2026-10-25T16:19:34.647Z",
+      "source": "rel-inspect",
+      "sourceName": "inspect_ai releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "evals"
+      ]
+    },
+    {
+      "id": "cb0e6541c41d00d8",
+      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "summary": "#20",
+      "publishedAt": "2026-10-25T11:49:00.000Z",
+      "firstSeen": "2026-10-25T16:19:34.647Z",
+      "source": "interconnects",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "class": "rss",
+      "topics": [
+        "research"
+      ]
+    },
     {
       "id": "bdd368d91cc956f5",
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.284",
@@ -7076,21 +7120,6 @@
       ]
     },
     {
-      "id": "77bf7db8f4c4abb0",
-      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.275",
-      "title": "0.3.275",
-      "summary": "update changelog for release",
-      "publishedAt": "2026-10-02T02:54:08.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-inspect",
-      "sourceName": "inspect_ai releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "evals"
-      ]
-    },
-    {
       "id": "f02178d6f4fc8f04",
       "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.23.0",
       "title": "v0.23.0",
@@ -8711,77 +8740,6 @@
       "class": "rss",
       "topics": [
         "career"
-      ]
-    },
-    {
-      "id": "014159943e4d9643",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "94ad36d7ed05c224",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "e723d856f72c8bdc",
-      "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-      "title": "One resignation turned the embers of AI fear into a wildfire",
-      "summary": "Some quick notes on a truly weird week.",
-      "publishedAt": "2026-09-10T15:28:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "interconnects",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "class": "rss",
-      "topics": [
-        "research"
-      ]
-    },
-    {
-      "id": "df1c0beb84f2c626",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "title": "Why don’t machine learning research agents overfit?",
-      "summary": "New research indicates that AI agents learn compressible models of data, which don’t have enough space to enable memorization.",
-      "publishedAt": "2026-09-10T15:03:39.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "amazon-science",
-      "sourceName": "Amazon Science",
-      "class": "rss",
-      "topics": [
-        "amazon",
-        "research"
-      ]
-    },
-    {
-      "id": "4d4e7920d8a762a2",
-      "url": "https://openai.com/index/put-data-to-work",
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "publishedAt": "2026-09-10T15:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]
