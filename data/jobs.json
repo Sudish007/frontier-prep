@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-24T20:49:52.160Z",
+  "generatedAt": "2026-10-25T04:41:28.994Z",
   "items": [
+    {
+      "id": "gh-anthropic-5462893008",
+      "company": "Anthropic",
+      "title": "Enforcement Analyst, Agentic Alignment",
+      "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462893008",
+      "postedAt": "2026-10-25T02:29:23.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-10-25T04:41:28.994Z"
+    },
     {
       "id": "ashby-openai-0ed5f6c7-3977-4da9-9961-202fe76de456",
       "company": "OpenAI",

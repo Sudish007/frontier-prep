@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-24T20:49:52.160Z",
+  "generatedAt": "2026-10-25T04:41:28.994Z",
   "items": [
+    {
+      "id": "bdd368d91cc956f5",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.284",
+      "title": "v0.3.284",
+      "summary": "0.3.284 (2026-10-25) Features moonshot: support Kimi K3.1 Pro and K3.1 Pro Highspeed ( #6072 ) ( eade928 ) sentinel: step.agent_messages is the running agent's own message list at every stage ( #5986 ) ( 4744d5f ) update fireworks and together model info ( d6bbd08 ) viewer plays…",
+      "publishedAt": "2026-10-25T01:19:11.000Z",
+      "firstSeen": "2026-10-25T04:41:28.994Z",
+      "source": "rel-inspect",
+      "sourceName": "inspect_ai releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "evals"
+      ]
+    },
     {
       "id": "c1ad71a16e1f5eab",
       "url": "https://latent.space/p/ainews-kimi-31",
@@ -7291,21 +7306,6 @@
       ]
     },
     {
-      "id": "7f0a79f2ff4dcfe3",
-      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.273",
-      "title": "0.3.273",
-      "summary": "update changelog for release",
-      "publishedAt": "2026-09-30T00:08:37.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-inspect",
-      "sourceName": "inspect_ai releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "evals"
-      ]
-    },
-    {
       "id": "581ab3112c302ffe",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
@@ -8810,62 +8810,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "2b26a8066576cc98",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "title": "Introducing the Agents API",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "4e410dad70fb9298",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "cb50b0c3c8564548",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "summary": "",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "d4e55a9164f4783e",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "summary": "",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     }
   ]
