@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T04:41:28.994Z",
+  "generatedAt": "2026-10-25T11:29:36.446Z",
   "items": [
     {
       "id": "gh-anthropic-5462893008",
@@ -1490,18 +1490,6 @@
       "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
-      "id": "amzn-10556092",
-      "company": "Amazon",
-      "title": "Mgr, Solutions Architect",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10556092/mgr-solutions-architect",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
       "id": "ashby-openai-6628eb95-ede3-49ab-a11f-3d5c44b16bbb",
       "company": "OpenAI",
       "title": "Partner Solutions Engineer, Ads Solutions - San Francisco",
@@ -2363,18 +2351,6 @@
       "india": false,
       "remote": true,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5390770008",
-      "company": "Anthropic",
-      "title": "Applied AI Architect, Industries ",
-      "location": "Milan, Italy",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390770008",
-      "postedAt": "2026-08-26T10:00:04.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]
