@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:19:34.647Z",
+  "generatedAt": "2026-10-25T20:51:07.878Z",
   "items": [
     {
       "id": "c49166f03baf9f66",
@@ -8726,20 +8726,6 @@
       "topics": [
         "google",
         "research"
-      ]
-    },
-    {
-      "id": "4a4ff0ec56e98ec9",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
-      "title": "The Pulse #191: a new trend of CPU shortages",
-      "summary": "For compute-intensive services: it’s worth reserving more compute now. Also: growth dreams end for more COVID-era unicorns, engineers losing touch with systems when AI handles incidents, and more",
-      "publishedAt": "2026-09-10T17:13:44.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
       ]
     }
   ]
