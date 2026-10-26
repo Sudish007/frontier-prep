@@ -1,6 +1,309 @@
 {
-  "generatedAt": "2026-10-26T13:02:42.656Z",
+  "generatedAt": "2026-10-26T22:40:09.817Z",
   "items": [
+    {
+      "id": "edf59637f599d673",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "anthropic-news",
+      "sourceName": "Anthropic news",
+      "class": "html-links",
+      "topics": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "afe12645665b5b02",
+      "url": "https://www.youtube.com/watch?v=zUybw-9ejZ4",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "Amp is building an AI agent that helps developers turn ideas into working software, from deciding what to build to writing code to onboarding customers. Sign in with ChatGPT gives Amp users access to more tokens for larger tasks, while Amp's conversational assistant, Puck, uses…",
+      "publishedAt": "2026-10-26T22:03:54.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "15dfb72e904d6d22",
+      "url": "https://www.youtube.com/watch?v=8fp-G14hvUk",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Stack Overflow is building a knowledge intelligence platform that turns information scattered across workplace tools into verified knowledge for people and AI agents. The company's latest product, Stack Overflow for Agents, was built from the ground up by two engineers in just a…",
+      "publishedAt": "2026-10-26T22:03:40.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "2e623b5ef9a8dee6",
+      "url": "https://www.youtube.com/watch?v=inrYeej3Big",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary": "Higgsfield is building an AI video and image creation platform that helps creators and small teams produce everything from instructional videos to fashion campaigns. With GPT‑6 Astra, the company has gone from creating videos around one minute long to videos over 10 minutes.…",
+      "publishedAt": "2026-10-26T22:03:06.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "250e5d8f302445e7",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "38313c82af265d42",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
+      "title": "v2.1.311",
+      "summary": "What's changed Added --hold-idle-file and --max-hold-min to self-hosted-runner , to keep an idle session while your host reports processes it left running Added a tip for the Explanatory output style, shown when you ask Claude for explanations Fixed long freezes at startup and…",
+      "publishedAt": "2026-10-26T21:51:23.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "rel-claude-code",
+      "sourceName": "claude-code releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "0c05bd4cf5a4c5cc",
+      "url": "https://www.youtube.com/watch?v=crEHJon4iD4",
+      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
+      "summary": "At Sullivan & Cromwell LLP, John Savva uses Codex to build tools around the firm’s legal expertise. Agreement Analyzer brings together a draft agreement, selected precedents, and playbooks reflecting the firm’s and client’s positions. It identifies potential issues and returns a…",
+      "publishedAt": "2026-10-26T20:06:50.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "f938bda7e1fddeaf",
+      "url": "https://www.youtube.com/watch?v=aNMZjoPGPOg",
+      "title": "Hebbia on Astra: Better research, better presentations | OpenAI",
+      "summary": "“We see Astra actually show over double digit gains over any other model we've tested on two fronts.” Hebbia’s Kavita Anand names the two: selecting the right sources and generating PowerPoint presentations. For a banker or investor working through a data room with thousands of…",
+      "publishedAt": "2026-10-26T19:58:02.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "e6c8f5e185e4bb05",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.39.0",
+      "title": "v3.39.0",
+      "summary": "3.39.0 (2026-10-26) Features api: add gpt-6.1-terra model identifier ( #4180 ) ( e8beb1a )",
+      "publishedAt": "2026-10-26T19:14:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "e842fe95fb640890",
+      "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
+      "title": "GPT-6.1 Terra is now in orbit",
+      "summary": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. GPT-6.1 Terra continues…",
+      "publishedAt": "2026-10-26T18:12:28.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "8ed93bec790144d5",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "summary": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an…",
+      "publishedAt": "2026-10-26T17:56:58.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "0f715e1693d7c6b7",
+      "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock",
+      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "summary": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
+      "publishedAt": "2026-10-26T17:27:20.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "e5e4c3ae2b7984fd",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "summary": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand…",
+      "publishedAt": "2026-10-26T17:15:14.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "93828099da30b82a",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.38.0",
+      "title": "v3.38.0",
+      "summary": "3.38.0 (2026-10-25) Features api: add delegation controls and prompt cache lifetimes ( #4169 ) ( 43045fc ) api: expand Live Decision item and question types ( #4175 ) ( 5d72315 ) Bug Fixes agents: clarify result schema warnings ( #4165 ) ( cfa0a79 ) format API status errors…",
+      "publishedAt": "2026-10-26T16:35:03.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "188e9fbc4643b05c",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "f16aefe89a6e3f3b",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "publishedAt": "2026-10-26T14:30:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "1a1d4bf2fc111eb8",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "publishedAt": "2026-10-26T13:45:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "64d59b55a8fb8666",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "8f2f08b6e197805b",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "eb7708c5f537ab79",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "1758535ac6be3e6b",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "firstSeen": "2026-10-26T22:40:09.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "26fd38f53c39c5d1",
       "url": "https://simonwillison.net/2026/Oct/25/seam-cutter",
@@ -1660,21 +1963,6 @@
       "class": "rss",
       "topics": [
         "amazon"
-      ]
-    },
-    {
-      "id": "ab41ce0092eca74b",
-      "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
-      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
-      "summary": "Following a 1,000-person pilot, Uber is bringing ChatGPT Work to more than 30,000 employees worldwide in its first company-wide deployment of an agentic platform for knowledge work. Uber CTO Praveen Neppalli Naga and OpenAI co-founder and President Greg Brockman discuss…",
-      "publishedAt": "2026-10-22T18:00:13.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -3732,20 +4020,6 @@
       ]
     },
     {
-      "id": "e8e7441ac397b526",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "title": "Previewing the Model Hardware Standard",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-news",
-      "sourceName": "Anthropic news",
-      "class": "html-links",
-      "topics": [
-        "anthropic"
-      ]
-    },
-    {
       "id": "e90598d819f2282e",
       "url": "https://alignment.anthropic.com/2026/red-teaming-auto-mode",
       "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents We red-team the blocking monitors in Claude Code and OpenAI's Codex with an adversarial agent, and strengthen Auto Mode against the attac",
@@ -3962,21 +4236,6 @@
       "topics": [
         "anthropic",
         "engineering"
-      ]
-    },
-    {
-      "id": "ddb41a087627a5b2",
-      "url": "https://www.youtube.com/watch?v=20IRGgQwPkc",
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
-      "summary": "V7 Go organizes company files into a Context Graph that agents can query to screen investment deals and support insurance underwriting. On V7’s hardest graph-query tests across thousands of documents, GPT-6 Astra reached 89% accuracy. Read the full story:…",
-      "publishedAt": "2026-10-21T22:05:10.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -4453,21 +4712,6 @@
       ]
     },
     {
-      "id": "300899173caea624",
-      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8",
-      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
-      "summary": "See how an AI shopping agent can turn a room photo into a personalized shopping experience—from finding the right products to updating an order. In this demo for fictional home goods retailer Vesper & Alder, a shopper uses voice and images to create a cozy reading nook. The…",
-      "publishedAt": "2026-10-20T22:57:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "7893e1432c21566d",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0",
       "title": "v1.17.0",
@@ -4480,20 +4724,6 @@
       "topics": [
         "anthropic",
         "engineering"
-      ]
-    },
-    {
-      "id": "65f689d035704c2c",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
-      "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "summary": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving…",
-      "publishedAt": "2026-10-20T21:14:10.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -4570,20 +4800,6 @@
       ]
     },
     {
-      "id": "dead45002f0a59b6",
-      "url": "https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws",
-      "title": "Workflow context for AI agents with Smartsheet MCP on AWS",
-      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
-      "publishedAt": "2026-10-20T17:59:07.000Z",
-      "firstSeen": "2026-10-23T04:49:24.807Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "a3ad0558b97a52ab",
       "url": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
       "title": "Strengthening AI safety evaluation through independent third-party review",
@@ -4596,20 +4812,6 @@
       "topics": [
         "amazon",
         "research"
-      ]
-    },
-    {
-      "id": "bf3eb719b179efc5",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore",
-      "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-      "summary": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those systems as a governed tool layer, and how Amazon Quick turns them into one…",
-      "publishedAt": "2026-10-20T17:52:50.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -4728,21 +4930,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "4292624d42f865f0",
-      "url": "https://www.youtube.com/shorts/v45XAMqH7pE",
-      "title": "You need a better headshot.",
-      "summary": "THIS JUST IN: You need a better headshot. Create yours now on ChatGPT Images.",
-      "publishedAt": "2026-10-20T13:00:34.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -4919,21 +5106,6 @@
       ]
     },
     {
-      "id": "f6d4c10bad53e0e9",
-      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs",
-      "title": "Cooking with Codex: Ep. 1",
-      "summary": "In this episode of Cooking with Codex, an OpenAI dot helps plan a ramen recipe and organize prep in ChatGPT Space, with GPT-Live guiding the cooking process. Also covered: Codex cloud environments, which keep tasks running after a laptop is closed, and new Codex CLI features…",
-      "publishedAt": "2026-10-19T22:55:26.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "3ab5b12e04feb01f",
       "url": "https://arxiv.org/abs/2610.27350",
       "title": "Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops",
@@ -5006,21 +5178,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "f9db1e35ec7ae2d8",
-      "url": "https://www.youtube.com/shorts/7lC2N9woZy4",
-      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
-      "summary": "Bringing legal expertise and frontier AI together starts with trust. For Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put their name on. Camillo discusses Thomson Reuters’ work with OpenAI to bring HighQ and Thomson Reuters CoCounsel Legal…",
-      "publishedAt": "2026-10-19T15:13:45.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -5580,21 +5737,6 @@
       ]
     },
     {
-      "id": "371a0b09d710d8e9",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
-      "title": "v2.1.301",
-      "summary": "What's changed Added CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS so unattended retry mode ( CLAUDE_CODE_RETRY_WATCHDOG ) ends a request at a usage limit that resets too far away instead of waiting Added OpenTelemetry tracing guidance to the claude-api skill, including…",
-      "publishedAt": "2026-10-15T19:22:06.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-claude-code",
-      "sourceName": "claude-code releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "a72d1e4da6b0e106",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -6011,36 +6153,6 @@
       ]
     },
     {
-      "id": "6c3c646981d569e2",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.31.0",
-      "title": "v3.31.0",
-      "summary": "3.31.0 (2026-10-14) Features add browser and computer toolsets (1/4) ( #4073 ) ( 47b9e4e )",
-      "publishedAt": "2026-10-14T05:38:46.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "3512a5ebf1d262c6",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.30.0",
-      "title": "v3.30.0",
-      "summary": "3.30.0 (2026-10-14) Features api: add beta session spending limits ( #4058 ) ( b570279 ) api: add OCI external-storage provider support ( #4060 ) ( 9eb83fe ) api: add organization Decisions usage reporting ( #4062 ) ( 5e7a23e ) api: expose image tool error and moderation details…",
-      "publishedAt": "2026-10-14T04:00:19.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
       "id": "e70aad5f12dadc92",
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.280",
       "title": "v0.3.280",
@@ -6425,20 +6537,6 @@
       "topics": [
         "amazon",
         "research"
-      ]
-    },
-    {
-      "id": "94178e6833800768",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling",
-      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-      "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\"…",
-      "publishedAt": "2026-10-12T16:58:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -8633,20 +8731,6 @@
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "publishedAt": "2026-09-14T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "c3aa33826442d0f0",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "publishedAt": "2026-09-11T16:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",

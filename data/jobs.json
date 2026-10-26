@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-26T13:02:42.656Z",
+  "generatedAt": "2026-10-26T22:40:09.817Z",
   "items": [
+    {
+      "id": "ashby-openai-7472e486-0aa6-4f9d-86da-2105a42b2dce",
+      "company": "OpenAI",
+      "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
+      "location": "San Francisco; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/7472e486-0aa6-4f9d-86da-2105a42b2dce",
+      "postedAt": "2026-10-26T17:45:52.245Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-10-26T22:40:09.817Z"
+    },
     {
       "id": "ashby-openai-c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
       "company": "OpenAI",
@@ -24,6 +36,18 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-26T04:47:21.786Z"
+    },
+    {
+      "id": "amzn-10588477",
+      "company": "Amazon",
+      "title": "Applied Scientist II, Advertising Trust",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10588477/applied-scientist-ii-advertising-trust",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-10-26T22:40:09.817Z"
     },
     {
       "id": "gh-anthropic-5462893008",
@@ -408,6 +432,18 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
+    },
+    {
+      "id": "ashby-openai-5dce6671-9aa8-4c49-b263-b175a2a927f8",
+      "company": "OpenAI",
+      "title": "Data Scientist, Personalization & Machine Learning",
+      "location": "San Francisco; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
+      "postedAt": "2026-10-15T01:07:39.592Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-10-26T22:40:09.817Z"
     },
     {
       "id": "ashby-openai-8cad7bcc-3720-4534-822d-d9722599e8a6",
@@ -2276,42 +2312,6 @@
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008",
       "postedAt": "2026-08-27T23:58:06.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-832094fd-4d89-4fe4-bc18-9ba88d347a18",
-      "company": "OpenAI",
-      "title": "Forward Deployed Engineer (FDE), Legal-SF",
-      "location": "New York City; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
-      "postedAt": "2026-08-27T16:14:22.852Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-b28b990c-54e4-4be4-a33a-d5518dc3e117",
-      "company": "OpenAI",
-      "title": "Manager, Applied AI Engineering (Codex)",
-      "location": "San Francisco; New York City; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/b28b990c-54e4-4be4-a33a-d5518dc3e117",
-      "postedAt": "2026-08-27T13:49:10.819Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5404725008",
-      "company": "Anthropic",
-      "title": "Staff+ Research Engineer, RL Data Platform",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404725008",
-      "postedAt": "2026-08-27T13:04:41.000Z",
       "india": false,
       "remote": false,
       "board": "anthropic",
