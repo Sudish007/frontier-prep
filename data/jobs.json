@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-25T20:51:07.878Z",
+  "generatedAt": "2026-10-26T04:47:21.786Z",
   "items": [
+    {
+      "id": "gh-anthropic-5461863008",
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461863008",
+      "postedAt": "2026-10-26T00:37:52.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-10-26T04:47:21.786Z"
+    },
     {
       "id": "gh-anthropic-5462893008",
       "company": "Anthropic",
