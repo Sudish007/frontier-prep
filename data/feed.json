@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:47:21.786Z",
+  "generatedAt": "2026-10-26T13:02:42.656Z",
   "items": [
     {
       "id": "26fd38f53c39c5d1",
@@ -8647,34 +8647,6 @@
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "publishedAt": "2026-09-11T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "3149e64f7f8b62ea",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "title": "Open-Source AI & Open Models Reading List",
-      "summary": "How to get up to speed on open models and their implications.",
-      "publishedAt": "2026-09-11T12:36:25.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "interconnects",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "class": "rss",
-      "topics": [
-        "research"
-      ]
-    },
-    {
-      "id": "c7d3c8aeae425678",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "publishedAt": "2026-09-11T10:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",

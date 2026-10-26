@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-26T04:47:21.786Z",
+  "generatedAt": "2026-10-26T13:02:42.656Z",
   "items": [
+    {
+      "id": "ashby-openai-c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
+      "company": "OpenAI",
+      "title": "Applied AI Architect, OpenAI for Government",
+      "location": "Munich, Germany; London, UK; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
+      "postedAt": "2026-10-26T06:03:15.904Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-10-26T13:02:42.656Z"
+    },
     {
       "id": "gh-anthropic-5461863008",
       "company": "Anthropic",
@@ -396,18 +408,6 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10579818",
-      "company": "Amazon",
-      "title": "ML Data Associate-II, Artificial General Intelligence",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10579818/ml-data-associate-ii-artificial-general-intelligence",
-      "postedAt": "2026-10-15T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "ashby-openai-8cad7bcc-3720-4534-822d-d9722599e8a6",
@@ -2040,18 +2040,6 @@
       "remote": true,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10529393",
-      "company": "Amazon",
-      "title": "Senior Solutions Architect, Automotive and Manufacturing, AWS Industries",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10529393/senior-solutions-architect-automotive-and-manufacturing-aws-industries",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "ashby-openai-c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f",
