@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:40:09.817Z",
+  "generatedAt": "2026-10-27T05:05:03.870Z",
   "items": [
     {
       "id": "ashby-openai-7472e486-0aa6-4f9d-86da-2105a42b2dce",
@@ -668,18 +668,6 @@
       "location": "Bengaluru, Karnataka, IND",
       "url": "https://www.amazon.jobs/en/jobs/10577550/applied-scientist-ii-risk-and-compliance-solutions-rcs",
       "postedAt": "2026-10-13T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "amzn-10574302",
-      "company": "Amazon",
-      "title": "Applied Scientist 2, Prime Video & Studios CoreTech",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10574302/applied-scientist-2-prime-video-studios-coretech",
-      "postedAt": "2026-10-09T00:00:00.000Z",
       "india": true,
       "remote": false,
       "board": "amazon-ml-india",
@@ -2186,18 +2174,6 @@
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
-      "id": "ashby-openai-cadb7c24-2aea-4b98-a793-65ae9388b5d6",
-      "company": "OpenAI",
-      "title": "People Research Data Scientist, AI Fairness & Bias",
-      "location": "San Francisco; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6",
-      "postedAt": "2026-08-31T16:39:50.950Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
       "id": "ashby-openai-0a24703f-6108-4422-807e-78831dd98ed1",
       "company": "OpenAI",
       "title": "Manager, Applied AI Engineering  (Enterprise)",
@@ -2291,30 +2267,6 @@
       "india": false,
       "remote": true,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10517901",
-      "company": "Amazon",
-      "title": "Solutions Architect II, Direct Tax Technology",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10517901/solutions-architect-ii-direct-tax-technology",
-      "postedAt": "2026-08-28T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "gh-anthropic-5409008008",
-      "company": "Anthropic",
-      "title": "Applied AI Architect, Strategic Enterprise Tech",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008",
-      "postedAt": "2026-08-27T23:58:06.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]

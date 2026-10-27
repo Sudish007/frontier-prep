@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-26T22:40:09.817Z",
+  "generatedAt": "2026-10-27T05:05:03.870Z",
   "items": [
+    {
+      "id": "2812ff85caf0a240",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "title": "GPT-6.1 Terra",
+      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines…",
+      "publishedAt": "2026-10-26T23:53:07.000Z",
+      "firstSeen": "2026-10-27T05:05:03.870Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "edf59637f599d673",
       "url": "https://www.anthropic.com/news/s1-sec",
@@ -203,6 +217,20 @@
       "class": "atom",
       "topics": [
         "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "0821e0cfddae297e",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard…",
+      "publishedAt": "2026-10-26T16:15:00.000Z",
+      "firstSeen": "2026-10-27T05:05:03.870Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
         "engineering"
       ]
     },
@@ -6438,20 +6466,6 @@
       ]
     },
     {
-      "id": "d81a3a0e0e0d67fe",
-      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai",
-      "title": "llm-meta-ai 0.2",
-      "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin…",
-      "publishedAt": "2026-10-12T23:58:46.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "d169ebf51e256760",
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.279",
       "title": "v0.3.279",
@@ -6506,20 +6520,6 @@
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "a31dac6d0b53e097",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and…",
-      "publishedAt": "2026-10-12T18:15:38.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
       "topics": [
         "engineering"
       ]
