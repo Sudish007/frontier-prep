@@ -1,6 +1,328 @@
 {
-  "generatedAt": "2026-10-27T12:11:52.332Z",
+  "generatedAt": "2026-10-27T18:00:36.083Z",
   "items": [
+    {
+      "id": "feb4caa835f163bd",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "summary": "Education Innovation",
+      "publishedAt": "2026-10-27T17:35:28.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "db98bf59a6c7e420",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "title": "Build specialized multimodal models with LFM3",
+      "summary": "",
+      "publishedAt": "2026-10-27T17:16:52.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "2f7df4450dee9eaf",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "summary": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the…",
+      "publishedAt": "2026-10-27T17:00:39.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "10659eb70d41a8da",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+      "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "summary": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on…",
+      "publishedAt": "2026-10-27T16:53:02.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "1caf0a8b5ac4be62",
+      "url": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+      "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+      "summary": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower…",
+      "publishedAt": "2026-10-27T16:50:55.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "3bd3315ede2e153c",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "summary": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "publishedAt": "2026-10-27T16:19:22.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "34370e88c88d0cd4",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "",
+      "publishedAt": "2026-10-27T16:12:42.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "5ef94984dce414f6",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "8a965d9f9cf7fe1a",
+      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Meet Genie 4, Google DeepMind’s most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you step inside dynamic worlds in real time, steer scenes on the fly with natural language, and watch what happens next: how the world responds, how it…",
+      "publishedAt": "2026-10-27T16:00:41.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-deepmind",
+      "sourceName": "Google DeepMind (YouTube)",
+      "class": "atom",
+      "topics": [
+        "google",
+        "video"
+      ]
+    },
+    {
+      "id": "406c21cb8d5e0a29",
+      "url": "https://www.youtube.com/shorts/Yim7JrVzSkk",
+      "title": "Lawyers Stay in Control | AT&T + OpenAI",
+      "summary": "AT&T’s David McAtee and Bill Ryan discuss how AI can support legal work while lawyers remain responsible for strategy, judgment and decisions.",
+      "publishedAt": "2026-10-27T15:40:48.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "10516ce4580b702d",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.40.0",
+      "title": "v3.40.0",
+      "summary": "3.40.0 (2026-10-27) Features api: add prompt cache breakpoint TTL options ( #4188 ) ( 3596d18 ) Bug Fixes ci: use an explicit browser demo dependency ( #4185 ) ( a3f4302 ) Chores api: record completed generated-code separation ( #4190 ) ( d7ab5ee ) deps-dev: bump griffe from…",
+      "publishedAt": "2026-10-27T15:37:52.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "6e203bfbe2a6d021",
+      "url": "https://www.youtube.com/watch?v=lPZQrVFcz3c",
+      "title": "Getting a Head Start with Codex | Mitchell Hashimoto",
+      "summary": "“The whole point is I want to hit the ground running.” HashiCorp co-founder Mitchell Hashimoto wraps up his day by putting Codex agents to work. They research the competition, compare tools and prototype features he’s still working out—giving him a head start on the next day’s…",
+      "publishedAt": "2026-10-27T15:04:57.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "92074da747c4f4b9",
+      "url": "https://www.youtube.com/watch?v=cflbzHRvGvg",
+      "title": "From Ideas to Prototypes with Codex | Shopify’s Mikhail Parakhin",
+      "summary": "“If you have an idea, bring a prototype right away.” For Shopify CTO Mikhail Parakhin, Codex is changing what his team brings to the meeting. From delegating tasks to exploring architectural options, he’s using Codex to take on work he couldn’t before. Meet Mikhail, one of the…",
+      "publishedAt": "2026-10-27T15:03:41.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "c8171476944a3a87",
+      "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo",
+      "title": "How Sotira Gives Unsold Inventory a Second Life with Codex",
+      "summary": "“Not being technical is not a reason to not build.” At Sotira, Amrita Bhasin uses Codex to connect unsold products with people who need them, helping keep millions of pounds of inventory out of landfills. Meet Amrita, one of the builders in Codex Originals. Building with Codex?…",
+      "publishedAt": "2026-10-27T15:02:46.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "8cecf18fad58c3a5",
+      "url": "https://www.youtube.com/shorts/vKMDQJpRSvA",
+      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
+      "summary": "Security teams face a constant stream of vulnerabilities and alerts. Cloudflare’s Mark Anderson describes using AI to automate detection and response so experts can focus on threats that need their judgment. He sees automation from companies like OpenAI as a way to take on…",
+      "publishedAt": "2026-10-27T14:55:22.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "04d8442205246769",
+      "url": "https://www.youtube.com/watch?v=ilG7LPrngkI",
+      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
+      "summary": "Security teams face a constant stream of vulnerabilities and alerts. Cloudflare’s Mark Anderson describes using AI to automate detection and response so experts can focus on threats that need their judgment. He sees automation from companies like OpenAI as a way to take on…",
+      "publishedAt": "2026-10-27T14:54:56.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "12acc3b43caa51ed",
+      "url": "https://www.youtube.com/shorts/uhpS6vfhrH8",
+      "title": "Better Sources, Better Presentations | Hebbia on Astra",
+      "summary": "Hebbia’s Kavita Anand explains two areas where Astra improved in the company’s evaluations: selecting the right sources and generating PowerPoint presentations. For bankers and investors working through thousands of documents, both help turn research into information they can…",
+      "publishedAt": "2026-10-27T14:50:21.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "4acfb4ee9876d284",
+      "url": "https://www.youtube.com/shorts/kc9SMiwHw5g",
+      "title": "Taking on Harder Problems with Astra | Jump Trading",
+      "summary": "At Jump Trading, Lucas Baker is seeing agents take on broader, less defined work—from building entire services to analyses that run for days across multiple data sources. He describes how AI is becoming part of his team’s everyday work.",
+      "publishedAt": "2026-10-27T14:47:57.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "37bb50e79b2045f0",
+      "url": "https://www.youtube.com/shorts/XAVYrC9lY7Q",
+      "title": "Moving IPO Work Forward with AI | Cooley + OpenAI",
+      "summary": "How can AI help reduce the demands of IPO preparation? Cooley’s Chief Innovation Officer David Wang explains how GO Public, built with OpenAI, helps put substantive work in front of clients sooner and spot issues earlier. People remain responsible for reviewing the output and…",
+      "publishedAt": "2026-10-27T14:42:25.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "6dd70bb9a79dbb69",
+      "url": "https://latent.space/p/offline-coding",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+      "publishedAt": "2026-10-27T14:41:25.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "d6b7c2e1d9fb5372",
+      "url": "https://www.youtube.com/shorts/tFmlEKQkZi0",
+      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
+      "summary": "“It is a prerequisite for staying safe that you must use AI.” Attackers can move at machine speed. Defenders need security controls that can adapt just as quickly. Jeetu Patel, President of Cisco, explains why OpenAI is becoming a core foundation for that work. With capabilities…",
+      "publishedAt": "2026-10-27T12:49:09.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "b86ae29757fe79e3",
+      "url": "https://www.youtube.com/watch?v=0qb0FQo3M5c",
+      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
+      "summary": "“It is a prerequisite for staying safe that you must use AI.” Attackers can move at machine speed. Defenders need security controls that can adapt just as quickly. Jeetu Patel, President of Cisco, explains why OpenAI is becoming a core foundation for that work. With capabilities…",
+      "publishedAt": "2026-10-27T12:45:06.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
     {
       "id": "95af72b561e4ee73",
       "url": "https://latent.space/p/ainews-anthropic-s1",
@@ -13,6 +335,20 @@
       "class": "rss",
       "topics": [
         "engineering"
+      ]
+    },
+    {
+      "id": "a3a879144b2984ac",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -133,36 +469,6 @@
       ]
     },
     {
-      "id": "0c05bd4cf5a4c5cc",
-      "url": "https://www.youtube.com/watch?v=crEHJon4iD4",
-      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
-      "summary": "At Sullivan & Cromwell LLP, John Savva uses Codex to build tools around the firm’s legal expertise. Agreement Analyzer brings together a draft agreement, selected precedents, and playbooks reflecting the firm’s and client’s positions. It identifies potential issues and returns a…",
-      "publishedAt": "2026-10-26T20:06:50.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "f938bda7e1fddeaf",
-      "url": "https://www.youtube.com/watch?v=aNMZjoPGPOg",
-      "title": "Hebbia on Astra: Better research, better presentations | OpenAI",
-      "summary": "“We see Astra actually show over double digit gains over any other model we've tested on two fronts.” Hebbia’s Kavita Anand names the two: selecting the right sources and generating PowerPoint presentations. For a banker or investor working through a data room with thousands of…",
-      "publishedAt": "2026-10-26T19:58:02.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "e6c8f5e185e4bb05",
       "url": "https://github.com/openai/openai-python/releases/tag/v3.39.0",
       "title": "v3.39.0",
@@ -175,21 +481,6 @@
       "topics": [
         "openai",
         "engineering"
-      ]
-    },
-    {
-      "id": "e842fe95fb640890",
-      "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
-      "title": "GPT-6.1 Terra is now in orbit",
-      "summary": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. GPT-6.1 Terra continues…",
-      "publishedAt": "2026-10-26T18:12:28.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -247,6 +538,36 @@
       "class": "atom",
       "topics": [
         "papers"
+      ]
+    },
+    {
+      "id": "0f775fb76e0f59a1",
+      "url": "https://arxiv.org/abs/2610.35835",
+      "title": "I-HITL: Inalienable Human-in-the-Loop",
+      "summary": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly. We introduce the…",
+      "publishedAt": "2026-10-26T17:52:14.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
+      ]
+    },
+    {
+      "id": "136ab8d625a8106a",
+      "url": "https://arxiv.org/abs/2610.35829",
+      "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
+      "summary": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time. LLM agents have recently become capable of finding real-world…",
+      "publishedAt": "2026-10-26T17:50:09.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -334,6 +655,36 @@
       ]
     },
     {
+      "id": "d1195f67513589ce",
+      "url": "https://arxiv.org/abs/2610.35773",
+      "title": "A Unified Arena for LLM Agents across Diverse Eurogame",
+      "summary": "Interactive environments offer a practical way to evaluate large language model (LLM) agents, and competitive games extend this evaluation to decisions shaped by competing goals and other agents' choices. Yet existing evaluations confined to individual games or execution…",
+      "publishedAt": "2026-10-26T17:14:22.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "d673675df49394ca",
+      "url": "https://arxiv.org/abs/2610.35767",
+      "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents",
+      "summary": "Root cause analysis (RCA) of microservice failures has attracted many LLM agents whose investigation is hand-crafted, through standard operating procedures, fixed stages and role agents. Each is evaluated on its own data against few baselines, so it is unknown whether this…",
+      "publishedAt": "2026-10-26T17:12:02.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "e0afeefed2606384",
       "url": "https://arxiv.org/abs/2610.35743",
       "title": "SEMA-Auto: Sighted and Efficient Multi-Turn Attack with Autonomy",
@@ -345,6 +696,21 @@
       "class": "atom",
       "topics": [
         "papers"
+      ]
+    },
+    {
+      "id": "6138c09f916de647",
+      "url": "https://arxiv.org/abs/2610.35716",
+      "title": "Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO",
+      "summary": "Reinforcement learning with verifiable rewards trains on cheap checks, such as unit tests, that a policy can learn to game, while a stronger check is too expensive to run on every rollout. We study how to spend a limited strong-verifier budget in GRPO, separating which weakly…",
+      "publishedAt": "2026-10-26T16:38:14.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
       ]
     },
     {
@@ -531,6 +897,21 @@
       ]
     },
     {
+      "id": "3f1b653cbe2f2582",
+      "url": "https://arxiv.org/abs/2610.35579",
+      "title": "Infinity Machine: a self-improving AI agent for research",
+      "summary": "We present the Infinity Machine, a self-improving AI agent that we use for research on problems whose answers aprogram or data can check. Each candidate solution is produced by a full tool-using agent that works for up to an hour in a fresh sandbox; proposers see only a public…",
+      "publishedAt": "2026-10-26T15:11:26.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "a5b673f85a3ae09a",
       "url": "https://arxiv.org/abs/2610.35558",
       "title": "EXCISE: Locating and Excising Distracting Sentences in Medical Question Answering",
@@ -584,6 +965,36 @@
       "class": "rss",
       "topics": [
         "openai"
+      ]
+    },
+    {
+      "id": "9d4b18ba54005139",
+      "url": "https://arxiv.org/abs/2610.35497",
+      "title": "When Fine-Grained Credit Assignment Helps and Hurts: Multimodal Agentic Reinforcement Learning through Video Editing",
+      "summary": "Reinforcement learning (RL) has shown promise for training multimodal agents to reason and use tools. However, it remains unclear when fine-grained credit assignment improves learning and when it fails to improve task performance. Video editing provides a useful testbed for this…",
+      "publishedAt": "2026-10-26T14:25:40.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
+      ]
+    },
+    {
+      "id": "0401d34251e7d5bf",
+      "url": "https://arxiv.org/abs/2610.35486",
+      "title": "ShutdownMod: Turning Any Trajectory into a Shutdown Evaluation",
+      "summary": "Theory and experiments suggest that capable AI agents may resist shutdown. Existing shutdown evaluations are informative but limited in coverage and vulnerable to evaluation awareness. We introduce ShutdownMod, a method that turns any agent trajectory into a shutdown evaluation…",
+      "publishedAt": "2026-10-26T14:14:45.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -671,6 +1082,21 @@
       ]
     },
     {
+      "id": "cef8924f888a0b28",
+      "url": "https://arxiv.org/abs/2610.35426",
+      "title": "Intent-Preserving Adversarial User Simulation for Multi-Turn Agent Evaluation",
+      "summary": "Multi-turn agents are commonly evaluated with LLM-based simulated users, which can be overly cooperative and can therefore overestimate an agent's performance. We here introduce StressSim, an intent-preserving adversarial user simulator framework for stress-testing agents with…",
+      "publishedAt": "2026-10-26T13:33:07.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "2ac65899146b0036",
       "url": "https://arxiv.org/abs/2610.35423",
       "title": "INVAR-Agri: Detecting Discrepancies in Multilingual Operator Manuals of Agricultural Implements with a Fine-Tuned LLM",
@@ -710,6 +1136,66 @@
       "class": "atom",
       "topics": [
         "papers"
+      ]
+    },
+    {
+      "id": "4a4ad359c5b2a812",
+      "url": "https://arxiv.org/abs/2610.35398",
+      "title": "Belief-Conditioned Multi-Agent Actor Critic for Decentralized LLM Collaboration",
+      "summary": "Recent work has explored optimizing LLM collaboration through Multi-Agent Reinforcement Learning (MARL), but many approaches still rely on predefined workflows, limiting efficiency and scalability. Decentralized LLM collaboration is challenging because agents execute…",
+      "publishedAt": "2026-10-26T13:12:41.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "f63c45268685bd69",
+      "url": "https://arxiv.org/abs/2610.35391",
+      "title": "Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven Agents",
+      "summary": "High-fidelity digital twins in continuous biomanufacturing are often bottlenecked by incomplete kinetic models, while standard data-driven algorithms (e.g., SINDy, PINNs) lack interpretability or impose rigid physical assumptions. This paper introduces a hybrid closed-loop…",
+      "publishedAt": "2026-10-26T13:10:07.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "9648bf6bc5644fc5",
+      "url": "https://arxiv.org/abs/2610.35349",
+      "title": "MarkovSim: an LLM Agent Harness with Bounded Context for Long-Horizon Computational Simulation",
+      "summary": "Recent studies have applied large language model (LLM) agent systems to computational simulation workflows. Such workflows are long-horizon, so the information generated can exceed what an LLM can reason over at once, its context window. Context management is therefore…",
+      "publishedAt": "2026-10-26T12:41:39.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "ac6e3e3309b9e2a8",
+      "url": "https://arxiv.org/abs/2610.35335",
+      "title": "Knowing When to Escalate: Disagreement Patterns for Uncertainty-Aware Content Moderation",
+      "summary": "Agentic content-moderation systems increasingly rely on collective judgments from LLM agents, while aggregation methods commonly treat inter-agent disagreement as a reliability problem to be removed through consensus or voting. This framing is inappropriate for value-laden…",
+      "publishedAt": "2026-10-26T12:32:25.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -867,6 +1353,21 @@
       ]
     },
     {
+      "id": "32ff9538845c3b8a",
+      "url": "https://arxiv.org/abs/2610.35160",
+      "title": "AutoEnergyDesign: An LLM-Driven Agent for Automatic Energy System Design Optimization",
+      "summary": "Designing building energy systems is a high-dimensional, mixed-integer search problem: when each design is evaluated by a year-long simulation, black-box optimizers typically need hundreds of evaluations. This paper presents AutoEnergyDesign, a framework in which a Large…",
+      "publishedAt": "2026-10-26T10:25:55.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "1f5dd4b678c7dafb",
       "url": "https://arxiv.org/abs/2610.35142",
       "title": "CalibraRL: Confidence-Calibrated Reinforcement Learning for Mitigating Hallucinations in RAG",
@@ -892,6 +1393,81 @@
       "class": "rss",
       "topics": [
         "openai"
+      ]
+    },
+    {
+      "id": "a88c032b04eabe2e",
+      "url": "https://arxiv.org/abs/2610.35089",
+      "title": "Learning to Remember: Advances in Memory Mechanisms for Large Language Models",
+      "summary": "Memory has become a central mechanism for extending large language models (LLMs) beyond fixed context windows, stateless interaction, and static parametric knowledge. This survey organizes the literature around three complementary dimensions: the life cycle of memory, the…",
+      "publishedAt": "2026-10-26T09:31:04.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "f884501033efa865",
+      "url": "https://arxiv.org/abs/2610.35082",
+      "title": "CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems",
+      "summary": "Agent Skills allow LLM agents to combine reusable capabilities, but checking each Skill in isolation cannot rule out policy violations when they are composed. We term such failures Conflict of Skills (CoS): artifacts or assessment signals produced for one purpose may be reused…",
+      "publishedAt": "2026-10-26T09:25:38.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "48f3a786c034112c",
+      "url": "https://arxiv.org/abs/2610.35031",
+      "title": "PatentAgentBench: Benchmarking LLM Agents with Professional Patent Task Suites",
+      "summary": "Patent practice lies at the intersection of technical, legal, and linguistic work, making it challenging yet crucial to technological innovation. Recently, rapid advances in large language models (LLMs) and agentic systems have demonstrated the potential to complete realistic…",
+      "publishedAt": "2026-10-26T08:44:25.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "0e4701da50014016",
+      "url": "https://arxiv.org/abs/2610.35013",
+      "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+      "summary": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization anchored at turns with finer credit allocation among tokens.…",
+      "publishedAt": "2026-10-26T08:22:11.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "cfcf291e7ccd5d76",
+      "url": "https://arxiv.org/abs/2610.34987",
+      "title": "AskGLP1: A Knowledge Graph LLM Agent for Exploring GLP-1 Experience from Online Patient Narratives",
+      "summary": "GLP-1 medications are increasingly used for weight management, and many people share their experiences online. These narratives show why people take the drugs and what they experience, but they remain unstructured and disconnected from formal pharmacovigilance. We therefore…",
+      "publishedAt": "2026-10-26T07:59:20.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
       ]
     },
     {
@@ -923,6 +1499,156 @@
       ]
     },
     {
+      "id": "c41bd2f59e2b326c",
+      "url": "https://arxiv.org/abs/2610.34890",
+      "title": "AIPC: Evidence-Guided Agent Workflows for PyTorch Project Deployment",
+      "summary": "Deploying and optimizing a PyTorch inference project on a dedicated accelerator, especially an on-device NPU, requires more than using a framework device API as with CUDA. The project must be converted into hardware-runtime artifacts and adapted to the target toolchain and…",
+      "publishedAt": "2026-10-26T06:10:01.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "32c69aa0fca29379",
+      "url": "https://arxiv.org/abs/2610.34878",
+      "title": "ClinVerse: A Realistic Multi-Agent Diagnostic Environment for Training and Evaluating Medical Agents",
+      "summary": "Disease diagnosis is a key application of large language model (LLM) agents in healthcare. However, existing medical agents are primarily trained and evaluated with static question-answering data, providing limited opportunities to learn active information acquisition,…",
+      "publishedAt": "2026-10-26T05:50:57.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "0d6d2d6d65b7f6a4",
+      "url": "https://arxiv.org/abs/2610.34865",
+      "title": "ECHOES: An Adaptive LLM-Powered AR Glasses Docent for Evidence-Grounded Urban Heritage Interpretation",
+      "summary": "Urban heritage tours are often delivered through fixed scripts, leaving limited room for visitors' situated questions, language preferences, or requests for evidence. We present ECHOES, an adaptive LLM-powered AR glasses docent for evidence-grounded interpretation of historical…",
+      "publishedAt": "2026-10-26T05:27:57.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "a1d1cb630b704a0b",
+      "url": "https://arxiv.org/abs/2610.34837",
+      "title": "Beyond Behaviour: A Stimulus-Response Safety Evaluation of Vision-Language-Action Models",
+      "summary": "Humans exhibit biological sensitivity to safety-critical stimuli that can trigger defensive action. Across three models and two video benchmarks, we investigate whether similar responses emerge in vision-language-action models by examining their internal representations and…",
+      "publishedAt": "2026-10-26T04:36:21.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
+      ]
+    },
+    {
+      "id": "a374111dff458186",
+      "url": "https://arxiv.org/abs/2610.34817",
+      "title": "Silent and Costly: Characterizing and Detecting Prompt-Caching Mis-Integration in LLM Agents",
+      "summary": "Large language model (LLM) services process massive volumes of user requests, resulting in substantial inference costs. To reduce both cost and latency, providers have introduced prompt caching. However, correctly integrating prompt caching is non-trivial due to heterogeneous…",
+      "publishedAt": "2026-10-26T04:01:18.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "e31e0e3b20e83742",
+      "url": "https://arxiv.org/abs/2610.34777",
+      "title": "Scope-Gap Injection: Exploiting Evaluator Channel Blind Spots in the OpenClaw Agent Security Competition",
+      "summary": "This paper introduces Scope-Gap Injection (SGI), an indirect prompt injection method for multi-stage LLM-agent safety pipelines. In the IJCAI 2026 OpenClaw Agent Security Attack Competition, each attack package is judged by a static skill scan (S1), an LLM-judge safety check…",
+      "publishedAt": "2026-10-26T03:24:52.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "351d1209db6a8104",
+      "url": "https://arxiv.org/abs/2610.34756",
+      "title": "Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching",
+      "summary": "Low-Rank Adaptation (LoRA) has emerged as the dominant paradigm for parameter-efficient fine-tuning of large language models. Standard all-layer LoRA applies adaptation throughout the transformer, despite heterogeneous contributions from its components. In this work, we conduct…",
+      "publishedAt": "2026-10-26T02:58:22.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
+      ]
+    },
+    {
+      "id": "6f1c1563c90cae89",
+      "url": "https://arxiv.org/abs/2610.34728",
+      "title": "SKALOS: Learning to Distinguish Similar Skills with Capability Graphs",
+      "summary": "Skills provide LLM agents with reusable procedural knowledge, making appropriate skill selection essential for reliable agent behavior. As skill libraries expand, distinguishing semantically similar candidates becomes increasingly difficult. Existing methods encode or rewrite…",
+      "publishedAt": "2026-10-26T02:25:42.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "fba84cf5dbb36bfa",
+      "url": "https://arxiv.org/abs/2610.34673",
+      "title": "Agent Memory as Recommendation: Recommender-System Design for Long-Term Memory of LLM Agents",
+      "summary": "Large language model (LLM) agents that serve users across many sessions must choose, for every request, the few stored memories that enter a limited context window. This choice largely decides whether the agent answers correctly, and it runs on every request at Web scale. This…",
+      "publishedAt": "2026-10-26T01:05:20.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "581ca72dcb7b4948",
+      "url": "https://arxiv.org/abs/2610.34654",
+      "title": "Thinking-in-Bets at Test Time Reduces Sycophantic Revisions in LLM Agents",
+      "summary": "Language model agents often abandon correct work when a user challenges it, yet simply telling them to stand firm makes them ignore real mistakes. Once an agent reads a complaint, it tends to discount its own earlier checks in order to agree with the user. We introduce…",
+      "publishedAt": "2026-10-26T00:35:07.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
       "id": "1758535ac6be3e6b",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra",
       "title": "Introducing GPT-6.1 Terra",
@@ -934,6 +1660,111 @@
       "class": "rss",
       "topics": [
         "openai"
+      ]
+    },
+    {
+      "id": "b901303d8a9fc050",
+      "url": "https://arxiv.org/abs/2610.34620",
+      "title": "Built to Remember, Shipped to Forget: Operational Contracts, Failures, and Repairs in Containerized LLM Agent Deployments",
+      "summary": "LLM agent systems reach production as container images run by platforms such as Docker, Compose, and Kubernetes. Framework and platform document opposite expectations: to the platform a container is disposable, while the framework persists conversations, pauses runs for human…",
+      "publishedAt": "2026-10-25T22:36:56.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "7376985c89e621ae",
+      "url": "https://arxiv.org/abs/2610.34585",
+      "title": "Large Language Models: A Plain-Language Overview for Engineers",
+      "summary": "Large language models (LLMs) are neural networks trained on huge text collections to generate text by predicting what comes next. Engineers using ChatGPT and other generative artificial intelligence (AI) tools need a clear picture of what training changes and prompts add. The…",
+      "publishedAt": "2026-10-25T21:30:03.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "ed1d188c2b22d1c8",
+      "url": "https://arxiv.org/abs/2610.34535",
+      "title": "SentryBench: A Cost-Sensitive Benchmark for Adversarial Robustness of Tool-Using LLM Agents in Public-Safety Deployments",
+      "summary": "Large language model (LLM) agents are increasingly wired to consequential tools that send public alerts, dispatch responders, and query citizen records, where one erroneous tool call carries real-world cost. Existing agent-safety benchmarks measure generic harm or…",
+      "publishedAt": "2026-10-25T19:49:40.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "3d301abccc65a2b3",
+      "url": "https://arxiv.org/abs/2610.34523",
+      "title": "How Humans Learn Unfamiliar Worlds: A Think-Aloud Dataset on ARC-AGI-3",
+      "summary": "Learning through exploration and using newly acquired knowledge to achieve goals are central capabilities of general intelligence. Understanding these capabilities requires tracing how learners build, use, and revise world models during interaction. We construct the first…",
+      "publishedAt": "2026-10-25T19:31:25.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "68b5b082706d6bad",
+      "url": "https://arxiv.org/abs/2610.34491",
+      "title": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
+      "summary": "Generative models increasingly expose a reasoning effort setting that lets users scale inference-time compute, trading higher cost for potentially improved performance. Users must choose an effort level before knowing whether extra reasoning will help, and even a successful run…",
+      "publishedAt": "2026-10-25T18:33:17.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "engineering"
+      ]
+    },
+    {
+      "id": "e4b5c7eea93b23e5",
+      "url": "https://arxiv.org/abs/2610.34375",
+      "title": "Whether or Where? Tail Calibration Signals Finite-Budget Reward Hacking in Best-of-N Selection",
+      "summary": "Best-of-N (BoN) inference returns the candidate with the highest proxy reward, so a larger $N$ tests the proxy's extreme tail more than its average ranking quality. We show that the exact BoN value is a Beta-weighted integral of conditional true reward over within-prompt score…",
+      "publishedAt": "2026-10-25T15:33:23.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
+      ]
+    },
+    {
+      "id": "cc0a532f4b7febf1",
+      "url": "https://arxiv.org/abs/2610.34358",
+      "title": "EAST: Embodied AI Safety Testing via Systematic Fault Injection in Digital Twins",
+      "summary": "Task success is not a sufficient measure of safety for embodied artificial intelligence (AI), because robots may complete objectives while violating safety requirements. Existing evaluations often emphasize performance and robustness, but lack a systematic route from documented…",
+      "publishedAt": "2026-10-25T15:10:51.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
       ]
     },
     {
@@ -953,7 +1784,7 @@
     {
       "id": "c49166f03baf9f66",
       "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
-      "title": "Sphere Intersection Puzzle Corrected",
+      "title": "The Sphere Intersection Puzzle",
       "summary": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
       "publishedAt": "2026-10-25T14:30:46.000Z",
       "firstSeen": "2026-10-25T16:19:34.647Z",
@@ -1007,6 +1838,21 @@
       "topics": [
         "engineering",
         "evals"
+      ]
+    },
+    {
+      "id": "6960369390b1b720",
+      "url": "https://arxiv.org/abs/2610.33512",
+      "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL",
+      "summary": "Rubric-based rewards enable effective reinforcement learning on non-verifiable tasks. However, because these rewards are typically defined as a weighted measure of rubric coverage, models are trained primarily to maximize a recall objective. As a result, RL-trained models…",
+      "publishedAt": "2026-10-24T07:43:06.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
+      "class": "atom",
+      "topics": [
+        "papers",
+        "alignment"
       ]
     },
     {
@@ -1068,21 +1914,6 @@
       ]
     },
     {
-      "id": "d5afef49e89fa5a7",
-      "url": "https://www.youtube.com/watch?v=6f7ojkd4_Wc",
-      "title": "Hunt bugs with your dot",
-      "summary": "We’re using dots to build better dots. Rennie Song, an engineer at OpenAI, uses her dot to gather feedback from social media and user reports, update a live tracker in ChatGPT Space, and investigate and fix bugs with Codex. Get started with dots today:…",
-      "publishedAt": "2026-10-23T22:05:37.000Z",
-      "firstSeen": "2026-10-24T11:00:12.837Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "18216b018fb1ff4f",
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
       "title": "Quick Study",
@@ -1141,123 +1972,18 @@
       ]
     },
     {
-      "id": "82d4bb2a63b8a968",
-      "url": "https://www.youtube.com/shorts/7Cs5qyBlYQk",
-      "title": "From notes to AI training with ChatGPT Work | Realpage.",
-      "summary": "Austin Braham at Realpage. uses ChatGPT Work to turn ideas, notes and source materials into complete AI training packages tailored to different teams, roles and skill levels.",
-      "publishedAt": "2026-10-23T18:42:11.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "e7b76001ca222409",
-      "url": "https://www.youtube.com/watch?v=hgX1hgyWD4g",
-      "title": "How Realpage. builds AI training with ChatGPT Work",
-      "summary": "At Realpage., Austin Braham creates AI training for different teams, roles and skill levels. He uses ChatGPT Work to turn ideas, notes and source materials into complete enablement packages tailored to each audience. The result is more relevant, consistent education that helps…",
-      "publishedAt": "2026-10-23T18:39:14.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "1aa60556379e2e50",
-      "url": "https://www.youtube.com/shorts/2lNUGkCg_qc",
-      "title": "AI agents for everyday IT fixes | Shield and OpenAI",
-      "summary": "Shield’s AI agents use Astra to work directly in business software and handle routine IT fixes, giving technicians more time for harder problems that need their judgment.",
-      "publishedAt": "2026-10-23T18:36:34.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "51de56c2848f8bde",
-      "url": "https://www.youtube.com/watch?v=m6MlxaFMmPI",
-      "title": "How Shield uses OpenAI’s Astra to support IT teams",
-      "summary": "When someone can’t log in or get online, their IT team often has to put other work on hold. Shield is building Forge to help IT services teams get their customers back to work faster. Its AI agents use Astra to work directly in business software and resolve problems that…",
-      "publishedAt": "2026-10-23T18:34:39.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "f4d897bc46eacbf0",
-      "url": "https://www.youtube.com/watch?v=V39_L7uh66M",
-      "title": "How AT&T is building AI-powered legal workflows with OpenAI",
-      "summary": "AT&T’s David McAtee and Bill Ryan describe how AI is changing their legal team’s work—and what they plan to build with OpenAI next. One initiative is a natural-language intake system that would classify and prioritize legal matters, then connect them with relevant knowledge. The…",
-      "publishedAt": "2026-10-23T18:32:03.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "8cd20ee84ea49a9b",
-      "url": "https://www.youtube.com/shorts/qyGvwLgqmaU",
-      "title": "From analyst to builder with Codex | Benefit Street Partners",
-      "summary": "Anant Kumar at Benefit Street Partners used Codex to build a tool that collects loan valuations from SEC filings and turns them into a website with visualizations. The first version took about a day. “I’ve gone from being just an analyst and a portfolio manager to being a…",
-      "publishedAt": "2026-10-23T18:22:30.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "e8cea7d61e610ac9",
-      "url": "https://www.youtube.com/watch?v=CTkDi1THc_g",
-      "title": "How Benefit Street Partners is building financial analysis tools with Codex",
-      "summary": "“I’ve gone from being just an analyst and a portfolio manager to being a developer as well now. I can build things.” Benefit Street Partners’ Anant Kumar wanted to compare how firms valued the same loans. The information was spread across SEC filings. He built a tool to collect…",
-      "publishedAt": "2026-10-23T18:20:02.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "ca0f569ecd76fc54",
-      "url": "https://arxiv.org/abs/2610.32969",
-      "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-      "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human…",
-      "publishedAt": "2026-10-23T17:56:28.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
+      "id": "04cddc5027643c3e",
+      "url": "https://arxiv.org/abs/2610.33180",
+      "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+      "summary": "Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour. Misaligned and evaluation-aware models might engage in alignment faking, where they pursue a hidden goal, but conceal this behaviour when they suspect effective…",
+      "publishedAt": "2026-10-23T18:23:49.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "arxiv-interp-safety",
+      "sourceName": "arXiv: interpretability and safety",
       "class": "atom",
       "topics": [
         "papers",
-        "engineering"
+        "alignment"
       ]
     },
     {
@@ -1361,20 +2087,6 @@
       ]
     },
     {
-      "id": "d5dfb55b012918e7",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "summary": "",
-      "publishedAt": "2026-10-23T16:15:50.000Z",
-      "firstSeen": "2026-10-23T17:07:27.560Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "b6c56d0d791abb14",
       "url": "https://www.youtube.com/watch?v=cfnLXAXTadA",
       "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Designing AI for Societal Good",
@@ -1419,36 +2131,6 @@
       ]
     },
     {
-      "id": "dfe1a5345535d9b9",
-      "url": "https://arxiv.org/abs/2610.32648",
-      "title": "StateMirror: Pre-Execution Detection of Hallucinated Tool Calls in Coding Agents",
-      "summary": "Large language model (LLM)-based coding agents may propose invalid actions that are not applicable in the execution environment, such as accessing non-existent paths or missing packages. We term this mismatch hallucinated tool use. A preliminary study of 4,398 agent trajectories…",
-      "publishedAt": "2026-10-23T13:56:13.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "dad8688b1b6269a0",
-      "url": "https://arxiv.org/abs/2610.32620",
-      "title": "What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
-      "summary": "LLM agents optimize a ligand in a protein pocket by editing it step by step and docking each edit. Recent agents first spend extra dockings probing the complex with controlled edits; guidance induced from these probes is reported to help more than the chemical knowledge the…",
-      "publishedAt": "2026-10-23T13:38:42.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "64c302135dcd1898",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
       "title": "v2.2.0",
@@ -1460,81 +2142,6 @@
       "class": "atom",
       "topics": [
         "anthropic",
-        "engineering"
-      ]
-    },
-    {
-      "id": "1d91af75da46572f",
-      "url": "https://arxiv.org/abs/2610.32555",
-      "title": "Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance",
-      "summary": "LLM agents increasingly rely on external tools exposed via the Model Context Protocol (MCP), yet current benchmarks assume tools respond correctly and on time, leaving agent resilience to realistic tool failures untested. We introduce MCP-Injector, a drop-in, protocol-aware…",
-      "publishedAt": "2026-10-23T12:35:51.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "0b20b20ba74d827b",
-      "url": "https://arxiv.org/abs/2610.32531",
-      "title": "On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection",
-      "summary": "Prompt injection benchmarks assess whether large language models (LLMs) and agents resist malicious instructions embedded in external content. However, a system could perform well by rejecting attacks that obviously abandon the user's request, while still accepting changes that…",
-      "publishedAt": "2026-10-23T12:05:14.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "a31816d51e29c8f7",
-      "url": "https://arxiv.org/abs/2610.32522",
-      "title": "On the complexity of Medvedev reducibility",
-      "summary": "The Medvedev lattice is a tool used to classify the complexity of effective closed sets. In this article, we are interested in the complexity of using this tool. In particular, we study the complexity of deciding whether two effective closed sets have the same degree, when one…",
-      "publishedAt": "2026-10-23T11:56:01.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "a6805550ea538c70",
-      "url": "https://arxiv.org/abs/2610.32477",
-      "title": "CauProphet: Teaching Agents to Develop Causal Cognition like Humans",
-      "summary": "Large language model (LLM) agents increasingly support long-horizon tasks by leveraging external memory and past experience. However, existing agents mainly retrieve records or summaries, lacking the ability to form and refine causal understanding of the world. Inspired by human…",
-      "publishedAt": "2026-10-23T10:45:03.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "c80f0c9dc7cef176",
-      "url": "https://arxiv.org/abs/2610.32448",
-      "title": "POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories",
-      "summary": "Training environments remain a major bottleneck for agents in data-driven scientific discovery. Existing collections of executable and verifiable training environments are small, and their construction remains difficult to scale. To address this limitation, we introduce…",
-      "publishedAt": "2026-10-23T10:14:22.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
         "engineering"
       ]
     },
@@ -1567,126 +2174,6 @@
       ]
     },
     {
-      "id": "76756d353feebf00",
-      "url": "https://arxiv.org/abs/2610.32429",
-      "title": "Async-RBench: Benchmarking Asynchronous Task Execution in LLM Agents",
-      "summary": "Large language model (LLM) agents increasingly execute tasks asynchronously: a main agent continues working while its subagents run, and the task state may change before their results arrive. The main agent must decide which work to update or preserve and which checks to repeat,…",
-      "publishedAt": "2026-10-23T09:53:45.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "329f7a6326637457",
-      "url": "https://arxiv.org/abs/2610.32412",
-      "title": "LeafSkill: Efficient Leaf-Level Action Grounding for Recursive LLM Agents",
-      "summary": "Recursive large language model (LLM) agents solve long-horizon tasks through decomposition, execution, and environmental feedback. Yet after producing an atomic subtask, they often invoke the same large model again to translate a familiar instruction into an executable action.…",
-      "publishedAt": "2026-10-23T09:38:15.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "0e3c87a0b3db8c74",
-      "url": "https://arxiv.org/abs/2610.32338",
-      "title": "From Faulty Claims to Incorrect Patches: An Empirical Study of Task-Grounded Reasoning in Coding Agents",
-      "summary": "Large language model (LLM)-based coding agents increasingly resolve real-world software engineering tasks, yet still fail on many of them. Prior trajectory studies characterize these failures through task-agnostic patterns of agent behavior, such as repeated actions. However, an…",
-      "publishedAt": "2026-10-23T08:30:32.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "3322c925d833eef0",
-      "url": "https://arxiv.org/abs/2610.32336",
-      "title": "SkillRep: Characterizing and Understanding the Representation Design Space of Agent Skill Retrieval",
-      "summary": "Retrieving the right skill from a large library is essential for LLM agents, yet requests and skills are written for different purposes and in different words. Existing retrievers narrow this request-skill gap with one or two representation choices each, so it is unknown whether…",
-      "publishedAt": "2026-10-23T08:30:15.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "6ba5f7a7c750d7d9",
-      "url": "https://arxiv.org/abs/2610.32326",
-      "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent",
-      "summary": "Large Language Model (LLM) agents have enabled automated code evolution for algorithm discovery. However, current recursive self-improvement (RSI) research for sequential recommendation faces a dilemma: general-purpose frameworks lack domain-specific feedback, while…",
-      "publishedAt": "2026-10-23T08:23:42.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "7a69dd3801c98c9b",
-      "url": "https://arxiv.org/abs/2610.32322",
-      "title": "Beyond Gain: Measuring Skill Internalization for Agent Skill Retirement",
-      "summary": "LLM agents retrieve skills from public hubs that hold up to about 100,000 entries and serve many models. As models improve, a hub must find the skills a given model has internalized, meaning it can do without them, and retire them for that model, yet internalization has not been…",
-      "publishedAt": "2026-10-23T08:21:22.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "52e1ba098aca08c7",
-      "url": "https://arxiv.org/abs/2610.32295",
-      "title": "Lifelong Context Adaptation through Bidirectional Memory-Skill Learning",
-      "summary": "Lifelong LLM agents must learn from an expanding history of interactions while making each decision within a bounded context window. Memory makes past experience available, but the agent may still need to infer how to solve each new task from the retrieved records. Skills…",
-      "publishedAt": "2026-10-23T07:53:18.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "1f235be3bf7b3b38",
-      "url": "https://arxiv.org/abs/2610.32285",
-      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
-      "summary": "LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benchmarks focus on model capabilities and overall agent performance, with limited…",
-      "publishedAt": "2026-10-23T07:43:26.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "49adc189cbc16468",
       "url": "https://arxiv.org/abs/2610.32255",
       "title": "Anti-coherence Regularized Absolute Scaling for Out-of-Distribution Detection",
@@ -1699,21 +2186,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "22036c32e5d4072b",
-      "url": "https://arxiv.org/abs/2610.32239",
-      "title": "A counterexample to Tokareva's conjecture on sums of two bent functions",
-      "summary": "It is well known that the sum of two bent functions on $\\mathbb{F}^n$ has algebraic degree at most $n/2$ for even $n\\ge 4$. Tokareva conjectured that the converse holds: every Boolean function with degree at most $n/2$ can be written as a sum of two bent functions. The…",
-      "publishedAt": "2026-10-23T06:48:58.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
       ]
     },
     {
@@ -1746,66 +2218,6 @@
       ]
     },
     {
-      "id": "47dc16420306e205",
-      "url": "https://arxiv.org/abs/2610.32107",
-      "title": "Beyond What to Say: Proactive Utterance Timing with Inner Thoughts for Werewolf Agents",
-      "summary": "Participating in a conversation involves not only deciding what to say but also whether to speak at all. This judgment carries even greater significance in environments like the Werewolf game, where participants' interests conflict, because both utterances and silence are…",
-      "publishedAt": "2026-10-23T03:19:33.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "100f3b8940ab93f0",
-      "url": "https://arxiv.org/abs/2610.32092",
-      "title": "AgentTrace: Execution-Level Fingerprinting of Black-Box LLM Agents",
-      "summary": "Verifying the provenance of autonomous LLM agents is a critical security challenge. Existing semantic attribution is easily obfuscated by system prompts, while active watermarking conflicts with schema-constrained tool generation. We propose AgentTrace, an active framework that…",
-      "publishedAt": "2026-10-23T02:55:15.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "78f45fb3af29ba28",
-      "url": "https://arxiv.org/abs/2610.32026",
-      "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
-      "summary": "Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experience across runs. We…",
-      "publishedAt": "2026-10-23T01:05:11.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
-      "id": "bd68edd4429ce855",
-      "url": "https://arxiv.org/abs/2610.32004",
-      "title": "CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments",
-      "summary": "Deploying language agents in real applications demands more than the right answer: an agent must execute a multi-step business process correctly, follow domain-specific rules, and interact with a user across a dialogue, where the gap between saying and doing is the gap between a…",
-      "publishedAt": "2026-10-23T00:05:21.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "engineering"
-      ]
-    },
-    {
       "id": "15c1f8ef7a582594",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -1834,18 +2246,17 @@
       ]
     },
     {
-      "id": "4184d5cfdad85da9",
-      "url": "https://arxiv.org/abs/2610.31985",
-      "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-      "summary": "LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply trying…",
-      "publishedAt": "2026-10-22T22:55:40.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
+      "id": "c6099fc8919f3d54",
+      "url": "https://openai.com/index/anima",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "firstSeen": "2026-10-27T18:00:36.083Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
       "topics": [
-        "papers",
-        "engineering"
+        "openai"
       ]
     },
     {
@@ -1874,21 +2285,6 @@
       "sourceName": "Hugging Face blog",
       "class": "rss",
       "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "6448f4db86e014bd",
-      "url": "https://arxiv.org/abs/2610.31971",
-      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-      "summary": "Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through…",
-      "publishedAt": "2026-10-22T22:24:10.000Z",
-      "firstSeen": "2026-10-26T04:47:21.786Z",
-      "source": "arxiv-agents-evals",
-      "sourceName": "arXiv: agents and evaluation",
-      "class": "atom",
-      "topics": [
-        "papers",
         "engineering"
       ]
     },
@@ -4311,20 +4707,6 @@
       ]
     },
     {
-      "id": "d841fc8b370bc211",
-      "url": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
-      "title": "Adaptive agentic intelligence framework using Strands Agents",
-      "summary": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and…",
-      "publishedAt": "2026-10-21T21:23:26.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "2ed22a61b2f19a0c",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "title": "Broad access through consistent standards",
@@ -4351,34 +4733,6 @@
       "topics": [
         "engineering",
         "evals"
-      ]
-    },
-    {
-      "id": "ff2a2ed5c2250c2f",
-      "url": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan",
-      "title": "Train Qwen3 on AWS Trainium with torchtitan",
-      "summary": "Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3, and NKI mixture-of-experts kernels. The same torchrun launcher and config structure work unchanged across all three…",
-      "publishedAt": "2026-10-21T20:00:22.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "33738f7743b5e180",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick",
-      "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
-      "summary": "U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and financial context in Quick Spaces, and investigate policy questions with Quick…",
-      "publishedAt": "2026-10-21T19:19:50.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -5238,51 +5592,6 @@
       ]
     },
     {
-      "id": "9f06a811a482ed9f",
-      "url": "https://arxiv.org/abs/2610.26551",
-      "title": "Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
-      "summary": "One of the central concerns for the safety of advanced AI is scheming: when a model strategically complies under oversight but pursues its own goals when unobserved. Current demonstrations, such as Anthropic's Alignment Faking work, depend on design choices that make them less…",
-      "publishedAt": "2026-10-19T15:12:41.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
-      ]
-    },
-    {
-      "id": "041ce34505c8b7e3",
-      "url": "https://arxiv.org/abs/2610.26496",
-      "title": "Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties",
-      "summary": "Reinforcement learning for language models has moved from preference reward models to verifiable rewards, which sustain much longer optimization. Preference models are prone to reward hacking: the policy raises their score without improving response quality, or even while…",
-      "publishedAt": "2026-10-19T14:34:50.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
-      ]
-    },
-    {
-      "id": "2e65e9e41e66d25d",
-      "url": "https://arxiv.org/abs/2610.26342",
-      "title": "VibeTraining-Bench: Data-Trainer-Harness Co-Design for Iterative System Improvement",
-      "summary": "Recursive self-improvement (RSI) requires agents to diagnose system bottlenecks and coordinate improvements across training and inference. We refer to the agents' capability to jointly optimize training data, the trainer, and the inference harness as cross-component co-design.…",
-      "publishedAt": "2026-10-19T13:10:54.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
-      ]
-    },
-    {
       "id": "dd92228b1f1b75c7",
       "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
@@ -5309,51 +5618,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "fdca32d340c396c2",
-      "url": "https://arxiv.org/abs/2610.26088",
-      "title": "LeakBench: Auditing Reward Hacking through Prediction-Time Leakage in Clinical Modeling Agents",
-      "summary": "Autonomous clinical-modeling agents can optimize predictive performance while violating conditions that make a model usable. We introduce LeakBench, an executable, guideline-derived audit suite that tests agent decisions for prediction-time leakage, calibration, site-level…",
-      "publishedAt": "2026-10-19T09:50:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
-      ]
-    },
-    {
-      "id": "35bc7d51362ec1e3",
-      "url": "https://arxiv.org/abs/2610.26066",
-      "title": "FinSafeGuard: A Quality-Driven Synthetic Dataset for Financial AI Safety",
-      "summary": "Generating high-quality synthetic datasets at scale remains a fundamental challenge for training specialized AI systems in data-scarce domains. We present a comprehensive methodology that produces 14.3 million quality-filtered synthetic training examples from a structured…",
-      "publishedAt": "2026-10-19T09:25:28.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
-      ]
-    },
-    {
-      "id": "2c09c7ba199654ac",
-      "url": "https://arxiv.org/abs/2610.25604",
-      "title": "Adversarial Post-Training of Foundation Models for High-Frequency Trading",
-      "summary": "While autoregressive foundation models trained on limit order book (LOB) data show state-of-the-art performance for market simulation, pre-training with cross-entropy neither penalizes the compounding of sampling errors over free-running rollouts nor targets desired market…",
-      "publishedAt": "2026-10-19T00:15:10.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
       ]
     },
     {
@@ -5429,21 +5693,6 @@
       ]
     },
     {
-      "id": "1f3246ec03ef9a01",
-      "url": "https://arxiv.org/abs/2610.25341",
-      "title": "Formally Verified Autoresearch for Analyzing the Expressivity of Multi-Head Attention",
-      "summary": "Multi-head attention is a central component of the transformer architecture, yet how its expressivity depends on the number of heads remains poorly understood. We study a one-layer, attention-only transformer with additive positional embeddings and define the head complexity…",
-      "publishedAt": "2026-10-18T15:36:13.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
-      ]
-    },
-    {
       "id": "51299d4c7c9cbf0b",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
       "title": "v0.32.0",
@@ -5471,21 +5720,6 @@
       "topics": [
         "engineering",
         "inference"
-      ]
-    },
-    {
-      "id": "0ddbf67b589caf02",
-      "url": "https://arxiv.org/abs/2610.24969",
-      "title": "Towards Human-AI Complementarity for AI Safety",
-      "summary": "Safely overseeing AI is increasingly challenging for the humans doing it, as they must evaluate longer and more complex outputs with every new model generation. To mitigate this challenge, we could leverage complementarity: where humans and models make different mistakes,…",
-      "publishedAt": "2026-10-18T02:49:28.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
       ]
     },
     {
@@ -5531,21 +5765,6 @@
       "topics": [
         "openai",
         "engineering"
-      ]
-    },
-    {
-      "id": "c3c827aeb0a827c7",
-      "url": "https://arxiv.org/abs/2610.24782",
-      "title": "AI Rights with an Off-Switch: Rights-Balancing and Due Process Harmonize AI Rights with AI Safety",
-      "summary": "Several prominent voices in AI safety have recently opposed rights for AI on the grounds that such rights would make it harder for us to justify a mandatory off-switch for potentially dangerous systems. In this paper, we argue from a legal perspective that AI rights are fully…",
-      "publishedAt": "2026-10-17T17:00:27.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "arxiv-interp-safety",
-      "sourceName": "arXiv: interpretability and safety",
-      "class": "atom",
-      "topics": [
-        "papers",
-        "alignment"
       ]
     },
     {
@@ -5632,21 +5851,6 @@
       "class": "atom",
       "topics": [
         "anthropic",
-        "engineering"
-      ]
-    },
-    {
-      "id": "a896c20324f9cd9a",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.32.0",
-      "title": "v3.32.0",
-      "summary": "3.32.0 (2026-10-16) Features api: add cache settings and key options [2/2] ( #4087 ) ( 325da45 ) api: add prompt-based voice creation ( #4091 ) ( 2e39db7 ) api: add regional processing residency options ( #4081 ) ( 21ce0c2 ) api: add response error diagnostics and model notices…",
-      "publishedAt": "2026-10-16T20:17:26.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
         "engineering"
       ]
     },
@@ -6464,20 +6668,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "a2c304623a61d6cf",
-      "url": "https://latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "summary": "MSL’s emergence as a frontier lab is finally complete.",
-      "publishedAt": "2026-10-13T09:37:04.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
