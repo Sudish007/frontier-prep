@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-27T18:00:36.083Z",
+  "generatedAt": "2026-10-27T22:14:15.236Z",
   "items": [
+    {
+      "id": "gh-anthropic-5464493008",
+      "company": "Anthropic",
+      "title": "Tech Lead Manager, Core Apps Data Scientist",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464493008",
+      "postedAt": "2026-10-27T21:37:35.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-10-27T22:14:15.236Z"
+    },
     {
       "id": "ashby-openai-bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
       "company": "OpenAI",
@@ -460,7 +472,7 @@
     {
       "id": "ashby-openai-5dce6671-9aa8-4c49-b263-b175a2a927f8",
       "company": "OpenAI",
-      "title": "Data Scientist, Personalization & Machine Learning",
+      "title": "Applied Data Scientist, Personalization & Machine Learning",
       "location": "San Francisco; Remote",
       "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
       "postedAt": "2026-10-15T01:07:39.592Z",
@@ -2216,30 +2228,6 @@
       "location": "Singapore; Remote",
       "url": "https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410",
       "postedAt": "2026-08-31T03:06:34.255Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5409934008",
-      "company": "Anthropic",
-      "title": "Product Manager, Multi-Cloud Trust & Safety",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409934008",
-      "postedAt": "2026-08-28T22:04:00.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-91653d95-27fc-44bd-bbb3-7078fd6a5718",
-      "company": "OpenAI",
-      "title": "Safety Response Operations Lead",
-      "location": "San Francisco; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/91653d95-27fc-44bd-bbb3-7078fd6a5718",
-      "postedAt": "2026-08-28T21:06:20.344Z",
       "india": false,
       "remote": true,
       "board": "openai",
