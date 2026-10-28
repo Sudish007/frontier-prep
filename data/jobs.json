@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-27T22:14:15.236Z",
+  "generatedAt": "2026-10-28T05:42:10.686Z",
   "items": [
+    {
+      "id": "amzn-10590899",
+      "company": "Amazon",
+      "title": "Data Engineer - AI/ML Products, AOP (Analytics Operations and Programs)",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10590899/data-engineer-ai-ml-products-aop-analytics-operations-and-programs",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-10-28T05:42:10.686Z"
+    },
     {
       "id": "gh-anthropic-5464493008",
       "company": "Anthropic",
