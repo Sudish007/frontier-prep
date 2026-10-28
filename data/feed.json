@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-10-28T12:54:20.788Z",
+  "generatedAt": "2026-10-28T22:35:25.817Z",
   "items": [
+    {
+      "id": "2df0e95472f64437",
+      "url": "https://latent.space/p/elorian",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "ad10900db6cdd66b",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "title": "AI for Science expands to foundations and research institutions",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "anthropic-news",
+      "sourceName": "Anthropic news",
+      "class": "html-links",
+      "topics": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "3b1d2ae6d5329430",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
+      "title": "v3.41.0",
+      "summary": "3.41.0 (2026-10-28) Features api: accept typed references in Realtime response inputs ( #4189 ) ( 8ecb487 ) api: add response tool usage models ( #4201 ) ( 55fc500 ) api: filter agent sessions by metadata ( #4200 ) ( 77fd116 ) websocket: recover queued binary frames after…",
+      "publishedAt": "2026-10-28T22:26:54.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "a075480e28a06b30",
+      "url": "https://latent.space/p/supabase",
+      "title": "Why Agents Love Supabase",
+      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+      "publishedAt": "2026-10-28T19:48:05.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "b8bfa4647f108004",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "summary": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD…",
+      "publishedAt": "2026-10-28T18:28:26.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "9118d22fa4098f95",
+      "url": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks",
+      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+      "summary": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the…",
+      "publishedAt": "2026-10-28T18:19:54.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "21f4761ac0bc4960",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3",
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "summary": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that…",
+      "publishedAt": "2026-10-28T18:12:13.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "34b0bf3f94c3851e",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "94bdedac0696aac1",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
+      "title": "GitHub Octoverse 2026",
+      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of…",
+      "publishedAt": "2026-10-28T16:45:23.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "7ae8eb20550eee76",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "summary": "",
+      "publishedAt": "2026-10-28T14:58:17.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "3d37edbd196a1ead",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.286",
+      "title": "v0.3.286",
+      "summary": "0.3.286 (2026-10-28) Breaking Changes Docker read_file() now uses the container's default execution user instead of Docker's privileged copy API. Callers needing privileged reads must request user=\"root\"; callers acting for a different sandbox user must pass that user. Docker…",
+      "publishedAt": "2026-10-28T14:22:32.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "rel-inspect",
+      "sourceName": "inspect_ai releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "evals"
+      ]
+    },
+    {
+      "id": "d631652614601664",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
+      "title": "The October inflection point for vibe game development",
+      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new…",
+      "publishedAt": "2026-10-28T13:55:15.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "75e2017ed4c5a2ec",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "45f878f3f6da2df1",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "summary": "A sort of review of the benchmarking industry and what's missing.",
+      "publishedAt": "2026-10-28T12:58:39.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "interconnects",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "class": "rss",
+      "topics": [
+        "research"
+      ]
+    },
     {
       "id": "baba7bee56c62fb3",
       "url": "https://www.youtube.com/shorts/kP26OlW5PBk",
@@ -43,6 +241,20 @@
       "class": "atom",
       "topics": [
         "engineering"
+      ]
+    },
+    {
+      "id": "0dc3cf0b7c98dcde",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -121,12 +333,12 @@
       ]
     },
     {
-      "id": "2fc8e689e413caad",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "id": "41c97fe8dc29ac4a",
+      "url": "https://openai.com/index/legora",
       "title": "Legora is building the agentic operating system for legal work",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "publishedAt": "2026-10-28T09:30:00.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",
       "class": "rss",
@@ -2734,34 +2946,6 @@
       ]
     },
     {
-      "id": "251516e27a00f0ed",
-      "url": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai",
-      "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
-      "summary": "Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two…",
-      "publishedAt": "2026-10-22T16:30:06.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "01f69b83a34ae371",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc",
-      "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
-      "summary": "Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its…",
-      "publishedAt": "2026-10-22T16:25:57.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "d5083253508c23ff",
       "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
       "title": "Flint-interactive: A language for creating interactive data visualizations",
@@ -4821,20 +5005,6 @@
       ]
     },
     {
-      "id": "a8d953e36308a3c9",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
-      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
-      "summary": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity…",
-      "publishedAt": "2026-10-21T23:38:38.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "2a7200426574942c",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
       "title": "v2.1.307",
@@ -4903,20 +5073,6 @@
       "source": "simon-willison",
       "sourceName": "Simon Willison's weblog",
       "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "7104bc51c29585cc",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "summary": "",
-      "publishedAt": "2026-10-21T18:26:30.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
       "topics": [
         "engineering"
       ]
@@ -5894,21 +6050,6 @@
       ]
     },
     {
-      "id": "e0cd966c128f4a4d",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.33.0",
-      "title": "v3.33.0",
-      "summary": "3.33.0 (2026-10-16) Features api: add safety identifiers to image requests and responses ( #4093 ) ( c969e32 ) api: share Decisions cache breakpoint parameter type ( #4092 ) ( f7cefda )",
-      "publishedAt": "2026-10-17T00:29:04.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
       "id": "a65b774e754deb82",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
       "title": "v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
@@ -6195,20 +6336,6 @@
       ]
     },
     {
-      "id": "7908d899cb3e3fcc",
-      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "summary": "Sandboxes are all you need.",
-      "publishedAt": "2026-10-15T10:08:08.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "2dd5c189d23158f9",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2",
       "title": "v0.32.0rc2",
@@ -6351,20 +6478,6 @@
       "topics": [
         "engineering",
         "inference"
-      ]
-    },
-    {
-      "id": "f992f00e022a5af8",
-      "url": "https://latent.space/p/crossing-the-threshold",
-      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
-      "publishedAt": "2026-10-14T21:40:52.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -6537,34 +6650,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "49aae9e462bc00ae",
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
-      "title": "Redesigning source control at Anthropic",
-      "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500…",
-      "publishedAt": "2026-10-13T23:00:06.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "4a863ac766466900",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini",
-      "title": "llm-gemini 0.35",
-      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has…",
-      "publishedAt": "2026-10-13T22:28:54.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -7343,21 +7428,6 @@
       "topics": [
         "openai",
         "engineering"
-      ]
-    },
-    {
-      "id": "3470af3971f92039",
-      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.276",
-      "title": "0.3.276",
-      "summary": "update changelog for release",
-      "publishedAt": "2026-10-02T15:00:09.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-inspect",
-      "sourceName": "inspect_ai releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "evals"
       ]
     },
     {

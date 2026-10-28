@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-28T12:54:20.788Z",
+  "generatedAt": "2026-10-28T22:35:25.817Z",
   "items": [
+    {
+      "id": "ashby-openai-b82699a2-5819-4276-a402-fd88f56f9246",
+      "company": "OpenAI",
+      "title": "Data Scientist, Cloud Distribution & Growth",
+      "location": "San Francisco; Seattle; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
+      "postedAt": "2026-10-28T19:59:03.385Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-10-28T22:35:25.817Z"
+    },
+    {
+      "id": "ashby-openai-0f600ed1-d70a-4648-820f-a1d1da3f7617",
+      "company": "OpenAI",
+      "title": "Research Engineer / Research Scientist, Human Flourishing",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/0f600ed1-d70a-4648-820f-a1d1da3f7617",
+      "postedAt": "2026-10-28T17:40:14.767Z",
+      "india": false,
+      "remote": false,
+      "board": "openai",
+      "firstSeen": "2026-10-28T22:35:25.817Z"
+    },
     {
       "id": "amzn-10590899",
       "company": "Amazon",
@@ -1363,18 +1387,6 @@
       "title": "Software Development Engineer, Seller and AM GenAI Tools",
       "location": "Hyderabad, Telangana, IND",
       "url": "https://www.amazon.jobs/en/jobs/10558939/software-development-engineer-seller-and-am-genai-tools",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "amzn-10558940",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Seller and AM GenAI Tools",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10558940/software-development-engineer-seller-and-am-genai-tools",
       "postedAt": "2026-09-24T00:00:00.000Z",
       "india": true,
       "remote": false,

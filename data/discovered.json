@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-28T12:54:20.788Z",
+  "generatedAt": "2026-10-28T22:35:25.817Z",
   "items": [
+    {
+      "id": "2df0e95472f64437",
+      "url": "https://latent.space/p/elorian",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "firstSeen": "2026-10-28T22:35:25.817Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
     {
       "id": "533d74e110ac69a7",
       "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw",
@@ -1443,20 +1457,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "a8d953e36308a3c9",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
-      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
-      "summary": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity…",
-      "publishedAt": "2026-10-21T23:38:38.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
       ]
     },
     {
