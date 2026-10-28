@@ -1,6 +1,153 @@
 {
-  "generatedAt": "2026-10-28T05:42:10.686Z",
+  "generatedAt": "2026-10-28T12:54:20.788Z",
   "items": [
+    {
+      "id": "baba7bee56c62fb3",
+      "url": "https://www.youtube.com/shorts/kP26OlW5PBk",
+      "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
+      "summary": "“If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes. Using Codex, she asked it to help redesign a feature using the product’s existing design system. She…",
+      "publishedAt": "2026-10-28T11:51:11.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "533d74e110ac69a7",
+      "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw",
+      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
+      "summary": "“If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes. Using Codex, she asked it to help redesign a feature using the product’s existing design system. She…",
+      "publishedAt": "2026-10-28T11:50:26.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "d957b57aa1e66e8e",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
+      "title": "Quoting Terk Terkowitz",
+      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating…",
+      "publishedAt": "2026-10-28T10:09:07.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "b781f6bc8b549636",
+      "url": "https://www.youtube.com/watch?v=M2Oa42hF67E",
+      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
+      "summary": "NDA reviews once took up around 20% of Legora’s legal team’s capacity. Today, that figure is under 1%. General Counsel Emma Kadri Bergström shares how AI is helping her team reclaim time, support a rapidly growing business and take on more complex work, while keeping lawyers…",
+      "publishedAt": "2026-10-28T09:45:24.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "b3ba52f0ab7d4763",
+      "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
+      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+      "summary": "Legora co-founder and CEO Max Junestrand wants to make legal expertise available wherever it’s needed. He shares how OpenAI helped turn that ambition into a platform, why staying AI-native matters as the company grows, and what becomes possible when lawyers can take on work that…",
+      "publishedAt": "2026-10-28T09:45:18.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "78924ef2955743e3",
+      "url": "https://www.youtube.com/watch?v=z-WZMjNsg-k",
+      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
+      "summary": "When deadlines limit how many contracts lawyers can examine, important risks can go unseen. Alex Fortescue-Webb, Global Head of Legal Engineering at Legora, explains how AI powered by OpenAI models helps teams analyse thousands of contracts across multiple questions in minutes,…",
+      "publishedAt": "2026-10-28T09:45:16.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "b70bb0a81bf5b815",
+      "url": "https://www.youtube.com/watch?v=yJxZef1Ylok",
+      "title": "How Legora is transforming legal work with OpenAI",
+      "summary": "What can lawyers achieve when time is no longer the limit? Discover how Legora uses OpenAI models, ChatGPT and Codex to help legal teams review contracts faster, broaden their analysis and make more room for work that needs human judgment. Part of Intelligence at Work, a series…",
+      "publishedAt": "2026-10-28T09:45:14.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "a3e4fbd26424e5c8",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1",
+      "title": "v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)",
+      "summary": "Signed-off-by: grYe99 guorongye99@gmail.com Co-authored-by: grYe99 guorongye99@gmail.com (cherry picked from commit bfa2a43 )",
+      "publishedAt": "2026-10-28T09:31:23.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
+    {
+      "id": "2fc8e689e413caad",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "625efce5713df3eb",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure",
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "summary": "Since coding is solved, why code for the job?",
+      "publishedAt": "2026-10-28T08:50:30.000Z",
+      "firstSeen": "2026-10-28T12:54:20.788Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "16faca12f9641778",
       "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
@@ -1012,36 +1159,6 @@
       ]
     },
     {
-      "id": "d6b7c2e1d9fb5372",
-      "url": "https://www.youtube.com/shorts/tFmlEKQkZi0",
-      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
-      "summary": "“It is a prerequisite for staying safe that you must use AI.” Attackers can move at machine speed. Defenders need security controls that can adapt just as quickly. Jeetu Patel, President of Cisco, explains why OpenAI is becoming a core foundation for that work. With capabilities…",
-      "publishedAt": "2026-10-27T12:49:09.000Z",
-      "firstSeen": "2026-10-27T18:00:36.083Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "b86ae29757fe79e3",
-      "url": "https://www.youtube.com/watch?v=0qb0FQo3M5c",
-      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
-      "summary": "“It is a prerequisite for staying safe that you must use AI.” Attackers can move at machine speed. Defenders need security controls that can adapt just as quickly. Jeetu Patel, President of Cisco, explains why OpenAI is becoming a core foundation for that work. With capabilities…",
-      "publishedAt": "2026-10-27T12:45:06.000Z",
-      "firstSeen": "2026-10-27T18:00:36.083Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "fca77c032c90a984",
       "url": "https://arxiv.org/abs/2610.37121",
       "title": "Prospector: learning a compact graph traversal policy for scientific reasoning",
@@ -1534,21 +1651,6 @@
       ]
     },
     {
-      "id": "0b3c46ded6d173fd",
-      "url": "https://www.youtube.com/shorts/Wanw4woz7zc",
-      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
-      "summary": "At Sullivan & Cromwell LLP, John Savva uses Codex to build tools around the firm’s legal expertise. Agreement Analyzer brings together a draft agreement, selected precedents, and playbooks reflecting the firm’s and client’s positions. It identifies potential issues and returns a…",
-      "publishedAt": "2026-10-26T23:24:00.000Z",
-      "firstSeen": "2026-10-27T12:11:52.332Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "edf59637f599d673",
       "url": "https://www.anthropic.com/news/s1-sec",
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial pub",
@@ -1560,51 +1662,6 @@
       "class": "html-links",
       "topics": [
         "anthropic"
-      ]
-    },
-    {
-      "id": "afe12645665b5b02",
-      "url": "https://www.youtube.com/watch?v=zUybw-9ejZ4",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "Amp is building an AI agent that helps developers turn ideas into working software, from deciding what to build to writing code to onboarding customers. Sign in with ChatGPT gives Amp users access to more tokens for larger tasks, while Amp's conversational assistant, Puck, uses…",
-      "publishedAt": "2026-10-26T22:03:54.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "15dfb72e904d6d22",
-      "url": "https://www.youtube.com/watch?v=8fp-G14hvUk",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Stack Overflow is building a knowledge intelligence platform that turns information scattered across workplace tools into verified knowledge for people and AI agents. The company's latest product, Stack Overflow for Agents, was built from the ground up by two engineers in just a…",
-      "publishedAt": "2026-10-26T22:03:40.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "2e623b5ef9a8dee6",
-      "url": "https://www.youtube.com/watch?v=inrYeej3Big",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield is building an AI video and image creation platform that helps creators and small teams produce everything from instructional videos to fashion campaigns. With GPT‑6 Astra, the company has gone from creating videos around one minute long to videos over 10 minutes.…",
-      "publishedAt": "2026-10-26T22:03:06.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -6325,20 +6382,6 @@
       ]
     },
     {
-      "id": "b6bc6eaa39157467",
-      "url": "https://latent.space/p/lab-in-the-loop-at-compute-speed",
-      "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-      "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
-      "publishedAt": "2026-10-14T20:35:09.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "bc6f7d6d13e5ee6f",
       "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "title": "Uber’s AI infra, from the inside",
@@ -6666,20 +6709,6 @@
       "topics": [
         "google",
         "video"
-      ]
-    },
-    {
-      "id": "858ce7e14d9130e5",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley",
-      "title": "Quoting Geoffrey Huntley",
-      "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom:…",
-      "publishedAt": "2026-10-13T13:32:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -7099,21 +7128,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "9742f61f4886590c",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0",
-      "title": "v0.31.1rc0: [Metrics] Expose cached prompt tokens by cache tier (#56318)",
-      "summary": "Signed-off-by: Cam Quilici cjquilici@gmail.com Signed-off-by: Cam Quilici cameron@semianalysis.com Co-authored-by: Cam Quilici cameron@semianalysis.com Co-authored-by: Nick Hill nickhill123@gmail.com Co-authored-by: Yifan Qiao yifanqiao@inferact.ai",
-      "publishedAt": "2026-10-06T18:52:05.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
       ]
     },
     {

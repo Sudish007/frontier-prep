@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:42:10.686Z",
+  "generatedAt": "2026-10-28T12:54:20.788Z",
   "items": [
     {
       "id": "amzn-10590899",
@@ -780,18 +780,6 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10572993",
-      "company": "Amazon",
-      "title": "Senior Data Scientist",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10572993/senior-data-scientist",
-      "postedAt": "2026-10-08T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "amzn-10574038",
