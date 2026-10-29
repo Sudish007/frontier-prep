@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-10-29T05:48:31.696Z",
+  "generatedAt": "2026-10-29T13:00:33.698Z",
   "items": [
+    {
+      "id": "8266ea920e518e8f",
+      "url": "https://latent.space/p/ainews-gemini-4-carbon",
+      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+      "summary": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
+      "publishedAt": "2026-10-29T05:55:19.000Z",
+      "firstSeen": "2026-10-29T13:00:33.698Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "85d975255b4f9d00",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "firstSeen": "2026-10-29T13:00:33.698Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "e59c1ac4a9944e36",
+      "url": "https://www.youtube.com/watch?v=ujmyzWSj8IU",
+      "title": "API credits, now in ChatGPT Pro and Business plans",
+      "summary": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents. Credit amounts depend on the plan. Pro plans get $100, $200 or $500 per month by tier. Business plans get $20 per paid Standard seat or $100 per…",
+      "publishedAt": "2026-10-28T23:45:26.000Z",
+      "firstSeen": "2026-10-29T13:00:33.698Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
     {
       "id": "52ced88a57d97548",
       "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
@@ -218,7 +261,7 @@
       "id": "533d74e110ac69a7",
       "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw",
       "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
-      "summary": "“If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes. Using Codex, she asked it to help redesign a feature using the product’s existing design system. She…",
+      "summary": "“If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes. With Codex, she asked for help redesigning a feature without prescribing the solution. It drew on…",
       "publishedAt": "2026-10-28T11:50:26.000Z",
       "firstSeen": "2026-10-28T12:54:20.788Z",
       "source": "yt-openai",
@@ -1087,21 +1130,6 @@
       "title": "Taking on Harder Problems with Astra | Jump Trading",
       "summary": "At Jump Trading, Lucas Baker is seeing agents take on broader, less defined work—from building entire services to analyses that run for days across multiple data sources. He describes how AI is becoming part of his team’s everyday work.",
       "publishedAt": "2026-10-27T14:47:57.000Z",
-      "firstSeen": "2026-10-27T18:00:36.083Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "37bb50e79b2045f0",
-      "url": "https://www.youtube.com/shorts/XAVYrC9lY7Q",
-      "title": "Moving IPO Work Forward with AI | Cooley + OpenAI",
-      "summary": "How can AI help reduce the demands of IPO preparation? Cooley’s Chief Innovation Officer David Wang explains how GO Public, built with OpenAI, helps put substantive work in front of clients sooner and spot issues earlier. People remain responsible for reviewing the output and…",
-      "publishedAt": "2026-10-27T14:42:25.000Z",
       "firstSeen": "2026-10-27T18:00:36.083Z",
       "source": "yt-openai",
       "sourceName": "OpenAI (YouTube)",
@@ -6336,20 +6364,6 @@
       ]
     },
     {
-      "id": "7908d899cb3e3fcc",
-      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "summary": "Sandboxes are all you need.",
-      "publishedAt": "2026-10-15T10:08:08.000Z",
-      "firstSeen": "2026-10-29T05:48:31.696Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "2dd5c189d23158f9",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2",
       "title": "v0.32.0rc2",
@@ -9009,20 +9023,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "296d33defd03a1b2",
-      "url": "https://openai.com/index/fyxer",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:48:31.696Z",
+  "generatedAt": "2026-10-29T13:00:33.698Z",
   "items": [
     {
       "id": "ashby-openai-b82699a2-5819-4276-a402-fd88f56f9246",
@@ -1536,18 +1536,6 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10555817",
-      "company": "Amazon",
-      "title": "Applied Scientist, International Machine Learning",
-      "location": "Gurugram, Haryana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10555817/applied-scientist-international-machine-learning",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "ashby-openai-6628eb95-ede3-49ab-a11f-3d5c44b16bbb",
