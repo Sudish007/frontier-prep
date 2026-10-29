@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-28T22:35:25.817Z",
+  "generatedAt": "2026-10-29T05:48:31.696Z",
   "items": [
     {
-      "id": "2df0e95472f64437",
-      "url": "https://latent.space/p/elorian",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "firstSeen": "2026-10-28T22:35:25.817Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
+      "id": "52ced88a57d97548",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "title": "Quoting Ted Sanders",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable:…",
+      "publishedAt": "2026-10-28T23:23:21.000Z",
+      "firstSeen": "2026-10-29T05:48:31.696Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
       "topics": [
         "engineering"
       ]
@@ -6336,6 +6336,20 @@
       ]
     },
     {
+      "id": "7908d899cb3e3fcc",
+      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "summary": "Sandboxes are all you need.",
+      "publishedAt": "2026-10-15T10:08:08.000Z",
+      "firstSeen": "2026-10-29T05:48:31.696Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
       "id": "2dd5c189d23158f9",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2",
       "title": "v0.32.0rc2",
@@ -9003,20 +9017,6 @@
       "title": "How Fyxer built an AI executive assistant people trust",
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "publishedAt": "2026-09-14T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "12e9dd6851803557",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",

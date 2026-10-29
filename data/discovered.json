@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-28T22:35:25.817Z",
+  "generatedAt": "2026-10-29T05:48:31.696Z",
   "items": [
     {
-      "id": "2df0e95472f64437",
-      "url": "https://latent.space/p/elorian",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "firstSeen": "2026-10-28T22:35:25.817Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "kind": "paper",
+      "id": "52ced88a57d97548",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "title": "Quoting Ted Sanders",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable:…",
+      "publishedAt": "2026-10-28T23:23:21.000Z",
+      "firstSeen": "2026-10-29T05:48:31.696Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "kind": "tutorial",
       "matched": [
-        "paper"
+        "tutorial"
       ]
     },
     {
