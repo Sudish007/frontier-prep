@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-29T13:00:33.698Z",
+  "generatedAt": "2026-10-29T22:45:38.259Z",
   "items": [
+    {
+      "id": "amzn-10591594",
+      "company": "Amazon",
+      "title": "Applied Scientist, Minerva",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10591594/applied-scientist-minerva",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-10-29T22:45:38.259Z"
+    },
+    {
+      "id": "amzn-10592212",
+      "company": "Amazon",
+      "title": "Sr Applied Scientist, Amazon Shipping",
+      "location": "Gurugram, Haryana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10592212/sr-applied-scientist-amazon-shipping",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-10-29T22:45:38.259Z"
+    },
     {
       "id": "ashby-openai-b82699a2-5819-4276-a402-fd88f56f9246",
       "company": "OpenAI",
@@ -232,7 +256,7 @@
     {
       "id": "ashby-openai-5ef10e09-2b3f-41de-b77c-829787302101",
       "company": "OpenAI",
-      "title": "Research Scientist / Research Engineer, Search Integrity",
+      "title": "Research Scientist / Research Engineer, Safety + Alignment, Search",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101",
       "postedAt": "2026-10-21T21:05:30.865Z",
@@ -244,7 +268,7 @@
     {
       "id": "ashby-openai-1441816f-6429-426e-8f6d-8e5930a818f9",
       "company": "OpenAI",
-      "title": "Research Scientist / Research Engineer, Search - Knowledge Graphs",
+      "title": "Research Scientist / Research Engineer - Web Understanding and Structured Retrieval, Search",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9",
       "postedAt": "2026-10-21T21:04:47.291Z",
@@ -1646,18 +1670,6 @@
       "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
-      "id": "ashby-openai-6de1fad0-a69d-4d81-9d3a-2a3c5512b940",
-      "company": "OpenAI",
-      "title": "Model Policy Manager, Multimodal Safety",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/6de1fad0-a69d-4d81-9d3a-2a3c5512b940",
-      "postedAt": "2026-09-19T03:11:38.474Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
       "id": "amzn-10554136",
       "company": "Amazon",
       "title": "Sr. Data Scientist, Amazon Pay Data Products",
@@ -1704,18 +1716,6 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10551517",
-      "company": "Amazon",
-      "title": "Sr. Applied Scientist, Last Mile Science",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10551517/sr-applied-scientist-last-mile-science",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "ashby-openai-1baad891-43b8-4e2a-9e6c-f68741e718a4",

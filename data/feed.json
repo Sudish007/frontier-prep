@@ -1,6 +1,247 @@
 {
-  "generatedAt": "2026-10-29T13:00:33.698Z",
+  "generatedAt": "2026-10-29T22:45:38.259Z",
   "items": [
+    {
+      "id": "3fa519422b2c3b84",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
+      "publishedAt": "2026-10-29T20:16:40.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "8eef8a1c6a51e974",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
+      "title": "Microsoft Research Focus – Edition #97",
+      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus…",
+      "publishedAt": "2026-10-29T19:19:16.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "msr-blog",
+      "sourceName": "Microsoft Research blog",
+      "class": "rss",
+      "topics": [
+        "microsoft",
+        "research"
+      ]
+    },
+    {
+      "id": "1fcf22f867e2d9da",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
+      "title": "Building intent-driven UI testing with Amazon Nova Act",
+      "summary": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven…",
+      "publishedAt": "2026-10-29T18:20:27.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "983901472b072637",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro",
+      "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+      "summary": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the…",
+      "publishedAt": "2026-10-29T18:14:17.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "a80dd20eaec84f5f",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier…",
+      "publishedAt": "2026-10-29T17:00:26.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "7bf0065ceb1646f5",
+      "url": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "aa702b033bfda9cd",
+      "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+      "summary": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual…",
+      "publishedAt": "2026-10-29T16:58:57.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "3dcfe747ba6ccec0",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
+      "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+      "summary": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon…",
+      "publishedAt": "2026-10-29T16:54:52.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "3898a307580193f0",
+      "url": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
+      "title": "Speeding up language models for travel applications",
+      "summary": "Two optimization techniques, when combined, can significantly improve a model’s speed and cost effectiveness without sacrificing quality.",
+      "publishedAt": "2026-10-29T16:51:26.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "amazon-science",
+      "sourceName": "Amazon Science",
+      "class": "rss",
+      "topics": [
+        "amazon",
+        "research"
+      ]
+    },
+    {
+      "id": "a0c8bc8caa040e76",
+      "url": "https://www.youtube.com/watch?v=L6pzlo1QvoM",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "summary": "“We have about 600 applications that have been built by different people in the company.” At Zendesk, teams across sales, marketing, and operations are building applications for their own work. ChatGPT Enterprise is available to every employee, and business users are asking…",
+      "publishedAt": "2026-10-29T16:23:43.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "415c05d3f517e27e",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
+      "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+      "summary": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod…",
+      "publishedAt": "2026-10-29T16:11:08.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "2df0e95472f64437",
+      "url": "https://latent.space/p/elorian",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "502de87809f2a788",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+      "title": "Quoting Ben Hylak",
+      "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. &mdash; Ben Hylak Tags:…",
+      "publishedAt": "2026-10-29T14:06:27.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "22a42169ff916c20",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "title": "Software engineering at Google & CS education with Titus Winters",
+      "summary": "Titus Winters shares lessons from engineering at Google’s scale and explores how AI is reshaping developer productivity and computer science education.",
+      "publishedAt": "2026-10-29T13:37:13.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "f3538b6fb36f4f58",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": "",
+      "publishedAt": "2026-10-29T13:37:07.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "d28967fce9c692cd",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "2d9928289658e986",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "8266ea920e518e8f",
       "url": "https://latent.space/p/ainews-gemini-4-carbon",
@@ -22,6 +263,34 @@
       "summary": "",
       "publishedAt": "2026-10-29T00:00:00.000Z",
       "firstSeen": "2026-10-29T13:00:33.698Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "a1765f446c5b64b5",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "e1c742c1d925baf7",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "firstSeen": "2026-10-29T22:45:38.259Z",
       "source": "hf-blog",
       "sourceName": "Hugging Face blog",
       "class": "rss",
@@ -1125,21 +1394,6 @@
       ]
     },
     {
-      "id": "4acfb4ee9876d284",
-      "url": "https://www.youtube.com/shorts/kc9SMiwHw5g",
-      "title": "Taking on Harder Problems with Astra | Jump Trading",
-      "summary": "At Jump Trading, Lucas Baker is seeing agents take on broader, less defined work—from building entire services to analyses that run for days across multiple data sources. He describes how AI is becoming part of his team’s everyday work.",
-      "publishedAt": "2026-10-27T14:47:57.000Z",
-      "firstSeen": "2026-10-27T18:00:36.083Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "6dd70bb9a79dbb69",
       "url": "https://latent.space/p/offline-coding",
       "title": "Coding From the Himalayas With an Offline AI Agent",
@@ -1444,7 +1698,7 @@
     {
       "id": "f7553472da692bbb",
       "url": "https://arxiv.org/abs/2610.37068",
-      "title": "Hierarchical Low-Rank Reparameterization for Parameter-Efficient",
+      "title": "Hierarchical Low-Rank Reparameterization for Parameter-Efficient Fine-Tuning",
       "summary": "Parameter-efficient fine-tuning (PEFT) methods adapt large models by introducing a small number of trainable parameters. However, we find that these parameters still contain redundancy and can be further compressed while maintaining strong task performance. To this end, we…",
       "publishedAt": "2026-10-27T11:34:03.000Z",
       "firstSeen": "2026-10-28T05:42:10.686Z",
@@ -2843,90 +3097,6 @@
       "class": "atom",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "ad44bdcab03f890e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
-      "title": "Amazon Polly delivers a major upgrade to its Generative engine",
-      "summary": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in…",
-      "publishedAt": "2026-10-22T18:06:35.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "762687ac4e575ecb",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases",
-      "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-      "summary": "Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three…",
-      "publishedAt": "2026-10-22T18:01:53.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "418ae447f600fa7e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
-      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "summary": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU…",
-      "publishedAt": "2026-10-22T18:00:04.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "f5b85121619c1f6e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions",
-      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
-      "summary": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a…",
-      "publishedAt": "2026-10-22T18:00:01.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "1fc68e0e835ed772",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick",
-      "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
-      "summary": "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents…",
-      "publishedAt": "2026-10-22T17:48:22.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "2e13c1358e1008b3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai",
-      "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
-      "summary": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio…",
-      "publishedAt": "2026-10-22T17:45:58.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -5222,20 +5392,6 @@
       ]
     },
     {
-      "id": "9b35c0bfb2f0e3cd",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "summary": "",
-      "publishedAt": "2026-10-21T14:58:18.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "5c33d37c37b5fa3c",
       "url": "https://latent.space/p/claude-mods",
       "title": "Claude Mods: Flipping the Harness Inside Out",
@@ -6151,20 +6307,6 @@
       ]
     },
     {
-      "id": "483d6307e687a2d8",
-      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "summary": "Nick Cammarata out of nowhere with some major claims!",
-      "publishedAt": "2026-10-16T04:16:45.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "f60ec69786134585",
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust",
       "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
@@ -6423,20 +6565,6 @@
       ]
     },
     {
-      "id": "2cf7b587d05289db",
-      "url": "https://simonwillison.net/2026/Oct/15/latex",
-      "title": "LaTeX renderer",
-      "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and…",
-      "publishedAt": "2026-10-15T02:07:28.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "3733c75a28bf26df",
       "url": "https://huggingface.co/blog/flux-3",
       "title": "Welcome FLUX.3 Image Klein in Diffusers",
@@ -6506,20 +6634,6 @@
       "topics": [
         "engineering",
         "inference"
-      ]
-    },
-    {
-      "id": "2c3ce0b13a2faeed",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
-      "title": "Tree Appreciator",
-      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated…",
-      "publishedAt": "2026-10-14T21:23:01.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -7831,21 +7945,6 @@
       ]
     },
     {
-      "id": "05d139314aaff171",
-      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact",
-      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-      "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft…",
-      "publishedAt": "2026-09-28T21:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "msr-blog",
-      "sourceName": "Microsoft Research blog",
-      "class": "rss",
-      "topics": [
-        "microsoft",
-        "research"
-      ]
-    },
-    {
       "id": "cf468ec39dd67f09",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "title": "Towards safety cases for frontier AI training",
@@ -8989,34 +9088,6 @@
       "title": "New insights from Google’s AI & Economy ATLAS",
       "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
       "publishedAt": "2026-09-15T13:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "6860ae25bff9c85f",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "publishedAt": "2026-09-14T19:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "2267286cfd5cc9d7",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "publishedAt": "2026-09-14T16:00:00.000Z",
       "firstSeen": "2026-10-22T11:11:38.073Z",
       "source": "google-ai-blog",
       "sourceName": "Google: The Keyword, AI",
