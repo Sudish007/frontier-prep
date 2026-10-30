@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-30T12:55:57.736Z",
+  "generatedAt": "2026-10-30T22:20:28.143Z",
   "items": [
+    {
+      "id": "8492851df22e040d",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+      "title": "The Pulse: Anthropic kills the coding interview",
+      "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io’s AI spend, Microsoft’s exit offer to engineers, and more",
+      "publishedAt": "2026-10-30T16:37:51.000Z",
+      "firstSeen": "2026-10-30T22:20:28.143Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "kind": "interview",
+      "matched": [
+        "interview"
+      ]
+    },
     {
       "id": "9366790186522cc8",
       "url": "https://arxiv.org/abs/2610.40655",
@@ -1299,20 +1313,6 @@
       "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the…",
       "publishedAt": "2026-10-23T17:48:54.000Z",
       "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "c764dbeb21a3918f",
-      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
-      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-      "summary": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling…",
-      "publishedAt": "2026-10-23T16:30:10.000Z",
-      "firstSeen": "2026-10-23T17:07:27.560Z",
       "source": "aws-ml-blog",
       "sourceName": "AWS Machine Learning blog",
       "kind": "tutorial",
