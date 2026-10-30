@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:49:14.478Z",
+  "generatedAt": "2026-10-30T12:55:57.736Z",
   "items": [
     {
       "id": "ashby-openai-4bcc25ef-cf03-47db-896c-0fd9122afab1",
@@ -12,6 +12,30 @@
       "remote": true,
       "board": "openai",
       "firstSeen": "2026-10-30T05:49:14.478Z"
+    },
+    {
+      "id": "amzn-10584405",
+      "company": "Amazon",
+      "title": "ML Data Associate-II, Artificial General Intelligence",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10584405/ml-data-associate-ii-artificial-general-intelligence",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-10-30T12:55:57.736Z"
+    },
+    {
+      "id": "amzn-10593286",
+      "company": "Amazon",
+      "title": "Applied Scientist",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10593286/applied-scientist",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-10-30T12:55:57.736Z"
     },
     {
       "id": "gh-anthropic-5467099008",
@@ -631,18 +655,6 @@
       "title": "ML Data Associate III, AWS Quick",
       "location": "Chennai, Tamil Nadu, IND",
       "url": "https://www.amazon.jobs/en/jobs/10578123/ml-data-associate-iii-aws-quick",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "amzn-10578474",
-      "company": "Amazon",
-      "title": "Applied Scientist II, Detail Page",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10578474/applied-scientist-ii-detail-page",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "india": true,
       "remote": false,
@@ -1344,18 +1356,6 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10561089",
-      "company": "Amazon",
-      "title": "Applied Scientist II, RBS Tech",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10561089/applied-scientist-ii-rbs-tech",
-      "postedAt": "2026-09-28T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "amzn-10561346",
