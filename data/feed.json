@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-10-30T22:20:28.143Z",
+  "generatedAt": "2026-10-31T05:40:55.725Z",
   "items": [
+    {
+      "id": "4505f5f4bd09cf76",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "summary": "It turns out you cannot have your cake AND eat it",
+      "publishedAt": "2026-10-31T05:00:48.000Z",
+      "firstSeen": "2026-10-31T05:40:55.725Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "1ac62f843edf24f0",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+      "title": "v2.1.316",
+      "summary": "What's changed Added CLAUDE_CODE_DISABLE_ULTRATHINK , which turns the ultrathink keyword off Added pooled group budgets to the Claude apps gateway: one monthly budget that a group's members share, on top of each member's own limit, set with pooled_budget on the spend limits…",
+      "publishedAt": "2026-10-31T01:01:35.000Z",
+      "firstSeen": "2026-10-31T05:40:55.725Z",
+      "source": "rel-claude-code",
+      "sourceName": "claude-code releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "612d3f97526dee2a",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
+      "title": "v3.42.0",
+      "summary": "3.42.0 (2026-10-31) Features api: add agent context compaction settings ( #4209 ) ( f552fcf ) api: add agent session review and tool settings ( #4217 ) ( a63c4cd ) api: add experimental agent time awareness ( #4211 ) ( 10f9dd0 ) api: add image edit markup overlays ( #4210 ) (…",
+      "publishedAt": "2026-10-31T00:26:41.000Z",
+      "firstSeen": "2026-10-31T05:40:55.725Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "feb912e225e8e3aa",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "summary": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
+      "publishedAt": "2026-10-30T22:42:24.000Z",
+      "firstSeen": "2026-10-31T05:40:55.725Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
     {
       "id": "5e24b260a3151075",
       "url": "https://alignment.anthropic.com/2026/automated-em-search",
@@ -3060,20 +3118,6 @@
       ]
     },
     {
-      "id": "95364ce770790d21",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
-      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the…",
-      "publishedAt": "2026-10-23T17:48:54.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "bf6986b39fbc3713",
       "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
       "title": "An alignment assessment of the UK AISI cybertesting incident",
@@ -6117,20 +6161,6 @@
       ]
     },
     {
-      "id": "4d5d66fe73afb35f",
-      "url": "https://latent.space/p/ainews-not-much-happened-today-f09",
-      "title": "[AINews] not much happened today",
-      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "publishedAt": "2026-10-20T05:21:52.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "2596ff929aeef557",
       "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
       "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
@@ -6184,21 +6214,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "1288e651f266f647",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
-      "title": "v2.1.304",
-      "summary": "What's changed Added a transcript line when a plugin that runs first skips one of your mod's hooks, naming the event and the plugin Added decider: \"person\" to a mod's tool.check answer: only the permission dialog or a host's callback can approve the ask, and it is refused with…",
-      "publishedAt": "2026-10-19T21:34:39.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-claude-code",
-      "sourceName": "claude-code releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
       ]
     },
     {
@@ -6353,21 +6368,6 @@
       "title": "v3.35.0",
       "summary": "3.35.0 (2026-10-17) Features api: add typed Live sideband events ( #4099 ) ( 8d5cbf0 ) api: add ultrafast service tier for Agents ( #4101 ) ( 100bf8f ) Bug Fixes realtime: preserve byte receives with websockets 13 ( #4098 ) ( 309916e )",
       "publishedAt": "2026-10-17T23:13:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "e327cadd3a54b8d8",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.34.0",
-      "title": "v3.34.0",
-      "summary": "3.34.0 (2026-10-17) Features api: add degraded external storage status ( #4097 ) ( b216cb2 ) api: add Realtime Translation WebSocket sessions ( #4095 ) ( bfada50 )",
-      "publishedAt": "2026-10-17T20:34:04.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "rel-openai-py",
       "sourceName": "openai-python releases",

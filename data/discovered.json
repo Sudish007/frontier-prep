@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-30T22:20:28.143Z",
+  "generatedAt": "2026-10-31T05:40:55.725Z",
   "items": [
+    {
+      "id": "feb912e225e8e3aa",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "summary": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
+      "publishedAt": "2026-10-30T22:42:24.000Z",
+      "firstSeen": "2026-10-31T05:40:55.725Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "8492851df22e040d",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
@@ -1304,20 +1318,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "95364ce770790d21",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
-      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the…",
-      "publishedAt": "2026-10-23T17:48:54.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
       ]
     },
     {
