@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-31T12:29:28.113Z",
+  "generatedAt": "2026-10-31T21:34:28.710Z",
   "items": [
+    {
+      "id": "8c0796c0de9a288b",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.287",
+      "title": "v0.3.287",
+      "summary": "0.3.287 (2026-10-31) Features a runtime can hold and rewrite a react() conversation at turn boundaries, and compaction handlers gain reset() ( #6201 ) ( 7340817 ) reserve the range_goal registry type for inspect_ranges goal types ( #6224 ) ( 3dcbf00 ) sentinel: the sentinel host…",
+      "publishedAt": "2026-10-31T16:33:20.000Z",
+      "firstSeen": "2026-10-31T21:34:28.710Z",
+      "source": "rel-inspect",
+      "sourceName": "inspect_ai releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "evals"
+      ]
+    },
+    {
+      "id": "18eadc7cf156685b",
+      "url": "https://latent.space/p/arca",
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+      "publishedAt": "2026-10-31T16:05:00.000Z",
+      "firstSeen": "2026-10-31T21:34:28.710Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "08bbe0e48208a863",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
@@ -6031,20 +6060,6 @@
       ]
     },
     {
-      "id": "977d926a0cb6cc70",
-      "url": "https://latent.space/p/sfcompute2",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
-      "publishedAt": "2026-10-20T19:31:57.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "251aa12a07cb72d7",
       "url": "https://arxiv.org/abs/2610.28859",
       "title": "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform",
@@ -7455,21 +7470,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "93dab9add315a626",
-      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.277",
-      "title": "0.3.277",
-      "summary": "update changelog for release",
-      "publishedAt": "2026-10-06T21:35:09.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-inspect",
-      "sourceName": "inspect_ai releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "evals"
       ]
     },
     {
@@ -8990,63 +8990,6 @@
       "title": "Introducing Astra for Law",
       "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "publishedAt": "2026-09-17T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "c42597ec675298aa",
-      "url": "https://www.youtube.com/watch?v=J3ljHm57yU0",
-      "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
-      "summary": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has…",
-      "publishedAt": "2026-09-16T20:51:40.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-ai-explained",
-      "sourceName": "AI Explained (YouTube)",
-      "class": "atom",
-      "topics": [
-        "research",
-        "video"
-      ]
-    },
-    {
-      "id": "bbe6c30a33c9c72e",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "title": "Our framework for reporting model misalignment",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "publishedAt": "2026-09-16T17:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "027811ca1632d0f5",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "52752974efc060af",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "title": "Reimagining advertising with AI",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "publishedAt": "2026-09-16T13:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",
