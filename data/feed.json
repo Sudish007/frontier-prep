@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-31T05:40:55.725Z",
+  "generatedAt": "2026-10-31T12:29:28.113Z",
   "items": [
+    {
+      "id": "08bbe0e48208a863",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+      "title": "v0.33.0rc3",
+      "summary": "[CI][Bugfix] Pin the ColUltraVBERT test checkpoint to the revision vL…",
+      "publishedAt": "2026-10-31T07:15:45.000Z",
+      "firstSeen": "2026-10-31T12:29:28.113Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
     {
       "id": "4505f5f4bd09cf76",
       "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
@@ -7127,21 +7142,6 @@
       ]
     },
     {
-      "id": "aafb1b36fddb69f8",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0",
-      "title": "v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)",
-      "summary": "Signed-off-by: Matthew Bonanni mbonanni@redhat.com Co-authored-by: Claude Opus 5.5 noreply@anthropic.com",
-      "publishedAt": "2026-10-12T20:49:49.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
-      ]
-    },
-    {
       "id": "e05f5dfb850cddb8",
       "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
       "title": "Can we change an AI model’s architecture without retraining it from scratch?",
@@ -9047,48 +9047,6 @@
       "title": "Reimagining advertising with AI",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "publishedAt": "2026-09-16T13:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "5f7e182a53f2403b",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "title": "How to connect AI usage to business value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "973a91148c502943",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "71646fffd914b496",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "title": "How workers are unlocking new ways of working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "publishedAt": "2026-09-16T09:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",
