@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-01T06:04:32.569Z",
+  "generatedAt": "2026-11-01T13:24:28.697Z",
   "items": [
+    {
+      "id": "ce1e25ea927dceca",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0",
+      "title": "v0.33.0",
+      "summary": "vLLM v0.33.0",
+      "publishedAt": "2026-11-01T09:21:10.000Z",
+      "firstSeen": "2026-11-01T13:24:28.697Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
     {
       "id": "4c77a0dfd6338deb",
       "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
@@ -6767,21 +6782,6 @@
       ]
     },
     {
-      "id": "8120c1b647c422e2",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0",
-      "title": "proto-v0.6.0",
-      "summary": "vllm-proto 0.6.0",
-      "publishedAt": "2026-10-14T23:57:02.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
-      ]
-    },
-    {
       "id": "78095fed0138226c",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1",
       "title": "v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)",
@@ -8940,34 +8940,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "964ae1dd0facf551",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "publishedAt": "2026-09-17T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "f5a472e0bb864928",
-      "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
-      "title": "AI Skills with Matt Pocock",
-      "summary": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
-      "publishedAt": "2026-09-17T11:29:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
       ]
     }
   ]
