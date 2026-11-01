@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:24:28.697Z",
+  "generatedAt": "2026-11-01T22:01:52.618Z",
   "items": [
     {
       "id": "ashby-openai-18b4427e-b168-475e-a1e2-92a86c73f0f0",
@@ -48,18 +48,6 @@
       "remote": true,
       "board": "openai",
       "firstSeen": "2026-10-30T05:49:14.478Z"
-    },
-    {
-      "id": "amzn-10584405",
-      "company": "Amazon",
-      "title": "ML Data Associate-II, Artificial General Intelligence",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10584405/ml-data-associate-ii-artificial-general-intelligence",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-30T12:55:57.736Z"
     },
     {
       "id": "amzn-10593286",
@@ -2132,18 +2120,6 @@
       "location": "Tokyo, Japan; Remote",
       "url": "https://jobs.ashbyhq.com/openai/69398837-5ceb-44d8-b95a-e53c2acf5230",
       "postedAt": "2026-09-03T12:49:25.248Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f",
-      "company": "OpenAI",
-      "title": "Applied AI Engineer, Codex",
-      "location": "São Paulo; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f",
-      "postedAt": "2026-09-02T21:03:19.532Z",
       "india": false,
       "remote": true,
       "board": "openai",

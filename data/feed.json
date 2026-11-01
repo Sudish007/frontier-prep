@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-11-01T13:24:28.697Z",
+  "generatedAt": "2026-11-01T22:01:52.618Z",
   "items": [
+    {
+      "id": "8123445296bc890d",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.42.1",
+      "title": "v3.42.1",
+      "summary": "3.42.1 (2026-11-01) Bug Fixes api: preserve Responses WebSocket connection behavior ( #4221 ) ( 38075d8 ) realtime: validate beta WebSocket authentication profiles ( #4218 ) ( 3622a97 ) Refactors websocket: add SDK-owned Responses policy helpers ( #4219 ) ( 83ed269 )",
+      "publishedAt": "2026-11-01T20:56:19.000Z",
+      "firstSeen": "2026-11-01T22:01:52.618Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "7a06514023fd7da4",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
+      "title": "Quoting Kyle Kingsbury",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to…",
+      "publishedAt": "2026-11-01T16:49:04.000Z",
+      "firstSeen": "2026-11-01T22:01:52.618Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "ce1e25ea927dceca",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0",
@@ -6422,21 +6451,6 @@
       ]
     },
     {
-      "id": "2e43cede767fa5b8",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.35.0",
-      "title": "v3.35.0",
-      "summary": "3.35.0 (2026-10-17) Features api: add typed Live sideband events ( #4099 ) ( 8d5cbf0 ) api: add ultrafast service tier for Agents ( #4101 ) ( 100bf8f ) Bug Fixes realtime: preserve byte receives with websockets 13 ( #4098 ) ( 309916e )",
-      "publishedAt": "2026-10-17T23:13:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
       "id": "987754dece6755c3",
       "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
       "title": "Meta shakes up the frontiers, open and closed",
@@ -8911,35 +8925,6 @@
       "topics": [
         "openai",
         "engineering"
-      ]
-    },
-    {
-      "id": "6173cb1f27902e8c",
-      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
-      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-      "summary": "Education Innovation",
-      "publishedAt": "2026-09-17T20:45:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "google-research",
-      "sourceName": "Google Research blog",
-      "class": "rss",
-      "topics": [
-        "google",
-        "research"
-      ]
-    },
-    {
-      "id": "df4ade904b04545f",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
       ]
     }
   ]
