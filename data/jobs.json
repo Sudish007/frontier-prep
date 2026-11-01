@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:34:28.710Z",
+  "generatedAt": "2026-11-01T06:04:32.569Z",
   "items": [
     {
       "id": "ashby-openai-18b4427e-b168-475e-a1e2-92a86c73f0f0",
@@ -2158,30 +2158,6 @@
       "postedAt": "2026-09-02T07:51:54.044Z",
       "india": false,
       "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5412944008",
-      "company": "Anthropic",
-      "title": "Research Manager, Biological Safety",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412944008",
-      "postedAt": "2026-09-02T04:39:16.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-d4983a0f-1004-4f27-94b3-e1a38c168c1a",
-      "company": "OpenAI",
-      "title": "Researcher, Alignment Interpretability",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/d4983a0f-1004-4f27-94b3-e1a38c168c1a",
-      "postedAt": "2026-09-01T22:01:38.925Z",
-      "india": false,
-      "remote": false,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
