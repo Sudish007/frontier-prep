@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-01T22:01:52.618Z",
+  "generatedAt": "2026-11-02T06:02:32.988Z",
   "items": [
+    {
+      "id": "gh-anthropic-5468947008",
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Pre-training",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
+      "postedAt": "2026-11-02T04:16:27.000Z",
+      "india": false,
+      "remote": true,
+      "board": "anthropic",
+      "firstSeen": "2026-11-02T06:02:32.988Z"
+    },
     {
       "id": "ashby-openai-18b4427e-b168-475e-a1e2-92a86c73f0f0",
       "company": "OpenAI",
