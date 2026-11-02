@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-11-02T06:02:32.988Z",
+  "generatedAt": "2026-11-02T15:52:51.057Z",
   "items": [
+    {
+      "id": "19244c7aa2063fd3",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "publishedAt": "2026-11-02T15:00:00.000Z",
+      "firstSeen": "2026-11-02T15:52:51.057Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "efcf00e7bea340af",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used…",
+      "publishedAt": "2026-11-02T13:31:26.000Z",
+      "firstSeen": "2026-11-02T15:52:51.057Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "08bbe0e48208a863",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+      "title": "v0.33.0",
+      "summary": "v0.33.0 Highlights This release features 927 commits from 389 contributors (122 new)! New models : Reflection Beam-1.0 (501B MoE, 23B active) with its DFlash2 drafter ( #62074 ), Yandex AliceAI-Foundation-80B-A3B ( #57963 ), Recursive Flint (40B MoE, 2.5B active) ( #62938 ),…",
+      "publishedAt": "2026-11-02T10:11:34.000Z",
+      "firstSeen": "2026-10-31T12:29:28.113Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
     {
       "id": "8123445296bc890d",
       "url": "https://github.com/openai/openai-python/releases/tag/v3.42.1",
@@ -86,21 +129,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "08bbe0e48208a863",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
-      "title": "v0.33.0rc3",
-      "summary": "[CI][Bugfix] Pin the ColUltraVBERT test checkpoint to the revision vL…",
-      "publishedAt": "2026-10-31T07:15:45.000Z",
-      "firstSeen": "2026-10-31T12:29:28.113Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
       ]
     },
     {
@@ -558,6 +586,20 @@
       "class": "atom",
       "topics": [
         "papers"
+      ]
+    },
+    {
+      "id": "ea66f5a34808c903",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+      "title": "Speeding up planning decisions with AI",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "publishedAt": "2026-10-30T14:18:30.000Z",
+      "firstSeen": "2026-11-02T15:52:51.057Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
       ]
     },
     {
@@ -6377,20 +6419,6 @@
       ]
     },
     {
-      "id": "8f1b78fcf0c44ef0",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
-      "title": "llm-echo 0.5",
-      "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now…",
-      "publishedAt": "2026-10-18T23:16:16.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "469a26fa8ec353b7",
       "url": "https://www.youtube.com/watch?v=Fq73E8DQprc",
       "title": "Vector Databases Explained for System Design Interviews",
@@ -8868,48 +8896,6 @@
       "topics": [
         "fundamentals",
         "video"
-      ]
-    },
-    {
-      "id": "c72f60fcf6add18e",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "94ad9f737cb6b727",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "publishedAt": "2026-09-18T13:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "559b0cf1119746d2",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]

@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-02T06:02:32.988Z",
+  "generatedAt": "2026-11-02T15:52:51.057Z",
   "items": [
+    {
+      "id": "gh-anthropic-5450798008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect",
+      "location": "Sydney, Australia",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
+      "postedAt": "2026-11-02T09:33:31.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-02T15:52:51.057Z"
+    },
     {
       "id": "gh-anthropic-5468947008",
       "company": "Anthropic",
@@ -12,6 +24,18 @@
       "remote": true,
       "board": "anthropic",
       "firstSeen": "2026-11-02T06:02:32.988Z"
+    },
+    {
+      "id": "amzn-10593555",
+      "company": "Amazon",
+      "title": "Applied Scientist",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10593555/applied-scientist",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-11-02T15:52:51.057Z"
     },
     {
       "id": "ashby-openai-18b4427e-b168-475e-a1e2-92a86c73f0f0",
@@ -2122,18 +2146,6 @@
       "postedAt": "2026-09-03T16:33:13.278Z",
       "india": false,
       "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-69398837-5ceb-44d8-b95a-e53c2acf5230",
-      "company": "OpenAI",
-      "title": "Manager, Applied AI Architects",
-      "location": "Tokyo, Japan; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/69398837-5ceb-44d8-b95a-e53c2acf5230",
-      "postedAt": "2026-09-03T12:49:25.248Z",
-      "india": false,
-      "remote": true,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
