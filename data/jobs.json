@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-02T15:52:51.057Z",
+  "generatedAt": "2026-11-03T00:57:55.528Z",
   "items": [
+    {
+      "id": "ashby-openai-b3c1b5a9-a8fe-49df-849b-d4a06a47562c",
+      "company": "OpenAI",
+      "title": "Technical Success",
+      "location": "London, UK; Madrid, Spain; Munich, Germany; Dublin, Ireland; Abu Dhabi, UAE; Paris, France; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/b3c1b5a9-a8fe-49df-849b-d4a06a47562c",
+      "postedAt": "2026-11-02T20:04:22.295Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-03T00:57:55.528Z"
+    },
     {
       "id": "gh-anthropic-5450798008",
       "company": "Anthropic",
@@ -36,6 +48,18 @@
       "remote": false,
       "board": "amazon-genai-india",
       "firstSeen": "2026-11-02T15:52:51.057Z"
+    },
+    {
+      "id": "amzn-10593723",
+      "company": "Amazon",
+      "title": "Data Scientist II",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10593723/data-scientist-ii",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-03T00:57:55.528Z"
     },
     {
       "id": "ashby-openai-18b4427e-b168-475e-a1e2-92a86c73f0f0",
@@ -550,18 +574,6 @@
       "postedAt": "2026-10-19T04:30:59.906Z",
       "india": false,
       "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-0867dab4-ed8e-46d5-92ce-a769ebda7c03",
-      "company": "OpenAI",
-      "title": "Media Relations, Safety Communications ",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/0867dab4-ed8e-46d5-92ce-a769ebda7c03",
-      "postedAt": "2026-10-16T22:56:23.537Z",
-      "india": false,
-      "remote": false,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
@@ -2123,30 +2135,6 @@
       "india": false,
       "remote": false,
       "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-7d49af15-623e-476a-9d35-831c5c9c9bf5",
-      "company": "OpenAI",
-      "title": "Researcher, Agent Safety, Oversight and System Mitigations",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/7d49af15-623e-476a-9d35-831c5c9c9bf5",
-      "postedAt": "2026-09-03T16:34:21.597Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-e1cc86e5-b56c-49c0-a4a6-8cf766c27281",
-      "company": "OpenAI",
-      "title": "Researcher, Agent Safety, Training and Evaluations",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/e1cc86e5-b56c-49c0-a4a6-8cf766c27281",
-      "postedAt": "2026-09-03T16:33:13.278Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]

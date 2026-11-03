@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-02T15:52:51.057Z",
+  "generatedAt": "2026-11-03T00:57:55.528Z",
   "items": [
+    {
+      "id": "3e4765c6fd3b0d54",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
+      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+      "summary": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping…",
+      "publishedAt": "2026-11-02T17:01:16.000Z",
+      "firstSeen": "2026-11-03T00:57:55.528Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "ed4b58253682640f",
+      "url": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "publishedAt": "2026-11-02T09:00:00.000Z",
+      "firstSeen": "2026-11-03T00:57:55.528Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
     {
       "id": "feb912e225e8e3aa",
       "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
