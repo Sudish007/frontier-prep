@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-03T14:14:49.128Z",
+  "generatedAt": "2026-11-03T23:23:29.284Z",
   "items": [
+    {
+      "id": "ef509d7a4530fbcf",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
+      "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+      "summary": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each…",
+      "publishedAt": "2026-11-03T16:41:13.000Z",
+      "firstSeen": "2026-11-03T23:23:29.284Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "360a3a5d8e13c5c4",
       "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
