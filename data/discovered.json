@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:22:18.022Z",
+  "generatedAt": "2026-11-04T19:45:12.825Z",
   "items": [
     {
       "id": "c217a739fa5e6ee8",
@@ -196,6 +196,20 @@
       "kind": "paper",
       "matched": [
         "paper"
+      ]
+    },
+    {
+      "id": "2216c041a7b33d16",
+      "url": "https://www.youtube.com/watch?v=zColCgWc3NY",
+      "title": "Embeddings Explained for ML Engineering Interviews",
+      "summary": "How do embeddings learn what belongs together? We build an upsell recommender from simple product representations to matrix factorization, two-tower models, contrastive learning, graph embeddings, and pretrained encoders. Then we cover how to use, evaluate, and serve…",
+      "publishedAt": "2026-11-03T17:05:07.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "kind": "video",
+      "matched": [
+        "tutorial"
       ]
     },
     {
@@ -1445,20 +1459,6 @@
       ]
     },
     {
-      "id": "533d74e110ac69a7",
-      "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw",
-      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
-      "summary": "“If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes. With Codex, she asked for help redesigning a feature without prescribing the solution. It drew on…",
-      "publishedAt": "2026-10-28T11:50:26.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
       "id": "d42fb1eb3362412f",
       "url": "https://openai.com/index/retell-ai",
       "title": "Retell uses OpenAI models to help power 100M monthly calls",
@@ -1479,34 +1479,6 @@
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education Guest Lecture — The Robot Operating System (ROS) Note: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and…",
       "publishedAt": "2026-10-23T21:00:06.000Z",
       "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
-      ]
-    },
-    {
-      "id": "b6c56d0d791abb14",
-      "url": "https://www.youtube.com/watch?v=cfnLXAXTadA",
-      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Designing AI for Societal Good",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 9, 2026 This lecture covers: • Improving generative AI chatbots' influence on public mental health as a case study • A new way of thinking about \"designing AI…",
-      "publishedAt": "2026-10-23T16:00:05.000Z",
-      "firstSeen": "2026-10-23T17:07:27.560Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
-      ]
-    },
-    {
-      "id": "a197b917a3d021e8",
-      "url": "https://www.youtube.com/watch?v=jT6aYMQ0Lqw",
-      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Sensing Uncertainty in Sustainable HCI",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 2, 2026 This lecture covers: • Sensing uncertainty • When a sensor may not be reporting on an event as it occurred • How user interfaces (UIs) and their…",
-      "publishedAt": "2026-10-22T17:00:10.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
       "source": "yt-stanford-online",
       "sourceName": "Stanford Online (YouTube)",
       "kind": "video",

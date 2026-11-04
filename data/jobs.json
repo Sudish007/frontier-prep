@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-04T06:22:18.022Z",
+  "generatedAt": "2026-11-04T19:45:12.825Z",
   "items": [
+    {
+      "id": "gh-anthropic-5473079008",
+      "company": "Anthropic",
+      "title": "Recruiter, Applied AI",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473079008",
+      "postedAt": "2026-11-04T16:58:18.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-04T19:45:12.825Z"
+    },
+    {
+      "id": "gh-anthropic-5472677008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Partnerships",
+      "location": "Sydney, Australia",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472677008",
+      "postedAt": "2026-11-04T11:36:20.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-04T19:45:12.825Z"
+    },
+    {
+      "id": "gh-anthropic-5471721008",
+      "company": "Anthropic",
+      "title": "Manager, Forward Deployed Engineering",
+      "location": "Paris, France",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
+      "postedAt": "2026-11-04T10:14:43.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-04T19:45:12.825Z"
+    },
     {
       "id": "ashby-openai-5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
       "company": "OpenAI",
@@ -86,16 +122,16 @@
       "firstSeen": "2026-11-03T23:23:29.284Z"
     },
     {
-      "id": "gh-anthropic-5467893008",
+      "id": "gh-anthropic-5461252008",
       "company": "Anthropic",
-      "title": "Data Scientist, Finance Forecasting",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
-      "postedAt": "2026-11-03T18:42:48.000Z",
-      "india": false,
+      "title": "Applied AI Architect ( Global Customers)",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461252008",
+      "postedAt": "2026-11-03T13:49:17.000Z",
+      "india": true,
       "remote": false,
       "board": "anthropic",
-      "firstSeen": "2026-11-03T23:23:29.284Z"
+      "firstSeen": "2026-11-04T19:45:12.825Z"
     },
     {
       "id": "ashby-openai-7be58f3a-6005-42ed-86fa-77773ebfb294",
@@ -1334,18 +1370,6 @@
       "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
-      "id": "gh-anthropic-5439830008",
-      "company": "Anthropic",
-      "title": "Applied AI Architect, International Policy",
-      "location": "San Francisco, CA | New York City, NY | Washington, DC",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439830008",
-      "postedAt": "2026-09-30T15:40:43.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
       "id": "gh-anthropic-5439499008",
       "company": "Anthropic",
       "title": "Applied AI Architects, Partner ",
@@ -1528,7 +1552,7 @@
     {
       "id": "gh-anthropic-5432583008",
       "company": "Anthropic",
-      "title": "[London] Applied AI Architect, Partnerships",
+      "title": "Applied AI Architect, Partnerships",
       "location": "London, UK",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
       "postedAt": "2026-09-28T07:22:51.000Z",
@@ -1967,18 +1991,6 @@
       "india": false,
       "remote": true,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5390902008",
-      "company": "Anthropic",
-      "title": "Applied AI Architect, Partnerships",
-      "location": "Sydney, Australia",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390902008",
-      "postedAt": "2026-09-15T11:08:43.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {

@@ -1,6 +1,220 @@
 {
-  "generatedAt": "2026-11-04T06:22:18.022Z",
+  "generatedAt": "2026-11-04T19:45:12.825Z",
   "items": [
+    {
+      "id": "56dd15d9b84857b5",
+      "url": "https://www.youtube.com/shorts/6IttBmI4P9M",
+      "title": "Messi asks ChatGPT to reimagine his room",
+      "summary": "Messi wanted this empty room to feel a little more like him, but wasn’t sure where to start. So he asked ChatGPT for some ideas. Try it yourself: “Reimagine this room in my style. Surprise me.”",
+      "publishedAt": "2026-11-04T19:25:46.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "e9efb1446d7a006a",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai",
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "summary": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+      "publishedAt": "2026-11-04T19:17:30.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "1840d116fbddf6e3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
+      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to…",
+      "publishedAt": "2026-11-04T18:46:36.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "d8fa341b96c36837",
+      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+      "title": "Agile Deliberation: How AI helps humans define the gray areas",
+      "summary": "Data Mining & Modeling",
+      "publishedAt": "2026-11-04T18:07:05.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "5afc49da7bd40515",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "publishedAt": "2026-11-04T17:50:10.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "6db309f009911fa4",
+      "url": "https://www.youtube.com/shorts/0LDs5rvx1EI",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "summary": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing. In an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful…",
+      "publishedAt": "2026-11-04T17:33:11.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "166d08d878bab569",
+      "url": "https://www.youtube.com/watch?v=44GBqQGc-v0",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "summary": "Marketers shouldn’t have to wait for a new dashboard to understand how a campaign is performing. In an early pilot with OpenAI, Figma is building shared context that helps marketers ask how campaigns are landing and whether they’re converting customers. Teams can get useful…",
+      "publishedAt": "2026-11-04T17:27:07.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "c85e9d7dd64e1f57",
+      "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "title": "How big is the open model economy today?",
+      "summary": "Our first open model economy research note for paid subscribers.",
+      "publishedAt": "2026-11-04T16:35:44.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "interconnects",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "class": "rss",
+      "topics": [
+        "research"
+      ]
+    },
+    {
+      "id": "5dcd8c391f4dae8c",
+      "url": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
+      "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "summary": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and…",
+      "publishedAt": "2026-11-04T16:33:03.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "2240c970935398d5",
+      "url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
+      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "summary": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data…",
+      "publishedAt": "2026-11-04T16:30:40.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "b860dcb6054f0104",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
+      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+      "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance,…",
+      "publishedAt": "2026-11-04T16:25:57.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "c5387dca01dcfd3e",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
+      "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+      "summary": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational…",
+      "publishedAt": "2026-11-04T16:23:33.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "1d83ea98ce0c30cf",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+      "title": "datasette-llm 0.1a10",
+      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "publishedAt": "2026-11-04T15:26:02.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "3a06f84c0f51a102",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "publishedAt": "2026-11-04T14:30:00.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "75679f5aa60bfcf8",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "3bb0fcf4cbacd2f4",
       "url": "https://github.com/openai/openai-python/releases/tag/v3.45.0",
@@ -17,6 +231,20 @@
       ]
     },
     {
+      "id": "42f4810ce57263f7",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps",
+      "title": "datasette-apps 0.3a0",
+      "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be…",
+      "publishedAt": "2026-11-04T00:29:36.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
       "id": "6385d8e47a02bbd3",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
       "title": "v2.1.318",
@@ -28,6 +256,34 @@
       "class": "atom",
       "topics": [
         "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "7c1041935d0b84bb",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent",
+      "title": "datasette-agent 0.5a0",
+      "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this…",
+      "publishedAt": "2026-11-03T23:13:45.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "dc5e1e6807a1f078",
+      "url": "https://simonwillison.net/2026/Nov/3/llm",
+      "title": "llm 0.37.1",
+      "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+      "publishedAt": "2026-11-03T21:41:42.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
         "engineering"
       ]
     },
@@ -117,6 +373,21 @@
       ]
     },
     {
+      "id": "07cdeba3c4cd66ae",
+      "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
+      "title": "TamaGPT",
+      "summary": "You don't need to be an engineer to make hardware. Want to make something physical? Let GPT-6 Astra help you bring it to life.",
+      "publishedAt": "2026-11-03T18:30:30.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
       "id": "3ae029898ba16082",
       "url": "https://arxiv.org/abs/2611.05320",
       "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
@@ -160,6 +431,21 @@
       ]
     },
     {
+      "id": "60196b10dd335897",
+      "url": "https://www.youtube.com/watch?v=yC72iQx6rM0",
+      "title": "Qodo brings company context into Codex code review",
+      "summary": "Qodo’s Codex plugin brings company context, codebase standards, and independent review into the development workflow. It helps developers catch bugs across repositories, where a change can look right in one codebase and break a service in another. In Behind the Build, co-founder…",
+      "publishedAt": "2026-11-03T18:11:23.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
       "id": "8206592cb9bfbafb",
       "url": "https://arxiv.org/abs/2611.05292",
       "title": "Personas Are Not People: Identity as State, Not Attribute",
@@ -186,6 +472,21 @@
       "topics": [
         "openai",
         "engineering"
+      ]
+    },
+    {
+      "id": "d84f2d409b05d2bb",
+      "url": "https://www.youtube.com/watch?v=63pcV4z0DwI",
+      "title": "ChatGPT Voice is now in Finances",
+      "summary": "ChatGPT Voice 🤝 Finances. Securely connect your accounts through Finances, then talk through your finances on topics like what subscriptions you're paying for, discuss which you’d like to keep and what you could save by cancelling. Try it: chatgpt.com/finances",
+      "publishedAt": "2026-11-03T18:04:51.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
       ]
     },
     {
@@ -261,6 +562,21 @@
       ]
     },
     {
+      "id": "fc206cd324a141b1",
+      "url": "https://www.youtube.com/shorts/rizhPxLuIlM",
+      "title": "The transactional outbox pattern in system design interviews",
+      "summary": "#systemdesign #swe #sweinterview #shorts",
+      "publishedAt": "2026-11-03T17:15:48.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "class": "atom",
+      "topics": [
+        "interview",
+        "video"
+      ]
+    },
+    {
       "id": "a55665cf48953af7",
       "url": "https://huggingface.co/blog/allenai/statebench",
       "title": "StateBench: Testing how language models track state changes over long documents",
@@ -290,6 +606,21 @@
       ]
     },
     {
+      "id": "2216c041a7b33d16",
+      "url": "https://www.youtube.com/watch?v=zColCgWc3NY",
+      "title": "Embeddings Explained for ML Engineering Interviews",
+      "summary": "How do embeddings learn what belongs together? We build an upsell recommender from simple product representations to matrix factorization, two-tower models, contrastive learning, graph embeddings, and pretrained encoders. Then we cover how to use, evaluate, and serve…",
+      "publishedAt": "2026-11-03T17:05:07.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "class": "atom",
+      "topics": [
+        "interview",
+        "video"
+      ]
+    },
+    {
       "id": "adafdd4764cb9dbb",
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -301,6 +632,21 @@
       "class": "rss",
       "topics": [
         "google"
+      ]
+    },
+    {
+      "id": "1afe3cf65797b376",
+      "url": "https://www.youtube.com/shorts/JR7xBi2kJjY",
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "summary": "Glean co-founder and CTO T.R. Vishwanath discusses customer control of data and Glean’s work with OpenAI on the Private Safety Processing preview. Learn more about OpenAI Private Intelligence: https://openai.com/business/private-intelligence/",
+      "publishedAt": "2026-11-03T16:51:36.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
       ]
     },
     {
@@ -344,6 +690,21 @@
       "class": "rss",
       "topics": [
         "amazon"
+      ]
+    },
+    {
+      "id": "2baa2e0273f5f3a9",
+      "url": "https://www.youtube.com/watch?v=2h16j4K_NbA",
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "summary": "Using more capable AI starts with confidence that your data stays under your control. For Glean’s customers, privacy is a priority. Glean co-founder and CTO Vishwanath T R shares how Glean and OpenAI have worked together to help meet those needs, including through the Private…",
+      "publishedAt": "2026-11-03T16:46:37.000Z",
+      "firstSeen": "2026-11-04T19:45:12.825Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
       ]
     },
     {
@@ -2505,34 +2866,6 @@
       ]
     },
     {
-      "id": "1fcf22f867e2d9da",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
-      "title": "Building intent-driven UI testing with Amazon Nova Act",
-      "summary": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven…",
-      "publishedAt": "2026-10-29T18:20:27.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "983901472b072637",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro",
-      "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
-      "summary": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the…",
-      "publishedAt": "2026-10-29T18:14:17.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "ae6a54c3c455486e",
       "url": "https://arxiv.org/abs/2610.40637",
       "title": "world2vec: Mechanistic world models through latent dynamics learning",
@@ -2576,34 +2909,6 @@
       ]
     },
     {
-      "id": "aa702b033bfda9cd",
-      "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
-      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "summary": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual…",
-      "publishedAt": "2026-10-29T16:58:57.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "3dcfe747ba6ccec0",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
-      "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
-      "summary": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon…",
-      "publishedAt": "2026-10-29T16:54:52.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "3898a307580193f0",
       "url": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
       "title": "Speeding up language models for travel applications",
@@ -2631,20 +2936,6 @@
       "topics": [
         "openai",
         "video"
-      ]
-    },
-    {
-      "id": "415c05d3f517e27e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
-      "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-      "summary": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod…",
-      "publishedAt": "2026-10-29T16:11:08.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -2832,21 +3123,6 @@
       ]
     },
     {
-      "id": "e59c1ac4a9944e36",
-      "url": "https://www.youtube.com/watch?v=ujmyzWSj8IU",
-      "title": "API credits, now in ChatGPT Pro and Business plans",
-      "summary": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents. Credit amounts depend on the plan. Pro plans get $100, $200 or $500 per month by tier. Business plans get $20 per paid Standard seat or $100 per…",
-      "publishedAt": "2026-10-28T23:45:26.000Z",
-      "firstSeen": "2026-10-29T13:00:33.698Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "52ced88a57d97548",
       "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
       "title": "Quoting Ted Sanders",
@@ -3003,36 +3279,6 @@
       ]
     },
     {
-      "id": "baba7bee56c62fb3",
-      "url": "https://www.youtube.com/shorts/kP26OlW5PBk",
-      "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
-      "summary": "“If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes. Using Codex, she asked it to help redesign a feature using the product’s existing design system. She…",
-      "publishedAt": "2026-10-28T11:51:11.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "533d74e110ac69a7",
-      "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw",
-      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
-      "summary": "“If you're an executive, you are the ceiling for AI fluency for your organization.” Merge co-founder and CEO Shensi Ding manages the non-R&D side of the business. She also codes. With Codex, she asked for help redesigning a feature without prescribing the solution. It drew on…",
-      "publishedAt": "2026-10-28T11:50:26.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "d957b57aa1e66e8e",
       "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
       "title": "Quoting Terk Terkowitz",
@@ -3058,66 +3304,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "b781f6bc8b549636",
-      "url": "https://www.youtube.com/watch?v=M2Oa42hF67E",
-      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
-      "summary": "NDA reviews once took up around 20% of Legora’s legal team’s capacity. Today, that figure is under 1%. General Counsel Emma Kadri Bergström shares how AI is helping her team reclaim time, support a rapidly growing business and take on more complex work, while keeping lawyers…",
-      "publishedAt": "2026-10-28T09:45:24.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "b3ba52f0ab7d4763",
-      "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
-      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
-      "summary": "Legora co-founder and CEO Max Junestrand wants to make legal expertise available wherever it’s needed. He shares how OpenAI helped turn that ambition into a platform, why staying AI-native matters as the company grows, and what becomes possible when lawyers can take on work that…",
-      "publishedAt": "2026-10-28T09:45:18.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "78924ef2955743e3",
-      "url": "https://www.youtube.com/watch?v=z-WZMjNsg-k",
-      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
-      "summary": "When deadlines limit how many contracts lawyers can examine, important risks can go unseen. Alex Fortescue-Webb, Global Head of Legal Engineering at Legora, explains how AI powered by OpenAI models helps teams analyse thousands of contracts across multiple questions in minutes,…",
-      "publishedAt": "2026-10-28T09:45:16.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "b70bb0a81bf5b815",
-      "url": "https://www.youtube.com/watch?v=yJxZef1Ylok",
-      "title": "How Legora is transforming legal work with OpenAI",
-      "summary": "What can lawyers achieve when time is no longer the limit? Discover how Legora uses OpenAI models, ChatGPT and Codex to help legal teams review contracts faster, broaden their analysis and make more room for work that needs human judgment. Part of Intelligence at Work, a series…",
-      "publishedAt": "2026-10-28T09:45:14.000Z",
-      "firstSeen": "2026-10-28T12:54:20.788Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -3348,21 +3534,6 @@
       "class": "atom",
       "topics": [
         "google",
-        "video"
-      ]
-    },
-    {
-      "id": "406c21cb8d5e0a29",
-      "url": "https://www.youtube.com/shorts/Yim7JrVzSkk",
-      "title": "Lawyers Stay in Control | AT&T + OpenAI",
-      "summary": "AT&T’s David McAtee and Bill Ryan discuss how AI can support legal work while lawyers remain responsible for strategy, judgment and decisions.",
-      "publishedAt": "2026-10-27T15:40:48.000Z",
-      "firstSeen": "2026-10-27T18:00:36.083Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
         "video"
       ]
     },
@@ -3884,21 +4055,6 @@
       ]
     },
     {
-      "id": "b6c56d0d791abb14",
-      "url": "https://www.youtube.com/watch?v=cfnLXAXTadA",
-      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Designing AI for Societal Good",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 9, 2026 This lecture covers: • Improving generative AI chatbots' influence on public mental health as a case study • A new way of thinking about \"designing AI…",
-      "publishedAt": "2026-10-23T16:00:05.000Z",
-      "firstSeen": "2026-10-23T17:07:27.560Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
-      ]
-    },
-    {
       "id": "2db5899be23b0474",
       "url": "https://www.amazon.science/blog/better-speech-synthesis-for-audiobooks",
       "title": "Better speech synthesis for audiobooks",
@@ -4129,20 +4285,6 @@
       ]
     },
     {
-      "id": "f29afd1567254e52",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we…",
-      "publishedAt": "2026-10-22T18:09:56.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "a4d3526d3b30867d",
       "url": "https://latent.space/p/modal-d",
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
@@ -4154,21 +4296,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "a197b917a3d021e8",
-      "url": "https://www.youtube.com/watch?v=jT6aYMQ0Lqw",
-      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Sensing Uncertainty in Sustainable HCI",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 2, 2026 This lecture covers: • Sensing uncertainty • When a sensor may not be reporting on an event as it occurred • How user interfaces (UIs) and their…",
-      "publishedAt": "2026-10-22T17:00:10.000Z",
-      "firstSeen": "2026-10-22T21:36:11.880Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
       ]
     },
     {
@@ -6130,20 +6257,6 @@
       ]
     },
     {
-      "id": "dc028fea27bbb478",
-      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program",
-      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "summary": "The Big Hardening begins",
-      "publishedAt": "2026-10-22T07:42:44.000Z",
-      "firstSeen": "2026-10-23T11:39:27.578Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "63c31ca523f91ccf",
       "url": "https://openai.com/index/forward-deployed-engineering-means",
       "title": "What FDE means at OpenAI",
@@ -6243,20 +6356,6 @@
       "topics": [
         "engineering",
         "evals"
-      ]
-    },
-    {
-      "id": "918065aafd8b1ca4",
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release",
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night,…",
-      "publishedAt": "2026-10-21T18:41:53.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
