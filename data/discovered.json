@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:45:55.733Z",
+  "generatedAt": "2026-11-05T19:57:00.667Z",
   "items": [
     {
       "id": "6a4cf305f5f066a3",
@@ -1487,34 +1487,6 @@
       ]
     },
     {
-      "id": "829f9c5b4d23efee",
-      "url": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | The Robot Operating System (ROS)",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education Guest Lecture — The Robot Operating System (ROS) Note: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and…",
-      "publishedAt": "2026-10-23T21:00:06.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
-      ]
-    },
-    {
-      "id": "33ab0ba309d32904",
-      "url": "https://interviewing.io/blog/how-is-ai-changing-interview-processes-not-much-and-a-whole-lot",
-      "title": "How is AI changing interview processes? Not much and a whole lot.",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "interviewing-io-blog",
-      "sourceName": "interviewing.io blog",
-      "kind": "interview",
-      "matched": [
-        "interview"
-      ]
-    },
-    {
       "id": "3b648144cab13c36",
       "url": "https://interviewing.io/blog/how-to-use-ai-in-meta-s-ai-assisted-coding-interview-with-real-prompts-and-examples",
       "title": "Using AI in Meta’s AI-assisted coding interview (with real prompts and examples)",
@@ -1792,20 +1764,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "66e9b8585e9b1435",
-      "url": "https://www.youtube.com/watch?v=DXZynfHZJYk",
-      "title": "Docker Explained in 10 Minutes: Dockerfiles, Layer Caches, Virtualization",
-      "summary": "🧠 Want more system design content? Start with our free guide: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/introduction How do you get code that works on your laptop running reliably in production? In this video, we package a small Node.js app with…",
-      "publishedAt": "2026-09-21T16:04:26.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "yt-hello-interview",
-      "sourceName": "Hello Interview (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
       ]
     }
   ]

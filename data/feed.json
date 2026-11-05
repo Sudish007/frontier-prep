@@ -1,6 +1,209 @@
 {
-  "generatedAt": "2026-11-05T06:45:55.733Z",
+  "generatedAt": "2026-11-05T19:57:00.667Z",
   "items": [
+    {
+      "id": "1526cac721bee8c6",
+      "url": "https://interviewing.io/blog/how-to-discuss-latency-in-system-design-interviews",
+      "title": "How to discuss latency in system design interviews",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "interviewing-io-blog",
+      "sourceName": "interviewing.io blog",
+      "class": "html-links",
+      "topics": [
+        "interview"
+      ]
+    },
+    {
+      "id": "3b78672d47e119ba",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "e8690f74b67f5698",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "",
+      "publishedAt": "2026-11-05T19:35:16.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "44e40ff317905bf3",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0",
+      "title": "v2.6.0",
+      "summary": "Features api: add error code for ramp limit errors api: add error codes for External Key validation failures api: add support for signing organization members out everywhere Bug Fixes bedrock,vertex: raise error-code and status exception classes on platform clients bedrock: keep…",
+      "publishedAt": "2026-11-05T18:58:47.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "5e845585dbaf7b01",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai",
+      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+      "summary": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each…",
+      "publishedAt": "2026-11-05T18:06:43.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "bbd186973cbcb708",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.47.0",
+      "title": "v3.47.0",
+      "summary": "3.47.0 (2026-11-05) Features api: add a model option for Responses ( #4249 ) ( 090098f )",
+      "publishedAt": "2026-11-05T18:04:10.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "80b8f077bc42c9db",
+      "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4",
+      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+      "summary": "Mozilla used GPT-6 Cyber to uncover previously unknown high-severity vulnerabilities in Firefox and identify architectural improvements. Its team shipped fixes to millions of users, turning findings into protections for the people who depend on the software. Hear Brian…",
+      "publishedAt": "2026-11-05T17:14:11.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "003a6dd08e360129",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "d7e9e3e89ee778d6",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "56a03da12c0bbf17",
+      "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+      "title": "Detecting signs of hypertension using wearable sensors",
+      "summary": "Health & Bioscience",
+      "publishedAt": "2026-11-05T16:01:08.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "5c5c439c3a5adbf4",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves…",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "msr-blog",
+      "sourceName": "Microsoft Research blog",
+      "class": "rss",
+      "topics": [
+        "microsoft",
+        "research"
+      ]
+    },
+    {
+      "id": "7fb652c9ef37fd7e",
+      "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+      "title": "Scaling Slack and GitHub with Maude Lemaire",
+      "summary": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands.",
+      "publishedAt": "2026-11-05T15:58:00.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "43feb53130539229",
+      "url": "https://www.amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
+      "title": "Hamed Karimi wins ECML PKDD Test-of-Time Award",
+      "summary": "Amazon senior applied scientist and coauthors showed that an overlooked mathematical condition from 1963 proves why frequently used machine-learning optimization methods work well.",
+      "publishedAt": "2026-11-05T14:57:23.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "amazon-science",
+      "sourceName": "Amazon Science",
+      "class": "rss",
+      "topics": [
+        "amazon",
+        "research"
+      ]
+    },
+    {
+      "id": "53c56afbaf05f856",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "14329e9984c2ebe0",
       "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
@@ -31,6 +234,35 @@
       ]
     },
     {
+      "id": "429ff381e1d663d5",
+      "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ",
+      "title": "Introducing ChatGPT Images 2.6",
+      "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation. Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming…",
+      "publishedAt": "2026-11-05T02:32:21.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "f93567576105c713",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "publishedAt": "2026-11-05T02:00:00.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
       "id": "43e1365d9850697f",
       "url": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
       "title": "v3.46.0",
@@ -43,6 +275,35 @@
       "topics": [
         "openai",
         "engineering"
+      ]
+    },
+    {
+      "id": "89209ab642b10e25",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "bde8352b29cd1847",
+      "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8",
+      "title": "GPT-Image-2.6: Faster image generation with Flare and Sunburst",
+      "summary": "We’re bringing GPT-Image-2.6 to Codex and the API. In the API, the 2.6 versions of Flare and Sunburst generate images 50% faster than before. Use Flare for a quick first pass on a poster or product shot. At low image quality, it can generate an image in as little as six seconds.…",
+      "publishedAt": "2026-11-04T23:42:40.000Z",
+      "firstSeen": "2026-11-05T19:57:00.667Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
       ]
     },
     {
@@ -1386,7 +1647,7 @@
     {
       "id": "07cdeba3c4cd66ae",
       "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
-      "title": "TamaGPT",
+      "title": "Design hardware with Astra",
       "summary": "You don't need to be an engineer to make hardware. Want to make something physical? Let GPT-6 Astra help you bring it to life.",
       "publishedAt": "2026-11-03T18:30:30.000Z",
       "firstSeen": "2026-11-04T19:45:12.825Z",
@@ -2664,20 +2925,6 @@
       ]
     },
     {
-      "id": "b2263e9f84127c76",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "title": "nemotron-halloween",
-      "summary": "",
-      "publishedAt": "2026-10-30T17:57:24.000Z",
-      "firstSeen": "2026-10-30T22:20:28.143Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "77b8021d805e32e5",
       "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
       "title": "Was I wrong about open models & cyber risks?",
@@ -2739,21 +2986,6 @@
       "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
       "summary": "“Before ChatGPT Work, we were walking. Now with ChatGPT Work, we are running.” For Gen's Howie Xu, that means understanding how a new product’s onboarding experience is working within two or three hours of release. Finding answers used to mean repeated handoffs across teams,…",
       "publishedAt": "2026-10-30T15:24:48.000Z",
-      "firstSeen": "2026-10-30T22:20:28.143Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "cdb16d5410782133",
-      "url": "https://www.youtube.com/watch?v=Oi9DHk57KeQ",
-      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
-      "summary": "“Before ChatGPT Work, we were walking. Now with ChatGPT Work, we are running.” For Gen's Howie Xu, that means understanding how a new product’s onboarding experience is working within two or three hours of release. Finding answers used to mean repeated handoffs across teams,…",
-      "publishedAt": "2026-10-30T15:22:47.000Z",
       "firstSeen": "2026-10-30T22:20:28.143Z",
       "source": "yt-openai",
       "sourceName": "OpenAI (YouTube)",
@@ -2968,21 +3200,6 @@
       ]
     },
     {
-      "id": "237e37ca214fd868",
-      "url": "https://www.youtube.com/shorts/GNYHDltnwZQ",
-      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
-      "summary": "“We have about 600 applications that have been built by different people in the company.” At Zendesk, teams across sales, marketing, and operations are building applications for their own work. ChatGPT Enterprise is available to every employee, and business users are asking…",
-      "publishedAt": "2026-10-29T22:48:11.000Z",
-      "firstSeen": "2026-10-30T12:55:57.736Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "14acdb1c7849533f",
       "url": "https://arxiv.org/abs/2610.41014",
       "title": "Towards Understanding Score-Seeking in LLMs",
@@ -2995,20 +3212,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "3fa519422b2c3b84",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
-      "title": "How the UK Amazon Quick User Group grew in 2026",
-      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
-      "publishedAt": "2026-10-29T20:16:40.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -3067,21 +3270,6 @@
       "topics": [
         "amazon",
         "research"
-      ]
-    },
-    {
-      "id": "a0c8bc8caa040e76",
-      "url": "https://www.youtube.com/watch?v=L6pzlo1QvoM",
-      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
-      "summary": "“We have about 600 applications that have been built by different people in the company.” At Zendesk, teams across sales, marketing, and operations are building applications for their own work. ChatGPT Enterprise is available to every employee, and business users are asking…",
-      "publishedAt": "2026-10-29T16:23:43.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -3840,21 +4028,6 @@
       ]
     },
     {
-      "id": "93828099da30b82a",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.38.0",
-      "title": "v3.38.0",
-      "summary": "3.38.0 (2026-10-25) Features api: add delegation controls and prompt cache lifetimes ( #4169 ) ( 43045fc ) api: expand Live Decision item and question types ( #4175 ) ( 5d72315 ) Bug Fixes agents: clarify result schema warnings ( #4165 ) ( cfa0a79 ) format API status errors…",
-      "publishedAt": "2026-10-26T16:35:03.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
       "id": "0821e0cfddae297e",
       "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
       "title": "webframe: evaluated as a scraper and a sandbox",
@@ -4095,21 +4268,6 @@
       "class": "atom",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "829f9c5b4d23efee",
-      "url": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | The Robot Operating System (ROS)",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education Guest Lecture — The Robot Operating System (ROS) Note: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and…",
-      "publishedAt": "2026-10-23T21:00:06.000Z",
-      "firstSeen": "2026-10-23T21:24:45.587Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
       ]
     },
     {
@@ -4531,20 +4689,6 @@
       ]
     },
     {
-      "id": "33ab0ba309d32904",
-      "url": "https://interviewing.io/blog/how-is-ai-changing-interview-processes-not-much-and-a-whole-lot",
-      "title": "How is AI changing interview processes? Not much and a whole lot.",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "interviewing-io-blog",
-      "sourceName": "interviewing.io blog",
-      "class": "html-links",
-      "topics": [
-        "interview"
-      ]
-    },
-    {
       "id": "34367bd392366a37",
       "url": "https://www.anthropic.com/research/claude-code-best-practices",
       "title": "Claude Code: Best practices for agentic coding",
@@ -4853,7 +4997,7 @@
     {
       "id": "b7829f876bd25383",
       "url": "https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews",
-      "title": "we predicted that advances in AI would force companies to abandon cookie-cutter LeetCode questions",
+      "title": "How hard is it to cheat in technical interviews with ChatGPT? We ran an experiment.",
       "summary": "",
       "publishedAt": null,
       "firstSeen": "2026-10-22T11:11:38.073Z",
@@ -5260,21 +5404,6 @@
       "class": "html-links",
       "topics": [
         "anthropic"
-      ]
-    },
-    {
-      "id": "293bd11dfc89432b",
-      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "title": "Automated researchers can reliably mitigate alignment failures",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
       ]
     },
     {
@@ -7178,21 +7307,6 @@
       ]
     },
     {
-      "id": "1da94e2078fcba6d",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0",
-      "title": "v1.14.0",
-      "summary": "Features api: add execution_identity to Managed Agents agents api: add organization_type_not_supported error to spend limit lists api: add telemetry destination test endpoint api: add telemetry destinations to the Admin API client: add native support for OpenTelemetry tracing If…",
-      "publishedAt": "2026-10-15T09:48:10.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "e3c36d4422c6129b",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "title": "Apertus 1.5 Release Notes",
@@ -7922,21 +8036,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "c2e7917438d64d4a",
-      "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us",
-      "title": "What AI gets wrong and what failure teaches us",
-      "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. The post What…",
-      "publishedAt": "2026-10-06T16:19:06.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "msr-blog",
-      "sourceName": "Microsoft Research blog",
-      "class": "rss",
-      "topics": [
-        "microsoft",
-        "research"
       ]
     },
     {
@@ -9074,136 +9173,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "22dc264339f33f52",
-      "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
-      "title": "Amazon launches research initiative with Stanford University to advance AI and science",
-      "summary": "The collaboration aims to advance research while broadening participation and translating discovery into real-world solutions.",
-      "publishedAt": "2026-09-21T19:31:59.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "amazon-science",
-      "sourceName": "Amazon Science",
-      "class": "rss",
-      "topics": [
-        "amazon",
-        "research"
-      ]
-    },
-    {
-      "id": "390b17852f3af1df",
-      "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
-      "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
-      "summary": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
-      "publishedAt": "2026-09-21T17:51:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "amazon-science",
-      "sourceName": "Amazon Science",
-      "class": "rss",
-      "topics": [
-        "amazon",
-        "research"
-      ]
-    },
-    {
-      "id": "66e9b8585e9b1435",
-      "url": "https://www.youtube.com/watch?v=DXZynfHZJYk",
-      "title": "Docker Explained in 10 Minutes: Dockerfiles, Layer Caches, Virtualization",
-      "summary": "🧠 Want more system design content? Start with our free guide: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/introduction How do you get code that works on your laptop running reliably in production? In this video, we package a small Node.js app with…",
-      "publishedAt": "2026-09-21T16:04:26.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "yt-hello-interview",
-      "sourceName": "Hello Interview (YouTube)",
-      "class": "atom",
-      "topics": [
-        "interview",
-        "video"
-      ]
-    },
-    {
-      "id": "c056c2e41db15cbe",
-      "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
-      "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "summary": "Is the wall AI is hitting in the room with us right now?",
-      "publishedAt": "2026-09-21T12:31:04.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "import-ai",
-      "sourceName": "Import AI (Jack Clark)",
-      "class": "rss",
-      "topics": [
-        "research",
-        "policy"
-      ]
-    },
-    {
-      "id": "a7ca59844a94ccd6",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "d37f5b2c59270d01",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "9a319be2f7489d1b",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "title": "The current balance of power in open models",
-      "summary": "The expanded form of a testimony I prepared for Congress.",
-      "publishedAt": "2026-09-21T11:56:56.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "interconnects",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "class": "rss",
-      "topics": [
-        "research"
-      ]
-    },
-    {
-      "id": "2c9792fbb14ae5db",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "title": "Building standards for the next phase of AI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "530db518a73a5717",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]
