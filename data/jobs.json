@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:45:12.825Z",
+  "generatedAt": "2026-11-05T06:45:55.733Z",
   "items": [
     {
       "id": "gh-anthropic-5473079008",
@@ -1332,18 +1332,6 @@
       "remote": true,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10566353",
-      "company": "Amazon",
-      "title": "Applied Scientist, International Seller Services",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10566353/applied-scientist-international-seller-services",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-11-04T06:22:18.022Z"
     },
     {
       "id": "amzn-10567078",
