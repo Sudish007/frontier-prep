@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-06T06:45:29.995Z",
+  "generatedAt": "2026-11-06T19:24:27.295Z",
   "items": [
+    {
+      "id": "0f0cb95e5bb05a5c",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
+      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
+      "publishedAt": "2026-11-06T17:13:13.000Z",
+      "firstSeen": "2026-11-06T19:24:27.295Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "cfd4354afa14004f",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "firstSeen": "2026-11-06T19:24:27.295Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
     {
       "id": "41341649fe9513a2",
       "url": "https://arxiv.org/abs/2611.08438",
@@ -1152,20 +1180,6 @@
       ]
     },
     {
-      "id": "3e4765c6fd3b0d54",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
-      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-      "summary": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping…",
-      "publishedAt": "2026-11-02T17:01:16.000Z",
-      "firstSeen": "2026-11-03T00:57:55.528Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
       "id": "2c6467559603042e",
       "url": "https://arxiv.org/abs/2611.03374",
       "title": "Characterizing When Language Models Take Harmful Actions to Protect Their Assigned Goals",
@@ -1373,20 +1387,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "feb912e225e8e3aa",
-      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
-      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "summary": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
-      "publishedAt": "2026-10-30T22:42:24.000Z",
-      "firstSeen": "2026-10-31T05:40:55.725Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
       ]
     },
     {

@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-11-06T06:45:29.995Z",
+  "generatedAt": "2026-11-06T19:24:27.295Z",
   "items": [
+    {
+      "id": "gh-anthropic-5473198008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Democratic Partnerships ",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473198008",
+      "postedAt": "2026-11-06T17:43:55.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-06T19:24:27.295Z"
+    },
+    {
+      "id": "gh-anthropic-5473195008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, International Policy",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473195008",
+      "postedAt": "2026-11-06T17:43:11.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-06T19:24:27.295Z"
+    },
+    {
+      "id": "ashby-openai-bd1ac97f-20f9-4727-9f92-7064035a416f",
+      "company": "OpenAI",
+      "title": "Data Scientist, Preparedness",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/bd1ac97f-20f9-4727-9f92-7064035a416f",
+      "postedAt": "2026-11-06T15:01:46.288Z",
+      "india": false,
+      "remote": false,
+      "board": "openai",
+      "firstSeen": "2026-11-06T19:24:27.295Z"
+    },
+    {
+      "id": "gh-anthropic-5475240008",
+      "company": "Anthropic",
+      "title": "Recruiter, Applied AI",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475240008",
+      "postedAt": "2026-11-06T13:23:32.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-06T19:24:27.295Z"
+    },
+    {
+      "id": "gh-anthropic-5463598008",
+      "company": "Anthropic",
+      "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463598008",
+      "postedAt": "2026-11-06T08:10:22.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-06T19:24:27.295Z"
+    },
+    {
+      "id": "amzn-10598475",
+      "company": "Amazon",
+      "title": "Research Scientist II, Grocery ECO",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10598475/research-scientist-ii-grocery-eco",
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-06T19:24:27.295Z"
+    },
     {
       "id": "ashby-openai-a84e6109-142f-45ae-80e1-05811732cca1",
       "company": "OpenAI",
@@ -144,18 +216,6 @@
       "remote": false,
       "board": "amazon-genai-india",
       "firstSeen": "2026-11-05T19:57:00.667Z"
-    },
-    {
-      "id": "gh-anthropic-5473079008",
-      "company": "Anthropic",
-      "title": "Recruiter, Applied AI",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473079008",
-      "postedAt": "2026-11-04T16:58:18.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-11-04T19:45:12.825Z"
     },
     {
       "id": "gh-anthropic-5472677008",
@@ -902,18 +962,6 @@
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
-      "id": "gh-anthropic-5424305008",
-      "company": "Anthropic",
-      "title": "Manager, Applied AI Architects - Digital Natives, EMEA",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424305008",
-      "postedAt": "2026-10-16T09:34:58.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
       "id": "amzn-10581128",
       "company": "Amazon",
       "title": "Data Scientist II, Data Scientist, IES CFX & Prime",
@@ -1020,18 +1068,6 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10578123",
-      "company": "Amazon",
-      "title": "ML Data Associate III, AWS Quick",
-      "location": "Chennai, Tamil Nadu, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10578123/ml-data-associate-iii-aws-quick",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "amzn-10578603",
@@ -2292,18 +2328,6 @@
       "remote": false,
       "board": "amazon-genai-india",
       "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "gh-anthropic-5412334008",
-      "company": "Anthropic",
-      "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
-      "location": "Zürich, CH",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
-      "postedAt": "2026-09-07T08:25:53.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]
 }
