@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:00:16.938Z",
+  "generatedAt": "2026-11-07T21:50:42.609Z",
   "items": [
     {
       "id": "ashby-openai-087aa4f5-1192-413a-ba34-3ae324cf90e5",
@@ -1538,6 +1538,18 @@
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
+      "id": "amzn-10566353",
+      "company": "Amazon",
+      "title": "Applied Scientist, International Seller Services",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10566353/applied-scientist-international-seller-services",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-07T21:50:42.609Z"
+    },
+    {
       "id": "amzn-10567078",
       "company": "Amazon",
       "title": "Applied Scientist II, Buyer Risk Prevention (BRP)",
@@ -2291,42 +2303,6 @@
       "india": false,
       "remote": false,
       "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-14c5d693-7e85-4c26-8ca7-0b6f68fe6ace",
-      "company": "OpenAI",
-      "title": "Forward Deployed Engineer - Madrid (Spanish-speaking)",
-      "location": "Madrid, Spain; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/14c5d693-7e85-4c26-8ca7-0b6f68fe6ace",
-      "postedAt": "2026-09-08T21:18:19.165Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-7ce64627-b273-48e1-b3bc-ef4be0444706",
-      "company": "OpenAI",
-      "title": "Forward Deployed Engineer - London (Spanish-speaking)",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706",
-      "postedAt": "2026-09-08T21:16:39.864Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-485cda77-5d8f-4aaa-bca5-916b011477e6",
-      "company": "OpenAI",
-      "title": "Applied AI Engineer, Government ",
-      "location": "Washington, DC; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6",
-      "postedAt": "2026-09-08T16:59:01.596Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]

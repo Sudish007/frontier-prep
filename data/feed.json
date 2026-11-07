@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:00:16.938Z",
+  "generatedAt": "2026-11-07T21:50:42.609Z",
   "items": [
     {
       "id": "594105e3c51985ed",
@@ -8919,106 +8919,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "cb4e42d4d067c659",
-      "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
-      "title": "Inside Anthropic's molecular biology lab",
-      "summary": "Some of the biggest discoveries in biology started with someone noticing something strange in one of the many molecular machines found in nature. We’re introducing a new molecular biology research group and lab at Anthropic to see if Claude can help scientists notice more of…",
-      "publishedAt": "2026-09-23T18:01:32.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-anthropic",
-      "sourceName": "Anthropic (YouTube)",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "video"
-      ]
-    },
-    {
-      "id": "e896566878a9d4f0",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "publishedAt": "2026-09-23T18:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "3a35425568c413eb",
-      "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
-      "title": "Design Engineering with Maggie Appleton",
-      "summary": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters.",
-      "publishedAt": "2026-09-23T17:07:22.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "cd8117c6d35f983b",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "publishedAt": "2026-09-23T16:00:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "9d02eeb8cef10808",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "title": "Two years of OpenAI Academy",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "publishedAt": "2026-09-23T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "914ed32ad555468d",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "summary": "",
-      "publishedAt": "2026-09-23T15:25:14.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "61c4e542f161cc7d",
-      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
-      "title": "Create your own voices with Gemini 3.8 text-to-speech",
-      "summary": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural language prompts - directing every performance line by line with nuanced acting cues, pacing, back channeling, and dialect shifts. Or, recreate consistent…",
-      "publishedAt": "2026-09-23T15:23:38.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
       ]
     }
   ]

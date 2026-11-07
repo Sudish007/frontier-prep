@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:00:16.938Z",
+  "generatedAt": "2026-11-07T21:50:42.609Z",
   "items": [
     {
       "id": "7baf06e1004e3e7a",
@@ -1735,20 +1735,6 @@
       "source": "openai-news",
       "sourceName": "OpenAI news",
       "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "61c4e542f161cc7d",
-      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
-      "title": "Create your own voices with Gemini 3.8 text-to-speech",
-      "summary": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural language prompts - directing every performance line by line with nuanced acting cues, pacing, back channeling, and dialect shifts. Or, recreate consistent…",
-      "publishedAt": "2026-09-23T15:23:38.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "kind": "video",
       "matched": [
         "tutorial"
       ]
