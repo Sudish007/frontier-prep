@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-06T19:24:27.295Z",
+  "generatedAt": "2026-11-07T05:58:07.120Z",
   "items": [
+    {
+      "id": "594105e3c51985ed",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "title": "The components of agent memory",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-07T05:58:07.120Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "d62fbfe2fc04f838",
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now",
+      "title": "[AINews] Anthropic IPO: Whither Now?",
+      "summary": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+      "publishedAt": "2026-11-07T03:04:53.000Z",
+      "firstSeen": "2026-11-07T05:58:07.120Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "bd03b6ebfe950d2c",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.288",
+      "title": "v0.3.288",
+      "summary": "0.3.288 (2026-11-06) Breaking Changes environments with google-genai 2.x fail the validate_google_client version check. Install google-genai>=3.0.0 . Evaluations using the automatically generated Docker sandbox must provide an explicit image if they need the nonroot account,…",
+      "publishedAt": "2026-11-07T01:13:21.000Z",
+      "firstSeen": "2026-11-07T05:58:07.120Z",
+      "source": "rel-inspect",
+      "sourceName": "inspect_ai releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "evals"
+      ]
+    },
     {
       "id": "e214d358f05d6fdb",
       "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
@@ -4515,20 +4559,6 @@
       ]
     },
     {
-      "id": "619059630d1f6d6c",
-      "url": "https://latent.space/p/ai-is-getting-good-at-math",
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
-      "publishedAt": "2026-10-23T15:19:48.000Z",
-      "firstSeen": "2026-10-23T17:07:27.560Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "64c302135dcd1898",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
       "title": "v2.2.0",
@@ -5184,21 +5214,6 @@
       "id": "cb9bb6ace1be1aad",
       "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
       "title": "Demystifying evals for AI agents",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "anthropic-engineering",
-      "sourceName": "Anthropic engineering",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
-      "id": "d2f874dbecaeb16d",
-      "url": "https://www.anthropic.com/research/claude-think-tool",
-      "title": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
       "summary": "",
       "publishedAt": null,
       "firstSeen": "2026-10-22T11:11:38.073Z",
@@ -6036,21 +6051,6 @@
       "class": "html-links",
       "topics": [
         "anthropic"
-      ]
-    },
-    {
-      "id": "8e96172c31dd5001",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "title": "An alignment assessment of recent cybersecurity incidents",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
       ]
     },
     {
@@ -7911,21 +7911,6 @@
       ]
     },
     {
-      "id": "c0e0ab053f44c94a",
-      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.278",
-      "title": "0.3.278",
-      "summary": "Tasks and samples can carry a description of what they ask of the agent, recorded in the eval log and in evals_df() and samples_df() . Tool review now also reviews handoff() calls, as approval does. Compaction: Fixed compaction triggering early and reporting inflated token…",
-      "publishedAt": "2026-10-09T16:49:48.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-inspect",
-      "sourceName": "inspect_ai releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "evals"
-      ]
-    },
-    {
       "id": "90995f7dbc9c2674",
       "url": "https://openai.com/index/asana-browser-agent",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -9112,62 +9097,6 @@
       "title": "Introducing MentalHealthBench",
       "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
       "publishedAt": "2026-09-23T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "1dd9ce125c6e0e60",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "publishedAt": "2026-09-23T02:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "73fafdf6f45f6a41",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "publishedAt": "2026-09-23T01:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "09a0c6dbf1c6c00d",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "b6b1e4118cdbb529",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "publishedAt": "2026-09-22T21:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",
