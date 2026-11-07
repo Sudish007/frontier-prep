@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-07T05:58:07.120Z",
+  "generatedAt": "2026-11-07T13:00:16.938Z",
   "items": [
+    {
+      "id": "7baf06e1004e3e7a",
+      "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0",
+      "title": "LifeVal: Measuring AI progress on the tasks that matter in everyday life.",
+      "summary": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to…",
+      "publishedAt": "2026-11-06T21:11:34.000Z",
+      "firstSeen": "2026-11-07T13:00:16.938Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "kind": "video",
+      "matched": [
+        "paper"
+      ]
+    },
     {
       "id": "0f0cb95e5bb05a5c",
       "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
@@ -1737,20 +1751,6 @@
       "kind": "video",
       "matched": [
         "tutorial"
-      ]
-    },
-    {
-      "id": "1d5a9cc2d9509da8",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "title": "Introducing MentalHealthBench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "kind": "paper",
-      "matched": [
-        "paper"
       ]
     }
   ]
