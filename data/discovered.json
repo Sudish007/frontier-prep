@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-08T13:24:48.042Z",
+  "generatedAt": "2026-11-08T22:05:20.631Z",
   "items": [
+    {
+      "id": "6b30b33472969a8e",
+      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco",
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+      "publishedAt": "2026-11-08T21:23:29.000Z",
+      "firstSeen": "2026-11-08T22:05:20.631Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "kind": "course",
+      "matched": [
+        "course"
+      ]
+    },
     {
       "id": "7baf06e1004e3e7a",
       "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0",

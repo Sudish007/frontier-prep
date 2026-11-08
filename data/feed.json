@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-08T13:24:48.042Z",
+  "generatedAt": "2026-11-08T22:05:20.631Z",
   "items": [
+    {
+      "id": "9c7e75a27e82f37a",
+      "url": "https://latent.space/p/cs146s",
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "summary": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+      "publishedAt": "2026-11-08T21:41:44.000Z",
+      "firstSeen": "2026-11-08T22:05:20.631Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "6b30b33472969a8e",
+      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco",
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+      "publishedAt": "2026-11-08T21:23:29.000Z",
+      "firstSeen": "2026-11-08T22:05:20.631Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "aa246d454f0a3147",
       "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.7",
@@ -4129,20 +4157,6 @@
       ]
     },
     {
-      "id": "95af72b561e4ee73",
-      "url": "https://latent.space/p/ainews-anthropic-s1",
-      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "summary": "The S-1, the numbers, and the reactions.",
-      "publishedAt": "2026-10-27T07:24:59.000Z",
-      "firstSeen": "2026-10-27T12:11:52.332Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "a3a879144b2984ac",
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -4440,20 +4454,6 @@
       "topics": [
         "engineering",
         "evals"
-      ]
-    },
-    {
-      "id": "c1ad71a16e1f5eab",
-      "url": "https://latent.space/p/ainews-kimi-31",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "summary": "We have Fable at home... or so we are being told by paid shills",
-      "publishedAt": "2026-10-24T07:18:29.000Z",
-      "firstSeen": "2026-10-24T11:00:12.837Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -8891,35 +8891,6 @@
       "topics": [
         "research",
         "video"
-      ]
-    },
-    {
-      "id": "97e64618c0b233d7",
-      "url": "https://research.google/blog/coherent-long-form-video-generation",
-      "title": "Automating coherent long-form video generation",
-      "summary": "Generative AI",
-      "publishedAt": "2026-09-24T19:40:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "google-research",
-      "sourceName": "Google Research blog",
-      "class": "rss",
-      "topics": [
-        "google",
-        "research"
-      ]
-    },
-    {
-      "id": "91625e27c986178e",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:20:39.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
       ]
     }
   ]

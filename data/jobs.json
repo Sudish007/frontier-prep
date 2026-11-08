@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-08T13:24:48.042Z",
+  "generatedAt": "2026-11-08T22:05:20.631Z",
   "items": [
+    {
+      "id": "gh-anthropic-5459191008",
+      "company": "Anthropic",
+      "title": "Research Engineer, Cybersecurity RL",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008",
+      "postedAt": "2026-11-08T19:12:32.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-08T22:05:20.631Z"
+    },
     {
       "id": "ashby-openai-087aa4f5-1192-413a-ba34-3ae324cf90e5",
       "company": "OpenAI",
@@ -2279,30 +2291,6 @@
       "india": false,
       "remote": true,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5419869008",
-      "company": "Anthropic",
-      "title": "Staff+ Software Engineer, ML Inference Path",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419869008",
-      "postedAt": "2026-09-09T19:19:17.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5419868008",
-      "company": "Anthropic",
-      "title": "Staff+ Software Engineer, ML Sampling Path",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419868008",
-      "postedAt": "2026-09-09T19:17:24.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]
