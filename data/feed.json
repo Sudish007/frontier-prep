@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-08T06:00:36.678Z",
+  "generatedAt": "2026-11-08T13:24:48.042Z",
   "items": [
+    {
+      "id": "aa246d454f0a3147",
+      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.7",
+      "title": "Agents SDK v0.24.0-alpha.7",
+      "summary": "Agents SDK v0.24.0-alpha.7 Highlights Use Classic workflows alongside native execution. Import the retained v0 runtime through agents.classic . This alpha also changes executor write defaults; review the upgrade actions before opening existing environments. Keep conversations in…",
+      "publishedAt": "2026-11-08T07:07:12.000Z",
+      "firstSeen": "2026-11-08T13:24:48.042Z",
+      "source": "rel-openai-agents",
+      "sourceName": "openai-agents-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
     {
       "id": "594105e3c51985ed",
       "url": "https://www.anthropic.com/research/components-of-agent-memory",
