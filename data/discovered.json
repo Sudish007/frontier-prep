@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-09T06:28:17.673Z",
+  "generatedAt": "2026-11-09T22:21:45.843Z",
   "items": [
+    {
+      "id": "e8f19e9835c0d6e2",
+      "url": "https://www.youtube.com/watch?v=I7zvCSGMkoc",
+      "title": "Stanford CS193T Thinking with AI | Autumn 2026 | Introduction to AI",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://stanford.io/cs193t-autumn26 What’s actually happening when you chat with an AI? This opening lecture demystifies large language models from the ground up — tokens, neural networks, weights and layers, and…",
+      "publishedAt": "2026-11-09T18:00:30.000Z",
+      "firstSeen": "2026-11-09T22:21:45.843Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "8433ae49482a0e15",
+      "url": "https://latent.space/p/handshake",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "summary": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
+      "publishedAt": "2026-11-09T17:15:53.000Z",
+      "firstSeen": "2026-11-09T22:21:45.843Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "6b30b33472969a8e",
       "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco",
@@ -1175,20 +1203,6 @@
       "source": "yt-hello-interview",
       "sourceName": "Hello Interview (YouTube)",
       "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "ef509d7a4530fbcf",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
-      "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
-      "summary": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each…",
-      "publishedAt": "2026-11-03T16:41:13.000Z",
-      "firstSeen": "2026-11-03T23:23:29.284Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
       "matched": [
         "tutorial"
       ]
