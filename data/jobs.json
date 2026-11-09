@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-08T22:05:20.631Z",
+  "generatedAt": "2026-11-09T06:28:17.673Z",
   "items": [
+    {
+      "id": "ashby-openai-5d5b2256-ee0f-4ba6-a983-d62d0d70515d",
+      "company": "OpenAI",
+      "title": "Manager, Forward Deployed Engineering - Munich",
+      "location": "Munich, Germany; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/5d5b2256-ee0f-4ba6-a983-d62d0d70515d",
+      "postedAt": "2026-11-09T01:20:20.424Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-09T06:28:17.673Z"
+    },
     {
       "id": "gh-anthropic-5459191008",
       "company": "Anthropic",
