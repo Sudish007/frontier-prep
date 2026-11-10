@@ -1,6 +1,77 @@
 {
-  "generatedAt": "2026-11-10T07:18:03.039Z",
+  "generatedAt": "2026-11-10T19:43:37.225Z",
   "items": [
+    {
+      "id": "3e1919c777ea2db3",
+      "url": "https://latent.space/p/naiveai",
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "summary": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+      "publishedAt": "2026-11-10T18:56:32.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "1ef986ded84b8812",
+      "url": "https://www.youtube.com/watch?v=Qhf1mp74tbk",
+      "title": "Stanford CS193T Thinking with AI | Autumn 2026 | Core Prompting",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://stanford.io/cs193t-autumn26 Lecture 1 explained what’s happening inside the model; Lecture 2 is about what you do with it. We cover how to prompt effectively — treating AI like a capable but new hire, using…",
+      "publishedAt": "2026-11-10T18:00:09.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "d8e7492226c70349",
+      "url": "https://www.youtube.com/watch?v=FkLAEAcQXcc",
+      "title": "How to Answer Any System Design Interview (The Delivery Framework)",
+      "summary": "📘 The full Delivery Framework guide: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/delivery Most system design interviews go wrong on time, not knowledge. In this video, Evan walks through the Hello Interview Delivery Framework, the order we recommend…",
+      "publishedAt": "2026-11-10T17:32:18.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "kind": "video",
+      "matched": [
+        "interview"
+      ]
+    },
+    {
+      "id": "fd4a6604dd1fab40",
+      "url": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+      "title": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
+      "summary": "Expanding the mix of synthetic data used to train a tabular foundation model enables it to adapt to new tables without new models and lead the single-model field on the TabArena benchmark.",
+      "publishedAt": "2026-11-10T15:37:39.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "amazon-science",
+      "sourceName": "Amazon Science",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "46ecb159c1535b09",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "831bd9db6c4fa670",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick",
@@ -16,6 +87,21 @@
       ]
     },
     {
+      "id": "c331305db01d53d4",
+      "url": "https://www.youtube.com/watch?v=DGI4vucR71w",
+      "title": "What Are AI Agents? Agentic Systems Explained | Stanford CS329Z Lecture 1 with Diyi Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: What is an AI agent, and how is it different from an LLM workflow? In the first lecture of Stanford CS329Z: Engineering AI Agents (Fall 2026), Stanford professor Diyi Yang traces the…",
+      "publishedAt": "2026-11-09T21:00:05.000Z",
+      "firstSeen": "2026-11-09T22:21:45.843Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course",
+        "tutorial"
+      ]
+    },
+    {
       "id": "320f21650d877f1a",
       "url": "https://arxiv.org/abs/2611.12886",
       "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
@@ -24,6 +110,20 @@
       "firstSeen": "2026-11-10T07:18:03.039Z",
       "source": "arxiv-agents-evals",
       "sourceName": "arXiv: agents and evaluation",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "cb19e28623339630",
+      "url": "https://arxiv.org/abs/2611.12872",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined…",
+      "publishedAt": "2026-11-09T18:57:00.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
       "kind": "paper",
       "matched": [
         "paper"
@@ -44,6 +144,34 @@
       ]
     },
     {
+      "id": "63f254221c4bcf91",
+      "url": "https://arxiv.org/abs/2611.12864",
+      "title": "Is Persona Generalization Predictable?",
+      "summary": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"on-the-line\" phenomenon in persona generalization:…",
+      "publishedAt": "2026-11-09T18:51:03.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "f1d74286b41ab311",
+      "url": "https://arxiv.org/abs/2611.12856",
+      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+      "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to author the executable workflow that coordinates them,…",
+      "publishedAt": "2026-11-09T18:45:28.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
       "id": "51feddf5e2afa945",
       "url": "https://arxiv.org/abs/2611.12835",
       "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
@@ -52,6 +180,20 @@
       "firstSeen": "2026-11-10T07:18:03.039Z",
       "source": "arxiv-agents-evals",
       "sourceName": "arXiv: agents and evaluation",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "d0d930fec197ebba",
+      "url": "https://arxiv.org/abs/2611.12820",
+      "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
+      "summary": "One hundred known errors were planted into 10 open-access psychology papers, and the modified papers were then run through frontier models and two commercial AI review tools. The best single system caught 71 of the 100 errors, while the worst caught 30. Pooling every system's…",
+      "publishedAt": "2026-11-09T18:22:19.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
       "kind": "paper",
       "matched": [
         "paper"
@@ -86,6 +228,48 @@
       ]
     },
     {
+      "id": "5790ccf7899d5120",
+      "url": "https://arxiv.org/abs/2611.12791",
+      "title": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
+      "summary": "Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, training hyperparameter, and data ratio optimization. Here, we bridge this gap by…",
+      "publishedAt": "2026-11-09T17:58:38.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "4d2768d00f029bd9",
+      "url": "https://arxiv.org/abs/2611.12763",
+      "title": "PORT: Preference Optimization via Robust Token-Level Reweighting",
+      "summary": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity.…",
+      "publishedAt": "2026-11-09T17:38:16.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "774e333563cb413e",
+      "url": "https://arxiv.org/abs/2611.12750",
+      "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
+      "summary": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diverse information seeking requires models to help users navigate competing…",
+      "publishedAt": "2026-11-09T17:31:47.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
       "id": "8433ae49482a0e15",
       "url": "https://latent.space/p/handshake",
       "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
@@ -100,6 +284,76 @@
       ]
     },
     {
+      "id": "79202041db2405c0",
+      "url": "https://arxiv.org/abs/2611.12728",
+      "title": "Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards",
+      "summary": "Reinforcement learning with verifiable rewards is increasingly used to improve language model reasoning, yet its effects on sequential decision procedures remain poorly understood. We study this problem in clinical multi-turn agents that must decide what information to request,…",
+      "publishedAt": "2026-11-09T17:14:40.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "415057b1caf10321",
+      "url": "https://arxiv.org/abs/2611.12709",
+      "title": "A local language model layered with rule-based and neural detectors for clinical text de-identification: an open-source toolkit and evaluation",
+      "summary": "Objectives: To measure whether a locally hosted large language model (LLM), stacked with deterministic and clinical named-entity recognition (NER) detectors, finds more protected health information (PHI) than open tools, and at what precision. Materials and Methods: DeidSharp,…",
+      "publishedAt": "2026-11-09T17:02:05.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "2745085e38a7805c",
+      "url": "https://arxiv.org/abs/2611.12691",
+      "title": "A Lattice-Based HMM Approach to Aruz Scansion of Ottoman Poetry",
+      "summary": "Ottoman Divan poetry is composed in aruz, a quantitative meter based on the weights of syllables. The meter is sensitive to specific characters recorded in the original writing in the Arabic script. This work is concerned with automatic meter finding and scansion alignment for…",
+      "publishedAt": "2026-11-09T16:51:42.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "c6402bc67d8a37ea",
+      "url": "https://arxiv.org/abs/2611.12640",
+      "title": "TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge",
+      "summary": "AI is used in much of the clinical trial pipeline. However, selecting the statistical design of a trial, a crucial step that determines how drug doses are tested on humans and evaluated, has seen almost no AI progress. LLMs appear to be a natural fit given their strengths in…",
+      "publishedAt": "2026-11-09T16:15:57.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "5e56270aad2f6c2d",
+      "url": "https://arxiv.org/abs/2611.12628",
+      "title": "Adapting Small Language Models to Romanized Nepali: Tokenizer Fertility, Reference Likelihood, and Generation Metrics",
+      "summary": "Romanized Nepali, Nepali written in Latin script, is common in digital communication but has no standard spelling and few resources, and it is unclear how reliably small open language models can be adapted to it. We adapt three 2-3B base models from different families,…",
+      "publishedAt": "2026-11-09T16:10:12.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
       "id": "e93ea233ff755923",
       "url": "https://arxiv.org/abs/2611.12604",
       "title": "Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing",
@@ -108,6 +362,48 @@
       "firstSeen": "2026-11-10T07:18:03.039Z",
       "source": "arxiv-interp-safety",
       "sourceName": "arXiv: interpretability and safety",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "f6431dc56108a5be",
+      "url": "https://arxiv.org/abs/2611.12597",
+      "title": "Unmasking Four Knapsack Problems in the Traveling Thief Benchmark",
+      "summary": "The traveling thief problem (TTP) asks a thief to choose a tour and a packing together, and the benchmark of 9,720 instances of Polyakovskiy et al. (2014) is the standard test set for comparing TTP heuristics. We show that four of these instances are not TTP instances at all.…",
+      "publishedAt": "2026-11-09T15:45:46.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "a55ab346859b6103",
+      "url": "https://arxiv.org/abs/2611.12592",
+      "title": "Fairness in Explainable AI Narratives: Decomposing Social Disparities in LLM-Generated Explanations",
+      "summary": "Large language models (LLMs) are increasingly used to translate technical explainable AI (XAI) artefacts such as SHAP into explanatory narratives (XAINs) for lay users. In high-risk domains, these explanations are often the main resource through which individuals can understand…",
+      "publishedAt": "2026-11-09T15:42:42.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "14d7877b6daf01e1",
+      "url": "https://arxiv.org/abs/2611.12574",
+      "title": "Evaluating Cross-Signal Coherence in Mammography Vision-Language Models",
+      "summary": "As vision-language models (VLMs) move toward interpreting medical images directly, their outputs increasingly include not just a label but a stated confidence and a written justification. Yet the field still predominantly evaluates VLMs using just accuracy. We evaluate the…",
+      "publishedAt": "2026-11-09T15:33:50.000Z",
+      "firstSeen": "2026-11-10T19:43:37.225Z",
+      "source": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL (LLM-filtered)",
       "kind": "paper",
       "matched": [
         "paper"
@@ -709,92 +1005,8 @@
       "summary": "When competing campaigns target a population of large language model (LLM) agents, observed opinion changes may reflect both campaign influence and changes that would occur without intervention. We study how the timing of campaign expenditure and the population's own evolution…",
       "publishedAt": "2026-11-09T04:44:17.000Z",
       "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "cc4e036c73fdb2c1",
-      "url": "https://arxiv.org/abs/2611.11842",
-      "title": "A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics",
-      "summary": "Connected physical systems fuse observations from robots, IoT sensors, and edge-AI modules into a shared account of the world, yet most evaluations score only the final answer or action and cannot tell whether a method attributed the evidence, updated its belief, handled…",
-      "publishedAt": "2026-11-09T03:56:38.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "e8e17e0d6b49c9e9",
-      "url": "https://arxiv.org/abs/2611.11812",
-      "title": "CaseLaw: A Policy-Decoupled Framework for Training-Free Content Moderation",
-      "summary": "Content moderation is inherently policy-dependent: moderation boundaries are often subtle, subjective, and frequently updated, while conventional rule based or fine-tuning based systems require costly rule rewriting, model retraining, or system redeployment. We propose CaseLaw,…",
-      "publishedAt": "2026-11-09T03:18:24.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "77fd04dad8e97194",
-      "url": "https://arxiv.org/abs/2611.11802",
-      "title": "HiddenPathQA: A Benchmark for Knowledge Graph Question Answering When Questions Hide Their Paths",
-      "summary": "Knowledge graph question answering (KGQA) systems are typically evaluated on questions whose surface tokens lexically expose the gold KG path. Users, however, may ask questions without knowing the underlying schema: \"Which condition could Andrew have due to family history?\"…",
-      "publishedAt": "2026-11-09T03:01:41.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "f36ca3109cd08bbe",
-      "url": "https://arxiv.org/abs/2611.11794",
-      "title": "ChemInsight: A Comprehensive Benchmark for Evaluating and Diagnosing Chemistry Understanding and Reasoning in Large Language Models",
-      "summary": "We introduce ChemInsight, a benchmark designed to evaluate large language models (LLMs) on chemistry tasks that require multi-step reasoning and structured chemical understanding. We propose a two-dimensional scoring system (scope and depth) to assess both task coverage and…",
-      "publishedAt": "2026-11-09T02:52:34.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "1fc1cad745b221f2",
-      "url": "https://arxiv.org/abs/2611.11761",
-      "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
-      "summary": "LLM inference has two phases with different bottlenecks: LLM prefill runs once per request and is compute-intensive. Decoding repeats for every output token and is limited by memory bandwidth. To address the challenges associated with this issue, different solutions have been…",
-      "publishedAt": "2026-11-09T02:03:03.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "9ff4301841c94236",
-      "url": "https://arxiv.org/abs/2611.11724",
-      "title": "Explaining and interrupting collective misalignment in language model systems",
-      "summary": "In collectives, language model agents can exchange individually innocuous messages that together support a policy violation. Understanding and preventing collective misalignment requires answering the question of which messages sufficiently influenced and necessarily enabled the…",
-      "publishedAt": "2026-11-09T00:48:52.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
+      "source": "arxiv-agents-evals",
+      "sourceName": "arXiv: agents and evaluation",
       "kind": "paper",
       "matched": [
         "paper"
@@ -843,34 +1055,6 @@
       ]
     },
     {
-      "id": "514c339b85896844",
-      "url": "https://arxiv.org/abs/2611.11695",
-      "title": "Language model capabilities fail in a shared, predictable order under compression and perturbation",
-      "summary": "Compression can preserve a language model's average accuracy while selectively degrading individual capabilities. Whether these losses follow method-specific patterns or a transferable order is unclear. We applied seven perturbation and compression methods to eight…",
-      "publishedAt": "2026-11-08T23:30:47.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "626b13ff6bc74745",
-      "url": "https://arxiv.org/abs/2611.11679",
-      "title": "The Average Patient: Do Simulated Psychiatric Patients Answer Like Real People?",
-      "summary": "Language models are used as simulated psychiatric patients to train clinicians and evaluate AI therapists, and are judged by plausibility or total scores. We give a framework for simulated respondents: an information budget bounds how much simulated patients can differ, and an…",
-      "publishedAt": "2026-11-08T23:06:23.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
       "id": "0223c88a59f737cc",
       "url": "https://arxiv.org/abs/2611.11657",
       "title": "Inside the Trading Loop: Markets, Models, and Moves with LLM Agents",
@@ -899,48 +1083,6 @@
       ]
     },
     {
-      "id": "9c3cc871ede16275",
-      "url": "https://arxiv.org/abs/2611.11621",
-      "title": "ODSA: Orchestrated Discovery and Self-Aggregation",
-      "summary": "Test-time scaling improves the accuracy of a language model's answers by spending more computation at inference time. Established methods do so either sequentially, revising a single solution over several passes, or in parallel, generating several independent solutions and…",
-      "publishedAt": "2026-11-08T21:08:05.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "c5d5b2c9e6edfb6d",
-      "url": "https://arxiv.org/abs/2611.11598",
-      "title": "Perturbing Inputs Improves Pretraining Distillation",
-      "summary": "Knowledge distillation trains a student language model to match a teacher's predictions on the training text. We ask whether learning the teacher's behavior beyond the training text can further improve the student. We investigate this using three input perturbations: additive…",
-      "publishedAt": "2026-11-08T20:25:17.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "39ecf1c627777831",
-      "url": "https://arxiv.org/abs/2611.11588",
-      "title": "FinCutBench: A Continually Updated Benchmark for Measuring the Temporal Boundaries of LLM Financial Knowledge",
-      "summary": "In financial backtesting and other point-in-time tasks, external inputs can be restricted by date, but model parameters may retain financial facts disclosed later, introducing parametric look-ahead bias. We introduce FinCutBench, a continually updated monthly financial knowledge…",
-      "publishedAt": "2026-11-08T20:07:52.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
       "id": "bf8607fbf7d9d990",
       "url": "https://arxiv.org/abs/2611.11581",
       "title": "Same Error, Different Recovery: How Delivery Changes LLM Agent Behavior",
@@ -949,20 +1091,6 @@
       "firstSeen": "2026-11-10T07:18:03.039Z",
       "source": "arxiv-agents-evals",
       "sourceName": "arXiv: agents and evaluation",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "a421ed201e7a7c71",
-      "url": "https://arxiv.org/abs/2611.11573",
-      "title": "Beyond the Transcript: Measuring and Improving the Use of Acoustic Information in Audio Language Models",
-      "summary": "Audio language model benchmarks provide comprehensive evaluation across diverse tasks. However, some tasks can be answered from the transcript or even the question alone, and benchmark scores can therefore confound acoustic understanding with language modeling ability. We…",
-      "publishedAt": "2026-11-08T19:37:55.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
       "kind": "paper",
       "matched": [
         "paper"
@@ -1019,34 +1147,6 @@
       "firstSeen": "2026-11-10T07:18:03.039Z",
       "source": "arxiv-interp-safety",
       "sourceName": "arXiv: interpretability and safety",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "2b452edc6e7c311e",
-      "url": "https://arxiv.org/abs/2611.11551",
-      "title": "When Should Diffusion Language Models Reconsider Their Commitments?",
-      "summary": "Masked Diffusion Models (MDMs) are well known for fast text generation via parallel decoding. However, independent parallel sampling can commit to inconsistent predictions, and less is known about how to selectively revise these early token commitments. In this work, we…",
-      "publishedAt": "2026-11-08T18:49:48.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
-      "kind": "paper",
-      "matched": [
-        "paper"
-      ]
-    },
-    {
-      "id": "1841d46ffe5e9762",
-      "url": "https://arxiv.org/abs/2611.11541",
-      "title": "Safeguarding Agentic AI in Radiology Workflows: A Multimodel Evaluation of Rule-based and Large Language Model-based Verification",
-      "summary": "Purpose: To estimate how often tool-using large language model (LLM) agents record clinically relevant false or unsupported information in simulated radiology documentation and how much safeguards applied before each action reduce these errors. Materials and Methods: In this…",
-      "publishedAt": "2026-11-08T18:29:04.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL (LLM-filtered)",
       "kind": "paper",
       "matched": [
         "paper"
@@ -1513,20 +1613,6 @@
       "kind": "course",
       "matched": [
         "course"
-      ]
-    },
-    {
-      "id": "52ced88a57d97548",
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
-      "title": "Quoting Ted Sanders",
-      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable:…",
-      "publishedAt": "2026-10-28T23:23:21.000Z",
-      "firstSeen": "2026-10-29T05:48:31.696Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
       ]
     },
     {
