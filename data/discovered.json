@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-11T06:20:16.777Z",
+  "generatedAt": "2026-11-11T19:35:47.983Z",
   "items": [
+    {
+      "id": "f51df54de331f13f",
+      "url": "https://www.youtube.com/watch?v=8Ok6ZYILp2Q",
+      "title": "Stanford CS193T Thinking with AI | Autumn 2026 | Managing Sources",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://stanford.io/cs193t-autumn26 Lectures 1 and 2 introduced the context window and interactive prompting. Lecture 3 focuses on context, information, and prompt instructions that persist beyond a single chat…",
+      "publishedAt": "2026-11-11T18:00:08.000Z",
+      "firstSeen": "2026-11-11T19:35:47.983Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "6e11a23c0428f7b6",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick",
+      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "summary": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a…",
+      "publishedAt": "2026-11-11T16:05:33.000Z",
+      "firstSeen": "2026-11-11T19:35:47.983Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "154a75fdbc0d3f57",
+      "url": "https://www.youtube.com/watch?v=nAubbmlhPfI",
+      "title": "What Comes After Loops?: Deep Dive Into Agentic Architecture | DevDay 2026",
+      "summary": "Trace the evolution from simple agent loops to collaborating agents. Explore the design choices and model advances behind that shift, and take a closer look at what comes next.",
+      "publishedAt": "2026-11-11T01:24:07.000Z",
+      "firstSeen": "2026-11-11T19:35:47.983Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "kind": "video",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "ae89cd4186a679c8",
+      "url": "https://www.youtube.com/watch?v=QRm7VNMnurA",
+      "title": "Sites and the Next Generation of Web Apps | DevDay 2026",
+      "summary": "Turn an idea into an interactive web experience with Astra, ChatGPT Sites, and WebMCP. Learn how to build new kinds of interfaces alongside your colleagues and agents.",
+      "publishedAt": "2026-11-11T01:24:07.000Z",
+      "firstSeen": "2026-11-11T19:35:47.983Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "kind": "video",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "14f6b8b420073dc3",
       "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore",
@@ -13,6 +69,20 @@
       "kind": "tutorial",
       "matched": [
         "tutorial"
+      ]
+    },
+    {
+      "id": "cfd3e89ed185cb21",
+      "url": "https://www.youtube.com/watch?v=Vr1NzH8bT44",
+      "title": "LLMs for Agent Builders: Context Engineering | Stanford CS329Z Lecture 2 with Michael Ryan",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: What do you need to know about how LLMs work to build better AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford PhD student and DSPy contributor Michael Ryan…",
+      "publishedAt": "2026-11-10T21:00:11.000Z",
+      "firstSeen": "2026-11-11T19:35:47.983Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
       ]
     },
     {
@@ -1534,7 +1604,7 @@
       "id": "2216c041a7b33d16",
       "url": "https://www.youtube.com/watch?v=zColCgWc3NY",
       "title": "Embeddings Explained for ML Engineering Interviews",
-      "summary": "How do embeddings learn what belongs together? We build an upsell recommender from simple product representations to matrix factorization, two-tower models, contrastive learning, graph embeddings, and pretrained encoders. Then we cover how to use, evaluate, and serve…",
+      "summary": "📘 Full breakdown: https://www.hellointerview.com/youtube/to/learn/ml-system-design/core-concepts/embeddings How do embeddings learn what belongs together? We build an upsell recommender from simple product representations to matrix factorization, two-tower models, contrastive…",
       "publishedAt": "2026-11-03T17:05:07.000Z",
       "firstSeen": "2026-11-04T19:45:12.825Z",
       "source": "yt-hello-interview",
@@ -1786,7 +1856,7 @@
       "id": "469a26fa8ec353b7",
       "url": "https://www.youtube.com/watch?v=Fq73E8DQprc",
       "title": "Vector Databases Explained for System Design Interviews",
-      "summary": "How do vector databases make similarity search fast? We build from embeddings and nearest-neighbor search to HNSW, filters, hybrid search, and the tradeoffs that matter in system design interviews. Read the full article for free:…",
+      "summary": "📘Full article: https://www.hellointerview.com/youtube/to/learn/system-design/deep-dives/vector-databases How do vector databases make similarity search fast? We build from embeddings and nearest-neighbor search to HNSW, filters, hybrid search, and the tradeoffs that matter in…",
       "publishedAt": "2026-10-18T16:06:57.000Z",
       "firstSeen": "2026-10-22T11:11:38.073Z",
       "source": "yt-hello-interview",
