@@ -1,6 +1,233 @@
 {
-  "generatedAt": "2026-11-12T07:10:12.242Z",
+  "generatedAt": "2026-11-12T19:54:08.692Z",
   "items": [
+    {
+      "id": "c8c5dc29297d2e3d",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets",
+      "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+      "summary": "Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that…",
+      "publishedAt": "2026-11-12T19:29:55.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "c251454bcd6dd9d4",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
+      "title": "v3.50.0",
+      "summary": "3.50.0 (2026-11-12) Features api: expose reasoning input transformations on responses ( #4268 ) ( 734f75b ) Chores deps: bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ( #4261 ) ( 0ebd006 ) Documentation simplify review handoff instructions ( #4266 ) ( 141a89a )",
+      "publishedAt": "2026-11-12T19:26:07.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "a88bddb17214a029",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "publishedAt": "2026-11-12T19:07:35.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "ee17e3bbdee07f48",
+      "url": "https://www.youtube.com/shorts/0Z3EMcq8ofw",
+      "title": "Why keyword search misses and vector search doesn't",
+      "summary": "Search \"shoes for muddy hikes\" and keyword search comes back empty, because no product uses those words. Vector search embeds the query and the products and returns what's closest in meaning. Full Vector Databases breakdown:…",
+      "publishedAt": "2026-11-12T18:58:29.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "class": "atom",
+      "topics": [
+        "interview",
+        "video"
+      ]
+    },
+    {
+      "id": "2583bd8fdfdbfc23",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "summary": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more",
+      "publishedAt": "2026-11-12T18:53:19.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "4e46e49750fb65fe",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock",
+      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "summary": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output constraints, and prove agent ROI with human baselines,…",
+      "publishedAt": "2026-11-12T18:43:19.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "83054ecb029e1c53",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "summary": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
+      "publishedAt": "2026-11-12T18:41:12.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "a8d5fa7d24b3647f",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "publishedAt": "2026-11-12T18:00:50.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "ad614f81e42f72e5",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "85bacafff42444d7",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
+      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "summary": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based…",
+      "publishedAt": "2026-11-12T17:59:59.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "6d29ea24a6e6fee7",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent",
+      "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "summary": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new knowledge base or an infrastructure-as-code template…",
+      "publishedAt": "2026-11-12T16:16:45.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "d3206ea89ca22b21",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
+      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "summary": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated…",
+      "publishedAt": "2026-11-12T15:42:21.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "9ed2099ae4857f6f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
+      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "summary": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a…",
+      "publishedAt": "2026-11-12T15:40:24.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "aff6802cc567cefa",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
+      "title": "From prototype to production: Engineering agents with Agent DLC",
+      "summary": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured case where an aggregate metric hides a coverage gap, and…",
+      "publishedAt": "2026-11-12T15:38:47.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "17c1d391457edda5",
+      "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
+      "title": "What Codex Unlocks for Holiday Extras",
+      "summary": "What happens when the people who understand your customers can build the software to help them? At Holiday Extras, Codex is helping turn that ambition into reality—from rebuilding its main app in two weeks to responding faster to customer feedback. Hear how CEO Matthew Pack,…",
+      "publishedAt": "2026-11-12T09:45:17.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "0990939c7d6ea9f7",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "publishedAt": "2026-11-12T09:30:00.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "dc874e033c3eaa33",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
@@ -56,6 +283,34 @@
       "class": "rss",
       "topics": [
         "amazon"
+      ]
+    },
+    {
+      "id": "56dac742ff29ffe2",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "b06379671ede1f62",
+      "url": "https://openai.com/index/children-first-declaration",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -171,6 +426,66 @@
       ]
     },
     {
+      "id": "f66f5f0e819eac3c",
+      "url": "https://www.youtube.com/watch?v=NS220dAaRMo",
+      "title": "How to request and enable Daybreak Blue",
+      "summary": "Learn how to request access to Daybreak Blue and enable it for your workspace and API organization. This walkthrough covers business verification, workspace permissions, role-based access controls, and confirming access in Codex. You’ll also see how to set up a project and API…",
+      "publishedAt": "2026-11-11T21:10:28.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "38fca246c6cafc44",
+      "url": "https://www.youtube.com/watch?v=vdBDMj2UhDg",
+      "title": "How to enable PR security reviews with Codex Security",
+      "summary": "Bring security reviews into your pull request workflow with Codex Security. Learn how to check your GitHub connection, request a review, work through a fix, and review the change again. Then configure automatic reviews for your repository, including triggers and severity…",
+      "publishedAt": "2026-11-11T21:10:24.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "2328aa3d695bf9fa",
+      "url": "https://www.youtube.com/watch?v=CrrpfvbNyMw",
+      "title": "ChatGPT Images: Three Ways to Get Started",
+      "summary": "ChatGPT Images lets you create new images and edit existing images directly inside ChatGPT. Turn plain-language prompts into original images, explore different visual directions. In this video, learn three ways to get started: creating an image from scratch, refining its look…",
+      "publishedAt": "2026-11-11T21:10:10.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "eeefcc4da998a906",
+      "url": "https://www.youtube.com/watch?v=hUhr0JiVZZs",
+      "title": "How to run your first Codex Security scan",
+      "summary": "Get started with Codex Security, from installing the plugin to running your first scan. Learn how to select a repository, add context, review findings, and generate a patch. Then follow the fix into GitHub and see how to use the CLI to bring security scans into your automation…",
+      "publishedAt": "2026-11-11T21:10:05.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
       "id": "6dbf5bd5b92f8aef",
       "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
       "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
@@ -182,6 +497,21 @@
       "class": "rss",
       "topics": [
         "amazon"
+      ]
+    },
+    {
+      "id": "71dec98023d1759d",
+      "url": "https://www.youtube.com/watch?v=psLc-46GqY0",
+      "title": "RAG Explained: From BM25 to Agentic RAG | Stanford CS329Z Lecture 3 with Diyi Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Self-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&utm_medium=social&utm_content=cs329z-01-what-are-agentic-systems Lecture Overview: How does…",
+      "publishedAt": "2026-11-11T21:00:17.000Z",
+      "firstSeen": "2026-11-12T19:54:08.692Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
       ]
     },
     {
@@ -303,8 +633,8 @@
     {
       "id": "f51df54de331f13f",
       "url": "https://www.youtube.com/watch?v=8Ok6ZYILp2Q",
-      "title": "Stanford CS193T Thinking with AI | Autumn 2026 | Managing Sources",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://stanford.io/cs193t-autumn26 Lectures 1 and 2 introduced the context window and interactive prompting. Lecture 3 focuses on context, information, and prompt instructions that persist beyond a single chat…",
+      "title": "AI Memory, RAG & Prompt Injection Explained | Stanford CS193T Lecture 3 with Cynthia Bailey",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh What else is sharing your AI's context window besides your prompt? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey focuses on context, information, and…",
       "publishedAt": "2026-11-11T18:00:08.000Z",
       "firstSeen": "2026-11-11T19:35:47.983Z",
       "source": "yt-stanford-online",
@@ -412,20 +742,6 @@
       "class": "atom",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "3bb3af59874accc9",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming",
-      "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
-      "summary": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and…",
-      "publishedAt": "2026-11-11T15:10:23.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -618,20 +934,6 @@
       ]
     },
     {
-      "id": "52c1a0c9377c6505",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock",
-      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
-      "summary": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
-      "publishedAt": "2026-11-11T01:07:19.000Z",
-      "firstSeen": "2026-11-11T06:20:16.777Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "8c999d6885d24711",
       "url": "https://openai.com/index/jiostar-vijay-seshadri",
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
@@ -660,20 +962,6 @@
       ]
     },
     {
-      "id": "55fb77d5f91b9928",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search",
-      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
-      "summary": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code,…",
-      "publishedAt": "2026-11-10T23:34:05.000Z",
-      "firstSeen": "2026-11-11T06:20:16.777Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "e4fb185a51690d2d",
       "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
       "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
@@ -686,20 +974,6 @@
       "topics": [
         "research",
         "video"
-      ]
-    },
-    {
-      "id": "14f6b8b420073dc3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore",
-      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
-      "summary": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match…",
-      "publishedAt": "2026-11-10T22:35:03.000Z",
-      "firstSeen": "2026-11-11T06:20:16.777Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -933,20 +1207,6 @@
       ]
     },
     {
-      "id": "cd0c3adea5a38d8b",
-      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
-      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
-      "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at…",
-      "publishedAt": "2026-11-10T18:11:08.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "02d71ec8c69202bb",
       "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
       "title": "Introducing Businesses in ChatGPT in beta",
@@ -964,8 +1224,8 @@
     {
       "id": "1ef986ded84b8812",
       "url": "https://www.youtube.com/watch?v=Qhf1mp74tbk",
-      "title": "Stanford CS193T Thinking with AI | Autumn 2026 | Core Prompting",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://stanford.io/cs193t-autumn26 Lecture 1 explained what’s happening inside the model; Lecture 2 is about what you do with it. We cover how to prompt effectively — treating AI like a capable but new hire, using…",
+      "title": "How to Prompt AI Well: Trust, Evidence & Context Rot | Stanford CS193T Lecture 2 with Cynthia Bailey",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh How do you get reliable, useful results from AI? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey covers how to prompt effectively, treating AI like a…",
       "publishedAt": "2026-11-10T18:00:09.000Z",
       "firstSeen": "2026-11-10T19:43:37.225Z",
       "source": "yt-stanford-online",
@@ -1045,34 +1305,6 @@
       "class": "atom",
       "topics": [
         "papers"
-      ]
-    },
-    {
-      "id": "82110824f2abb129",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
-      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
-      "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and…",
-      "publishedAt": "2026-11-10T16:59:43.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "58426d8e2b3863d2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake",
-      "title": "Amazon Bedrock tokenomics data lake",
-      "summary": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token…",
-      "publishedAt": "2026-11-10T16:56:36.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -1207,21 +1439,6 @@
       ]
     },
     {
-      "id": "3e5482fbea32174c",
-      "url": "https://www.youtube.com/watch?v=vdEGZYIvFiI",
-      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
-      "summary": "We’re turning lessons from defending OpenAI into practical tools for our customers. OpenAI President and Co-Founder Greg Brockman shares how we used a frontier model to identify and resolve important vulnerabilities in our own code and infrastructure. That experience is…",
-      "publishedAt": "2026-11-10T16:02:15.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "b6362aed8bc63a61",
       "url": "https://arxiv.org/abs/2611.14244",
       "title": "An AI Assistant for Automating Anti-Corruption Expertise of Draft Legislation Based on the TRACE Framework",
@@ -1320,21 +1537,6 @@
       "class": "atom",
       "topics": [
         "papers"
-      ]
-    },
-    {
-      "id": "851b22c31c1464c6",
-      "url": "https://www.youtube.com/watch?v=ZTxzWJeGFAA",
-      "title": "How CodeRabbit uses OpenAI to review AI-generated code",
-      "summary": "CodeRabbit co-founder and CEO Harjot Gill explains how the team uses OpenAI models to help teams understand, review, and secure code produced by AI agents and decide what’s ready to ship. He also shares how CodeRabbit used Codex to ship 20x more software over 6 months with the…",
-      "publishedAt": "2026-11-10T15:05:40.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -1961,21 +2163,6 @@
       ]
     },
     {
-      "id": "2cd238269c704569",
-      "url": "https://www.youtube.com/watch?v=FNTz0CdqL6g",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries is using the OpenAI API to help engineers search 70 years of drawings in minutes. Built with Recursive, a Japanese AI startup and an official OpenAI partner, the system gives teams more time to mentor younger engineers and take on more demanding work. ➡️ Read…",
-      "publishedAt": "2026-11-10T02:41:23.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "f7d3d2f1a8939849",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
       "title": "v2.1.322",
@@ -2048,20 +2235,6 @@
       "topics": [
         "papers",
         "engineering"
-      ]
-    },
-    {
-      "id": "831bd9db6c4fa670",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick",
-      "title": "How skills and agents work in AWS Quick",
-      "summary": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog…",
-      "publishedAt": "2026-11-10T00:21:34.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -2435,8 +2608,8 @@
     {
       "id": "e8f19e9835c0d6e2",
       "url": "https://www.youtube.com/watch?v=I7zvCSGMkoc",
-      "title": "Stanford CS193T Thinking with AI | Autumn 2026 | Introduction to AI",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://stanford.io/cs193t-autumn26 What’s actually happening when you chat with an AI? This opening lecture demystifies large language models from the ground up — tokens, neural networks, weights and layers, and…",
+      "title": "How AI Chatbots Work: LLMs, Tokens & Hallucination | Stanford CS193T Lecture 1 with Cynthia Bailey",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh What's happening when you chat with an AI? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey demystifies large language models from the ground up: tokens,…",
       "publishedAt": "2026-11-09T18:00:30.000Z",
       "firstSeen": "2026-11-09T22:21:45.843Z",
       "source": "yt-stanford-online",
@@ -2916,21 +3089,6 @@
       ]
     },
     {
-      "id": "7baf06e1004e3e7a",
-      "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0",
-      "title": "LifeVal: Measuring AI progress on the tasks that matter in everyday life.",
-      "summary": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to…",
-      "publishedAt": "2026-11-06T21:11:34.000Z",
-      "firstSeen": "2026-11-07T13:00:16.938Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "e214d358f05d6fdb",
       "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
       "title": "Teaching AI to build scientific models",
@@ -3205,21 +3363,6 @@
       "topics": [
         "openai",
         "engineering"
-      ]
-    },
-    {
-      "id": "80b8f077bc42c9db",
-      "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4",
-      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
-      "summary": "Mozilla used GPT-6 Cyber to uncover previously unknown high-severity vulnerabilities in Firefox and identify architectural improvements. Its team shipped fixes to millions of users, turning findings into protections for the people who depend on the software. Hear Brian…",
-      "publishedAt": "2026-11-05T17:14:11.000Z",
-      "firstSeen": "2026-11-05T19:57:00.667Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -4548,21 +4691,6 @@
       ]
     },
     {
-      "id": "a6fc4c11a233b78d",
-      "url": "https://www.youtube.com/watch?v=ot_whQ3xyJQ",
-      "title": "Stanford Robotics Seminar ENGR319 | Autumn 2026 | Bridging Rigorous Methods with Machine Learning",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://stanford.io/grad-ed-engr319-1002 October 2, 2026 This seminar covers: • Why learning-based controllers struggle with real-world deployment: we can’t guarantee a learned policy is safe, and we can’t…",
-      "publishedAt": "2026-10-29T23:02:38.000Z",
-      "firstSeen": "2026-10-30T12:55:57.736Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
-      ]
-    },
-    {
       "id": "8eef8a1c6a51e974",
       "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
       "title": "Microsoft Research Focus – Edition #97",
@@ -4730,21 +4858,6 @@
       "class": "html-links",
       "topics": [
         "anthropic"
-      ]
-    },
-    {
-      "id": "3b1d2ae6d5329430",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
-      "title": "v3.41.0",
-      "summary": "3.41.0 (2026-10-28) Features api: accept typed references in Realtime response inputs ( #4189 ) ( 8ecb487 ) api: add response tool usage models ( #4201 ) ( 55fc500 ) api: filter agent sessions by metadata ( #4200 ) ( 77fd116 ) websocket: recover queued binary frames after…",
-      "publishedAt": "2026-10-28T22:26:54.000Z",
-      "firstSeen": "2026-10-28T22:35:25.817Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
       ]
     },
     {
@@ -9307,77 +9420,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "cf468ec39dd67f09",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "cfe8e900401f31bb",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "title": "How we will do better for Australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "ebb851930de734e4",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "publishedAt": "2026-09-28T19:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "4cdfe3ff40e2272b",
-      "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
-      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-      "summary": "Where do you exceed the capabilities of an LLM?",
-      "publishedAt": "2026-09-28T12:32:03.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "import-ai",
-      "sourceName": "Import AI (Jack Clark)",
-      "class": "rss",
-      "topics": [
-        "research",
-        "policy"
-      ]
-    },
-    {
-      "id": "9552195c964ddb7b",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "",
-      "publishedAt": "2026-09-28T09:44:05.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     }
   ]

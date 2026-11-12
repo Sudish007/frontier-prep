@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:10:12.242Z",
+  "generatedAt": "2026-11-12T19:54:08.692Z",
   "items": [
     {
       "id": "amzn-10595436",
@@ -103,18 +103,6 @@
       "title": "Applied Scientist II, Detail Page",
       "location": "Bengaluru, Karnataka, IND",
       "url": "https://www.amazon.jobs/en/jobs/10602090/applied-scientist-ii-detail-page",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-11-11T19:35:47.983Z"
-    },
-    {
-      "id": "amzn-10602129",
-      "company": "Amazon",
-      "title": "Data Scientist, EU Prime and Marketing Analytics & Science (PRIMAS)",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10602129/data-scientist-eu-prime-and-marketing-analytics-science-primas",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "india": true,
       "remote": false,
@@ -2195,18 +2183,6 @@
       "india": false,
       "remote": false,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5430869008",
-      "company": "Anthropic",
-      "title": "Manager, Applied AI Architect",
-      "location": "Seoul, South Korea",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
-      "postedAt": "2026-09-22T06:54:32.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
