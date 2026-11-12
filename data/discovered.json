@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-11T19:35:47.983Z",
+  "generatedAt": "2026-11-12T07:10:12.242Z",
   "items": [
+    {
+      "id": "6dbf5bd5b92f8aef",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
+      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so…",
+      "publishedAt": "2026-11-11T21:05:59.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "f51df54de331f13f",
       "url": "https://www.youtube.com/watch?v=8Ok6ZYILp2Q",
@@ -1447,20 +1461,6 @@
       ]
     },
     {
-      "id": "0f0cb95e5bb05a5c",
-      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
-      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-      "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
-      "publishedAt": "2026-11-06T17:13:13.000Z",
-      "firstSeen": "2026-11-06T19:24:27.295Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
       "id": "51f786e5d33012e2",
       "url": "https://arxiv.org/abs/2611.09233",
       "title": "Cross-Layer TopK: Dynamically Allocating Sparsity Across Layers in Transcoders",
@@ -1654,20 +1654,6 @@
       "kind": "interview",
       "matched": [
         "interview"
-      ]
-    },
-    {
-      "id": "2df0e95472f64437",
-      "url": "https://latent.space/p/elorian",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "kind": "paper",
-      "matched": [
-        "paper"
       ]
     },
     {

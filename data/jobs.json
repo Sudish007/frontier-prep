@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-11T19:35:47.983Z",
+  "generatedAt": "2026-11-12T07:10:12.242Z",
   "items": [
+    {
+      "id": "amzn-10595436",
+      "company": "Amazon",
+      "title": "Solutions Architect, MADS Support",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10595436/solutions-architect-mads-support",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-11-12T07:10:12.242Z"
+    },
+    {
+      "id": "amzn-10602065",
+      "company": "Amazon",
+      "title": "Data Scientist II, AWS - Quick",
+      "location": "Chennai, Tamil Nadu, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10602065/data-scientist-ii-aws-quick",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-11-12T07:10:12.242Z"
+    },
     {
       "id": "ashby-openai-edfaa3d2-3434-4e51-af74-3945d63ad871",
       "company": "OpenAI",

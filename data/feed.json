@@ -1,6 +1,63 @@
 {
-  "generatedAt": "2026-11-11T19:35:47.983Z",
+  "generatedAt": "2026-11-12T07:10:12.242Z",
   "items": [
+    {
+      "id": "dc874e033c3eaa33",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc2",
+      "title": "v0.34.0rc2",
+      "summary": "[Doc][Tests] Stop setting gpu_memory_utilization in most extensible…",
+      "publishedAt": "2026-11-12T06:21:02.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
+    {
+      "id": "e10b6b9196df21e8",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day",
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "summary": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "publishedAt": "2026-11-12T05:26:54.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "adb66fa1efb10251",
+      "url": "https://latent.space/p/jev-revolution",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "publishedAt": "2026-11-12T05:08:20.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "a0a8bd68435e7a18",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "summary": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock…",
+      "publishedAt": "2026-11-12T01:18:23.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
     {
       "id": "f28f90d2895a812c",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -13,6 +70,176 @@
       "class": "rss",
       "topics": [
         "openai"
+      ]
+    },
+    {
+      "id": "0566809c65753b53",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock",
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
+      "publishedAt": "2026-11-11T23:35:47.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "cf5ad5ad4907d72b",
+      "url": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification",
+      "title": "Semantic diffing of formal policies with anti-unification",
+      "summary": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between…",
+      "publishedAt": "2026-11-11T23:33:03.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "005484e05b9e6189",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
+      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "summary": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to…",
+      "publishedAt": "2026-11-11T23:30:03.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "263d7dc4e1e25dd6",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore",
+      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "summary": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
+      "publishedAt": "2026-11-11T23:13:16.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "8b208eddf6e27264",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026",
+      "title": "ICYMI: What landed for AI builders in October 2026",
+      "summary": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders.",
+      "publishedAt": "2026-11-11T22:26:40.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "624a305adfa41ec6",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+      "title": "Gemini Decisions API",
+      "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a…",
+      "publishedAt": "2026-11-11T22:03:25.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "53d5cdba12bea358",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "title": "aws-emulator",
+      "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project.…",
+      "publishedAt": "2026-11-11T21:18:30.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "6dbf5bd5b92f8aef",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
+      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so…",
+      "publishedAt": "2026-11-11T21:05:59.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "3beb9de1922ea0ed",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture",
+      "title": "Automating AWS Agent Registry updates with push-based architecture",
+      "summary": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets,…",
+      "publishedAt": "2026-11-11T20:52:48.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "2f5ac4847b023025",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock",
+      "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+      "summary": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted…",
+      "publishedAt": "2026-11-11T20:45:45.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "40b3469495104d52",
+      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "summary": "Health & Bioscience",
+      "publishedAt": "2026-11-11T19:54:00.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "c18de4c0cdb5b2af",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1",
+      "title": "v0.34.0rc1",
+      "summary": "[Bugfix][Spec Decode][XPU] greedy_argmax: treat NaN as -inf on the to…",
+      "publishedAt": "2026-11-11T19:37:13.000Z",
+      "firstSeen": "2026-11-12T07:10:12.242Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
       ]
     },
     {
@@ -1609,7 +1836,7 @@
       "id": "6f6fff482120edaf",
       "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
       "title": "Quoting Prompting Claude Fable 5.2",
-      "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing…",
+      "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that…",
       "publishedAt": "2026-11-10T05:34:14.000Z",
       "firstSeen": "2026-11-10T07:18:03.039Z",
       "source": "simon-willison",
@@ -2028,48 +2255,6 @@
       ]
     },
     {
-      "id": "0eb7f2999aa203f1",
-      "url": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
-      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative…",
-      "publishedAt": "2026-11-09T20:13:18.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "2e186972ef6cdfd3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
-      "title": "Introducing Claude Fable 5.2 on AWS",
-      "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
-      "publishedAt": "2026-11-09T20:04:37.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "51fd6bae6a94af5c",
-      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
-      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and…",
-      "publishedAt": "2026-11-09T20:01:20.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "7bceeea82ca21a67",
       "url": "https://arxiv.org/abs/2611.13176",
       "title": "SHADOWPREFILL: Keeping Your Next Model Warm for Per-Step Model Routing in Agentic LLM Serving",
@@ -2159,20 +2344,6 @@
       ]
     },
     {
-      "id": "cafe7e1bd3dbba6b",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore",
-      "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-      "summary": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer without redesigning the rest of the stack.",
-      "publishedAt": "2026-11-09T19:05:54.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "9c331579e229757a",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -2199,20 +2370,6 @@
       "topics": [
         "papers",
         "engineering"
-      ]
-    },
-    {
-      "id": "033426cd1fa4eb50",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore",
-      "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
-      "summary": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers…",
-      "publishedAt": "2026-11-09T18:55:43.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -2243,20 +2400,6 @@
       "topics": [
         "anthropic",
         "engineering"
-      ]
-    },
-    {
-      "id": "9015c3069685351f",
-      "url": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick",
-      "title": "Professional work deserves professional tools. Meet AWS Quick.",
-      "summary": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they…",
-      "publishedAt": "2026-11-09T18:43:30.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -2833,48 +2976,6 @@
       ]
     },
     {
-      "id": "1007c961b5d3e491",
-      "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
-      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-      "summary": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional…",
-      "publishedAt": "2026-11-06T18:01:00.000Z",
-      "firstSeen": "2026-11-06T19:24:27.295Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "01ae94b0daa02eba",
-      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick",
-      "title": "Taxonomy of agentic primitives in AWS Quick",
-      "summary": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing…",
-      "publishedAt": "2026-11-06T17:34:45.000Z",
-      "firstSeen": "2026-11-06T19:24:27.295Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "0f0cb95e5bb05a5c",
-      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
-      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-      "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
-      "publishedAt": "2026-11-06T17:13:13.000Z",
-      "firstSeen": "2026-11-06T19:24:27.295Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "df1346203ff05601",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
       "title": "v2.1.319",
@@ -2963,7 +3064,7 @@
     {
       "id": "e1dfb287fd6cb778",
       "url": "https://alignment.anthropic.com/2026/welfare-regard",
-      "title": "Welfare Regard in Multi-Agent Systems We measure whether five frontier models act with regard for one another's welfare across seven multi-agent settings, and how that regard depends on the other model's identity, size, ",
+      "title": "Welfare Regard in Multi-Agent Systems Anthropic Fellows Blog: We measure whether five frontier models act with regard for one another's welfare across seven multi-agent settings, and how that regard depends on the other ",
       "summary": "",
       "publishedAt": null,
       "firstSeen": "2026-11-06T06:45:29.995Z",
@@ -4215,20 +4316,6 @@
       ]
     },
     {
-      "id": "4c77a0dfd6338deb",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
-      "title": "datasette-llm 0.1a9",
-      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using…",
-      "publishedAt": "2026-10-31T22:10:01.000Z",
-      "firstSeen": "2026-11-01T06:04:32.569Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "8c0796c0de9a288b",
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.287",
       "title": "v0.3.287",
@@ -4432,20 +4519,6 @@
       ]
     },
     {
-      "id": "371b1e06db16bd42",
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference",
-      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-      "publishedAt": "2026-10-30T08:24:29.000Z",
-      "firstSeen": "2026-10-30T12:55:57.736Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "d820d0beaa384d1f",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
       "title": "v2.1.314",
@@ -4531,20 +4604,6 @@
       "topics": [
         "amazon",
         "research"
-      ]
-    },
-    {
-      "id": "2df0e95472f64437",
-      "url": "https://latent.space/p/elorian",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "firstSeen": "2026-10-29T22:45:38.259Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -7837,21 +7896,6 @@
       ]
     },
     {
-      "id": "a65b774e754deb82",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
-      "title": "v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
-      "summary": "Signed-off-by: Vadim Gimpelson vadim.gimpelson@gmail.com Co-authored-by: Claude noreply@anthropic.com",
-      "publishedAt": "2026-10-17T00:25:45.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
-      ]
-    },
-    {
       "id": "65442e708214c10b",
       "url": "https://openai.com/index/itau-generative-ai",
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -8049,21 +8093,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "2dd5c189d23158f9",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2",
-      "title": "v0.32.0rc2",
-      "summary": "[CI] Pin DeepSeek-V4.1-Flash-NVFP4 eval to its FP8-Engram revision (#…",
-      "publishedAt": "2026-10-15T09:50:46.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
       ]
     },
     {
@@ -9349,62 +9378,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "216d56bba26ca458",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "914f14710638400c",
-      "url": "https://openai.com/form/codex-originals",
-      "title": "Are you a Codex Original?",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "a30a6af008def6d3",
-      "url": "https://huggingface.co/blog/rl-environments",
-      "title": "Welcome RL Environments to the hub",
-      "summary": "",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "bf0fe8cc388a3447",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]
