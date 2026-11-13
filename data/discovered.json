@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-13T06:45:07.877Z",
+  "generatedAt": "2026-11-13T19:41:52.495Z",
   "items": [
+    {
+      "id": "c82c9283ab419b7e",
+      "url": "https://www.youtube.com/watch?v=s0S38lz6O7M",
+      "title": "How AI Agents Use Tools: Function Calling & MCP | Stanford CS329Z Lecture 4 with Diyi Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: Why can't LLMs do everything on their own, and how do they learn to use tools? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford professor Diyi Yang covers the “lost in…",
+      "publishedAt": "2026-11-12T21:00:35.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
     {
       "id": "abf0569d23128aae",
       "url": "https://arxiv.org/abs/2611.17332",
@@ -870,20 +884,6 @@
       ]
     },
     {
-      "id": "6dbf5bd5b92f8aef",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
-      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
-      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so…",
-      "publishedAt": "2026-11-11T21:05:59.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
       "id": "71dec98023d1759d",
       "url": "https://www.youtube.com/watch?v=psLc-46GqY0",
       "title": "RAG Explained: From BM25 to Agentic RAG | Stanford CS329Z Lecture 3 with Diyi Yang",
@@ -1135,20 +1135,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "154a75fdbc0d3f57",
-      "url": "https://www.youtube.com/watch?v=nAubbmlhPfI",
-      "title": "What Comes After Loops?: Deep Dive Into Agentic Architecture | DevDay 2026",
-      "summary": "Trace the evolution from simple agent loops to collaborating agents. Explore the design choices and model advances behind that shift, and take a closer look at what comes next.",
-      "publishedAt": "2026-11-11T01:24:07.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
       ]
     },
     {

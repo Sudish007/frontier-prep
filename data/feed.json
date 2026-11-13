@@ -1,6 +1,178 @@
 {
-  "generatedAt": "2026-11-13T06:45:07.877Z",
+  "generatedAt": "2026-11-13T19:41:52.495Z",
   "items": [
+    {
+      "id": "26498fde06103fe5",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "title": "Building strong safety evaluations",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "a05d08fd0b1ba6de",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "summary": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+      "publishedAt": "2026-11-13T19:35:35.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "773ec8d2db34b976",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
+      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session…",
+      "publishedAt": "2026-11-13T18:44:02.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "f71f0c8b7eba8c4e",
+      "url": "https://www.youtube.com/shorts/ErOVIC-MGVA",
+      "title": "6 Underrated Ways to Use ChatGPT",
+      "summary": "We asked 6 people for their most underrated way to use ChatGPT. Their answers covered personal style, everyday logistics, and stopping random subscription charges. What’s yours?",
+      "publishedAt": "2026-11-13T18:15:41.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "e504c61a39ac2d49",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
+      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data…",
+      "publishedAt": "2026-11-13T18:01:15.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "2427bacb74a96b4b",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "8400bdfe1e2afd49",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "publishedAt": "2026-11-13T17:02:35.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "2b50cb10658bb316",
+      "url": "https://www.youtube.com/watch?v=PkAmyub12K8",
+      "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
+      "summary": "Mozilla is combining decades of security engineering with AI agents to strengthen Firefox’s defenses. Brian Grinstead joins OpenAI’s Clint Gibler to discuss how the team prioritizes investigations, tests and verifies vulnerabilities, finds related bug patterns, and helps…",
+      "publishedAt": "2026-11-13T16:56:45.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "7544c26f6d39ea35",
+      "url": "https://www.youtube.com/shorts/pfbfZKxUEDQ",
+      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+      "summary": "Mozilla’s Brian Grinstead shares how early testing with GPT-6 Cyber identified new vulnerabilities and opportunities to strengthen Firefox’s defenses, helping the team work toward an ambitious goal: zero bugs. Watch the full conversation with OpenAI’s Clint Gibler to learn more.",
+      "publishedAt": "2026-11-13T16:38:23.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "5bf4951adbe9698d",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "40e78db6601d46e6",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:05:22.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "12f357dd3921044b",
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia",
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+      "publishedAt": "2026-11-13T09:04:13.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "0f77776f7c503aee",
       "url": "https://latent.space/p/artcraft",
@@ -27,6 +199,21 @@
       "class": "atom",
       "topics": [
         "engineering"
+      ]
+    },
+    {
+      "id": "b193c7000d21ac5f",
+      "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
+      "title": "Cyber at the Frontier",
+      "summary": "A live keynote featuring OpenAI's latest cyber announcements.",
+      "publishedAt": "2026-11-12T22:37:14.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
       ]
     },
     {
@@ -85,6 +272,21 @@
       "topics": [
         "microsoft",
         "research"
+      ]
+    },
+    {
+      "id": "c82c9283ab419b7e",
+      "url": "https://www.youtube.com/watch?v=s0S38lz6O7M",
+      "title": "How AI Agents Use Tools: Function Calling & MCP | Stanford CS329Z Lecture 4 with Diyi Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: Why can't LLMs do everything on their own, and how do they learn to use tools? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford professor Diyi Yang covers the “lost in…",
+      "publishedAt": "2026-11-12T21:00:35.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
       ]
     },
     {
@@ -1474,20 +1676,6 @@
       ]
     },
     {
-      "id": "6dbf5bd5b92f8aef",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
-      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
-      "summary": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so…",
-      "publishedAt": "2026-11-11T21:05:59.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "71dec98023d1759d",
       "url": "https://www.youtube.com/watch?v=psLc-46GqY0",
       "title": "RAG Explained: From BM25 to Agentic RAG | Stanford CS329Z Lecture 3 with Diyi Yang",
@@ -1500,34 +1688,6 @@
       "topics": [
         "fundamentals",
         "video"
-      ]
-    },
-    {
-      "id": "3beb9de1922ea0ed",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture",
-      "title": "Automating AWS Agent Registry updates with push-based architecture",
-      "summary": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets,…",
-      "publishedAt": "2026-11-11T20:52:48.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "2f5ac4847b023025",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock",
-      "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
-      "summary": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted…",
-      "publishedAt": "2026-11-11T20:45:45.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -2045,21 +2205,6 @@
       ]
     },
     {
-      "id": "154a75fdbc0d3f57",
-      "url": "https://www.youtube.com/watch?v=nAubbmlhPfI",
-      "title": "What Comes After Loops?: Deep Dive Into Agentic Architecture | DevDay 2026",
-      "summary": "Trace the evolution from simple agent loops to collaborating agents. Explore the design choices and model advances behind that shift, and take a closer look at what comes next.",
-      "publishedAt": "2026-11-11T01:24:07.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "31c78b9f6eadfb4b",
       "url": "https://www.youtube.com/watch?v=b7l_Dhe1h8M",
       "title": "Harness-as-a-Service: Building with the Agents API | DevDay 2026",
@@ -2159,21 +2304,6 @@
       "class": "atom",
       "topics": [
         "research",
-        "video"
-      ]
-    },
-    {
-      "id": "d4308adb53b14778",
-      "url": "https://www.youtube.com/watch?v=5YXlrzC_RYE",
-      "title": "Answering your questions about GPT-Live",
-      "summary": "We’re answering the internet’s questions about GPT-Live, starting with how it’s different from earlier voice models and what developers are using it for. Already building with GPT-Live? We’ll share practical tips for customizing your agent’s voice and improving delegation. What…",
-      "publishedAt": "2026-11-10T21:10:08.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
         "video"
       ]
     },
@@ -2308,21 +2438,6 @@
       ]
     },
     {
-      "id": "02d71ec8c69202bb",
-      "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
-      "title": "Introducing Businesses in ChatGPT in beta",
-      "summary": "Now in beta: Businesses in ChatGPT. Claim your business, manage your information, and get insights on how people engage with you. With Business Hub, verified businesses can update their details and add product feeds with current pricing and availability. They can also see…",
-      "publishedAt": "2026-11-10T18:07:12.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "1ef986ded84b8812",
       "url": "https://www.youtube.com/watch?v=Qhf1mp74tbk",
       "title": "How to Prompt AI Well: Trust, Evidence & Context Rot | Stanford CS193T Lecture 2 with Cynthia Bailey",
@@ -2395,21 +2510,6 @@
       "topics": [
         "anthropic",
         "engineering"
-      ]
-    },
-    {
-      "id": "14b8faf6dd2fc461",
-      "url": "https://www.youtube.com/shorts/sSyzj08Cy2U",
-      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
-      "summary": "We’re turning lessons from defending OpenAI into practical tools for our customers. OpenAI President and Co-Founder Greg Brockman shares how we used a frontier model to identify and resolve important vulnerabilities in our own code and infrastructure. That experience is…",
-      "publishedAt": "2026-11-10T16:07:53.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -2524,6 +2624,20 @@
       "class": "rss",
       "topics": [
         "openai"
+      ]
+    },
+    {
+      "id": "cd88f6cf71e07eac",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+      "title": "Opening the datasets behind our AI weather models",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "publishedAt": "2026-11-10T11:13:04.000Z",
+      "firstSeen": "2026-11-13T19:41:52.495Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
       ]
     },
     {
@@ -2943,20 +3057,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "057e22ab69c04fb1",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:05:57.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -3393,20 +3493,6 @@
       "firstSeen": "2026-11-06T19:24:27.295Z",
       "source": "latent-space",
       "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "be1ba71e55b7f125",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary": "",
-      "publishedAt": "2026-11-06T14:00:48.000Z",
-      "firstSeen": "2026-11-06T19:24:27.295Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
       "class": "rss",
       "topics": [
         "engineering"
@@ -4402,21 +4488,6 @@
       ]
     },
     {
-      "id": "fdb710eadf1ebcdd",
-      "url": "https://www.youtube.com/watch?v=6Jo6qO3yFcg",
-      "title": "Dan Boneh: Impact of Quantum Computing on Security",
-      "summary": "Dan Boneh, Professor of Computer Science and Electrical Engineering at Stanford University, explains why quantum computing is a security risk even though a large enough quantum computer doesn’t exist yet. In a “harvest now, decrypt later” attack, an adversary records encrypted…",
-      "publishedAt": "2026-11-02T17:00:19.000Z",
-      "firstSeen": "2026-11-03T14:14:49.128Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
-      ]
-    },
-    {
       "id": "de4cf53f9db96311",
       "url": "https://openai.com/index/scaling-git-at-openai",
       "title": "Scaling Git at OpenAI",
@@ -4558,20 +4629,6 @@
       "topics": [
         "engineering",
         "evals"
-      ]
-    },
-    {
-      "id": "18eadc7cf156685b",
-      "url": "https://latent.space/p/arca",
-      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
-      "publishedAt": "2026-10-31T16:05:00.000Z",
-      "firstSeen": "2026-10-31T21:34:28.710Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -5798,21 +5855,6 @@
       ]
     },
     {
-      "id": "34367bd392366a37",
-      "url": "https://www.anthropic.com/research/claude-code-best-practices",
-      "title": "Claude Code: Best practices for agentic coding",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "anthropic-engineering",
-      "sourceName": "Anthropic engineering",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "380b066e4dfe1021",
       "url": "https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes",
       "title": "Are recruiters better than a coin flip at judging resumes? Here's the data.",
@@ -6290,21 +6332,6 @@
       "topics": [
         "anthropic",
         "alignment"
-      ]
-    },
-    {
-      "id": "0389b68f0dfb2ab1",
-      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "title": "How Claude is uplifting biomolecular modeling",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
       ]
     },
     {
@@ -9378,77 +9405,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "663c72fb0ad38118",
-      "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
-      "title": "How Diffusion Controller unifies and simplifies AI image generation",
-      "summary": "Algorithms & Theory",
-      "publishedAt": "2026-09-29T18:38:27.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "google-research",
-      "sourceName": "Google Research blog",
-      "class": "rss",
-      "topics": [
-        "google",
-        "research"
-      ]
-    },
-    {
-      "id": "dd66acaed2a04b44",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "publishedAt": "2026-09-29T17:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "04392c500debfe18",
-      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
-      "title": "Why has Shopify dropped React Native?",
-      "summary": "It’s only been a year since the e-commerce platform declared it was very happy with React Native, but now Shopify is dumping it – and the reason, unsurprisingly, is AI",
-      "publishedAt": "2026-09-29T15:53:19.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "984223f109f3360b",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "publishedAt": "2026-09-29T13:07:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "19db7cc5ca5cc5ea",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "title": "DevDay 2026 Recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]
