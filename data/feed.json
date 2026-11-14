@@ -1,6 +1,122 @@
 {
-  "generatedAt": "2026-11-13T19:41:52.495Z",
+  "generatedAt": "2026-11-14T06:22:46.572Z",
   "items": [
+    {
+      "id": "db2e460523131f5f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch…",
+      "publishedAt": "2026-11-13T23:22:09.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "3ad739e51bb4bdbb",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc3",
+      "title": "v0.34.0rc3",
+      "summary": "[KVConnector] Allocate the extensible KV cache exportable for EXPORTS…",
+      "publishedAt": "2026-11-13T22:52:29.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
+    {
+      "id": "94d8e8d36570e022",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group…",
+      "publishedAt": "2026-11-13T22:30:12.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "99d40623cf51112d",
+      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off…",
+      "publishedAt": "2026-11-13T22:02:39.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "41b9d660ec27f386",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to…",
+      "publishedAt": "2026-11-13T21:53:40.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "67f7225a3ce52b48",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.51.0",
+      "title": "v3.51.0",
+      "summary": "3.51.0 (2026-11-12) Features api: expand agent, image, Live, and external key support ( #4269 ) ( 59738a2 )",
+      "publishedAt": "2026-11-13T21:12:49.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "be81354d8a302a35",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "summary": "Education Innovation",
+      "publishedAt": "2026-11-13T20:47:18.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "3578b3def025c271",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+      "title": "v2.1.325",
+      "summary": "What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when…",
+      "publishedAt": "2026-11-13T20:40:01.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "rel-claude-code",
+      "sourceName": "claude-code releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
     {
       "id": "26498fde06103fe5",
       "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
@@ -171,6 +287,20 @@
       "class": "rss",
       "topics": [
         "engineering"
+      ]
+    },
+    {
+      "id": "d1318183fe172893",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "firstSeen": "2026-11-14T06:22:46.572Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -1493,62 +1623,6 @@
       "title": "OpenAI Codex on Amazon Bedrock",
       "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
       "publishedAt": "2026-11-11T23:35:47.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "cf5ad5ad4907d72b",
-      "url": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification",
-      "title": "Semantic diffing of formal policies with anti-unification",
-      "summary": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between…",
-      "publishedAt": "2026-11-11T23:33:03.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "005484e05b9e6189",
-      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
-      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
-      "summary": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to…",
-      "publishedAt": "2026-11-11T23:30:03.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "263d7dc4e1e25dd6",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore",
-      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
-      "summary": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
-      "publishedAt": "2026-11-11T23:13:16.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "8b208eddf6e27264",
-      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026",
-      "title": "ICYMI: What landed for AI builders in October 2026",
-      "summary": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders.",
-      "publishedAt": "2026-11-11T22:26:40.000Z",
       "firstSeen": "2026-11-12T07:10:12.242Z",
       "source": "aws-ml-blog",
       "sourceName": "AWS Machine Learning blog",
@@ -4516,20 +4590,6 @@
       ]
     },
     {
-      "id": "efcf00e7bea340af",
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
-      "title": "The U.S. Census Bureau and “Super Intelligence”",
-      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used…",
-      "publishedAt": "2026-11-02T13:31:26.000Z",
-      "firstSeen": "2026-11-02T15:52:51.057Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "08bbe0e48208a863",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
       "title": "v0.33.0",
@@ -4643,21 +4703,6 @@
       "class": "atom",
       "topics": [
         "anthropic",
-        "engineering"
-      ]
-    },
-    {
-      "id": "612d3f97526dee2a",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
-      "title": "v3.42.0",
-      "summary": "3.42.0 (2026-10-31) Features api: add agent context compaction settings ( #4209 ) ( f552fcf ) api: add agent session review and tool settings ( #4217 ) ( a63c4cd ) api: add experimental agent time awareness ( #4211 ) ( 10f9dd0 ) api: add image edit markup overlays ( #4210 ) (…",
-      "publishedAt": "2026-10-31T00:26:41.000Z",
-      "firstSeen": "2026-10-31T05:40:55.725Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
         "engineering"
       ]
     },
@@ -5303,21 +5348,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "38313c82af265d42",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
-      "title": "v2.1.311",
-      "summary": "What's changed Added --hold-idle-file and --max-hold-min to self-hosted-runner , to keep an idle session while your host reports processes it left running Added a tip for the Explanatory output style, shown when you ask Claude for explanations Fixed long freezes at startup and…",
-      "publishedAt": "2026-10-26T21:51:23.000Z",
-      "firstSeen": "2026-10-26T22:40:09.817Z",
-      "source": "rel-claude-code",
-      "sourceName": "claude-code releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
       ]
     },
     {
@@ -8050,21 +8080,6 @@
       ]
     },
     {
-      "id": "51299d4c7c9cbf0b",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
-      "title": "v0.32.0",
-      "summary": "v0.32.0 Highlights This release features 814 commits from 363 contributors (121 new)! Structured decisions and generic parsers : the new POST /v1/systemone endpoint answers choice , noul and score questions over a structured state ( #59299 ), is served by default ( #60677 ,…",
-      "publishedAt": "2026-10-18T10:23:45.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
-      ]
-    },
-    {
       "id": "485963764cd8e62b",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0",
       "title": "v0.32.1rc0",
@@ -9391,20 +9406,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "581ab3112c302ffe",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "summary": "",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     }
   ]
