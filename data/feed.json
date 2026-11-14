@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-11-14T06:22:46.572Z",
+  "generatedAt": "2026-11-14T18:01:24.942Z",
   "items": [
+    {
+      "id": "8479f47633fa8f96",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "title": "Open-source AI without Jensen",
+      "summary": "A decapitation. It’s time to rebuild.",
+      "publishedAt": "2026-11-14T12:23:15.000Z",
+      "firstSeen": "2026-11-14T18:01:24.942Z",
+      "source": "interconnects",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "class": "rss",
+      "topics": [
+        "research"
+      ]
+    },
+    {
+      "id": "1c3019c9b4857107",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc4",
+      "title": "v0.34.0rc4",
+      "summary": "[Release][Tests] Give the #67296 warmup-gate test runner num_speculat…",
+      "publishedAt": "2026-11-14T10:15:55.000Z",
+      "firstSeen": "2026-11-14T18:01:24.942Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
+    {
+      "id": "be54405e42bc8186",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto",
+      "title": "[AINews] The No AI Slop Manifesto",
+      "summary": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+      "publishedAt": "2026-11-14T08:31:02.000Z",
+      "firstSeen": "2026-11-14T18:01:24.942Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "db2e460523131f5f",
       "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
@@ -334,8 +377,8 @@
     {
       "id": "b193c7000d21ac5f",
       "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
-      "title": "Cyber at the Frontier",
-      "summary": "A live keynote featuring OpenAI's latest cyber announcements.",
+      "title": "Cyber at the Frontier: Introducing Daybreak Red Team & Daybreak Defense Factory",
+      "summary": "Greg Brockman, Nancy Wang, Fouad Matin, Clint Gibler, Alexander Thiemann, and Matt Boyle took the stage at Cyber at the Frontier, where OpenAI introduced two cybersecurity products under one unified Codex plugin called Daybreak: Daybreak Defense Factory: builds on Codex Security…",
       "publishedAt": "2026-11-12T22:37:14.000Z",
       "firstSeen": "2026-11-13T19:41:52.495Z",
       "source": "yt-openai",
@@ -4476,20 +4519,6 @@
       ]
     },
     {
-      "id": "e33216d0e243d7ea",
-      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
-      "publishedAt": "2026-11-02T22:54:03.000Z",
-      "firstSeen": "2026-11-03T00:57:55.528Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "998ac2d864ac3ec7",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0",
       "title": "v2.4.0",
@@ -8080,21 +8109,6 @@
       ]
     },
     {
-      "id": "485963764cd8e62b",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0",
-      "title": "v0.32.1rc0",
-      "summary": "[Doc][RL] Document the weight-transfer HTTP protocol for trainers wit…",
-      "publishedAt": "2026-10-18T09:26:56.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
-      ]
-    },
-    {
       "id": "987754dece6755c3",
       "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
       "title": "Meta shakes up the frontiers, open and closed",
@@ -9350,62 +9364,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "3ae27470c6ad6fac",
-      "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
-      "title": "Distributed databases with Peter Mattis",
-      "summary": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
-      "publishedAt": "2026-09-30T16:30:05.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "396b95f3429cd00b",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "title": "Introducing SynthID Bio",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "publishedAt": "2026-09-30T15:03:07.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "6a91381a429232e7",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "publishedAt": "2026-09-30T10:30:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "b5e5e43443d214df",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "title": "Helping small businesses put AI to work",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "publishedAt": "2026-09-30T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]

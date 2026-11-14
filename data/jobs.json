@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-14T06:22:46.572Z",
+  "generatedAt": "2026-11-14T18:01:24.942Z",
   "items": [
+    {
+      "id": "ashby-openai-73875295-889e-4373-b20f-654e85c66ba4",
+      "company": "OpenAI",
+      "title": "Applied Scientist, Product Policy Research & Measurement",
+      "location": "San Francisco; US - Remote; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4",
+      "postedAt": "2026-11-14T16:51:14.713Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-14T18:01:24.942Z"
+    },
     {
       "id": "ashby-openai-7b867d19-f018-4c08-8183-d2358b733ee5",
       "company": "OpenAI",
@@ -2324,18 +2336,6 @@
       "location": "Singapore; Remote",
       "url": "https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba",
       "postedAt": "2026-09-15T18:40:04.742Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
-      "company": "OpenAI",
-      "title": "Model Policy Manager, Agentic Safety ",
-      "location": "San Francisco; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
-      "postedAt": "2026-09-15T16:40:32.791Z",
       "india": false,
       "remote": true,
       "board": "openai",

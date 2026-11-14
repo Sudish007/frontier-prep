@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:22:46.572Z",
+  "generatedAt": "2026-11-14T18:01:24.942Z",
   "items": [
     {
       "id": "c82c9283ab419b7e",
@@ -1876,20 +1876,6 @@
       "firstSeen": "2026-10-22T11:11:38.073Z",
       "source": "pragmatic-engineer",
       "sourceName": "The Pragmatic Engineer",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "b5e5e43443d214df",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "title": "Helping small businesses put AI to work",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "publishedAt": "2026-09-30T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
       "kind": "tutorial",
       "matched": [
         "tutorial"
