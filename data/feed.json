@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-14T18:01:24.942Z",
+  "generatedAt": "2026-11-14T22:24:27.884Z",
   "items": [
+    {
+      "id": "15fdf174ba46dfb2",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.290",
+      "title": "v0.3.290",
+      "summary": "0.3.290 (2026-11-13) Features active_model_event_id() returns the in-flight model call attempt's event id ( #6529 ) ( c060c20 ) each message keeps one id through the agent bridge and the log, and tool events record the message that proposed them ( #6143 ) ( 187d19f ) excluded…",
+      "publishedAt": "2026-11-14T21:14:27.000Z",
+      "firstSeen": "2026-11-14T22:24:27.884Z",
+      "source": "rel-inspect",
+      "sourceName": "inspect_ai releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "evals"
+      ]
+    },
     {
       "id": "8479f47633fa8f96",
       "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
@@ -3207,6 +3222,21 @@
       ]
     },
     {
+      "id": "eed50b97e7877e59",
+      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "summary": "When do you think we'll have robots on the moon?",
+      "publishedAt": "2026-11-09T13:31:34.000Z",
+      "firstSeen": "2026-11-14T22:24:27.884Z",
+      "source": "import-ai",
+      "sourceName": "Import AI (Jack Clark)",
+      "class": "rss",
+      "topics": [
+        "research",
+        "policy"
+      ]
+    },
+    {
       "id": "f37b680abcf7adcb",
       "url": "https://openai.com/index/control-room",
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -4619,6 +4649,21 @@
       ]
     },
     {
+      "id": "9091e4453210d34c",
+      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "summary": "What do LLMs think about vision models?",
+      "publishedAt": "2026-11-02T14:30:54.000Z",
+      "firstSeen": "2026-11-14T22:24:27.884Z",
+      "source": "import-ai",
+      "sourceName": "Import AI (Jack Clark)",
+      "class": "rss",
+      "topics": [
+        "research",
+        "policy"
+      ]
+    },
+    {
       "id": "08bbe0e48208a863",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
       "title": "v0.33.0",
@@ -5448,6 +5493,21 @@
       "class": "rss",
       "topics": [
         "openai"
+      ]
+    },
+    {
+      "id": "22611d0210bf9c9b",
+      "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "summary": "What is “night” to a machine?",
+      "publishedAt": "2026-10-26T12:31:52.000Z",
+      "firstSeen": "2026-11-14T22:24:27.884Z",
+      "source": "import-ai",
+      "sourceName": "Import AI (Jack Clark)",
+      "class": "rss",
+      "topics": [
+        "research",
+        "policy"
       ]
     },
     {
@@ -8509,21 +8569,6 @@
       ]
     },
     {
-      "id": "e70aad5f12dadc92",
-      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.280",
-      "title": "v0.3.280",
-      "summary": "0.3.280 (2026-10-14) Features agent-bridge: filters can now tell which agent a bridged model request belongs to ( #4791 ) ( 1b78969 ) google: support Gemini 4 Argon ( #5843 ) ( 76e69f9 ) keep the response headers of a model call ( #5795 ) ( 1b16791 ) Bug Fixes Behavior change:…",
-      "publishedAt": "2026-10-14T02:01:47.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-inspect",
-      "sourceName": "inspect_ai releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "evals"
-      ]
-    },
-    {
       "id": "5cb1618c1db568b5",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -9350,20 +9395,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "311e095023e6d9fd",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summary": "",
-      "publishedAt": "2026-09-30T20:01:45.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
       ]
     }
   ]
