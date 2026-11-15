@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-14T22:24:27.884Z",
+  "generatedAt": "2026-11-15T06:31:47.699Z",
   "items": [
+    {
+      "id": "f9a3c449e5989b1d",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "title": "datasette-llm 0.1a11",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that…",
+      "publishedAt": "2026-11-14T23:59:28.000Z",
+      "firstSeen": "2026-11-15T06:31:47.699Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "15fdf174ba46dfb2",
       "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.290",
@@ -14,6 +28,20 @@
       "topics": [
         "engineering",
         "evals"
+      ]
+    },
+    {
+      "id": "5acb9d3d7e18f6cd",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
+      "title": "datasette-vega 0.7",
+      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus…",
+      "publishedAt": "2026-11-14T17:09:09.000Z",
+      "firstSeen": "2026-11-15T06:31:47.699Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
       ]
     },
     {
@@ -4450,20 +4478,6 @@
       ]
     },
     {
-      "id": "2147ac7bda8e0e24",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
-      "title": "October sponsors-only newsletter",
-      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits…",
-      "publishedAt": "2026-11-03T05:28:59.000Z",
-      "firstSeen": "2026-11-03T14:14:49.128Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "8491ebd6e665e9d8",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
       "title": "v2.1.317",
@@ -4516,20 +4530,6 @@
       "source": "hf-blog",
       "sourceName": "Hugging Face blog",
       "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "db8b36c17feae8fa",
-      "url": "https://simonwillison.net/2026/Nov/2/llm",
-      "title": "llm 0.37",
-      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure…",
-      "publishedAt": "2026-11-02T23:49:30.000Z",
-      "firstSeen": "2026-11-03T00:57:55.528Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
       "topics": [
         "engineering"
       ]
@@ -9381,20 +9381,6 @@
       "topics": [
         "amazon",
         "research"
-      ]
-    },
-    {
-      "id": "3bba527585738108",
-      "url": "https://openai.com/index/the-den-family-social",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]
