@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:31:47.699Z",
+  "generatedAt": "2026-11-15T18:51:26.747Z",
   "items": [
     {
       "id": "f9a3c449e5989b1d",
@@ -9309,78 +9309,6 @@
       "topics": [
         "research",
         "video"
-      ]
-    },
-    {
-      "id": "7e67b43cf9d0e609",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "title": "The eternal complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "publishedAt": "2026-10-01T17:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "593fe84d411ed3fe",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
-      "title": "The Pulse: Firebase’s global outage & poor response",
-      "summary": "Also: OpenAI’s platform play that has similarities to AWS, more data on companies moving to open models, and more",
-      "publishedAt": "2026-10-01T16:43:19.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "8aa77346da60b1da",
-      "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
-      "title": "From deepfakes to DNA: the science of watermarking AI",
-      "summary": "How do you know if what you're seeing is real? Professor Hannah Fry sits down with Pushmeet Kohli (VP of Science) and Jeremy Ratcliffe (Research Scientist) to break down SynthID, the watermarking technology expanding from text, images, and video straight into biology. Learn how…",
-      "publishedAt": "2026-10-01T16:37:46.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "a80484c2d5849bdb",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "853d99b4e783addd",
-      "url": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
-      "title": "Graph-centric agentic intelligence",
-      "summary": "Augmenting a network graph with agentic AI produces a “digital twin” that can help isolate network failures.",
-      "publishedAt": "2026-10-01T12:54:31.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "amazon-science",
-      "sourceName": "Amazon Science",
-      "class": "rss",
-      "topics": [
-        "amazon",
-        "research"
       ]
     }
   ]
