@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-16T06:29:05.762Z",
+  "generatedAt": "2026-11-16T22:01:39.043Z",
   "items": [
+    {
+      "id": "0761da68e54fd0db",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
+      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "summary": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable…",
+      "publishedAt": "2026-11-16T21:53:46.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "4707e1f19a68527e",
       "url": "https://arxiv.org/abs/2611.18527",
@@ -1279,21 +1293,6 @@
       ]
     },
     {
-      "id": "c331305db01d53d4",
-      "url": "https://www.youtube.com/watch?v=DGI4vucR71w",
-      "title": "What Are AI Agents? Agentic Systems Explained | Stanford CS329Z Lecture 1 with Diyi Yang",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: What is an AI agent, and how is it different from an LLM workflow? In the first lecture of Stanford CS329Z: Engineering AI Agents (Fall 2026), Stanford professor Diyi Yang traces the…",
-      "publishedAt": "2026-11-09T21:00:05.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course",
-        "tutorial"
-      ]
-    },
-    {
       "id": "8a2197d07a2d97d4",
       "url": "https://arxiv.org/abs/2611.13218",
       "title": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
@@ -1319,20 +1318,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "e8f19e9835c0d6e2",
-      "url": "https://www.youtube.com/watch?v=I7zvCSGMkoc",
-      "title": "How AI Chatbots Work: LLMs, Tokens & Hallucination | Stanford CS193T Lecture 1 with Cynthia Bailey",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh What's happening when you chat with an AI? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey demystifies large language models from the ground up: tokens,…",
-      "publishedAt": "2026-11-09T18:00:30.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
       ]
     },
     {

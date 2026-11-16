@@ -1,6 +1,363 @@
 {
-  "generatedAt": "2026-11-16T06:29:05.762Z",
+  "generatedAt": "2026-11-16T22:01:39.043Z",
   "items": [
+    {
+      "id": "0c2bca83aac92188",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "title": "Updating our coordinated vulnerability disclosure policy timelines",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "0761da68e54fd0db",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
+      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "summary": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable…",
+      "publishedAt": "2026-11-16T21:53:46.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "735df09c2ed1f9d3",
+      "url": "https://latent.space/p/bfl",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "summary": "Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
+      "publishedAt": "2026-11-16T21:28:46.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "61626bbaa85b9a24",
+      "url": "https://www.youtube.com/shorts/Zbv70lLBHgo",
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "summary": "Check Point CTO Jonathan Zanger explains how his team uses OpenAI Daybreak to analyze vulnerabilities and turn findings into protections for customers. A vulnerability research workflow that once took hours can now be completed in minutes, according to Zanger. Watch the full…",
+      "publishedAt": "2026-11-16T20:23:56.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "9567fc17c1fdcddf",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore",
+      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "summary": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's…",
+      "publishedAt": "2026-11-16T18:16:07.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "96abb15b066446d7",
+      "url": "https://www.youtube.com/shorts/BdfP8kmAofQ",
+      "title": "Dan Boneh: Cryptography Is Everywhere in Everday Life",
+      "summary": "Dan Boneh, Professor of Computer Science and Electrical Engineering at Stanford University, explains that cryptography is everywhere in everyday life. It keeps your text messages private and secures your online financial activity. It also authenticates and encrypts the…",
+      "publishedAt": "2026-11-16T18:00:39.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "b4d0f21c2c604500",
+      "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform",
+      "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
+      "summary": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and…",
+      "publishedAt": "2026-11-16T17:29:29.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "7157ce3b54a8a376",
+      "url": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore",
+      "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
+      "summary": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn…",
+      "publishedAt": "2026-11-16T17:04:11.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "669b0798240609c7",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to…",
+      "publishedAt": "2026-11-16T17:01:35.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "msr-blog",
+      "sourceName": "Microsoft Research blog",
+      "class": "rss",
+      "topics": [
+        "microsoft",
+        "research"
+      ]
+    },
+    {
+      "id": "b1c71d07875ac772",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "f26f2a4dfd6b9b95",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "5d66058a84859542",
+      "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA",
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "summary": "Check Point CTO Jonathan Zanger explains how his team uses OpenAI Daybreak to analyze vulnerabilities and turn findings into protections for customers. A vulnerability research workflow that once took hours can now be completed in minutes, according to Zanger. Read the full…",
+      "publishedAt": "2026-11-16T16:55:56.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "5e25e39a6b331230",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.9.0",
+      "title": "v2.9.0",
+      "summary": "Features api: add source and error codes to the RBAC Role read endpoints api: add Update Bundle, which sets a Claude Tag Bundle's instructions, and return instructions on Bundle Bug Fixes credentials: write the credentials file on Windows with Python 3.12 and earlier tools:…",
+      "publishedAt": "2026-11-16T16:47:17.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "cc69239e629b14a0",
+      "url": "https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base",
+      "title": "Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base",
+      "summary": "Amazon Bedrock Managed Knowledge Base now supports tabular search, so agentic retrieval can answer questions over CSV, XLSX, and XLS files. It looks up values and runs calculations across every relevant row, then combines the results with facts from related documents to answer…",
+      "publishedAt": "2026-11-16T16:12:16.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "f978b1cf70930b8f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails",
+      "title": "Best practices for writing Denied Topics in Amazon Bedrock Guardrails",
+      "summary": "With Denied Topics in Amazon Bedrock Guardrails, you block a content category by describing it in plain language, and the guardrail matches by meaning rather than keyword, which can block more than you intend. This post presents eight best practices for writing a topic precisely…",
+      "publishedAt": "2026-11-16T15:48:01.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "c636885b9662b9ce",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base",
+      "title": "Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
+      "summary": "Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared knowledge bases. This post shows how to give each tenant its own answers, keep tenant data apart with metadata filters, scope…",
+      "publishedAt": "2026-11-16T15:46:28.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "7381db88317ca659",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock",
+      "title": "Use prompt caching with open-weight models on Amazon Bedrock",
+      "summary": "Many generative AI applications resend the same long context on every request. Prompt caching lets open-weight models on Amazon Bedrock reuse it to reduce input cost and latency. This post shows implicit and explicit caching through the Chat Completions API and applies caching…",
+      "publishedAt": "2026-11-16T15:42:41.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "0bc322583e6f0775",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "bb1032f7c48658c1",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "summary": "Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers.",
+      "publishedAt": "2026-11-16T13:33:48.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "f891bd93f3d21469",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "91e58e2ea930c2fa",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "ebd9eb94963902d2",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "b0ded74e06b06613",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "",
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "cfcc7acb02e9ca79",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "724333834a57d025",
+      "url": "https://www.youtube.com/watch?v=soNLXvgUqNY",
+      "title": "La Cousinade",
+      "summary": "Une cousinade avec 63 cousins. Un site créé avec ChatGPT.",
+      "publishedAt": "2026-11-16T05:00:26.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
     {
       "id": "64f85079db4f1070",
       "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.8",
@@ -29,6 +386,48 @@
       "topics": [
         "engineering",
         "inference"
+      ]
+    },
+    {
+      "id": "3899b6e8ee3cc1f1",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "853b24ff0d6ecd3f",
+      "url": "https://huggingface.co/blog/openrouter",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "e3915f7e4cf071c4",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "firstSeen": "2026-11-16T22:01:39.043Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -1624,20 +2023,6 @@
       ]
     },
     {
-      "id": "83054ecb029e1c53",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
-      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
-      "summary": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
-      "publishedAt": "2026-11-12T18:41:12.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "90560005e1984a85",
       "url": "https://arxiv.org/abs/2611.17239",
       "title": "When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems",
@@ -1681,20 +2066,6 @@
       ]
     },
     {
-      "id": "85bacafff42444d7",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
-      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
-      "summary": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based…",
-      "publishedAt": "2026-11-12T17:59:59.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "77015d6f2a101b78",
       "url": "https://arxiv.org/abs/2611.17058",
       "title": "Neural Representations as New Modes of Interactivity",
@@ -1725,20 +2096,6 @@
       ]
     },
     {
-      "id": "6d29ea24a6e6fee7",
-      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent",
-      "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
-      "summary": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new knowledge base or an infrastructure-as-code template…",
-      "publishedAt": "2026-11-12T16:16:45.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "2efbfd5385e1c682",
       "url": "https://arxiv.org/abs/2611.17007",
       "title": "Skill Adapter: Personalized Modification and Online Routing of General-Purpose Skills",
@@ -1766,48 +2123,6 @@
       "topics": [
         "papers",
         "engineering"
-      ]
-    },
-    {
-      "id": "d3206ea89ca22b21",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
-      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
-      "summary": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated…",
-      "publishedAt": "2026-11-12T15:42:21.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "9ed2099ae4857f6f",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
-      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
-      "summary": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a…",
-      "publishedAt": "2026-11-12T15:40:24.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "aff6802cc567cefa",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
-      "title": "From prototype to production: Engineering agents with Agent DLC",
-      "summary": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured case where an aggregate metric hides a coverage gap, and…",
-      "publishedAt": "2026-11-12T15:38:47.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -1912,20 +2227,6 @@
       ]
     },
     {
-      "id": "a0a8bd68435e7a18",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
-      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-      "summary": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock…",
-      "publishedAt": "2026-11-12T01:18:23.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "56dac742ff29ffe2",
       "url": "https://huggingface.co/blog/3d-lora-finetuning",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
@@ -1965,20 +2266,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "0566809c65753b53",
-      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock",
-      "title": "OpenAI Codex on Amazon Bedrock",
-      "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
-      "publishedAt": "2026-11-11T23:35:47.000Z",
-      "firstSeen": "2026-11-12T07:10:12.242Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -2464,55 +2751,10 @@
       ]
     },
     {
-      "id": "31c78b9f6eadfb4b",
-      "url": "https://www.youtube.com/watch?v=b7l_Dhe1h8M",
-      "title": "Harness-as-a-Service: Building with the Agents API | DevDay 2026",
-      "summary": "Build with the Codex harness through the Agents API. Learn how to run agents in your environment, keep long-running tasks going, and understand which infrastructure OpenAI manages.",
-      "publishedAt": "2026-11-11T01:24:07.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "7230ce6e002b3cfd",
-      "url": "https://www.youtube.com/watch?v=gUQN7juxvVI",
-      "title": "Codex Security: From Vulnerability to Verified Fix | DevDay 2026",
-      "summary": "Find and fix vulnerabilities with OpenAI’s cyber models and open-source CLI and SDK. Learn to scan large codebases, catch issues in pull requests, and verify fixes, drawing on OpenAI’s own security work.",
-      "publishedAt": "2026-11-11T01:24:07.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "ae89cd4186a679c8",
       "url": "https://www.youtube.com/watch?v=QRm7VNMnurA",
       "title": "Sites and the Next Generation of Web Apps | DevDay 2026",
       "summary": "Turn an idea into an interactive web experience with Astra, ChatGPT Sites, and WebMCP. Learn how to build new kinds of interfaces alongside your colleagues and agents.",
-      "publishedAt": "2026-11-11T01:24:07.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "c6da79e94535eb40",
-      "url": "https://www.youtube.com/watch?v=U1IVZy9FhVQ",
-      "title": "What Will You Build With Coding Agents That Don’t Quit? | DevDay 2026",
-      "summary": "Learn from a Codex run that spent over 1,000 hours keeping builds and tests passing. Explore how to choose recurring tasks, improve feedback, manage token budgets, and decide when engineers should step in.",
       "publishedAt": "2026-11-11T01:24:07.000Z",
       "firstSeen": "2026-11-11T19:35:47.983Z",
       "source": "yt-openai",
@@ -3142,21 +3384,6 @@
       ]
     },
     {
-      "id": "c331305db01d53d4",
-      "url": "https://www.youtube.com/watch?v=DGI4vucR71w",
-      "title": "What Are AI Agents? Agentic Systems Explained | Stanford CS329Z Lecture 1 with Diyi Yang",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: What is an AI agent, and how is it different from an LLM workflow? In the first lecture of Stanford CS329Z: Engineering AI Agents (Fall 2026), Stanford professor Diyi Yang traces the…",
-      "publishedAt": "2026-11-09T21:00:05.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
-      ]
-    },
-    {
       "id": "8a2197d07a2d97d4",
       "url": "https://arxiv.org/abs/2611.13218",
       "title": "Wrong the Same Way: Cross-Prompt Sharing Both Suppresses and Amplifies Reward Hacking in RLVR",
@@ -3257,21 +3484,6 @@
       "topics": [
         "anthropic",
         "engineering"
-      ]
-    },
-    {
-      "id": "e8f19e9835c0d6e2",
-      "url": "https://www.youtube.com/watch?v=I7zvCSGMkoc",
-      "title": "How AI Chatbots Work: LLMs, Tokens & Hallucination | Stanford CS193T Lecture 1 with Cynthia Bailey",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh What's happening when you chat with an AI? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey demystifies large language models from the ground up: tokens,…",
-      "publishedAt": "2026-11-09T18:00:30.000Z",
-      "firstSeen": "2026-11-09T22:21:45.843Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
       ]
     },
     {
@@ -4541,20 +4753,6 @@
       "firstSeen": "2026-11-03T14:14:49.128Z",
       "source": "hf-blog",
       "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "69a46671059b3147",
-      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora",
-      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "publishedAt": "2026-11-02T23:01:02.000Z",
-      "firstSeen": "2026-11-03T00:57:55.528Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
       "class": "rss",
       "topics": [
         "engineering"
@@ -7936,21 +8134,6 @@
       ]
     },
     {
-      "id": "7893e1432c21566d",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0",
-      "title": "v1.17.0",
-      "summary": "Features api: add org webhook endpoints and user profile enforcement events api: add RBAC Group owner-access error codes to the Admin API api: document the unsupported_charset error code for plugin uploads Bug Fixes bedrock: keep a workspace ID set in default_headers on the…",
-      "publishedAt": "2026-10-20T22:13:01.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "a3ad0558b97a52ab",
       "url": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
       "title": "Strengthening AI safety evaluation through independent third-party review",
@@ -8348,21 +8531,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "f1d2b0021bdbe009",
-      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
-      "title": "Proof-based general-purpose computing with Magnetar",
-      "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based…",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "msr-blog",
-      "sourceName": "Microsoft Research blog",
-      "class": "rss",
-      "topics": [
-        "microsoft",
-        "research"
       ]
     },
     {
@@ -9190,64 +9358,6 @@
       "class": "atom",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "8e206c4d9ed6ea5b",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "publishedAt": "2026-10-02T16:15:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "8aaf8e2268df8a52",
-      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.23.1",
-      "title": "v0.23.1",
-      "summary": "0.23.1 (2026-10-02) Bug Fixes restore release tests and refresh required readiness check ( #5278 ) ( 730deb4 ) Release readiness review (v0.23.0 -> TARGET 0a5a08b ) This is a release readiness report done by $final-release-review skill. Diff v0.23.0...0a5a08b Release intent…",
-      "publishedAt": "2026-10-02T15:36:24.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-agents",
-      "sourceName": "openai-agents-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "d26cbd17958291f7",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "b7a4cac8ba6383ef",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "title": "Toward provably private learning from federated data",
-      "summary": "Mobile Systems",
-      "publishedAt": "2026-10-02T14:57:41.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "google-research",
-      "sourceName": "Google Research blog",
-      "class": "rss",
-      "topics": [
-        "google",
-        "research"
       ]
     }
   ]
