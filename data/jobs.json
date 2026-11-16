@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:51:26.747Z",
+  "generatedAt": "2026-11-16T06:29:05.762Z",
   "items": [
     {
       "id": "ashby-openai-73875295-889e-4373-b20f-654e85c66ba4",
@@ -1812,18 +1812,6 @@
       "remote": false,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10564567",
-      "company": "Amazon",
-      "title": "Sr Solutions Architect, AWS Industries India - Strat Acc.",
-      "location": "Maharashtra, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10564567/sr-solutions-architect-aws-industries-india-strat-acc",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "india": false,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     },
     {
       "id": "amzn-10565135",
