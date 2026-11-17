@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-17T07:55:10.584Z",
+  "generatedAt": "2026-11-17T20:55:08.712Z",
   "items": [
+    {
+      "id": "38c4a38bd61908e3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026",
+      "title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+      "summary": "AWS Quick gives your whole organization AI that knows your business, respects your security rules, and acts on your behalf. At AWS re:Invent 2026, customers including Allianz, Cox Automotive, and Southwest Airlines share how they govern, extend, and scale Quick. Use this guide…",
+      "publishedAt": "2026-11-17T17:08:21.000Z",
+      "firstSeen": "2026-11-17T20:55:08.712Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "0cd30480108e2330",
+      "url": "https://www.youtube.com/watch?v=Rd_2oviGqnA",
+      "title": "8 Patterns to Pass Your System Design Interview",
+      "summary": "🧠 Learn all 8 patterns: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/patterns Uber and Yelp both need to find things nearby. Ticketmaster and Airbnb both need to stop two people from booking the same thing. YouTube and Dropbox both need to move large…",
+      "publishedAt": "2026-11-17T17:01:41.000Z",
+      "firstSeen": "2026-11-17T20:55:08.712Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "kind": "video",
+      "matched": [
+        "interview"
+      ]
+    },
+    {
+      "id": "33675c71d5aa0eb4",
+      "url": "https://www.youtube.com/watch?v=0Uk4uLjuEeY",
+      "title": "Vibe Coding, AI Risk & AI Evaluation | Stanford CS193T Lecture 6 with Cynthia Bailey",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh Once AI can take actions on its own, how do you stay in control? In this Stanford CS193T: Thinking with AI lecture, Senior Lecturer Cynthia Bailey previews this week's tools, Claude Code and Codex,…",
+      "publishedAt": "2026-11-17T17:00:03.000Z",
+      "firstSeen": "2026-11-17T20:55:08.712Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
     {
       "id": "ac101d2b569fc9ef",
       "url": "https://www.youtube.com/watch?v=ho00IesajkY",
@@ -1207,34 +1249,6 @@
       ]
     },
     {
-      "id": "f66f5f0e819eac3c",
-      "url": "https://www.youtube.com/watch?v=NS220dAaRMo",
-      "title": "How to request and enable Daybreak Blue",
-      "summary": "Learn how to request access to Daybreak Blue and enable it for your workspace and API organization. This walkthrough covers business verification, workspace permissions, role-based access controls, and confirming access in Codex. You’ll also see how to set up a project and API…",
-      "publishedAt": "2026-11-11T21:10:28.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "2328aa3d695bf9fa",
-      "url": "https://www.youtube.com/watch?v=CrrpfvbNyMw",
-      "title": "ChatGPT Images: Three Ways to Get Started",
-      "summary": "ChatGPT Images lets you create new images and edit existing images directly inside ChatGPT. Turn plain-language prompts into original images, explore different visual directions. In this video, learn three ways to get started: creating an image from scratch, refining its look…",
-      "publishedAt": "2026-11-11T21:10:10.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
       "id": "71dec98023d1759d",
       "url": "https://www.youtube.com/watch?v=psLc-46GqY0",
       "title": "RAG Explained: From BM25 to Agentic RAG | Stanford CS329Z Lecture 3 with Diyi Yang",
@@ -1332,34 +1346,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "ae89cd4186a679c8",
-      "url": "https://www.youtube.com/watch?v=QRm7VNMnurA",
-      "title": "Sites and the Next Generation of Web Apps | DevDay 2026",
-      "summary": "Turn an idea into an interactive web experience with Astra, ChatGPT Sites, and WebMCP. Learn how to build new kinds of interfaces alongside your colleagues and agents.",
-      "publishedAt": "2026-11-11T01:24:07.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "cfd3e89ed185cb21",
-      "url": "https://www.youtube.com/watch?v=Vr1NzH8bT44",
-      "title": "LLMs for Agent Builders: Context Engineering | Stanford CS329Z Lecture 2 with Michael Ryan",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Lecture Overview: What do you need to know about how LLMs work to build better AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford PhD student and DSPy contributor Michael Ryan…",
-      "publishedAt": "2026-11-10T21:00:11.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
       ]
     },
     {
@@ -1627,20 +1613,6 @@
       "kind": "video",
       "matched": [
         "tutorial"
-      ]
-    },
-    {
-      "id": "360a3a5d8e13c5c4",
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
-      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
-      "publishedAt": "2026-11-03T05:35:00.000Z",
-      "firstSeen": "2026-11-03T14:14:49.128Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "kind": "paper",
-      "matched": [
-        "paper"
       ]
     },
     {

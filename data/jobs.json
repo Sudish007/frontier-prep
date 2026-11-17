@@ -1,18 +1,6 @@
 {
-  "generatedAt": "2026-11-17T07:55:10.584Z",
+  "generatedAt": "2026-11-17T20:55:08.712Z",
   "items": [
-    {
-      "id": "ashby-openai-7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "company": "OpenAI",
-      "title": "Applied AI Architect - EDU",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "postedAt": "2026-11-17T00:06:56.489Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-11-17T07:55:10.584Z"
-    },
     {
       "id": "gh-anthropic-5484035008",
       "company": "Anthropic",
@@ -1283,18 +1271,6 @@
       "india": false,
       "remote": false,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5455961008",
-      "company": "Anthropic",
-      "title": "Applied AI Demo Engineer",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
-      "postedAt": "2026-10-19T22:38:51.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
