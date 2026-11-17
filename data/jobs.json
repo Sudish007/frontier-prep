@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-16T22:01:39.043Z",
+  "generatedAt": "2026-11-17T07:55:10.584Z",
   "items": [
+    {
+      "id": "ashby-openai-7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "company": "OpenAI",
+      "title": "Applied AI Architect - EDU",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "postedAt": "2026-11-17T00:06:56.489Z",
+      "india": false,
+      "remote": false,
+      "board": "openai",
+      "firstSeen": "2026-11-17T07:55:10.584Z"
+    },
+    {
+      "id": "gh-anthropic-5484035008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Beneficial Deployments (Non-Profits)",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484035008",
+      "postedAt": "2026-11-16T23:14:39.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-17T07:55:10.584Z"
+    },
     {
       "id": "gh-anthropic-5477416008",
       "company": "Anthropic",
@@ -467,18 +491,6 @@
       "india": false,
       "remote": false,
       "board": "anthropic",
-      "firstSeen": "2026-11-06T19:24:27.295Z"
-    },
-    {
-      "id": "amzn-10598475",
-      "company": "Amazon",
-      "title": "Research Scientist II, Grocery ECO",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10598475/research-scientist-ii-grocery-eco",
-      "postedAt": "2026-11-06T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
       "firstSeen": "2026-11-06T19:24:27.295Z"
     },
     {
@@ -976,7 +988,7 @@
     {
       "id": "gh-anthropic-5464493008",
       "company": "Anthropic",
-      "title": "Tech Lead Manager, Core Apps Data Scientist",
+      "title": "Tech Lead Manager, Claude Code Data Scientist",
       "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464493008",
       "postedAt": "2026-10-27T21:37:35.000Z",
