@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-18T07:27:58.683Z",
+  "generatedAt": "2026-11-18T20:30:52.549Z",
   "items": [
+    {
+      "id": "ashby-openai-a9a5a979-06a5-49af-95f3-7c537e3105c0",
+      "company": "OpenAI",
+      "title": "Software Engineer, Agent Identity",
+      "location": "San Francisco; Mountain View; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0",
+      "postedAt": "2026-11-18T18:27:36.342Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-18T20:30:52.549Z"
+    },
+    {
+      "id": "gh-anthropic-5483945008",
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Commercial",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+      "postedAt": "2026-11-18T16:26:55.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-18T20:30:52.549Z"
+    },
+    {
+      "id": "gh-anthropic-5482967008",
+      "company": "Anthropic",
+      "title": "[Paris] Applied AI Architect, Industries",
+      "location": "Paris, France",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482967008",
+      "postedAt": "2026-11-18T10:25:06.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-18T20:30:52.549Z"
+    },
     {
       "id": "gh-anthropic-5206870008",
       "company": "Anthropic",
@@ -568,7 +604,7 @@
     {
       "id": "ashby-openai-2c531790-726c-4d39-b3bd-900c59a09a4d",
       "company": "OpenAI",
-      "title": "Applied AI Delivery Lead - Remote in AMER",
+      "title": "Applied AI Delivery Lead",
       "location": "US - Remote; Remote",
       "url": "https://jobs.ashbyhq.com/openai/2c531790-726c-4d39-b3bd-900c59a09a4d",
       "postedAt": "2026-11-05T17:25:48.225Z",

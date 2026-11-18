@@ -1,15 +1,87 @@
 {
-  "generatedAt": "2026-11-18T07:27:58.683Z",
+  "generatedAt": "2026-11-18T20:30:52.549Z",
   "items": [
     {
-      "id": "d9862f58bd4d0bd0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.55.0",
-      "title": "v3.55.0",
-      "summary": "3.55.0 (2026-11-18) Features api: add Live MCP server configuration ( #4280 ) ( f56a67f ) api: hide Managed Agents session budget controls and events ( #4289 ) ( b78d3eb )",
-      "publishedAt": "2026-11-18T05:21:54.000Z",
-      "firstSeen": "2026-11-18T07:27:58.683Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
+      "id": "122be7cf5dd94362",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "2ab4deb8d86920bc",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai",
+      "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+      "summary": "Learn how Salesforce uses the cross-Region inference router in Amazon SageMaker AI to turn fragmented Regional capacity into reliable model serving. Salesforce adds capacity securely across Regions and accounts while keeping its data residency commitments, and sees per request…",
+      "publishedAt": "2026-11-18T20:13:18.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "6d3739127e37d025",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+      "title": "v0.34.0",
+      "summary": "v0.34.0 1,061 commits from 412 contributors (120 new). Thank you! TL;DR 10 new models (Mistral Large 4, MiniMax-M3.1-Flash, Nemotron-3.5-Transcribe, and more!) Extensible KV cache is on by default: vLLM sizes the KV cache from memory actually free after warmup, so most models…",
+      "publishedAt": "2026-11-18T20:10:50.000Z",
+      "firstSeen": "2026-11-16T06:29:05.762Z",
+      "source": "rel-vllm",
+      "sourceName": "vLLM releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "inference"
+      ]
+    },
+    {
+      "id": "f689168723dc030d",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "publishedAt": "2026-11-18T19:54:56.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "3107113245e39d0c",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery",
+      "title": "How Social Department built culture-aware video discovery",
+      "summary": "Social Department, an AI operating system for entertainment marketing, worked with TrackIt and AWS to build QuickSearch: single-action queries that surface shareable scenes, quotable lines, memeable frames, and trend-aligned moments across large video libraries, using TwelveLabs…",
+      "publishedAt": "2026-11-18T19:27:56.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "f6af3e2f5c3e5095",
+      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0",
+      "title": "v0.24.0",
+      "summary": "0.24.0 (2026-10-15) Key Changes 0.24.0 adds run-wide function error formatting and MCP discovery annotations, and improves recovery, sandbox safety, and tracing. This minor release includes compatibility changes for custom error callbacks and some saved agent graphs. Review the…",
+      "publishedAt": "2026-11-18T19:20:04.000Z",
+      "firstSeen": "2026-10-22T11:09:02.285Z",
+      "source": "rel-openai-agents",
+      "sourceName": "openai-agents-python releases",
       "class": "atom",
       "topics": [
         "openai",
@@ -20,11 +92,255 @@
       "id": "c4677f385445c775",
       "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.25.0",
       "title": "v0.25.0",
-      "summary": "0.25.0 (2026-11-17) Features expose utilities for third-party session adapters ( #5428 ) ( 16fdb20 ) sandbox: remove Runloop provider ( #5369 ) ( 12ce34d ) Bug Fixes avoid loading workspace startup files during internal sandbox operations ( #5406 ) ( 841dfdd ) preserve nested…",
-      "publishedAt": "2026-11-18T03:37:05.000Z",
+      "summary": "0.25.0 (2026-11-17) Key Changes Version 0.25.0 removes the beta Runloop sandbox provider and changes how Pydantic run contexts are checkpointed. Runloop users should preserve their workspace data before switching providers. Applications that share checkpoints across workers…",
+      "publishedAt": "2026-11-18T19:17:33.000Z",
       "firstSeen": "2026-11-18T07:27:58.683Z",
       "source": "rel-openai-agents",
       "sourceName": "openai-agents-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "037978009f803b44",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection",
+      "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+      "summary": "Many enterprises run a centralized network model: one account owns every VPC and a central firewall inspects all traffic. This post shows a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs and MCP servers in that model, with the VPC Lattice resource…",
+      "publishedAt": "2026-11-18T19:05:45.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "881783ef802b37af",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic",
+      "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
+      "summary": "Stretto replaced its web-form lead capture with Tara, an AI voice agent built on Amazon Nova 2 Sonic that conducts bankruptcy intake interviews by phone and qualifies leads. See how Stretto, the AWS Generative AI Innovation Center, and CI&T designed the voice architecture,…",
+      "publishedAt": "2026-11-18T18:58:42.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "03f4c51329980769",
+      "url": "https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations",
+      "title": "Mathematical proof, powered by AI. And no hallucinations!",
+      "summary": "With new tools that make it easier to check mathematical proofs — even as they’re being constructed — AI is becoming a valuable partner in mathematical discovery.",
+      "publishedAt": "2026-11-18T18:55:35.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "amazon-science",
+      "sourceName": "Amazon Science",
+      "class": "rss",
+      "topics": [
+        "amazon",
+        "research"
+      ]
+    },
+    {
+      "id": "66831b4cb9812f3b",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents",
+      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "summary": "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow building.",
+      "publishedAt": "2026-11-18T18:54:08.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "75623b38e68bd27d",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:53:43.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "50e3ea47cbae988d",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "title": "Genie 4 is now available",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:13:42.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "265a9d6476f12b05",
+      "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
+      "title": "Behind the scenes with Genie 4",
+      "summary": "Go behind the scenes of our recent Genie 4 film as we explore our most realistic and interactive world model yet. Instead of generating static video, Genie 4 simulates dynamic worlds in real time. Watch how our team used Genie 4 and Project Genie to turn text prompts into…",
+      "publishedAt": "2026-11-18T18:12:24.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "yt-deepmind",
+      "sourceName": "Google DeepMind (YouTube)",
+      "class": "atom",
+      "topics": [
+        "google",
+        "video"
+      ]
+    },
+    {
+      "id": "b53b872a0923d70d",
+      "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
+      "title": "Project Genie: Create and explore interactive worlds with Genie 4",
+      "summary": "Step inside your imagination with Project Genie, now powered by Google DeepMind’s most realistic and interactive world model yet, Genie 4. Project Genie brings our most advanced world and multimodal models together with Gemini so you can turn ideas into explorable, shareable…",
+      "publishedAt": "2026-11-18T18:12:21.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "yt-deepmind",
+      "sourceName": "Google DeepMind (YouTube)",
+      "class": "atom",
+      "topics": [
+        "google",
+        "video"
+      ]
+    },
+    {
+      "id": "f7bfd04d60285012",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "title": "Software factories and code reviews with Harjot Gill",
+      "summary": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
+      "publishedAt": "2026-11-18T18:08:52.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "8f1c1aca3752ab72",
+      "url": "https://www.youtube.com/watch?v=1S5nJp-qRs8",
+      "title": "Post-Training Techniques: On-Policy Distillation | Afshine & Shervine Amidi",
+      "summary": "Browse Stanford's online computational and mathematical engineering graduate courses: https://stanford.io/grad-cme Enrollment for the winter quarter is open now! https://stanford.io/Winter-2026 Is making a model bigger still the only way to improve it? Adjunct Professors Afshine…",
+      "publishedAt": "2026-11-18T17:00:12.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "8e6075d168e06821",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "86a0e68cf09a77d5",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.55.1",
+      "title": "v3.55.1",
+      "summary": "3.55.1 (2026-11-18) Chores api: document CSAM moderation response fields ( #4290 ) ( d6b93f3 ) deps-dev: bump pytest-asyncio from 1.4.1 to 1.4.1.post1 ( #4274 ) ( 231a92a ) deps: bump github/codeql-action/init from 4.39.1 to 4.39.3 ( #4275 ) ( f777185 ) deps: bump the…",
+      "publishedAt": "2026-11-18T16:04:26.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "bf1424b145e4fc73",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:00:23.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "7c37480e5f494a78",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol",
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+      "publishedAt": "2026-11-18T10:19:04.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "53f2a14376dda94d",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "8b6ac2940fdc0d0e",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "publishedAt": "2026-11-18T06:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "d9862f58bd4d0bd0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.55.0",
+      "title": "v3.55.0",
+      "summary": "3.55.0 (2026-11-18) Features api: add Live MCP server configuration ( #4280 ) ( f56a67f ) api: hide Managed Agents session budget controls and events ( #4289 ) ( b78d3eb )",
+      "publishedAt": "2026-11-18T05:21:54.000Z",
+      "firstSeen": "2026-11-18T07:27:58.683Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
       "class": "atom",
       "topics": [
         "openai",
@@ -59,6 +375,76 @@
       "topics": [
         "fundamentals",
         "video"
+      ]
+    },
+    {
+      "id": "679cee5ea1466f1f",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "6cab9c8cd38347e3",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "af1852b4c46dc30e",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "c7d3ecb006439a13",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "e683d40fba103b5f",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -693,7 +1079,7 @@
     {
       "id": "5bfa4c0336cda25e",
       "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
-      "title": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+      "title": "How to compress text to 1 bit per character | Information theory, part 3",
       "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Arithmetic Codes:…",
       "publishedAt": "2026-11-17T16:43:16.000Z",
       "firstSeen": "2026-11-17T20:55:08.712Z",
@@ -1495,21 +1881,6 @@
       ]
     },
     {
-      "id": "6d3739127e37d025",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
-      "title": "v0.34.0",
-      "summary": "v0.34.0 1,061 commits from 412 contributors (120 new). Thank you! TL;DR 10 new models (Mistral Large 4, MiniMax-M3.1-Flash, Nemotron-3.5-Transcribe, and more!) Extensible KV cache is on by default: vLLM sizes the KV cache from memory actually free after warmup, so most models…",
-      "publishedAt": "2026-11-16T23:50:15.000Z",
-      "firstSeen": "2026-11-16T06:29:05.762Z",
-      "source": "rel-vllm",
-      "sourceName": "vLLM releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "inference"
-      ]
-    },
-    {
       "id": "382f23b7b79d2e97",
       "url": "https://arxiv.org/abs/2611.21984",
       "title": "From Apology to Action: Apologies, Compensation, and Cooperation in LLM Agents",
@@ -1584,20 +1955,6 @@
       ]
     },
     {
-      "id": "94ec9ff9d4729a9e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
-      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-      "summary": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation…",
-      "publishedAt": "2026-11-16T22:06:08.000Z",
-      "firstSeen": "2026-11-17T07:55:10.584Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "0c2bca83aac92188",
       "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
       "title": "Updating our coordinated vulnerability disclosure policy timelines",
@@ -1610,20 +1967,6 @@
       "topics": [
         "anthropic",
         "research"
-      ]
-    },
-    {
-      "id": "0761da68e54fd0db",
-      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
-      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-      "summary": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable…",
-      "publishedAt": "2026-11-16T21:53:46.000Z",
-      "firstSeen": "2026-11-16T22:01:39.043Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -1731,20 +2074,6 @@
       ]
     },
     {
-      "id": "9567fc17c1fdcddf",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore",
-      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-      "summary": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's…",
-      "publishedAt": "2026-11-16T18:16:07.000Z",
-      "firstSeen": "2026-11-16T22:01:39.043Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "c4452cccf6f46634",
       "url": "https://arxiv.org/abs/2611.21515",
       "title": "Beyond Leaderboard Ranks: Selecting Software Engineering Agents Under Budget Constraints",
@@ -1772,34 +2101,6 @@
       "topics": [
         "fundamentals",
         "video"
-      ]
-    },
-    {
-      "id": "b4d0f21c2c604500",
-      "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform",
-      "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
-      "summary": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and…",
-      "publishedAt": "2026-11-16T17:29:29.000Z",
-      "firstSeen": "2026-11-16T22:01:39.043Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "7157ce3b54a8a376",
-      "url": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore",
-      "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
-      "summary": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn…",
-      "publishedAt": "2026-11-16T17:04:11.000Z",
-      "firstSeen": "2026-11-16T22:01:39.043Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -1963,6 +2264,21 @@
       "topics": [
         "papers",
         "engineering"
+      ]
+    },
+    {
+      "id": "862f2dd49595bba2",
+      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "summary": "Plus: CucumberVision!",
+      "publishedAt": "2026-11-16T14:01:15.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "import-ai",
+      "sourceName": "Import AI (Jack Clark)",
+      "class": "rss",
+      "topics": [
+        "research",
+        "policy"
       ]
     },
     {
@@ -4214,20 +4530,6 @@
       ]
     },
     {
-      "id": "3e62264ffb8eefe5",
-      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
-      "title": "parse_number() as a SQLite extension: C vs Rust",
-      "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that…",
-      "publishedAt": "2026-11-08T22:26:00.000Z",
-      "firstSeen": "2026-11-09T06:28:17.673Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "9c7e75a27e82f37a",
       "url": "https://latent.space/p/cs146s",
       "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
@@ -4662,20 +4964,6 @@
       ]
     },
     {
-      "id": "5e468467bd2ef4e7",
-      "url": "https://latent.space/p/ainews-it-s-swapping-season",
-      "title": "[AINews] It's Swapping Season",
-      "summary": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
-      "publishedAt": "2026-11-05T06:24:09.000Z",
-      "firstSeen": "2026-11-05T06:45:55.733Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "f93567576105c713",
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "title": "Setting a new standard for responsible AI infrastructure",
@@ -4687,21 +4975,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "43e1365d9850697f",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
-      "title": "v3.46.0",
-      "summary": "3.46.0 (2026-11-05) Features api: add Australia, India, and Japan residency options ( #4246 ) ( 2634b87 ) api: add GPT-6 Rosalind to the model catalog ( #4243 ) ( 0f8e5f3 ) api: add image complexity and GIF and SVG output controls ( #4247 ) ( 0152e3a ) api: expand agent turn…",
-      "publishedAt": "2026-11-05T00:55:06.000Z",
-      "firstSeen": "2026-11-05T06:45:55.733Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
       ]
     },
     {
@@ -7648,21 +7921,6 @@
       ]
     },
     {
-      "id": "952c54fa1fd4c68f",
-      "url": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
-      ]
-    },
-    {
       "id": "9ca93af18bf7918f",
       "url": "https://alignment.anthropic.com/2025/auditing-mo-replication",
       "title": "Open Source Replication of the Auditing Game Model Organism We release an open source replication of the model organism from our previous auditing game paper.",
@@ -8801,21 +9059,6 @@
       "sourceName": "Hugging Face blog",
       "class": "rss",
       "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "f6af3e2f5c3e5095",
-      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0",
-      "title": "v0.24.0",
-      "summary": "0.24.0 (2026-10-15) Features expose MCP annotations on converted tools ( #5356 ) ( 75813f8 ) support run-wide tool exception formatting ( #5326 ) ( 8fd9a7c ) Bug Fixes batch OpenAI conversation session writes within the API limit ( #5334 ) ( 26345c1 ) defer automatic compaction…",
-      "publishedAt": "2026-10-15T02:37:43.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-openai-agents",
-      "sourceName": "openai-agents-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
         "engineering"
       ]
     },

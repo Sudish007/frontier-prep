@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-18T07:27:58.683Z",
+  "generatedAt": "2026-11-18T20:30:52.549Z",
   "items": [
+    {
+      "id": "66831b4cb9812f3b",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents",
+      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "summary": "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow building.",
+      "publishedAt": "2026-11-18T18:54:08.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "7c37480e5f494a78",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol",
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+      "publishedAt": "2026-11-18T10:19:04.000Z",
+      "firstSeen": "2026-11-18T20:30:52.549Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
     {
       "id": "b9bf99bdba6fe7f2",
       "url": "https://arxiv.org/abs/2611.23229",
@@ -853,20 +881,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "0761da68e54fd0db",
-      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
-      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-      "summary": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable…",
-      "publishedAt": "2026-11-16T21:53:46.000Z",
-      "firstSeen": "2026-11-16T22:01:39.043Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
       ]
     },
     {
