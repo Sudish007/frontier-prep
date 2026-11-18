@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-17T20:55:08.712Z",
+  "generatedAt": "2026-11-18T07:27:58.683Z",
   "items": [
+    {
+      "id": "gh-anthropic-5206870008",
+      "company": "Anthropic",
+      "title": "Developer Relations, Platform",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5206870008",
+      "postedAt": "2026-11-17T23:10:36.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-18T07:27:58.683Z"
+    },
     {
       "id": "gh-anthropic-5484035008",
       "company": "Anthropic",
@@ -732,6 +744,18 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-11-03T23:23:29.284Z"
+    },
+    {
+      "id": "gh-anthropic-5467893008",
+      "company": "Anthropic",
+      "title": "Machine Learning Data Scientist, Forecasting Platform",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
+      "postedAt": "2026-11-03T18:42:48.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-18T07:27:58.683Z"
     },
     {
       "id": "gh-anthropic-5461252008",
@@ -1670,18 +1694,6 @@
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
-      "id": "amzn-10570423",
-      "company": "Amazon",
-      "title": "Applied Scientist II, Last Mile Science",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10570423/applied-scientist-ii-last-mile-science",
-      "postedAt": "2026-10-06T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
       "id": "gh-anthropic-5443871008",
       "company": "Anthropic",
       "title": "Security Risk & Compliance, Agent Security",
@@ -2216,18 +2228,6 @@
       "location": "Hyderabad, Telangana, IND",
       "url": "https://www.amazon.jobs/en/jobs/10554765/software-development-engineer-iii-seller-and-am-genai-tools",
       "postedAt": "2026-09-21T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "amzn-10554136",
-      "company": "Amazon",
-      "title": "Sr. Data Scientist, Amazon Pay Data Products",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10554136/sr-data-scientist-amazon-pay-data-products",
-      "postedAt": "2026-09-19T00:00:00.000Z",
       "india": true,
       "remote": false,
       "board": "amazon-genai-india",
