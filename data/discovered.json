@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-19T07:25:55.761Z",
+  "generatedAt": "2026-11-19T20:37:17.021Z",
   "items": [
+    {
+      "id": "e04b4e930bcdca98",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league",
+      "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+      "summary": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning…",
+      "publishedAt": "2026-11-19T18:26:22.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "448d198a6d06442b",
+      "url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks",
+      "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+      "summary": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod…",
+      "publishedAt": "2026-11-19T16:13:51.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "342bba6e897c95a8",
       "url": "https://www.youtube.com/watch?v=l07K2cdLofM",

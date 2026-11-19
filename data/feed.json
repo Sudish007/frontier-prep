@@ -1,6 +1,279 @@
 {
-  "generatedAt": "2026-11-19T07:25:55.761Z",
+  "generatedAt": "2026-11-19T20:37:17.021Z",
   "items": [
+    {
+      "id": "81bd1184d9fb655e",
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+      "summary": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it?…",
+      "publishedAt": "2026-11-19T20:03:10.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "yt-ai-explained",
+      "sourceName": "AI Explained (YouTube)",
+      "class": "atom",
+      "topics": [
+        "research",
+        "video"
+      ]
+    },
+    {
+      "id": "44d231d9ee488f2d",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer",
+      "title": "A game you cannot win unless you have a quantum computer",
+      "summary": "Quantum",
+      "publishedAt": "2026-11-19T20:03:00.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "ebd75882b3d9e79b",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks",
+      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or…",
+      "publishedAt": "2026-11-19T20:01:06.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "0befceefd071cd5c",
+      "url": "https://www.youtube.com/watch?v=FORdPIWOH5k",
+      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+      "summary": "Seven years after their last conversation at Google DeepMind’s London office, Professor Hannah Fry reunites with Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google. Back then, DeepMind was focused on specialized breakthroughs; today, Koray is leading the…",
+      "publishedAt": "2026-11-19T19:58:06.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "yt-deepmind",
+      "sourceName": "Google DeepMind (YouTube)",
+      "class": "atom",
+      "topics": [
+        "google",
+        "video"
+      ]
+    },
+    {
+      "id": "5590d4d47ed2184b",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand",
+      "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+      "summary": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices run on the Amazon Polly generative engine and support seven…",
+      "publishedAt": "2026-11-19T19:53:32.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "b03ed68fefebaf92",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
+      "title": "v2.11.0",
+      "summary": "Features api: add Claude Code managed settings to the Admin API api: add the sandbox_egress_restricted error to Admin API plugin methods Bug Fixes client: encode spaces in query strings as %20 The AWS SigV4 signature of a request now matches its query string when a parameter…",
+      "publishedAt": "2026-11-19T19:14:21.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "7e4679faa3409569",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach",
+      "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+      "summary": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on…",
+      "publishedAt": "2026-11-19T18:48:55.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "e04b4e930bcdca98",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league",
+      "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+      "summary": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning…",
+      "publishedAt": "2026-11-19T18:26:22.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "0f531b5b0f649592",
+      "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai",
+      "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+      "summary": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another…",
+      "publishedAt": "2026-11-19T18:20:54.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "7e9fc57c134e72d2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway",
+      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      "summary": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your…",
+      "publishedAt": "2026-11-19T18:14:36.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "b00f82b6db94c2e5",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "publishedAt": "2026-11-19T18:00:00.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "58ab887d6a72b8c8",
+      "url": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart",
+      "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+      "summary": "PolyAI Dialog-RSN-1, a reasoning model built for real-time complex dialog, is available today on AWS Marketplace and Amazon SageMaker JumpStart. Discover it, evaluate it on your own data, and deploy it to a secure SageMaker endpoint in your own AWS account.",
+      "publishedAt": "2026-11-19T17:28:47.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "04da227b0cee83ba",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+      "publishedAt": "2026-11-19T17:08:59.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "ec11a34d3615d651",
+      "url": "https://www.youtube.com/shorts/YPcaJTNDJMg",
+      "title": "How vector databases skip most comparisons (ANN)",
+      "summary": "Exact nearest-neighbor search compares your query to every vector. Approximate search (ANN) groups vectors into neighborhoods and checks only the ones nearby, trading a little recall for a fraction of the work. Full video:…",
+      "publishedAt": "2026-11-19T17:00:44.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "class": "atom",
+      "topics": [
+        "interview",
+        "video"
+      ]
+    },
+    {
+      "id": "2adef6bfeca022c8",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "448d198a6d06442b",
+      "url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks",
+      "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+      "summary": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod…",
+      "publishedAt": "2026-11-19T16:13:51.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "f9730375d00ba37a",
+      "url": "https://www.youtube.com/watch?v=JDsFHmq9hlA",
+      "title": "What we make of this moment, will make this moment.",
+      "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating cuttlefish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and millions more.",
+      "publishedAt": "2026-11-19T15:02:49.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "yt-anthropic",
+      "sourceName": "Anthropic (YouTube)",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "video"
+      ]
+    },
+    {
+      "id": "5712ac5365ff0d28",
+      "url": "https://www.youtube.com/watch?v=ikNf7eW8CHk",
+      "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
+      "summary": "David Lee, Director of Innovation & Growth at Holiday Extras, calls his dot, Brian, on his morning commute. They talk through the meetings ahead, and Brian can have a report ready by the time David gets to his desk. His colleague Liam Thompson, VP of AI Innovation, calls his dot…",
+      "publishedAt": "2026-11-19T11:38:57.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "6687f7be62c34e4a",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "firstSeen": "2026-11-19T20:37:17.021Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "909b75797cd1319b",
       "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
@@ -1519,20 +1792,6 @@
       ]
     },
     {
-      "id": "206b86c970ea91d6",
-      "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference",
-      "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
-      "summary": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for distributed inference, with multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery. Serve large models across many nodes without building the orchestration layer yourself.",
-      "publishedAt": "2026-11-17T23:33:26.000Z",
-      "firstSeen": "2026-11-18T07:27:58.683Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "95829348eaa68c2b",
       "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00",
       "title": "Introducing ChatGPT for Sales",
@@ -1589,20 +1848,6 @@
       "class": "atom",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "2c0a64e08e41f662",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads",
-      "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
-      "summary": "As production agents on Amazon Bedrock AgentCore process multi-megabyte JSON payloads, token costs and latency climb. This post shares three composable strategies: offloading heavy artifacts to Amazon S3, on-demand result paging, and dictionary compaction. Together they cut…",
-      "publishedAt": "2026-11-17T22:44:51.000Z",
-      "firstSeen": "2026-11-18T07:27:58.683Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -1710,34 +1955,6 @@
       ]
     },
     {
-      "id": "6dbfd2c16f1d581a",
-      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment",
-      "title": "Cut generative AI costs: Code for rules, models for judgment",
-      "summary": "The biggest cost lever in a generative AI system is whether you call a model at all. Learn how to decide whether each workflow step needs a model, and map each option to AWS: deterministic code, a constrained decision call, or a right-sized model on Amazon Bedrock.",
-      "publishedAt": "2026-11-17T21:14:55.000Z",
-      "firstSeen": "2026-11-18T07:27:58.683Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "8e21326b778b59c3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing",
-      "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
-      "summary": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke,…",
-      "publishedAt": "2026-11-17T21:11:51.000Z",
-      "firstSeen": "2026-11-18T07:27:58.683Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "3c577d27042ff537",
       "url": "https://arxiv.org/abs/2611.23501",
       "title": "MedHarness: A Unified Budgeted Runtime for Reliable Medical Imaging Agents",
@@ -1750,62 +1967,6 @@
       "topics": [
         "papers",
         "engineering"
-      ]
-    },
-    {
-      "id": "1796857b9a1b2f79",
-      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry",
-      "title": "Govern and discover records with common metadata in AWS Agent Registry",
-      "summary": "Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern…",
-      "publishedAt": "2026-11-17T20:31:04.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "3a6ddd65cb94a929",
-      "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore",
-      "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
-      "summary": "When an AI agent on Amazon Bedrock AgentCore calls Snowflake Cortex AI over MCP, how does it authenticate? This post walks through three OAuth patterns we tested on AgentCore Identity: Snowflake OAuth, three-legged OAuth with a corporate IdP, and two-legged OAuth, so you can…",
-      "publishedAt": "2026-11-17T20:25:23.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "2052af3031ae30d9",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows",
-      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
-      "summary": "Amazon SageMaker AI now offers AI data preparation capabilities for building high-quality training and evaluation data. Generate synthetic examples, assess and improve datasets, auto-label at scale, and bring in expert review through Python SDK APIs and an agent skill, all from…",
-      "publishedAt": "2026-11-17T19:40:01.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "1e308b5aafc025fe",
-      "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally",
-      "title": "Getting AI out of the demo and into businesses globally",
-      "summary": "Most enterprises have AI that works in a demo but stalls before production. AWS Forward Deployed Engineering closes that gap. AWS engineers embed with customer teams to take high-value workflows to production in 45-day sprints, leaving a foundation, workflows, and governance the…",
-      "publishedAt": "2026-11-17T19:05:22.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -3074,21 +3235,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "2b50cb10658bb316",
-      "url": "https://www.youtube.com/watch?v=PkAmyub12K8",
-      "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
-      "summary": "Mozilla is combining decades of security engineering with AI agents to strengthen Firefox’s defenses. Brian Grinstead joins OpenAI’s Clint Gibler to discuss how the team prioritizes investigations, tests and verifies vulnerabilities, finds related bug patterns, and helps…",
-      "publishedAt": "2026-11-13T16:56:45.000Z",
-      "firstSeen": "2026-11-13T19:41:52.495Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -8525,21 +8671,6 @@
       ]
     },
     {
-      "id": "01717d6bcf20fda3",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.1.0",
-      "title": "v2.1.0",
-      "summary": "Features api: add enforcement status, actions and filter to user profiles",
-      "publishedAt": "2026-10-21T22:00:30.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "2ed22a61b2f19a0c",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "title": "Broad access through consistent standards",
@@ -9875,49 +10006,6 @@
       "topics": [
         "google",
         "research"
-      ]
-    },
-    {
-      "id": "78ad53815846c15c",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "title": "Our approach to EU text provenance rules",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "2a01f0d16ca8636e",
-      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "summary": "Who chooses what AI gets to do?",
-      "publishedAt": "2026-10-05T12:32:30.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "import-ai",
-      "sourceName": "Import AI (Jack Clark)",
-      "class": "rss",
-      "topics": [
-        "research",
-        "policy"
-      ]
-    },
-    {
-      "id": "3cbec84de8bf6155",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]

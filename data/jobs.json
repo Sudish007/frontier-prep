@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-19T07:25:55.761Z",
+  "generatedAt": "2026-11-19T20:37:17.021Z",
   "items": [
+    {
+      "id": "ashby-openai-efae0a22-24d6-4562-834c-1110c5e7677b",
+      "company": "OpenAI",
+      "title": "Product Manager, Frontier Risks Safety",
+      "location": "San Francisco; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/efae0a22-24d6-4562-834c-1110c5e7677b",
+      "postedAt": "2026-11-19T18:32:37.856Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-19T20:37:17.021Z"
+    },
+    {
+      "id": "ashby-openai-52b96704-5944-4ade-9f0f-27438cd5b560",
+      "company": "OpenAI",
+      "title": "Manager, Forward Deployed Engineering - London",
+      "location": "London, UK; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/52b96704-5944-4ade-9f0f-27438cd5b560",
+      "postedAt": "2026-11-19T17:01:13.168Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-19T20:37:17.021Z"
+    },
     {
       "id": "ashby-openai-a9a5a979-06a5-49af-95f3-7c537e3105c0",
       "company": "OpenAI",
@@ -1133,7 +1157,7 @@
       "id": "gh-anthropic-5455627008",
       "company": "Anthropic",
       "title": "Applied AI Architect, Public Sector (Federal Civilan)",
-      "location": "San Francisco, CA | New York City, NY",
+      "location": "Washington, DC",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008",
       "postedAt": "2026-10-23T01:53:49.000Z",
       "india": false,
