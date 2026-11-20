@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T20:37:17.021Z",
+  "generatedAt": "2026-11-20T07:15:47.619Z",
   "windowDays": 45,
   "jobWindowDays": 60,
   "counts": {
-    "items": 693,
-    "discovered": 134,
-    "jobs": 191,
-    "jobsIndia": 39,
+    "items": 694,
+    "discovered": 136,
+    "jobs": 193,
+    "jobsIndia": 37,
     "sources": {
       "ok": 38,
       "empty": 0,
@@ -25,7 +25,7 @@
       "count": 21,
       "newest": "2026-11-19T07:25:55.761Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": "no feed; links scraped, dated by first sighting"
     },
@@ -39,7 +39,7 @@
       "count": 24,
       "newest": "2026-11-18T20:30:52.549Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": "no feed; links scraped"
     },
@@ -53,7 +53,7 @@
       "count": 21,
       "newest": "2026-10-22T11:11:38.073Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": "no feed; links scraped (engineering posts now live under /research)"
     },
@@ -67,7 +67,7 @@
       "count": 60,
       "newest": "2026-11-11T19:35:47.983Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": "no feed; links scraped"
     },
@@ -78,10 +78,10 @@
       "kind": "lab",
       "homepage": "https://openai.com/news",
       "status": "ok",
-      "count": 139,
+      "count": 143,
       "newest": "2026-11-19T08:00:00.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -95,7 +95,7 @@
       "count": 20,
       "newest": "2026-11-18T21:35:43.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -106,10 +106,10 @@
       "kind": "lab",
       "homepage": "https://research.google/blog/",
       "status": "ok",
-      "count": 16,
+      "count": 15,
       "newest": "2026-11-19T20:03:00.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -123,7 +123,7 @@
       "count": 10,
       "newest": "2026-11-17T16:52:17.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -135,9 +135,9 @@
       "homepage": "https://aws.amazon.com/blogs/machine-learning/",
       "status": "ok",
       "count": 20,
-      "newest": "2026-11-19T20:01:06.000Z",
+      "newest": "2026-11-20T00:34:07.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -151,7 +151,7 @@
       "count": 9,
       "newest": "2026-11-18T18:55:35.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -165,7 +165,7 @@
       "count": 42,
       "newest": "2026-11-18T19:54:56.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -177,9 +177,9 @@
       "homepage": "https://simonwillison.net/",
       "status": "ok",
       "count": 24,
-      "newest": "2026-11-18T23:59:20.000Z",
+      "newest": "2026-11-20T02:49:57.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -193,7 +193,7 @@
       "count": 0,
       "newest": null,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -207,7 +207,7 @@
       "count": 9,
       "newest": "2026-11-14T12:23:15.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -219,9 +219,9 @@
       "homepage": "https://www.latent.space/",
       "status": "ok",
       "count": 20,
-      "newest": "2026-11-19T07:07:43.000Z",
+      "newest": "2026-11-20T07:12:24.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -235,7 +235,7 @@
       "count": 0,
       "newest": null,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -249,7 +249,7 @@
       "count": 6,
       "newest": "2026-11-16T14:01:15.000Z",
       "error": "blocked: 403 Cloudflare",
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": "2026-11-19T07:25:55.761Z",
       "note": null
     },
@@ -261,9 +261,9 @@
       "homepage": "https://arxiv.org/list/cs.CL/recent",
       "status": "ok",
       "count": 40,
-      "newest": "2026-11-18T18:56:12.000Z",
+      "newest": "2026-11-19T18:57:25.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -274,10 +274,10 @@
       "kind": "papers",
       "homepage": "https://arxiv.org/list/cs.AI/recent",
       "status": "ok",
-      "count": 30,
-      "newest": "2026-11-18T14:01:33.000Z",
+      "count": 29,
+      "newest": "2026-11-19T15:48:04.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -288,10 +288,10 @@
       "kind": "papers",
       "homepage": "https://arxiv.org/list/cs.AI/recent",
       "status": "ok",
-      "count": 28,
-      "newest": "2026-11-18T16:25:14.000Z",
+      "count": 26,
+      "newest": "2026-11-19T18:12:04.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -305,7 +305,7 @@
       "count": 0,
       "newest": null,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -316,10 +316,10 @@
       "kind": "video",
       "homepage": "https://www.youtube.com/@anthropic-ai",
       "status": "ok",
-      "count": 1,
-      "newest": "2026-11-19T15:02:49.000Z",
+      "count": 2,
+      "newest": "2026-11-19T21:03:23.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -331,9 +331,9 @@
       "homepage": "https://www.youtube.com/@OpenAI",
       "status": "ok",
       "count": 15,
-      "newest": "2026-11-19T11:38:57.000Z",
+      "newest": "2026-11-20T06:07:50.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -347,7 +347,7 @@
       "count": 9,
       "newest": "2026-11-19T19:58:06.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -361,7 +361,7 @@
       "count": 4,
       "newest": "2026-11-17T16:43:16.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -375,7 +375,7 @@
       "count": 0,
       "newest": null,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -389,7 +389,7 @@
       "count": 4,
       "newest": "2026-11-19T20:03:10.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -403,7 +403,7 @@
       "count": 6,
       "newest": "2026-11-19T00:00:19.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -417,7 +417,7 @@
       "count": 7,
       "newest": "2026-11-19T17:00:44.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -431,7 +431,7 @@
       "count": 18,
       "newest": "2026-11-19T18:00:00.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -445,7 +445,7 @@
       "count": 18,
       "newest": "2026-11-05T19:57:00.667Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": "no feed; links scraped, dated by first sighting"
     },
@@ -459,7 +459,7 @@
       "count": 17,
       "newest": "2026-11-19T17:08:59.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -473,7 +473,7 @@
       "count": 10,
       "newest": "2026-11-19T19:14:21.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -485,9 +485,9 @@
       "homepage": "https://github.com/anthropics/claude-code",
       "status": "ok",
       "count": 10,
-      "newest": "2026-11-19T01:14:04.000Z",
+      "newest": "2026-11-19T22:14:41.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -501,7 +501,7 @@
       "count": 0,
       "newest": null,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -513,9 +513,9 @@
       "homepage": "https://github.com/openai/openai-python",
       "status": "ok",
       "count": 10,
-      "newest": "2026-11-18T16:04:26.000Z",
+      "newest": "2026-11-20T01:27:57.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -529,7 +529,7 @@
       "count": 5,
       "newest": "2026-11-18T19:20:04.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -543,7 +543,7 @@
       "count": 10,
       "newest": "2026-11-17T22:04:08.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     },
@@ -557,7 +557,7 @@
       "count": 10,
       "newest": "2026-11-18T21:02:33.000Z",
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z",
+      "fetchedAt": "2026-11-20T07:15:47.619Z",
       "failingSince": null,
       "note": null
     }
@@ -569,9 +569,9 @@
       "kind": "greenhouse",
       "status": "ok",
       "url": "https://www.anthropic.com/careers/jobs",
-      "count": 65,
+      "count": 66,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z"
+      "fetchedAt": "2026-11-20T07:15:47.619Z"
     },
     {
       "id": "openai",
@@ -579,9 +579,9 @@
       "kind": "ashby",
       "status": "ok",
       "url": "https://openai.com/careers/search/",
-      "count": 92,
+      "count": 95,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z"
+      "fetchedAt": "2026-11-20T07:15:47.619Z"
     },
     {
       "id": "amazon-genai-india",
@@ -589,9 +589,9 @@
       "kind": "amazon",
       "status": "ok",
       "url": "https://www.amazon.jobs/en/search?base_query=generative+AI&country=IND",
-      "count": 22,
+      "count": 20,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z"
+      "fetchedAt": "2026-11-20T07:15:47.619Z"
     },
     {
       "id": "amazon-ml-india",
@@ -601,7 +601,7 @@
       "url": "https://www.amazon.jobs/en/search?base_query=machine+learning&country=IND",
       "count": 12,
       "error": null,
-      "fetchedAt": "2026-11-19T20:37:17.021Z"
+      "fetchedAt": "2026-11-20T07:15:47.619Z"
     },
     {
       "id": "microsoft-manual",

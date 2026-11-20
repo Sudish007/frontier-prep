@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-19T20:37:17.021Z",
+  "generatedAt": "2026-11-20T07:15:47.619Z",
   "items": [
+    {
+      "id": "ashby-openai-83b21911-d467-44ab-af3b-c0b898488ab4",
+      "company": "OpenAI",
+      "title": "Forward Deployed Engineer (FDE), Cyber - London",
+      "location": "London, UK; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/83b21911-d467-44ab-af3b-c0b898488ab4",
+      "postedAt": "2026-11-20T02:51:24.345Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-20T07:15:47.619Z"
+    },
+    {
+      "id": "ashby-openai-77a73c98-cdc9-4cc2-9cf8-ec49ef952856",
+      "company": "OpenAI",
+      "title": "Forward Deployed Engineer (FDE), Cyber - Tokyo",
+      "location": "Tokyo, Japan; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/77a73c98-cdc9-4cc2-9cf8-ec49ef952856",
+      "postedAt": "2026-11-20T02:49:09.522Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-20T07:15:47.619Z"
+    },
+    {
+      "id": "gh-anthropic-5486780008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Beneficial Deployment",
+      "location": "Sydney, Australia",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486780008",
+      "postedAt": "2026-11-20T02:35:45.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-20T07:15:47.619Z"
+    },
+    {
+      "id": "ashby-openai-b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
+      "company": "OpenAI",
+      "title": "Model Policy Manager, Agentic Safety ",
+      "location": "San Francisco; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",
+      "postedAt": "2026-11-20T01:16:59.588Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-20T07:15:47.619Z"
+    },
     {
       "id": "ashby-openai-efae0a22-24d6-4562-834c-1110c5e7677b",
       "company": "OpenAI",
@@ -2268,30 +2316,6 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10554458",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Seller and AM GenAI Tools",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10554458/software-development-engineer-seller-and-am-genai-tools",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "amzn-10554765",
-      "company": "Amazon",
-      "title": "Software Development Engineer III,  Seller and AM GenAI Tools",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10554765/software-development-engineer-iii-seller-and-am-genai-tools",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     }
   ]
 }
