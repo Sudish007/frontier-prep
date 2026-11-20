@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-20T07:15:47.619Z",
+  "generatedAt": "2026-11-20T20:19:33.218Z",
   "items": [
+    {
+      "id": "af93e40e603782af",
+      "url": "https://www.youtube.com/watch?v=GPk0nNuc8S0",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | One Developer, Two Decades, and 30 Million Users Later",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 16, 2026 This lecture covers: • How Python Tutor, a browser-based tool that visualizes code step by step across Python, Java, C, C++, and JavaScript, helps…",
+      "publishedAt": "2026-11-20T19:46:49.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course",
+        "tutorial"
+      ]
+    },
     {
       "id": "b4606f809401affa",
       "url": "https://www.youtube.com/watch?v=OSHSopaYjTw",

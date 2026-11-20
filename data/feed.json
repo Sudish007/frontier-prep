@@ -1,6 +1,122 @@
 {
-  "generatedAt": "2026-11-20T07:15:47.619Z",
+  "generatedAt": "2026-11-20T20:19:33.218Z",
   "items": [
+    {
+      "id": "9afed0143cc7325c",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "anthropic-news",
+      "sourceName": "Anthropic news",
+      "class": "html-links",
+      "topics": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "af93e40e603782af",
+      "url": "https://www.youtube.com/watch?v=GPk0nNuc8S0",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | One Developer, Two Decades, and 30 Million Users Later",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 16, 2026 This lecture covers: • How Python Tutor, a browser-based tool that visualizes code step by step across Python, Java, C, C++, and JavaScript, helps…",
+      "publishedAt": "2026-11-20T19:46:49.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "1993e3871a4476a3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues",
+      "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "summary": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and…",
+      "publishedAt": "2026-11-20T18:24:06.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "e56c8a71f46f2f17",
+      "url": "https://www.youtube.com/shorts/X19Q12hmRjY",
+      "title": "An underrated way to use ChatGPT: Finding a doctor",
+      "summary": "Your yearly checkups start with finding the right doctor. Magan Chin shares how she uses ChatGPT to find highly rated doctors nearby. Tip by 💡: Instagram @genzbestie · TikTok @genzbestie_",
+      "publishedAt": "2026-11-20T17:22:23.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "b8e1839046bc97c6",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+      "title": "Quoting Levent Alpöge",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also…",
+      "publishedAt": "2026-11-20T16:30:48.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "ba750ffcc2fd1ed7",
+      "url": "https://www.youtube.com/watch?v=WGvsk0LIveU",
+      "title": "3 ChatGPT Tips to Save Money",
+      "summary": "ChatGPT can help you find ways to save, whether you’re shopping for a desk chair or wondering what you’re still paying for after a free trial ends. Learn three ways to save money with ChatGPT. Use a product screenshot to compare prices before you buy, spot subscriptions you no…",
+      "publishedAt": "2026-11-20T16:00:17.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "7c7a283819e5b1ae",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
+      "title": "v2.12.0",
+      "summary": "Features api: add the image_dimensions_too_large error code Bug Fixes bedrock: send the user profile ID in the request body Amazon Bedrock reads user_profile_id from the request body and ignores the anthropic-user-profile-id header, so a profile ID given to AnthropicBedrock or…",
+      "publishedAt": "2026-11-20T15:56:21.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "3ea993db7e3c60d1",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "1177dfbd92c164db",
       "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t",
@@ -145,6 +261,48 @@
       "class": "rss",
       "topics": [
         "amazon"
+      ]
+    },
+    {
+      "id": "211fbe8009a45ecd",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "80d31a6dee298bbd",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "f4784c30400364a2",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "firstSeen": "2026-11-20T20:19:33.218Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -824,7 +982,7 @@
       "id": "f9730375d00ba37a",
       "url": "https://www.youtube.com/watch?v=JDsFHmq9hlA",
       "title": "What we make of this moment, will make this moment.",
-      "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating cuttlefish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and millions more.",
+      "summary": "What we* make of this moment, will make this moment. *a food bank in Texas, a PhD student in Tokyo with a floating fish robot, a first-time builder mapping 800 years of Indian history, a developer tracking potholes in Slovenia, and millions more.",
       "publishedAt": "2026-11-19T15:02:49.000Z",
       "firstSeen": "2026-11-19T20:37:17.021Z",
       "source": "yt-anthropic",
@@ -1773,20 +1931,6 @@
       ]
     },
     {
-      "id": "44013fe75393f221",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock",
-      "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
-      "summary": "Airbnb runs evals on real engineering tasks and uses Amazon Bedrock observability to choose models for its coding agents and control production costs. This post shows how cost per task guides model selection, why production spending can differ from eval results, and how to…",
-      "publishedAt": "2026-11-18T21:48:19.000Z",
-      "firstSeen": "2026-11-19T07:25:55.761Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "b898a1b2127c5756",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
       "title": "Introducing Gemini 4 Neon",
@@ -2637,36 +2781,6 @@
       "title": "How one engineer built a code review service with Codex | Revolut’s Dmitry Pitik",
       "summary": "Dmitry Pitik thought he’d need a team of developers to build Revolut’s internal code review service. In this film, the Senior Platform Engineer explains how he broke the design into tasks, assigned them to Codex agents working in parallel and reviewed the code himself. That gave…",
       "publishedAt": "2026-11-17T09:45:34.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "da9f25e04c88e102",
-      "url": "https://www.youtube.com/watch?v=xkeXefmxArU",
-      "title": "Making marketing feel local across 40 markets | Revolut’s Kim Maniovich",
-      "summary": "A campaign that works in one market can need a different approach in the next. Kim Maniovich, Global Head of Business Marketing at Revolut, shares how her team uses AI to understand local differences and tailor campaigns faster. She also explains why she asks her team to…",
-      "publishedAt": "2026-11-17T09:45:31.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "5ef1b55f85180917",
-      "url": "https://www.youtube.com/watch?v=-O0tMcyH4Wo",
-      "title": "Faster fraud response for safer shopping | Revolut’s David Abitbol",
-      "summary": "OpenAI helps Revolut’s financial crime team investigate flagged payments and respond faster to make shopping safer. David Abitbol, AI Lead at Revolut, explains how his team tests AI systems before putting them to work. He also shares how Codex gives engineers more time to weigh…",
-      "publishedAt": "2026-11-17T09:45:26.000Z",
       "firstSeen": "2026-11-17T20:55:08.712Z",
       "source": "yt-openai",
       "sourceName": "OpenAI (YouTube)",
@@ -4628,34 +4742,6 @@
       "source": "latent-space",
       "sourceName": "Latent Space",
       "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "6f6fff482120edaf",
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that…",
-      "publishedAt": "2026-11-10T05:34:14.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "aa9d06fdcfe1a35b",
-      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises",
-      "title": "Yonkers Rises",
-      "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js…",
-      "publishedAt": "2026-11-10T03:53:04.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
       "topics": [
         "engineering"
       ]
@@ -6727,21 +6813,6 @@
       "topics": [
         "amazon",
         "research"
-      ]
-    },
-    {
-      "id": "64c302135dcd1898",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0",
-      "title": "v2.2.0",
-      "summary": "Features api: add support for message threads api: add usage and cost reports by dimension, mark older reports legacy Bug Fixes client: stop suggesting math.inf in the max_retries error message tools: leave the tool runner's history to the caller after append_messages() , and…",
-      "publishedAt": "2026-10-23T13:10:10.000Z",
-      "firstSeen": "2026-10-23T17:07:27.560Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
       ]
     },
     {
@@ -9912,105 +9983,6 @@
       "title": "GPT-6 and Intelligent UI for everyone",
       "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "publishedAt": "2026-10-07T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "2435ebd745855918",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:57:04.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "60ef2af305e795fe",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "2e0aae10ded81ffe",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health",
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "summary": "Earth AI",
-      "publishedAt": "2026-10-06T15:05:11.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "google-research",
-      "sourceName": "Google Research blog",
-      "class": "rss",
-      "topics": [
-        "google",
-        "research"
-      ]
-    },
-    {
-      "id": "ee5a948a7c3941f3",
-      "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-      "title": "The Cyber Risk Discourse is Broken",
-      "summary": "Open-weights, ideology, and acknowledging trade-offs.",
-      "publishedAt": "2026-10-06T14:22:41.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "interconnects",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "class": "rss",
-      "topics": [
-        "research"
-      ]
-    },
-    {
-      "id": "342677ae7eadb2eb",
-      "url": "https://openai.com/index/jump-trading",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "47b9255d8fa0f8e8",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "9964af802e9c5fde",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "title": "Advancing computer use with Ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",

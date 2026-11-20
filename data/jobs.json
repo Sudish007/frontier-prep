@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-20T07:15:47.619Z",
+  "generatedAt": "2026-11-20T20:19:33.218Z",
   "items": [
+    {
+      "id": "ashby-openai-019170f9-ae56-49fc-8450-f505d39180bb",
+      "company": "OpenAI",
+      "title": "Manager, Data Engineering, Trust & Safety",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/019170f9-ae56-49fc-8450-f505d39180bb",
+      "postedAt": "2026-11-20T19:47:11.226Z",
+      "india": false,
+      "remote": false,
+      "board": "openai",
+      "firstSeen": "2026-11-20T20:19:33.218Z"
+    },
+    {
+      "id": "gh-anthropic-5485188008",
+      "company": "Anthropic",
+      "title": "Research Engineer, Beneficial Deployments",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
+      "postedAt": "2026-11-20T16:38:57.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-20T20:19:33.218Z"
+    },
+    {
+      "id": "ashby-openai-f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "company": "OpenAI",
+      "title": "Data Scientist, Integrity",
+      "location": "San Francisco; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "postedAt": "2026-11-20T14:14:02.177Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-20T20:19:33.218Z"
+    },
     {
       "id": "ashby-openai-83b21911-d467-44ab-af3b-c0b898488ab4",
       "company": "OpenAI",
@@ -48,6 +84,30 @@
       "remote": true,
       "board": "openai",
       "firstSeen": "2026-11-20T07:15:47.619Z"
+    },
+    {
+      "id": "amzn-10609718",
+      "company": "Amazon",
+      "title": "Applied Scientist II, Detail Page",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10609718/applied-scientist-ii-detail-page",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-20T20:19:33.218Z"
+    },
+    {
+      "id": "amzn-10609719",
+      "company": "Amazon",
+      "title": "Applied Scientist II, Detail Page",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10609719/applied-scientist-ii-detail-page",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-20T20:19:33.218Z"
     },
     {
       "id": "ashby-openai-efae0a22-24d6-4562-834c-1110c5e7677b",
@@ -1072,7 +1132,7 @@
     {
       "id": "ashby-openai-b82699a2-5819-4276-a402-fd88f56f9246",
       "company": "OpenAI",
-      "title": "Data Scientist, Cloud Distribution & Growth",
+      "title": "Lead Data Scientist, Cloud Distribution & Growth",
       "location": "San Francisco; Seattle; Remote",
       "url": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
       "postedAt": "2026-10-28T19:59:03.385Z",
@@ -2267,54 +2327,6 @@
       "india": false,
       "remote": true,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-80f9f564-d789-47bc-91c3-3babf5a1a33d",
-      "company": "OpenAI",
-      "title": "Machine Learning Engineer, Monetization AI/ML",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/80f9f564-d789-47bc-91c3-3babf5a1a33d",
-      "postedAt": "2026-09-21T19:33:24.536Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-65780e7c-6cbd-4e01-a437-2142363d855d",
-      "company": "OpenAI",
-      "title": "Demo Experience Engineer, Technical Success",
-      "location": "San Francisco; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/65780e7c-6cbd-4e01-a437-2142363d855d",
-      "postedAt": "2026-09-21T18:21:37.454Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-f794c64d-bc5c-430b-b645-bff8c202b80e",
-      "company": "OpenAI",
-      "title": "Manager, Applied AI Architects",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/openai/f794c64d-bc5c-430b-b645-bff8c202b80e",
-      "postedAt": "2026-09-21T14:49:38.265Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5424310008",
-      "company": "Anthropic",
-      "title": "Applied AI Architect",
-      "location": "Mumbai, India",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424310008",
-      "postedAt": "2026-09-21T07:22:45.000Z",
-      "india": true,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]
