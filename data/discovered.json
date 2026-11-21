@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:19:33.218Z",
+  "generatedAt": "2026-11-21T07:07:41.254Z",
   "items": [
     {
       "id": "af93e40e603782af",
@@ -308,20 +308,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "448d198a6d06442b",
-      "url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks",
-      "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
-      "summary": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod…",
-      "publishedAt": "2026-11-19T16:13:51.000Z",
-      "firstSeen": "2026-11-19T20:37:17.021Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
       ]
     },
     {
@@ -1612,20 +1598,6 @@
       "kind": "tutorial",
       "matched": [
         "tutorial"
-      ]
-    },
-    {
-      "id": "6b30b33472969a8e",
-      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco",
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-      "publishedAt": "2026-11-08T21:23:29.000Z",
-      "firstSeen": "2026-11-08T22:05:20.631Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "kind": "course",
-      "matched": [
-        "course"
       ]
     },
     {

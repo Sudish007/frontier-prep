@@ -1,6 +1,178 @@
 {
-  "generatedAt": "2026-11-20T20:19:33.218Z",
+  "generatedAt": "2026-11-21T07:07:41.254Z",
   "items": [
+    {
+      "id": "2b32d4b379bcfefb",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently",
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "summary": "November 20 2026 —",
+      "publishedAt": "2026-11-21T05:02:13.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "3628ce26a7979362",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "summary": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data…",
+      "publishedAt": "2026-11-21T01:06:42.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "e1b0c4ede4d1eb3f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "summary": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent…",
+      "publishedAt": "2026-11-21T00:14:26.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "565159543ba42dea",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "summary": "Generative AI",
+      "publishedAt": "2026-11-20T23:30:30.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "668baa710142dd51",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "summary": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform…",
+      "publishedAt": "2026-11-20T23:07:03.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "5259c7996b79c471",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters",
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "summary": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4…",
+      "publishedAt": "2026-11-20T22:35:24.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "7ce40af71312dcfa",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+      "title": "v2.1.330",
+      "summary": "What's changed Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after claude auth login , Claude Code applies the organization's settings and uses its cloud provider or gateway Added easel, a built-in mod that draws charts when asked and under MCP…",
+      "publishedAt": "2026-11-20T22:32:56.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "rel-claude-code",
+      "sourceName": "claude-code releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "c989db0d32fd28d8",
+      "url": "https://latent.space/p/formal-verification",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+      "publishedAt": "2026-11-20T21:18:41.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "latent-space",
+      "sourceName": "Latent Space",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "b6f7d2e32319668d",
+      "url": "https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.1",
+      "title": "Agents SDK v1.0.0-alpha.1",
+      "summary": "Agents SDK v1.0.0-alpha.1 This first preview from feat/simple-codex adds Codex as an opt-in model provider for the Python Agents SDK. The prebuilt openai-agents wheels (version 1.0.0a1 ) are available exclusively through GitHub Releases. Highlights Choose Codex per run. Import…",
+      "publishedAt": "2026-11-20T20:51:28.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "rel-openai-agents",
+      "sourceName": "openai-agents-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "774b05fa8bf3d7ed",
+      "url": "https://www.youtube.com/watch?v=mX7wHNnsghs",
+      "title": "How to claim your business in ChatGPT with Shopify",
+      "summary": "Claim your business in ChatGPT by connecting your Shopify store. This demo shows how to start in Business Hub or the Shopify App Store, then connect your store directly to ChatGPT. After that, you can manage your business information to shape how you show up in ChatGPT. Claim…",
+      "publishedAt": "2026-11-20T20:48:27.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "dc26abff63441211",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai",
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "summary": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge…",
+      "publishedAt": "2026-11-20T20:37:31.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "e9ec780811f7fd6e",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents",
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "summary": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding…",
+      "publishedAt": "2026-11-20T20:22:00.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
     {
       "id": "9afed0143cc7325c",
       "url": "https://www.anthropic.com/news/ipo-close",
@@ -289,6 +461,20 @@
       "class": "rss",
       "topics": [
         "engineering"
+      ]
+    },
+    {
+      "id": "d15c45643214b444",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "firstSeen": "2026-11-21T07:07:41.254Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -736,20 +922,6 @@
       ]
     },
     {
-      "id": "58ab887d6a72b8c8",
-      "url": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart",
-      "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
-      "summary": "PolyAI Dialog-RSN-1, a reasoning model built for real-time complex dialog, is available today on AWS Marketplace and Amazon SageMaker JumpStart. Discover it, evaluate it on your own data, and deploy it to a secure SageMaker endpoint in your own AWS account.",
-      "publishedAt": "2026-11-19T17:28:47.000Z",
-      "firstSeen": "2026-11-19T20:37:17.021Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "d398bdbe9ae86b92",
       "url": "https://arxiv.org/abs/2611.26435",
       "title": "Aggron: Aggressive Compression of Agentic KV Caches during Head-of-Line Stalls in the Request Queue",
@@ -876,20 +1048,6 @@
       "class": "atom",
       "topics": [
         "papers"
-      ]
-    },
-    {
-      "id": "448d198a6d06442b",
-      "url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks",
-      "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
-      "summary": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod…",
-      "publishedAt": "2026-11-19T16:13:51.000Z",
-      "firstSeen": "2026-11-19T20:37:17.021Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -1775,20 +1933,6 @@
       ]
     },
     {
-      "id": "1980ba70462d640e",
-      "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
-      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
-      "summary": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning…",
-      "publishedAt": "2026-11-19T00:15:58.000Z",
-      "firstSeen": "2026-11-19T07:25:55.761Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "342bba6e897c95a8",
       "url": "https://www.youtube.com/watch?v=l07K2cdLofM",
       "title": "AI Costs: Tokens, Energy, Model Choice & API Keys | Stanford CS193T Lecture 7 with Cynthia Bailey",
@@ -1874,20 +2018,6 @@
       ]
     },
     {
-      "id": "6f8f17530b912bd5",
-      "url": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips",
-      "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
-      "summary": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI…",
-      "publishedAt": "2026-11-18T23:58:22.000Z",
-      "firstSeen": "2026-11-19T07:25:55.761Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
       "id": "b166a74f440a76c6",
       "url": "https://arxiv.org/abs/2611.25302",
       "title": "Whose Safety? Addressing Anti-Blackness in the Age of AI Safety",
@@ -1900,34 +2030,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "eacbd26a911f6855",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod",
-      "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
-      "summary": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.",
-      "publishedAt": "2026-11-18T23:03:29.000Z",
-      "firstSeen": "2026-11-19T07:25:55.761Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "663fa60cff593cd5",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard",
-      "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
-      "summary": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model.",
-      "publishedAt": "2026-11-18T22:31:04.000Z",
-      "firstSeen": "2026-11-19T07:25:55.761Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
       ]
     },
     {
@@ -2766,21 +2868,6 @@
       "title": "How Revolut’s lean teams take on bigger challenges with OpenAI",
       "summary": "What can one engineer build when a project looks like it needs a whole team? At Revolut, an engineer used Codex to build an internal code review service himself. Its designers used Codex to turn seven years of design documentation into a format AI could read in a single day.…",
       "publishedAt": "2026-11-17T09:45:35.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "3a38c568df3f3eb4",
-      "url": "https://www.youtube.com/watch?v=R_sl8zEp9ng",
-      "title": "How one engineer built a code review service with Codex | Revolut’s Dmitry Pitik",
-      "summary": "Dmitry Pitik thought he’d need a team of developers to build Revolut’s internal code review service. In this film, the Senior Platform Engineer explains how he broke the design into tasks, assigned them to Codex agents working in parallel and reviewed the code himself. That gave…",
-      "publishedAt": "2026-11-17T09:45:34.000Z",
       "firstSeen": "2026-11-17T20:55:08.712Z",
       "source": "yt-openai",
       "sourceName": "OpenAI (YouTube)",
@@ -4991,34 +5078,6 @@
       ]
     },
     {
-      "id": "9c7e75a27e82f37a",
-      "url": "https://latent.space/p/cs146s",
-      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "summary": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
-      "publishedAt": "2026-11-08T21:41:44.000Z",
-      "firstSeen": "2026-11-08T22:05:20.631Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "6b30b33472969a8e",
-      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco",
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-      "publishedAt": "2026-11-08T21:23:29.000Z",
-      "firstSeen": "2026-11-08T22:05:20.631Z",
-      "source": "latent-space",
-      "sourceName": "Latent Space",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "7c379e13ad372607",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc0",
       "title": "v0.34.0rc0: [Transformers backend] Migrate Gemma and StableLM (#66393)",
@@ -5521,21 +5580,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "6385d8e47a02bbd3",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
-      "title": "v2.1.318",
-      "summary": "What's changed Added a record of your answer when Claude Code asks to turn on the mods it writes in a session Added assume_role on mantle upstreams of the Claude apps gateway, for a role in another AWS account and for per-developer AWS cost attribution Added an effort option to…",
-      "publishedAt": "2026-11-04T00:01:03.000Z",
-      "firstSeen": "2026-11-04T06:22:18.022Z",
-      "source": "rel-claude-code",
-      "sourceName": "claude-code releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
       ]
     },
     {
@@ -9961,34 +10005,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "04e9dc3828b5420c",
-      "url": "https://openai.com/index/radisson",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "0ca1450969b5beb5",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
       ]
     }
   ]
