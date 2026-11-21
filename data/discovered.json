@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:07:41.254Z",
+  "generatedAt": "2026-11-21T19:15:22.798Z",
   "items": [
     {
       "id": "af93e40e603782af",
@@ -1875,20 +1875,6 @@
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "amazon-science",
       "sourceName": "Amazon Science",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "c2e92180363e5e10",
-      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
-      "title": "Building resilient systems with Sam Newman",
-      "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
-      "publishedAt": "2026-10-07T17:19:58.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
       "kind": "tutorial",
       "matched": [
         "tutorial"

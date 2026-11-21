@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:07:41.254Z",
+  "generatedAt": "2026-11-21T19:15:22.798Z",
   "items": [
     {
       "id": "2b32d4b379bcfefb",
@@ -376,6 +376,20 @@
       "topics": [
         "openai",
         "video"
+      ]
+    },
+    {
+      "id": "480c7f59bbc97a69",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
+      "title": "llm-gemini 0.38.1",
+      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The…",
+      "publishedAt": "2026-11-20T03:01:57.000Z",
+      "firstSeen": "2026-11-21T19:15:22.798Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
       ]
     },
     {
@@ -4774,20 +4788,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "1afd9e573768b3f1",
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat…",
-      "publishedAt": "2026-11-10T07:28:21.000Z",
-      "firstSeen": "2026-11-10T19:43:37.225Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -9949,62 +9949,6 @@
       "topics": [
         "google",
         "research"
-      ]
-    },
-    {
-      "id": "c2e92180363e5e10",
-      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
-      "title": "Building resilient systems with Sam Newman",
-      "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
-      "publishedAt": "2026-10-07T17:19:58.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "91ed3eb235f3237f",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "title": "Introducing Falcon ASR",
-      "summary": "",
-      "publishedAt": "2026-10-07T13:21:03.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "ad4e14640e358f44",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "ea4f899dc8dfd436",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "publishedAt": "2026-10-07T12:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
       ]
     }
   ]

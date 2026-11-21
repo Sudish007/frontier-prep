@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T07:07:41.254Z",
+  "generatedAt": "2026-11-21T19:15:22.798Z",
   "items": [
+    {
+      "id": "gh-anthropic-5489567008",
+      "company": "Anthropic",
+      "title": "Research Engineer, Finetuning",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008",
+      "postedAt": "2026-11-21T12:52:27.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-21T19:15:22.798Z"
+    },
+    {
+      "id": "gh-anthropic-5480986008",
+      "company": "Anthropic",
+      "title": "Manager, Applied AI Architect",
+      "location": "Seoul, South Korea",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480986008",
+      "postedAt": "2026-11-21T12:24:21.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-21T19:15:22.798Z"
+    },
     {
       "id": "ashby-openai-0503a31f-5550-44e8-bec3-99b493532000",
       "company": "OpenAI",
@@ -2312,18 +2336,6 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
       "postedAt": "2026-09-22T19:29:04.677Z",
-      "india": false,
-      "remote": false,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-bc059a72-8ff3-4a80-a499-5b82ccca1f05",
-      "company": "OpenAI",
-      "title": "Regulatory Operations Analyst, User Safety & Risk Operations",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/bc059a72-8ff3-4a80-a499-5b82ccca1f05",
-      "postedAt": "2026-09-22T18:03:42.783Z",
       "india": false,
       "remote": false,
       "board": "openai",
