@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:15:22.798Z",
+  "generatedAt": "2026-11-22T06:47:56.318Z",
   "items": [
     {
       "id": "gh-anthropic-5489567008",
@@ -2314,30 +2314,6 @@
       "postedAt": "2026-09-23T08:53:15.399Z",
       "india": false,
       "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10558453",
-      "company": "Amazon",
-      "title": "Applied Scientist II, Cross Border Science and Analytics",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10558453/applied-scientist-ii-cross-border-science-and-analytics",
-      "postedAt": "2026-09-23T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
-      "id": "ashby-openai-ac442f1f-c0d2-4608-a155-bfc89190e01c",
-      "company": "OpenAI",
-      "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
-      "postedAt": "2026-09-22T19:29:04.677Z",
-      "india": false,
-      "remote": false,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }

@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-11-21T19:15:22.798Z",
+  "generatedAt": "2026-11-22T06:47:56.318Z",
   "items": [
+    {
+      "id": "21a2ff09d7e798b8",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+      "summary": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement by Alessandro Masullo on his (human) proof: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ ------------------ These animations are largely made…",
+      "publishedAt": "2026-11-22T02:02:12.000Z",
+      "firstSeen": "2026-11-22T06:47:56.318Z",
+      "source": "yt-3b1b",
+      "sourceName": "3Blue1Brown (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "26e2979e9c83fed2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick",
+      "title": "Meta ads is now available in AWS Quick",
+      "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards,…",
+      "publishedAt": "2026-11-22T01:59:13.000Z",
+      "firstSeen": "2026-11-22T06:47:56.318Z",
+      "source": "aws-ml-blog",
+      "sourceName": "AWS Machine Learning blog",
+      "class": "rss",
+      "topics": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "21bd1d482ae20679",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "title": "Muru",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps…",
+      "publishedAt": "2026-11-21T23:56:28.000Z",
+      "firstSeen": "2026-11-22T06:47:56.318Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "2b32d4b379bcfefb",
       "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently",
@@ -248,7 +291,7 @@
     {
       "id": "ba750ffcc2fd1ed7",
       "url": "https://www.youtube.com/watch?v=WGvsk0LIveU",
-      "title": "3 ChatGPT Tips to Save Money",
+      "title": "3 Tips to Save Money With ChatGPT",
       "summary": "ChatGPT can help you find ways to save, whether you’re shopping for a desk chair or wondering what you’re still paying for after a free trial ends. Learn three ways to save money with ChatGPT. Use a product screenshot to compare prices before you buy, spot subscriptions you no…",
       "publishedAt": "2026-11-20T16:00:17.000Z",
       "firstSeen": "2026-11-20T20:19:33.218Z",
@@ -798,20 +841,6 @@
       "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
       "summary": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another…",
       "publishedAt": "2026-11-19T18:20:54.000Z",
-      "firstSeen": "2026-11-19T20:37:17.021Z",
-      "source": "aws-ml-blog",
-      "sourceName": "AWS Machine Learning blog",
-      "class": "rss",
-      "topics": [
-        "amazon"
-      ]
-    },
-    {
-      "id": "7e9fc57c134e72d2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway",
-      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-      "summary": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your…",
-      "publishedAt": "2026-11-19T18:14:36.000Z",
       "firstSeen": "2026-11-19T20:37:17.021Z",
       "source": "aws-ml-blog",
       "sourceName": "AWS Machine Learning blog",
@@ -4503,20 +4532,6 @@
       "topics": [
         "microsoft",
         "research"
-      ]
-    },
-    {
-      "id": "096f075e11080075",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
-      "title": "llm-gemini 0.36",
-      "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet…",
-      "publishedAt": "2026-11-10T20:09:44.000Z",
-      "firstSeen": "2026-11-11T06:20:16.777Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -9906,49 +9921,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "077dea1e8a7adb2e",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "0f05fd4155a46f47",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "5b37e56ce0437042",
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
-      "title": "Does better work always mean better workers?",
-      "summary": "",
-      "publishedAt": "2026-10-07T20:19:57.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "google-research",
-      "sourceName": "Google Research blog",
-      "class": "rss",
-      "topics": [
-        "google",
-        "research"
       ]
     }
   ]
