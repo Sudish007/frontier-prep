@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-23T07:38:29.567Z",
+  "generatedAt": "2026-11-23T23:53:31.205Z",
   "items": [
+    {
+      "id": "8981211a02f1867b",
+      "url": "https://www.youtube.com/shorts/JNnUGln7C58",
+      "title": "Is Every AI an LLM? AI vs. LLM Explained by Afshine & Shervine Amidi",
+      "summary": "View computational and mathematical engineering courses: https://stanford.io/grad-cme Stanford Adjunct Professors Afshine & Shervine Amidi explain why every LLM is AI, but not every AI is an LLM. Do \"AI\" and \"LLM\" mean the same thing? People often use the two terms…",
+      "publishedAt": "2026-11-23T20:00:07.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "tutorial"
+      ]
+    },
+    {
+      "id": "e86f60394ab27463",
+      "url": "https://www.youtube.com/watch?v=e1VYwgm9-_s",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | What can CSCW Teach us About How to Work with Agents?",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 23, 2026 This lecture covers: • How CSCW theories about shared artifacts, mutual awareness, and formalizing social requirements can inform the design of systems…",
+      "publishedAt": "2026-11-23T17:00:31.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "6fd4c32fe34a4cba",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "title": "How to build and maintain an agentic evaluation",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "af93e40e603782af",
       "url": "https://www.youtube.com/watch?v=GPk0nNuc8S0",
@@ -1295,7 +1337,7 @@
       "id": "0cd30480108e2330",
       "url": "https://www.youtube.com/watch?v=Rd_2oviGqnA",
       "title": "8 Patterns to Pass Your System Design Interview",
-      "summary": "🧠 Learn all 8 patterns: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/patterns Uber and Yelp both need to find things nearby. Ticketmaster and Airbnb both need to stop two people from booking the same thing. YouTube and Dropbox both need to move large…",
+      "summary": "🎥 Fixed audio video here! https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/patterns Uber and Yelp both need to find things nearby. Ticketmaster and Airbnb both need to stop two people from booking the same thing. YouTube and Dropbox both need to move…",
       "publishedAt": "2026-11-17T17:01:41.000Z",
       "firstSeen": "2026-11-17T20:55:08.712Z",
       "source": "yt-hello-interview",

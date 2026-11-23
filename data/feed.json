@@ -1,6 +1,357 @@
 {
-  "generatedAt": "2026-11-23T07:38:29.567Z",
+  "generatedAt": "2026-11-23T23:53:31.205Z",
   "items": [
+    {
+      "id": "07b4e95a07685fe2",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "title": "Working with AI",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "48a4e5b02b97bcf3",
+      "url": "https://alignment.anthropic.com/2026/neuron-basis-theory",
+      "title": "Returning to the Neuron Basis for Interpretability, Part 1: Answering Three Objections Neurons are more interpretable than the field assumes: three standard objections to reading a model through its neurons turn out weak",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "anthropic-alignment",
+      "sourceName": "Anthropic Alignment Science blog",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "alignment"
+      ]
+    },
+    {
+      "id": "5b6c0ed2a9c6309c",
+      "url": "https://alignment.anthropic.com/2026/neuron-basis-applications",
+      "title": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications With no extra training, a model's own neurons beat SAEs and text search at detection, steer like trained vectors, and show",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "anthropic-alignment",
+      "sourceName": "Anthropic Alignment Science blog",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "alignment"
+      ]
+    },
+    {
+      "id": "b7fc35d5ccf04588",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird",
+      "title": "Ladybird's first alpha release",
+      "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping,…",
+      "publishedAt": "2026-11-23T21:46:35.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "800aeca2d3157fbc",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+      "title": "v2.1.331",
+      "summary": "What's changed Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS Added oidc.groups_jsonpath to the Claude apps gateway, to read groups from the matching entries of a list of objects with a…",
+      "publishedAt": "2026-11-23T21:34:41.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "rel-claude-code",
+      "sourceName": "claude-code releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "1d0c151fefed0dea",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "publishedAt": "2026-11-23T21:20:00.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "33a235a91126265f",
+      "url": "https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.2",
+      "title": "Agents SDK v1.0.0-alpha.2",
+      "summary": "Agents SDK v1.0.0-alpha.2 Highlights Resume conversations and pending approvals across workers with Responses or Codex. Recover supported native Codex command and edit approvals. Configure tool execution hooks and filter available function tools. Opt into Runner text redaction…",
+      "publishedAt": "2026-11-23T20:11:07.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "rel-openai-agents",
+      "sourceName": "openai-agents-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "f5eb9edc69950440",
+      "url": "https://www.youtube.com/shorts/w-ltt0Np2cY",
+      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+      "summary": "AI can help security teams move faster from finding vulnerabilities to getting fixes into the software people rely on. In one run, GPT-6 Cyber helped validate 948 Linux kernel vulnerabilities and generate candidate patches for human review. Cyber researcher Kyle Zeng sits down…",
+      "publishedAt": "2026-11-23T20:03:11.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "bfa457749df18b36",
+      "url": "https://www.youtube.com/watch?v=MpsO8Ds8uyo",
+      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+      "summary": "AI can help security teams move faster from finding vulnerabilities to getting fixes into the software people rely on. In one run, GPT-6 Cyber helped validate 948 Linux kernel vulnerabilities and generate candidate patches for human review. Cyber researcher Kyle Zeng sits down…",
+      "publishedAt": "2026-11-23T20:02:15.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "8981211a02f1867b",
+      "url": "https://www.youtube.com/shorts/JNnUGln7C58",
+      "title": "Is Every AI an LLM? AI vs. LLM Explained by Afshine & Shervine Amidi",
+      "summary": "View computational and mathematical engineering courses: https://stanford.io/grad-cme Stanford Adjunct Professors Afshine & Shervine Amidi explain why every LLM is AI, but not every AI is an LLM. Do \"AI\" and \"LLM\" mean the same thing? People often use the two terms…",
+      "publishedAt": "2026-11-23T20:00:07.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "af1f23762346cbb0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+      "title": "v3.58.0",
+      "summary": "3.58.0 (2026-11-23) Features api: set and read agent session spending limits ( #4315 ) ( fc36aef ) Bug Fixes api: clarify when to omit completion choice count ( #4298 ) ( f63f14b )",
+      "publishedAt": "2026-11-23T19:00:21.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "cca0357f31d4baaf",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0",
+      "title": "v2.13.0",
+      "summary": "Features api: add an error code to Message Batches creation api: add External Storage to the Admin API beta api: add webhook events for external storage failure and recovery Bug Fixes client: build the right class for tool results with unknown values Chores api: mark Claude Opus…",
+      "publishedAt": "2026-11-23T18:34:26.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "c68f5ec3fb123c4b",
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.292",
+      "title": "v0.3.292",
+      "summary": "0.3.292 (2026-11-23) Breaking Changes exclude_samples() and zero_samples() now return None , and DispositionResult is no longer exported. Read the affected samples and scores from the log instead of result.applied or result.unchanged . inspect log exclude and inspect log zero no…",
+      "publishedAt": "2026-11-23T17:57:50.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "rel-inspect",
+      "sourceName": "inspect_ai releases",
+      "class": "atom",
+      "topics": [
+        "engineering",
+        "evals"
+      ]
+    },
+    {
+      "id": "77ab3d65a27896e8",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections",
+      "title": "Supercharging transformer residual connections",
+      "summary": "Algorithms & Theory",
+      "publishedAt": "2026-11-23T17:21:12.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "ca38829e73128713",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "",
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "e86f60394ab27463",
+      "url": "https://www.youtube.com/watch?v=e1VYwgm9-_s",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | What can CSCW Teach us About How to Work with Agents?",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education October 23, 2026 This lecture covers: • How CSCW theories about shared artifacts, mutual awareness, and formalizing social requirements can inform the design of systems…",
+      "publishedAt": "2026-11-23T17:00:31.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "39c2da17cef629dc",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "61dcf1169479ac82",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "publishedAt": "2026-11-23T16:59:40.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "e248af5e777a17a3",
+      "url": "https://www.youtube.com/shorts/gAmjBqXNoFI",
+      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+      "summary": "“Just delivering data is not enough.” Franklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers. That gives analysts more time in the field, talking to…",
+      "publishedAt": "2026-11-23T15:23:23.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "5b1271fb45b0ea86",
+      "url": "https://www.youtube.com/watch?v=PXKvR8ta22Q",
+      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+      "summary": "“Just delivering data is not enough.” Franklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers. That gives analysts more time in the field, talking to…",
+      "publishedAt": "2026-11-23T15:21:09.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "680b35173b971311",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "f8a4e02f42124693",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "289c8aeddacd50cf",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
+      "title": "datasette-charts 0.1a0",
+      "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It…",
+      "publishedAt": "2026-11-23T00:37:20.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "6fd4c32fe34a4cba",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "title": "How to build and maintain an agentic evaluation",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "firstSeen": "2026-11-23T23:53:31.205Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "8cc270b184708c4b",
       "url": "https://simonwillison.net/2026/Nov/22/select-styling",
@@ -19,7 +370,7 @@
       "id": "21a2ff09d7e798b8",
       "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
       "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
-      "summary": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement by Alessandro Masullo on his (human) proof: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ ------------------ These animations are largely made…",
+      "summary": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement by Alessandro Masullo on his (human) proof: https://sites.google.com/view/tmotp/home 0:00 - Kevin Buzzard 0:45 - Ken Ono 1:14 - Elliot Glazer 1:28 - Jordan Ellenberg 2:18 - Leo de Moura…",
       "publishedAt": "2026-11-22T02:02:12.000Z",
       "firstSeen": "2026-11-22T06:47:56.318Z",
       "source": "yt-3b1b",
@@ -2671,21 +3022,6 @@
       ]
     },
     {
-      "id": "95829348eaa68c2b",
-      "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Spend less time on busywork and more time selling with ChatGPT for Sales. The new Sales plugin and 30+ new and expanded partner plugins bring your customer context and sales tools together in ChatGPT. Prepare for calls, tailor proposals, and follow up faster with insights from…",
-      "publishedAt": "2026-11-17T23:24:04.000Z",
-      "firstSeen": "2026-11-18T07:27:58.683Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "1560056f3e5df1cd",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
       "title": "v2.1.327",
@@ -2789,21 +3125,6 @@
       ]
     },
     {
-      "id": "bd91f8351850a9ee",
-      "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
-      "title": "Building 3D video sets with GPT-6.2 Astra",
-      "summary": "GPT-6.2 Astra is our new flagship model, delivering a step up in capability with cleaner code, better frontends and 3D models, and more efficient tool use. Recreate a room from just two video frames with GPT-6.2 Astra in Codex. See how it builds the set in Blender, changes the…",
-      "publishedAt": "2026-11-17T18:41:32.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "8c3fdeb4f86a17d0",
       "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
       "title": "v3.53.0",
@@ -2834,21 +3155,6 @@
       ]
     },
     {
-      "id": "51e5a7d67945356a",
-      "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
-      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-      "summary": "We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. Both models deliver better results on demanding tasks with fewer output tokens, so you can get more done within your usage…",
-      "publishedAt": "2026-11-17T17:55:40.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "549a77347d5e1e5f",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -2866,7 +3172,7 @@
       "id": "0cd30480108e2330",
       "url": "https://www.youtube.com/watch?v=Rd_2oviGqnA",
       "title": "8 Patterns to Pass Your System Design Interview",
-      "summary": "🧠 Learn all 8 patterns: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/patterns Uber and Yelp both need to find things nearby. Ticketmaster and Airbnb both need to stop two people from booking the same thing. YouTube and Dropbox both need to move large…",
+      "summary": "🎥 Fixed audio video here! https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/patterns Uber and Yelp both need to find things nearby. Ticketmaster and Airbnb both need to stop two people from booking the same thing. YouTube and Dropbox both need to move…",
       "publishedAt": "2026-11-17T17:01:41.000Z",
       "firstSeen": "2026-11-17T20:55:08.712Z",
       "source": "yt-hello-interview",
@@ -3006,21 +3312,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "7b86eb7de5937c2d",
-      "url": "https://www.youtube.com/watch?v=ZIpm-0RczCk",
-      "title": "How Revolut’s lean teams take on bigger challenges with OpenAI",
-      "summary": "What can one engineer build when a project looks like it needs a whole team? At Revolut, an engineer used Codex to build an internal code review service himself. Its designers used Codex to turn seven years of design documentation into a format AI could read in a single day.…",
-      "publishedAt": "2026-11-17T09:45:35.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -3818,20 +4109,6 @@
       ]
     },
     {
-      "id": "8400bdfe1e2afd49",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "title": "XYBench: Helping with the problem behind the question",
-      "summary": "",
-      "publishedAt": "2026-11-13T17:02:35.000Z",
-      "firstSeen": "2026-11-13T19:41:52.495Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "5bf4951adbe9698d",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "title": "Introducing ChatGPT Wallet",
@@ -4321,20 +4598,6 @@
       ]
     },
     {
-      "id": "c5d1a9eb33834e11",
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
-      "title": "Browse tools.simonwillison.net by tag",
-      "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for…",
-      "publishedAt": "2026-11-11T18:42:50.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "448196bbc491299b",
       "url": "https://www.youtube.com/watch?v=uND6iY2qp_c",
       "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
@@ -4361,20 +4624,6 @@
       "class": "rss",
       "topics": [
         "google"
-      ]
-    },
-    {
-      "id": "ac992cc25d49f443",
-      "url": "https://simonwillison.net/2026/Nov/11/llm",
-      "title": "llm 0.37.2",
-      "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible…",
-      "publishedAt": "2026-11-11T17:19:52.000Z",
-      "firstSeen": "2026-11-11T19:35:47.983Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -4834,21 +5083,6 @@
       ]
     },
     {
-      "id": "9329c9bd210969e1",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
-      "title": "v3.49.0",
-      "summary": "3.49.0 (2026-11-10) Features api: add typed async function tools ( #4264 ) ( ea07983 ) Bug Fixes encode microphone recordings as valid PCM WAV ( #3900 ) ( 13c000d )",
-      "publishedAt": "2026-11-10T06:47:04.000Z",
-      "firstSeen": "2026-11-10T07:18:03.039Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
-      ]
-    },
-    {
       "id": "62d6b023e1f9f404",
       "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins",
       "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
@@ -5179,21 +5413,6 @@
       "topics": [
         "anthropic",
         "research"
-      ]
-    },
-    {
-      "id": "df1346203ff05601",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
-      "title": "v2.1.319",
-      "summary": "What's changed Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't check are asked about or denied, with no fallback to the built-in classifier; set CLAUDE_CODE_AUTO_MODE_SERVER=0 to keep using it (Bedrock, Vertex and…",
-      "publishedAt": "2026-11-06T17:04:01.000Z",
-      "firstSeen": "2026-11-06T19:24:27.295Z",
-      "source": "rel-claude-code",
-      "sourceName": "claude-code releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
       ]
     },
     {
@@ -6815,21 +7034,6 @@
       ]
     },
     {
-      "id": "0e439f001b823840",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0",
-      "title": "v2.3.0",
-      "summary": "Features api: add Claude Tag endpoints for Claude Enterprise organizations Bug Fixes google-cloud: send user profiles requests to the organization endpoint Chores client: stop sending query params hardcoded in endpoint paths docs: improve the descriptions of the code execution…",
-      "publishedAt": "2026-10-23T23:18:22.000Z",
-      "firstSeen": "2026-10-24T04:36:52.402Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "057a86be6882ac7b",
       "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
       "title": "Bringing foundational models to the front lines of TB screening",
@@ -7936,21 +8140,6 @@
       "topics": [
         "anthropic",
         "alignment"
-      ]
-    },
-    {
-      "id": "3a09c87aa734f3e5",
-      "url": "https://www.anthropic.com/research/project-swap",
-      "title": "Project Swap: What happens when agents trade for us?",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
       ]
     },
     {
@@ -9195,21 +9384,6 @@
       ]
     },
     {
-      "id": "fece2382eb3cffc5",
-      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/releases/tag/0.3.282",
-      "title": "v0.3.282",
-      "summary": "0.3.282 (2026-10-19) Breaking Changes tool state scopes so agents running concurrently in one sample keep separate tool state ( #5861 ) Features sharding: conditional S3 writes and a local lock helper ( #5775 ) ( 5384f73 ) show a sharded run as one task in inspect ctl --log-dir…",
-      "publishedAt": "2026-10-19T21:33:21.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "rel-inspect",
-      "sourceName": "inspect_ai releases",
-      "class": "atom",
-      "topics": [
-        "engineering",
-        "evals"
-      ]
-    },
-    {
       "id": "dd92228b1f1b75c7",
       "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
@@ -9851,20 +10025,6 @@
       "topics": [
         "research",
         "policy"
-      ]
-    },
-    {
-      "id": "992438874f535dcc",
-      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "title": "I expect rapid progress but not towards general superintelligence",
-      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-      "publishedAt": "2026-10-09T21:33:47.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "interconnects",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "class": "rss",
-      "topics": [
-        "research"
       ]
     }
   ]
