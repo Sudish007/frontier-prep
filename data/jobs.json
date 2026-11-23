@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:40:19.755Z",
+  "generatedAt": "2026-11-23T07:38:29.567Z",
   "items": [
     {
       "id": "ashby-openai-6785d983-8831-46d0-9c81-443f83664948",
@@ -1838,18 +1838,6 @@
       "firstSeen": "2026-10-22T11:09:02.285Z"
     },
     {
-      "id": "amzn-10575126",
-      "company": "Amazon",
-      "title": "Applied Scientist II, Grocery, Retail & In-Store Experience (GRAISE)",
-      "location": "Bengaluru, Karnataka, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10575126/applied-scientist-ii-grocery-retail-in-store-experience-graise",
-      "postedAt": "2026-10-09T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-ml-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
-    },
-    {
       "id": "ashby-openai-082f4d82-499f-4150-892f-0b0d1105fffe",
       "company": "OpenAI",
       "title": "Data Scientist, FinEng",
@@ -2268,18 +2256,6 @@
       "remote": true,
       "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "amzn-10558939",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Seller and AM GenAI Tools",
-      "location": "Hyderabad, Telangana, IND",
-      "url": "https://www.amazon.jobs/en/jobs/10558939/software-development-engineer-seller-and-am-genai-tools",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "india": true,
-      "remote": false,
-      "board": "amazon-genai-india",
-      "firstSeen": "2026-10-22T11:11:38.073Z"
     }
   ]
 }
