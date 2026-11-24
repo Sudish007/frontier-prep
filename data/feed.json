@@ -1,6 +1,315 @@
 {
-  "generatedAt": "2026-11-24T09:54:09.400Z",
+  "generatedAt": "2026-11-24T22:26:20.961Z",
   "items": [
+    {
+      "id": "31d37d4ac5ebf469",
+      "url": "https://www.youtube.com/watch?v=1u0hTd86_HU",
+      "title": "Experiment with SVG & 3D Design with the Codex Plugin",
+      "summary": "Craig Dennis had never drawn an SVG by hand or used Blender. With the SVG & 3D Design plugin for Codex, he shows how to turn a reference image into an editable graphic or 3D model, then ask for changes in plain language. See how a small change in SVG code can make a character’s…",
+      "publishedAt": "2026-11-24T21:32:42.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "2ae8e8089de977ca",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
+      "title": "v2.14.0",
+      "summary": "Features api: add Google-managed data controls for Google Cloud projects api: add Google-managed data controls for user profiles api: add support for compliance review cases, notices, and items Bug Fixes client: honor proxy and trust_env when proxy variables are set…",
+      "publishedAt": "2026-11-24T21:00:57.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "rel-anthropic-sdk-py",
+      "sourceName": "anthropic-sdk-python releases",
+      "class": "atom",
+      "topics": [
+        "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "2656001821696312",
+      "url": "https://www.youtube.com/watch?v=p8lvQQebvpg",
+      "title": "How to Search for Exoplanets",
+      "summary": "Two amateur astronomers, Kevin Bond and Ethan Byrd, independently found signals that could point to planets around distant stars. They knew you didn't need your own telescope for this kind of hunt. Kevin used Codex and Ethan used Astra to search public telescope data for tiny,…",
+      "publishedAt": "2026-11-24T20:00:45.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "7152c562859755c6",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
+      "title": "v3.59.0",
+      "summary": "3.59.0 (2026-11-24) Features api: add healthcare model IDs for Responses ( #4327 ) ( 804a9af ) Bug Fixes check the agent upload directory after path resolution ( #4323 ) ( bc02da4 ) redact credential headers on API error requests ( #4316 ) ( 9d7f58e ) reject empty webhook…",
+      "publishedAt": "2026-11-24T19:18:59.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "rel-openai-py",
+      "sourceName": "openai-python releases",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "engineering"
+      ]
+    },
+    {
+      "id": "e1da163523969220",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+      "summary": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
+      "publishedAt": "2026-11-24T19:16:38.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "a2be28193573d973",
+      "url": "https://www.youtube.com/watch?v=HbgZFwWj4vY",
+      "title": "What Data Do AI Agents Need? | Stanford CS329Z Lecture 10 with John Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Where does the training data for AI agents come from? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench and SWE-agent, explains what data agents need (traces,…",
+      "publishedAt": "2026-11-24T19:13:46.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "1c7457c312fdaed7",
+      "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
+      "title": "The brain helped us build AI. Now AI is explaining the brain.",
+      "summary": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way that somehow produces intelligence, and yet the brain is still largely a black box. In the early days of AI, researchers looked to the brain for clues…",
+      "publishedAt": "2026-11-24T17:51:08.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-deepmind",
+      "sourceName": "Google DeepMind (YouTube)",
+      "class": "atom",
+      "topics": [
+        "google",
+        "video"
+      ]
+    },
+    {
+      "id": "9cbd96710b4751de",
+      "url": "https://www.amazon.science/blog/lazy-gas-hot-gas-and-a-thousand-robots",
+      "title": "Lazy gas, hot gas, and a thousand robots",
+      "summary": "Viewing multirobot motion planning as an optimal-transport problem and using a Schrödinger bridge to approximate solutions enables near-optimal routing at fulfillment-center scale.",
+      "publishedAt": "2026-11-24T17:49:48.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "amazon-science",
+      "sourceName": "Amazon Science",
+      "class": "rss",
+      "topics": [
+        "amazon",
+        "research"
+      ]
+    },
+    {
+      "id": "13d62f35bbd739a4",
+      "url": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
+      "title": "Make sense of your day | with ChatGPT",
+      "summary": "Snap a photo and ask ChatGPT to help you figure out what you’re looking at, and highlight anything you should double-check.",
+      "publishedAt": "2026-11-24T17:14:03.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "00fb57daa88773af",
+      "url": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
+      "title": "Make a day of it | with ChatGPT",
+      "summary": "ChatGPT can turn a rough idea into the perfect-sized plan for your family. Tell ChatGPT what you’re looking for and it’ll browse sites on your behalf to find local information, and even help you book things.",
+      "publishedAt": "2026-11-24T17:14:01.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "56c095bda4d540b3",
+      "url": "https://www.youtube.com/watch?v=Faoam45LT-Q",
+      "title": "Make room in your day | with ChatGPT",
+      "summary": "A little more time at the park? Connect your calendar and ask ChatGPT to find a later time for your meeting.",
+      "publishedAt": "2026-11-24T17:13:58.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "bd3f354ffbafd434",
+      "url": "https://www.youtube.com/watch?v=DLV3XRdJAog",
+      "title": "Make your day move | with ChatGPT",
+      "summary": "Plans changed? With your calendar connected, ChatGPT can check your schedule, find another time, and draft a note to let people know.",
+      "publishedAt": "2026-11-24T17:13:55.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "c330206f5aeb28c7",
+      "url": "https://www.youtube.com/watch?v=bGiFYYrmnAg",
+      "title": "School Day | Make A Day Do Anything with ChatGPT",
+      "summary": "When an unexpected change of plans throws Marla and Ava’s day off course, the pair embark on a spontaneous adventure with a little help from ChatGPT. ChatGPT can move things around, plan trips and create room in your day to spend doing things you love, with people you love. With…",
+      "publishedAt": "2026-11-24T17:09:11.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "55ec82fbe03c214c",
+      "url": "https://www.youtube.com/shorts/1zyra7yh0ZE",
+      "title": "Stop Running Out of Time in System Design Interviews",
+      "summary": "A step-by-step plan for your system design interview: requirements, core entities, API, high-level design, and deep dives. Watch the full Delivery Framework walkthrough: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/delivery #SystemDesign…",
+      "publishedAt": "2026-11-24T17:03:48.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "class": "atom",
+      "topics": [
+        "interview",
+        "video"
+      ]
+    },
+    {
+      "id": "da8ad4e766b1eff9",
+      "url": "https://www.youtube.com/watch?v=tc5AVfyWkVs",
+      "title": "Hyperparameter Tuning, Scaling Laws & Debugging | Stanford CS312 Lecture 2 with Tatsunori Hashimoto",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN Why do so many claimed wins in deep learning disappear once you tune the baseline? In this Stanford CS312: Deep Learning Alchemy lecture, Assistant Professor Tatsunori Hashimoto covers four basic…",
+      "publishedAt": "2026-11-24T17:00:06.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "f796e127a00ba54d",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808…",
+      "publishedAt": "2026-11-24T16:53:59.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "16565a3f5dc091b0",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "publishedAt": "2026-11-24T16:34:13.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "e2544bc1aeb2953e",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "google-ai-blog",
+      "sourceName": "Google: The Keyword, AI",
+      "class": "rss",
+      "topics": [
+        "google"
+      ]
+    },
+    {
+      "id": "f10242ef986efb04",
+      "url": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
+      "title": "Conheça o novíssimo ChatGPT Modo Voz.",
+      "summary": "De uma simples pergunta a uma tarefa resolvida. É só falar com o ChatGPT Modo Voz. Ele te escuta e faz com você.",
+      "publishedAt": "2026-11-24T13:14:46.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "3c6728c1bfd19879",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "f3aa9260f1094b37",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
     {
       "id": "4887da3ef3825f0d",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.1rc0",
@@ -19,7 +328,7 @@
     {
       "id": "f3f6304a8cca8254",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
-      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
       "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you…",
       "publishedAt": "2026-11-24T05:01:14.000Z",
       "firstSeen": "2026-11-24T09:54:09.400Z",
@@ -62,7 +371,7 @@
       "id": "f3349335f15c963a",
       "url": "https://simonwillison.net/2026/Nov/24/datasette-agent",
       "title": "datasette-agent 0.7a1",
-      "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that…",
+      "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins…",
       "publishedAt": "2026-11-24T03:45:57.000Z",
       "firstSeen": "2026-11-24T09:54:09.400Z",
       "source": "simon-willison",
@@ -115,6 +424,34 @@
       "topics": [
         "fundamentals",
         "video"
+      ]
+    },
+    {
+      "id": "7a6462e387eb267a",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
+      ]
+    },
+    {
+      "id": "ec442b764e041cd2",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "openai-news",
+      "sourceName": "OpenAI news",
+      "class": "rss",
+      "topics": [
+        "openai"
       ]
     },
     {
@@ -1524,7 +1861,7 @@
     {
       "id": "21a2ff09d7e798b8",
       "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+      "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
       "summary": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement by Alessandro Masullo on his (human) proof: https://sites.google.com/view/tmotp/home 0:00 - Kevin Buzzard 0:45 - Ken Ono 1:14 - Elliot Glazer 1:28 - Jordan Ellenberg 2:18 - Leo de Moura…",
       "publishedAt": "2026-11-22T02:02:12.000Z",
       "firstSeen": "2026-11-22T06:47:56.318Z",
@@ -1838,21 +2175,6 @@
       ]
     },
     {
-      "id": "ba750ffcc2fd1ed7",
-      "url": "https://www.youtube.com/watch?v=WGvsk0LIveU",
-      "title": "3 Tips to Save Money With ChatGPT",
-      "summary": "ChatGPT can help you find ways to save, whether you’re shopping for a desk chair or wondering what you’re still paying for after a free trial ends. Learn three ways to save money with ChatGPT. Use a product screenshot to compare prices before you buy, spot subscriptions you no…",
-      "publishedAt": "2026-11-20T16:00:17.000Z",
-      "firstSeen": "2026-11-20T20:19:33.218Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "7c7a283819e5b1ae",
       "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
       "title": "v2.12.0",
@@ -1923,81 +2245,6 @@
       "class": "rss",
       "topics": [
         "engineering"
-      ]
-    },
-    {
-      "id": "b4606f809401affa",
-      "url": "https://www.youtube.com/watch?v=OSHSopaYjTw",
-      "title": "Create and Share a Dashboard in ChatGPT",
-      "summary": "Turn your analysis into a dashboard your team can use. Building on the fictional Acme sales example, this walkthrough brings quarterly metrics and customer follow-ups into one view. See how to inspect the data behind a chart, edit its appearance, ask questions about the numbers,…",
-      "publishedAt": "2026-11-20T06:07:50.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "540cdc8b57cfc1ea",
-      "url": "https://www.youtube.com/watch?v=JEgTn37Sk50",
-      "title": "Ask Questions About Your Data in ChatGPT",
-      "summary": "Prepare for a sales meeting by asking ChatGPT what changed in your data and which customers need attention. Using sample data from the fictional company Acme, this walkthrough compares quarterly sales, visualizes the segments behind the change, and explores customer orders…",
-      "publishedAt": "2026-11-20T06:05:59.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "1b891055417bc973",
-      "url": "https://www.youtube.com/watch?v=oJIuz3AFfEQ",
-      "title": "Connect Your Team’s Data to ChatGPT",
-      "summary": "Connect the data tools your team already uses to ChatGPT. This walkthrough is for workspace admins: enable the Data plugin, choose how teammates can install it, and explore the setup for a Snowflake connection. You’ll also see how to add a custom plugin or MCP server and why…",
-      "publishedAt": "2026-11-20T06:02:57.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "da62636c1c525663",
-      "url": "https://www.youtube.com/watch?v=KrlfehIapEA",
-      "title": "Meet the Data Agent in ChatGPT",
-      "summary": "Get started with the Data plugin in ChatGPT. Take a quick tour of how to ask questions about your data, create visualizations, build dashboards, and share reports with your team. See where to find Data in the plugin marketplace, how it works with your files and connected tools,…",
-      "publishedAt": "2026-11-20T05:35:32.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "27db4f2d4b5e105d",
-      "url": "https://www.youtube.com/watch?v=3_fayTbZrW8",
-      "title": "Create and Share a Report in ChatGPT Space",
-      "summary": "Give your team a report they can read, discuss, and work on together. In this walkthrough, turn the fictional Acme sales analysis into a Page in Space, with the highlights, quarterly comparisons, and charts in one place. See how to choose who can access the report, copy a link…",
-      "publishedAt": "2026-11-20T05:32:52.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -2347,7 +2594,7 @@
     {
       "id": "0befceefd071cd5c",
       "url": "https://www.youtube.com/watch?v=FORdPIWOH5k",
-      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+      "title": "Is Gemini our path to AGI?",
       "summary": "Seven years after their last conversation at Google DeepMind’s London office, Professor Hannah Fry reunites with Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google. Back then, DeepMind was focused on specialized breakthroughs; today, Koray is leading the…",
       "publishedAt": "2026-11-19T19:58:06.000Z",
       "firstSeen": "2026-11-19T20:37:17.021Z",
@@ -2564,21 +2811,6 @@
       ]
     },
     {
-      "id": "5712ac5365ff0d28",
-      "url": "https://www.youtube.com/watch?v=ikNf7eW8CHk",
-      "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
-      "summary": "David Lee, Director of Innovation & Growth at Holiday Extras, calls his dot, Brian, on his morning commute. They talk through the meetings ahead, and Brian can have a report ready by the time David gets to his desk. His colleague Liam Thompson, VP of AI Innovation, calls his dot…",
-      "publishedAt": "2026-11-19T11:38:57.000Z",
-      "firstSeen": "2026-11-19T20:37:17.021Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "7dcf79bf5a39aa79",
       "url": "https://arxiv.org/abs/2611.25898",
       "title": "Verifiable Logic in Medical LLMs: A Critical Review of Agentic Clinical Reasoning Optimization and Neuro-Symbolic Grounding",
@@ -2792,21 +3024,6 @@
       "topics": [
         "engineering",
         "inference"
-      ]
-    },
-    {
-      "id": "8ed788e420547b6a",
-      "url": "https://www.youtube.com/watch?v=AhmCKHNqhB8",
-      "title": "Introducing ChatGPT for Accounting",
-      "summary": "ChatGPT for Accounting helps take the busywork out of your month-end close. Watch how ChatGPT finds completed jobs in your email and drafts QuickBooks invoices for your review, flagging anything unclear along the way. The Accounting plugin also helps you reconcile transactions,…",
-      "publishedAt": "2026-11-18T21:01:26.000Z",
-      "firstSeen": "2026-11-19T07:25:55.761Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -3564,21 +3781,6 @@
       ]
     },
     {
-      "id": "ac101d2b569fc9ef",
-      "url": "https://www.youtube.com/watch?v=ho00IesajkY",
-      "title": "How AI Agents Work: Connectors, MCP & Agent Safety | Stanford CS193T Lecture 5 with Cynthia Bailey",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh What happens when AI stops just writing and starts acting on your behalf? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey explains how AI agents work and…",
-      "publishedAt": "2026-11-17T00:00:36.000Z",
-      "firstSeen": "2026-11-17T07:55:10.584Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
-      ]
-    },
-    {
       "id": "0604bc2b50fc0c3b",
       "url": "https://openai.com/index/astra-law-6-2",
       "title": "Astra for Law leads in legal intelligence",
@@ -3721,21 +3923,6 @@
       "topics": [
         "papers",
         "alignment"
-      ]
-    },
-    {
-      "id": "96abb15b066446d7",
-      "url": "https://www.youtube.com/shorts/BdfP8kmAofQ",
-      "title": "Dan Boneh: Cryptography Is Everywhere in Everday Life",
-      "summary": "Dan Boneh, Professor of Computer Science and Electrical Engineering at Stanford University, explains that cryptography is everywhere in everyday life. It keeps your text messages private and secures your online financial activity. It also authenticates and encrypts the…",
-      "publishedAt": "2026-11-16T18:00:39.000Z",
-      "firstSeen": "2026-11-16T22:01:39.043Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
       ]
     },
     {
@@ -4316,20 +4503,6 @@
       ]
     },
     {
-      "id": "2427bacb74a96b4b",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "summary": "",
-      "publishedAt": "2026-11-13T18:00:39.000Z",
-      "firstSeen": "2026-11-13T19:41:52.495Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "5bf4951adbe9698d",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "title": "Introducing ChatGPT Wallet",
@@ -4441,21 +4614,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "c251454bcd6dd9d4",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
-      "title": "v3.50.0",
-      "summary": "3.50.0 (2026-11-12) Features api: expose reasoning input transformations on responses ( #4268 ) ( 734f75b ) Chores deps: bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ( #4261 ) ( 0ebd006 ) Documentation simplify review handoff instructions ( #4266 ) ( 141a89a )",
-      "publishedAt": "2026-11-12T19:26:07.000Z",
-      "firstSeen": "2026-11-12T19:54:08.692Z",
-      "source": "rel-openai-py",
-      "sourceName": "openai-python releases",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "engineering"
       ]
     },
     {
@@ -6132,21 +6290,6 @@
       "sourceName": "Hugging Face blog",
       "class": "rss",
       "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "998ac2d864ac3ec7",
-      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0",
-      "title": "v2.4.0",
-      "summary": "Features api: add GA methods for analytics, spend limits and RBAC api: add named beta types for unified metrics and RBAC delete responses api: add shared analytics order and increase request actor types api: add tool_use_limit_reached_error and compaction_limit_reached_error…",
-      "publishedAt": "2026-11-02T19:07:19.000Z",
-      "firstSeen": "2026-11-03T00:57:55.528Z",
-      "source": "rel-anthropic-sdk-py",
-      "sourceName": "anthropic-sdk-python releases",
-      "class": "atom",
-      "topics": [
-        "anthropic",
         "engineering"
       ]
     },

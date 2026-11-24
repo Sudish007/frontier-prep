@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-24T09:54:09.400Z",
+  "generatedAt": "2026-11-24T22:26:20.961Z",
   "items": [
+    {
+      "id": "ashby-openai-d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+      "company": "OpenAI",
+      "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
+      "location": "London, UK; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+      "postedAt": "2026-11-24T22:08:08.119Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-24T22:26:20.961Z"
+    },
+    {
+      "id": "ashby-openai-07fddd60-30a7-45fb-8564-f0ad1cd75716",
+      "company": "OpenAI",
+      "title": "Global Head of Applied AI Engineering, SMB / Mid-Market",
+      "location": "San Francisco; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/07fddd60-30a7-45fb-8564-f0ad1cd75716",
+      "postedAt": "2026-11-24T14:55:21.181Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-24T22:26:20.961Z"
+    },
+    {
+      "id": "gh-anthropic-5466640008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Industries",
+      "location": "Zürich, CH",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466640008",
+      "postedAt": "2026-11-24T13:12:53.000Z",
+      "india": false,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-24T22:26:20.961Z"
+    },
     {
       "id": "ashby-openai-1af2996f-046c-466f-bf35-4b13da116af4",
       "company": "OpenAI",
@@ -276,6 +312,18 @@
       "remote": false,
       "board": "anthropic",
       "firstSeen": "2026-11-20T07:15:47.619Z"
+    },
+    {
+      "id": "gh-anthropic-5486776008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Beneficial Deployment",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486776008",
+      "postedAt": "2026-11-20T02:32:30.000Z",
+      "india": true,
+      "remote": false,
+      "board": "anthropic",
+      "firstSeen": "2026-11-24T22:26:20.961Z"
     },
     {
       "id": "ashby-openai-b5a022bb-f7a5-47d9-b5e8-9d1575493dcf",

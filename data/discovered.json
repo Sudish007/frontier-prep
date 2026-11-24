@@ -1,6 +1,63 @@
 {
-  "generatedAt": "2026-11-24T09:54:09.400Z",
+  "generatedAt": "2026-11-24T22:26:20.961Z",
   "items": [
+    {
+      "id": "a2be28193573d973",
+      "url": "https://www.youtube.com/watch?v=HbgZFwWj4vY",
+      "title": "What Data Do AI Agents Need? | Stanford CS329Z Lecture 10 with John Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Where does the training data for AI agents come from? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench and SWE-agent, explains what data agents need (traces,…",
+      "publishedAt": "2026-11-24T19:13:46.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "c330206f5aeb28c7",
+      "url": "https://www.youtube.com/watch?v=bGiFYYrmnAg",
+      "title": "School Day | Make A Day Do Anything with ChatGPT",
+      "summary": "When an unexpected change of plans throws Marla and Ava’s day off course, the pair embark on a spontaneous adventure with a little help from ChatGPT. ChatGPT can move things around, plan trips and create room in your day to spend doing things you love, with people you love. With…",
+      "publishedAt": "2026-11-24T17:09:11.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "55ec82fbe03c214c",
+      "url": "https://www.youtube.com/shorts/1zyra7yh0ZE",
+      "title": "Stop Running Out of Time in System Design Interviews",
+      "summary": "A step-by-step plan for your system design interview: requirements, core entities, API, high-level design, and deep dives. Watch the full Delivery Framework walkthrough: https://www.hellointerview.com/youtube/to/learn/system-design/in-a-hurry/delivery #SystemDesign…",
+      "publishedAt": "2026-11-24T17:03:48.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "kind": "video",
+      "matched": [
+        "interview",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "da8ad4e766b1eff9",
+      "url": "https://www.youtube.com/watch?v=tc5AVfyWkVs",
+      "title": "Hyperparameter Tuning, Scaling Laws & Debugging | Stanford CS312 Lecture 2 with Tatsunori Hashimoto",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN Why do so many claimed wins in deep learning disappear once you tune the baseline? In this Stanford CS312: Deep Learning Alchemy lecture, Assistant Professor Tatsunori Hashimoto covers four basic…",
+      "publishedAt": "2026-11-24T17:00:06.000Z",
+      "firstSeen": "2026-11-24T22:26:20.961Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
     {
       "id": "2169ccaae2fadd18",
       "url": "https://www.youtube.com/watch?v=JLcCYvUawsM",
@@ -1111,62 +1168,6 @@
       ]
     },
     {
-      "id": "b4606f809401affa",
-      "url": "https://www.youtube.com/watch?v=OSHSopaYjTw",
-      "title": "Create and Share a Dashboard in ChatGPT",
-      "summary": "Turn your analysis into a dashboard your team can use. Building on the fictional Acme sales example, this walkthrough brings quarterly metrics and customer follow-ups into one view. See how to inspect the data behind a chart, edit its appearance, ask questions about the numbers,…",
-      "publishedAt": "2026-11-20T06:07:50.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "540cdc8b57cfc1ea",
-      "url": "https://www.youtube.com/watch?v=JEgTn37Sk50",
-      "title": "Ask Questions About Your Data in ChatGPT",
-      "summary": "Prepare for a sales meeting by asking ChatGPT what changed in your data and which customers need attention. Using sample data from the fictional company Acme, this walkthrough compares quarterly sales, visualizes the segments behind the change, and explores customer orders…",
-      "publishedAt": "2026-11-20T06:05:59.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "1b891055417bc973",
-      "url": "https://www.youtube.com/watch?v=oJIuz3AFfEQ",
-      "title": "Connect Your Team’s Data to ChatGPT",
-      "summary": "Connect the data tools your team already uses to ChatGPT. This walkthrough is for workspace admins: enable the Data plugin, choose how teammates can install it, and explore the setup for a Snowflake connection. You’ll also see how to add a custom plugin or MCP server and why…",
-      "publishedAt": "2026-11-20T06:02:57.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "27db4f2d4b5e105d",
-      "url": "https://www.youtube.com/watch?v=3_fayTbZrW8",
-      "title": "Create and Share a Report in ChatGPT Space",
-      "summary": "Give your team a report they can read, discuss, and work on together. In this walkthrough, turn the fictional Acme sales analysis into a Page in Space, with the highlights, quarterly comparisons, and charts in one place. See how to choose who can access the report, copy a link…",
-      "publishedAt": "2026-11-20T05:32:52.000Z",
-      "firstSeen": "2026-11-20T07:15:47.619Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "kind": "video",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
       "id": "a25e27fc12717ac0",
       "url": "https://arxiv.org/abs/2611.27079",
       "title": "Weight-space programming and mechanistic interpretability for model editing in particle physics",
@@ -1500,20 +1501,6 @@
       "kind": "paper",
       "matched": [
         "paper"
-      ]
-    },
-    {
-      "id": "ac101d2b569fc9ef",
-      "url": "https://www.youtube.com/watch?v=ho00IesajkY",
-      "title": "How AI Agents Work: Connectors, MCP & Agent Safety | Stanford CS193T Lecture 5 with Cynthia Bailey",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh What happens when AI stops just writing and starts acting on your behalf? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey explains how AI agents work and…",
-      "publishedAt": "2026-11-17T00:00:36.000Z",
-      "firstSeen": "2026-11-17T07:55:10.584Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
       ]
     },
     {
