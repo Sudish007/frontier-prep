@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-24T22:26:20.961Z",
+  "generatedAt": "2026-11-25T08:33:30.671Z",
   "items": [
+    {
+      "id": "ashby-openai-eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
+      "company": "OpenAI",
+      "title": "Solutions Engineer, Ads Solutions - NYC",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
+      "postedAt": "2026-11-25T02:03:01.866Z",
+      "india": false,
+      "remote": false,
+      "board": "openai",
+      "firstSeen": "2026-11-25T08:33:30.671Z"
+    },
+    {
+      "id": "ashby-openai-c58aecd7-b306-4c06-9648-8090d0a93217",
+      "company": "OpenAI",
+      "title": "Head of Applied AI Architects – Commercial Sales (Midmarket, SMB)",
+      "location": "US - Remote; San Francisco; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/c58aecd7-b306-4c06-9648-8090d0a93217",
+      "postedAt": "2026-11-25T01:26:31.136Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-25T08:33:30.671Z"
+    },
+    {
+      "id": "amzn-10606600",
+      "company": "Amazon",
+      "title": "Applied Scientist I, Worldwide Returns & Recommerce - Science ",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10606600/applied-scientist-i-worldwide-returns-recommerce-science",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-25T08:33:30.671Z"
+    },
     {
       "id": "ashby-openai-d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
       "company": "OpenAI",
