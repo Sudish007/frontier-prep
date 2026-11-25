@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-25T08:33:30.671Z",
+  "generatedAt": "2026-11-25T21:41:30.335Z",
   "items": [
+    {
+      "id": "3da4c3a0055b51b6",
+      "url": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
+      "title": "School Day | Make a day do anything with ChatGPT (Official)",
+      "summary": "When an unexpected change of plans throws Marla and Ava’s day off course, the pair embark on a spontaneous adventure with a little help from ChatGPT. ChatGPT can move things around, plan trips and create room in your day to spend doing things you love, with people you love. With…",
+      "publishedAt": "2026-11-25T16:45:33.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "a8cb947f218ff8d9",
+      "url": "https://www.youtube.com/watch?v=y2cwbmOy12U",
+      "title": "Better Data for AI Agents: Data Selection & Quality | Stanford CS329Z Lecture 11 with John Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z You have millions of agent trajectories. Which ones should you train on? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench and SWE-smith, explains how to find…",
+      "publishedAt": "2026-11-25T16:00:13.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
     {
       "id": "190619a69a1b2dac",
       "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
@@ -1530,20 +1558,6 @@
       ]
     },
     {
-      "id": "33675c71d5aa0eb4",
-      "url": "https://www.youtube.com/watch?v=0Uk4uLjuEeY",
-      "title": "Vibe Coding, AI Risk & AI Evaluation | Stanford CS193T Lecture 6 with Cynthia Bailey",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh Once AI can take actions on its own, how do you stay in control? In this Stanford CS193T: Thinking with AI lecture, Senior Lecturer Cynthia Bailey previews this week's tools, Claude Code and Codex,…",
-      "publishedAt": "2026-11-17T17:00:03.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "kind": "video",
-      "matched": [
-        "course"
-      ]
-    },
-    {
       "id": "44d719f3cd2aefc6",
       "url": "https://arxiv.org/abs/2611.22868",
       "title": "Against Coercion: AI Alignment as a Synthetic Social Contract",
@@ -1780,20 +1794,6 @@
       "kind": "interview",
       "matched": [
         "interview"
-      ]
-    },
-    {
-      "id": "ab3c3a29e24f9b61",
-      "url": "https://www.anthropic.com/research/multi-agent-research-system",
-      "title": "How we built our multi-agent research system",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "anthropic-engineering",
-      "sourceName": "Anthropic engineering",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
       ]
     },
     {

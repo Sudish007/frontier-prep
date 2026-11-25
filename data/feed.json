@@ -1,6 +1,153 @@
 {
-  "generatedAt": "2026-11-25T08:33:30.671Z",
+  "generatedAt": "2026-11-25T21:41:30.335Z",
   "items": [
+    {
+      "id": "9e640d54cb607240",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "title": "Migrating our Messages API to Rust",
+      "summary": "",
+      "publishedAt": null,
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "anthropic-research",
+      "sourceName": "Anthropic research",
+      "class": "html-links",
+      "topics": [
+        "anthropic",
+        "research"
+      ]
+    },
+    {
+      "id": "ebea1bfc6446ce50",
+      "url": "https://www.youtube.com/watch?v=GaUI0MqNx-Q",
+      "title": "Predicting Seed Variance, Warmup & LR Decay | Stanford CS312 Quiz Review with Suhas Kotha",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN How much does validation loss move between random seeds, and how long should learning rate warmup and decay last? In this Stanford CS312: Deep Learning Alchemy quiz review, PhD student Suhas Kotha…",
+      "publishedAt": "2026-11-25T20:00:08.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "37b5c9ba93266751",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "publishedAt": "2026-11-25T18:52:55.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "ec8743068e332d96",
+      "url": "https://www.youtube.com/watch?v=A4UNP-axGHU",
+      "title": "How your dot can keep work moving while you’re away",
+      "summary": "Even when you step away for the holidays, work doesn’t always stop. Your dot can help. Raymond walks through how his dot keeps an eye on ongoing projects, flags what needs his attention, and helps move work forward so he can review and approve next steps on the go. Steal…",
+      "publishedAt": "2026-11-25T18:21:11.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "8bc07deb0c8ad96d",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "summary": "Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company.",
+      "publishedAt": "2026-11-25T17:31:32.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "pragmatic-engineer",
+      "sourceName": "The Pragmatic Engineer",
+      "class": "rss",
+      "topics": [
+        "career"
+      ]
+    },
+    {
+      "id": "e2ee4ad335699ba8",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "summary": "Generative AI",
+      "publishedAt": "2026-11-25T17:10:27.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "google-research",
+      "sourceName": "Google Research blog",
+      "class": "rss",
+      "topics": [
+        "google",
+        "research"
+      ]
+    },
+    {
+      "id": "3da4c3a0055b51b6",
+      "url": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
+      "title": "School Day | Make a day do anything with ChatGPT (Official)",
+      "summary": "When an unexpected change of plans throws Marla and Ava’s day off course, the pair embark on a spontaneous adventure with a little help from ChatGPT. ChatGPT can move things around, plan trips and create room in your day to spend doing things you love, with people you love. With…",
+      "publishedAt": "2026-11-25T16:45:33.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "a8cb947f218ff8d9",
+      "url": "https://www.youtube.com/watch?v=y2cwbmOy12U",
+      "title": "Better Data for AI Agents: Data Selection & Quality | Stanford CS329Z Lecture 11 with John Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z You have millions of agent trajectories. Which ones should you train on? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench and SWE-smith, explains how to find…",
+      "publishedAt": "2026-11-25T16:00:13.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "01f58d7014fd3047",
+      "url": "https://www.youtube.com/watch?v=hwKct_1ilEQ",
+      "title": "Finances in ChatGPT: A Beginner’s Guide",
+      "summary": "Finances in ChatGPT can help you get a clearer picture of your spending and find ways to make progress toward your financial goals. In this video, we'll get you up to speed with the basics of Finances in ChatGPT: connect your bank account, review your recurring subscriptions,…",
+      "publishedAt": "2026-11-25T14:00:28.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "yt-openai",
+      "sourceName": "OpenAI (YouTube)",
+      "class": "atom",
+      "topics": [
+        "openai",
+        "video"
+      ]
+    },
+    {
+      "id": "d0a3a7f662b58965",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:22:09.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "190619a69a1b2dac",
       "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
@@ -27,6 +174,20 @@
       "class": "atom",
       "topics": [
         "anthropic",
+        "engineering"
+      ]
+    },
+    {
+      "id": "d8d6777ecf090783",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
         "engineering"
       ]
     },
@@ -829,6 +990,20 @@
       "class": "atom",
       "topics": [
         "papers"
+      ]
+    },
+    {
+      "id": "f14a6f6dfd19f4ca",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "publishedAt": "2026-11-24T13:07:53.000Z",
+      "firstSeen": "2026-11-25T21:41:30.335Z",
+      "source": "deepmind-blog",
+      "sourceName": "Google DeepMind blog",
+      "class": "rss",
+      "topics": [
+        "google"
       ]
     },
     {
@@ -1759,20 +1934,6 @@
       ]
     },
     {
-      "id": "ca38829e73128713",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "summary": "",
-      "publishedAt": "2026-11-23T17:20:37.000Z",
-      "firstSeen": "2026-11-23T23:53:31.205Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "e86f60394ab27463",
       "url": "https://www.youtube.com/watch?v=e1VYwgm9-_s",
       "title": "Stanford CS547 HCI Seminar | Autumn 2026 | What can CSCW Teach us About How to Work with Agents?",
@@ -1836,21 +1997,6 @@
       "title": "How Franklin Templeton uses AI for investment research | OpenAI",
       "summary": "“Just delivering data is not enough.” Franklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers. That gives analysts more time in the field, talking to…",
       "publishedAt": "2026-11-23T15:23:23.000Z",
-      "firstSeen": "2026-11-23T23:53:31.205Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
-      "id": "5b1271fb45b0ea86",
-      "url": "https://www.youtube.com/watch?v=PXKvR8ta22Q",
-      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
-      "summary": "“Just delivering data is not enough.” Franklin Templeton’s Katrina Dudley explains how OpenAI is helping the firm connect information from compliance, risk and trading, then turn it into insights for portfolio managers. That gives analysts more time in the field, talking to…",
-      "publishedAt": "2026-11-23T15:21:09.000Z",
       "firstSeen": "2026-11-23T23:53:31.205Z",
       "source": "yt-openai",
       "sourceName": "OpenAI (YouTube)",
@@ -2162,21 +2308,6 @@
       ]
     },
     {
-      "id": "774b05fa8bf3d7ed",
-      "url": "https://www.youtube.com/watch?v=mX7wHNnsghs",
-      "title": "How to claim your business in ChatGPT with Shopify",
-      "summary": "Claim your business in ChatGPT by connecting your Shopify store. This demo shows how to start in Business Hub or the Shopify App Store, then connect your store directly to ChatGPT. After that, you can manage your business information to shape how you show up in ChatGPT. Claim…",
-      "publishedAt": "2026-11-20T20:48:27.000Z",
-      "firstSeen": "2026-11-21T07:07:41.254Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
-      ]
-    },
-    {
       "id": "dc26abff63441211",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai",
       "title": "How Standard Bank Group automates AI risk assessment for generative AI",
@@ -2245,21 +2376,6 @@
       "class": "rss",
       "topics": [
         "amazon"
-      ]
-    },
-    {
-      "id": "e56c8a71f46f2f17",
-      "url": "https://www.youtube.com/shorts/X19Q12hmRjY",
-      "title": "An underrated way to use ChatGPT: Finding a doctor",
-      "summary": "Your yearly checkups start with finding the right doctor. Magan Chin shares how she uses ChatGPT to find highly rated doctors nearby. Tip by 💡: Instagram @genzbestie · TikTok @genzbestie_",
-      "publishedAt": "2026-11-20T17:22:23.000Z",
-      "firstSeen": "2026-11-20T20:19:33.218Z",
-      "source": "yt-openai",
-      "sourceName": "OpenAI (YouTube)",
-      "class": "atom",
-      "topics": [
-        "openai",
-        "video"
       ]
     },
     {
@@ -3363,20 +3479,6 @@
       ]
     },
     {
-      "id": "bf1424b145e4fc73",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary": "",
-      "publishedAt": "2026-11-18T15:00:23.000Z",
-      "firstSeen": "2026-11-18T20:30:52.549Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "48c58b20cb9b259e",
       "url": "https://arxiv.org/abs/2611.24453",
       "title": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models",
@@ -3720,21 +3822,6 @@
       "class": "atom",
       "topics": [
         "interview",
-        "video"
-      ]
-    },
-    {
-      "id": "33675c71d5aa0eb4",
-      "url": "https://www.youtube.com/watch?v=0Uk4uLjuEeY",
-      "title": "Vibe Coding, AI Risk & AI Evaluation | Stanford CS193T Lecture 6 with Cynthia Bailey",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh Once AI can take actions on its own, how do you stay in control? In this Stanford CS193T: Thinking with AI lecture, Senior Lecturer Cynthia Bailey previews this week's tools, Claude Code and Codex,…",
-      "publishedAt": "2026-11-17T17:00:03.000Z",
-      "firstSeen": "2026-11-17T20:55:08.712Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
         "video"
       ]
     },
@@ -7843,21 +7930,6 @@
       ]
     },
     {
-      "id": "ab3c3a29e24f9b61",
-      "url": "https://www.anthropic.com/research/multi-agent-research-system",
-      "title": "How we built our multi-agent research system",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "anthropic-engineering",
-      "sourceName": "Anthropic engineering",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "engineering"
-      ]
-    },
-    {
       "id": "b23f6db00ad70827",
       "url": "https://www.anthropic.com/research/claude-code-auto-mode",
       "title": "How we built Claude Code auto mode: a safer way to skip permissions",
@@ -8653,21 +8725,6 @@
       "class": "html-links",
       "topics": [
         "anthropic"
-      ]
-    },
-    {
-      "id": "7f9fa97d486b809b",
-      "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
-      "title": "What do you want from AI?",
-      "summary": "",
-      "publishedAt": null,
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "anthropic-research",
-      "sourceName": "Anthropic research",
-      "class": "html-links",
-      "topics": [
-        "anthropic",
-        "research"
       ]
     },
     {

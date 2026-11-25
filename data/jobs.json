@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-25T08:33:30.671Z",
+  "generatedAt": "2026-11-25T21:41:30.335Z",
   "items": [
+    {
+      "id": "ashby-openai-f9818cd7-66b3-4d68-a354-868ea1ce976e",
+      "company": "OpenAI",
+      "title": "Applied AI Architect, Large Enterprise",
+      "location": "Paris, France; Remote",
+      "url": "https://jobs.ashbyhq.com/openai/f9818cd7-66b3-4d68-a354-868ea1ce976e",
+      "postedAt": "2026-11-25T17:05:07.261Z",
+      "india": false,
+      "remote": true,
+      "board": "openai",
+      "firstSeen": "2026-11-25T21:41:30.335Z"
+    },
     {
       "id": "ashby-openai-eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
       "company": "OpenAI",
@@ -36,6 +48,18 @@
       "remote": false,
       "board": "amazon-ml-india",
       "firstSeen": "2026-11-25T08:33:30.671Z"
+    },
+    {
+      "id": "amzn-10614072",
+      "company": "Amazon",
+      "title": "Applied Scientist, Print On Demand Science",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10614072/applied-scientist-print-on-demand-science",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-genai-india",
+      "firstSeen": "2026-11-25T21:41:30.335Z"
     },
     {
       "id": "ashby-openai-d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
@@ -156,6 +180,18 @@
       "remote": false,
       "board": "amazon-ml-india",
       "firstSeen": "2026-11-23T23:53:31.205Z"
+    },
+    {
+      "id": "amzn-10611254",
+      "company": "Amazon",
+      "title": "Associate, ML Data Operations, GO-AI Operations",
+      "location": "Hyderabad, Telangana, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10611254/associate-ml-data-operations-go-ai-operations",
+      "postedAt": "2026-11-23T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-25T21:41:30.335Z"
     },
     {
       "id": "amzn-10611291",
