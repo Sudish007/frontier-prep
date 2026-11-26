@@ -1,6 +1,63 @@
 {
-  "generatedAt": "2026-11-26T08:16:57.384Z",
+  "generatedAt": "2026-11-26T21:31:17.874Z",
   "items": [
+    {
+      "id": "f8d7c161ff8b779d",
+      "url": "https://www.youtube.com/watch?v=wdjnAOrS7f8",
+      "title": "Noisy Quadratic Model, Momentum & Weight Decay | Stanford CS312 Lecture 3 with Tatsunori Hashimoto",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN Why does mini-batch SGD, a weak algorithm by convex optimization standards, work so well for deep learning? In this Stanford CS312: Deep Learning Alchemy lecture, Assistant Professor Tatsunori…",
+      "publishedAt": "2026-11-26T20:00:30.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course"
+      ]
+    },
+    {
+      "id": "736b59a4c481f557",
+      "url": "https://www.youtube.com/watch?v=_iVIugwpiUI",
+      "title": "How to Evaluate AI Agents: Benchmark Design | Stanford CS329Z Lecture 12 with John Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Why are AI agents so hard to evaluate, and what makes a benchmark trustworthy? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench, introduces a 4-tuple framework…",
+      "publishedAt": "2026-11-26T16:00:09.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "kind": "video",
+      "matched": [
+        "course",
+        "paper"
+      ]
+    },
+    {
+      "id": "02a088434703556c",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "kind": "paper",
+      "matched": [
+        "paper"
+      ]
+    },
+    {
+      "id": "c01600d4160315a4",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "kind": "tutorial",
+      "matched": [
+        "tutorial"
+      ]
+    },
     {
       "id": "90bb09138ffacc21",
       "url": "https://arxiv.org/abs/2611.34935",
@@ -1890,20 +1947,6 @@
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",
-      "kind": "tutorial",
-      "matched": [
-        "tutorial"
-      ]
-    },
-    {
-      "id": "e05f5dfb850cddb8",
-      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-      "title": "Can we change an AI model’s architecture without retraining it from scratch?",
-      "summary": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
-      "publishedAt": "2026-10-12T17:36:18.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "amazon-science",
-      "sourceName": "Amazon Science",
       "kind": "tutorial",
       "matched": [
         "tutorial"

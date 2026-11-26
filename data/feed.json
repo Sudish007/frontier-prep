@@ -1,6 +1,79 @@
 {
-  "generatedAt": "2026-11-26T08:16:57.384Z",
+  "generatedAt": "2026-11-26T21:31:17.874Z",
   "items": [
+    {
+      "id": "f8d7c161ff8b779d",
+      "url": "https://www.youtube.com/watch?v=wdjnAOrS7f8",
+      "title": "Noisy Quadratic Model, Momentum & Weight Decay | Stanford CS312 Lecture 3 with Tatsunori Hashimoto",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN Why does mini-batch SGD, a weak algorithm by convex optimization standards, work so well for deep learning? In this Stanford CS312: Deep Learning Alchemy lecture, Assistant Professor Tatsunori…",
+      "publishedAt": "2026-11-26T20:00:30.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "9d01b99f74fdad8a",
+      "url": "https://www.youtube.com/shorts/t7vH_qlL-zM",
+      "title": "HNSW: express lanes for vector search",
+      "summary": "HNSW borrows the skip list's express lanes: long hops across sparse upper layers, short steps at the bottom, so a search never touches most of the vectors. Full video: https://www.hellointerview.com/youtube/to/learn/system-design/deep-dives/vector-databases #shorts",
+      "publishedAt": "2026-11-26T17:03:50.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "yt-hello-interview",
+      "sourceName": "Hello Interview (YouTube)",
+      "class": "atom",
+      "topics": [
+        "interview",
+        "video"
+      ]
+    },
+    {
+      "id": "736b59a4c481f557",
+      "url": "https://www.youtube.com/watch?v=_iVIugwpiUI",
+      "title": "How to Evaluate AI Agents: Benchmark Design | Stanford CS329Z Lecture 12 with John Yang",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z Why are AI agents so hard to evaluate, and what makes a benchmark trustworthy? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench, introduces a 4-tuple framework…",
+      "publishedAt": "2026-11-26T16:00:09.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "yt-stanford-online",
+      "sourceName": "Stanford Online (YouTube)",
+      "class": "atom",
+      "topics": [
+        "fundamentals",
+        "video"
+      ]
+    },
+    {
+      "id": "069f94445fa0f593",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "title": "Quoting Jack Despain Zhou",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with…",
+      "publishedAt": "2026-11-26T15:09:31.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "simon-willison",
+      "sourceName": "Simon Willison's weblog",
+      "class": "atom",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "02a088434703556c",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "ee86e4f0d7dad761",
       "url": "https://github.com/openai/openai-python/releases/tag/v3.60.0",
@@ -23,6 +96,20 @@
       "summary": "",
       "publishedAt": "2026-11-26T05:05:36.000Z",
       "firstSeen": "2026-11-26T08:16:57.384Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "c01600d4160315a4",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "firstSeen": "2026-11-26T21:31:17.874Z",
       "source": "hf-blog",
       "sourceName": "Hugging Face blog",
       "class": "rss",
@@ -3551,21 +3638,6 @@
       ]
     },
     {
-      "id": "8f1c1aca3752ab72",
-      "url": "https://www.youtube.com/watch?v=1S5nJp-qRs8",
-      "title": "Post-Training Techniques: On-Policy Distillation | Afshine & Shervine Amidi",
-      "summary": "Browse Stanford's online computational and mathematical engineering graduate courses: https://stanford.io/grad-cme Enrollment for the winter quarter is open now! https://stanford.io/Winter-2026 Is making a model bigger still the only way to improve it? Adjunct Professors Afshine…",
-      "publishedAt": "2026-11-18T17:00:12.000Z",
-      "firstSeen": "2026-11-18T20:30:52.549Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
-      ]
-    },
-    {
       "id": "8e6075d168e06821",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -3706,21 +3778,6 @@
       "topics": [
         "openai",
         "engineering"
-      ]
-    },
-    {
-      "id": "71f69d97e3410846",
-      "url": "https://www.youtube.com/watch?v=TP4UixmOe-I",
-      "title": "Why Do We Need Statisticians in the Age of AI? | Kristin Sainani & Regina Nuzzo",
-      "summary": "Enrollment is now open! Demystifying Data: A Modern Approach to Statistical Understanding (SOM-XCHE0033) 🔗https://stanford.io/som-xche0033 Graduate Winter Quarter 🔗https://stanford.io/Winter-2026 Will AI replace statisticians? Stanford's Kristin Sainani and Regina Nuzzo, two…",
-      "publishedAt": "2026-11-18T00:00:21.000Z",
-      "firstSeen": "2026-11-18T07:27:58.683Z",
-      "source": "yt-stanford-online",
-      "sourceName": "Stanford Online (YouTube)",
-      "class": "atom",
-      "topics": [
-        "fundamentals",
-        "video"
       ]
     },
     {
@@ -3987,7 +4044,7 @@
     {
       "id": "5bfa4c0336cda25e",
       "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
-      "title": "This algorithm changed how I think about compression | Information theory, part 3",
+      "title": "This algorithm changed how I think about compression | Compression & Intelligence, part 3",
       "summary": "Arithmetic codes and what they reflect about compression & intelligence Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support On Arithmetic Codes:…",
       "publishedAt": "2026-11-17T16:43:16.000Z",
       "firstSeen": "2026-11-17T20:55:08.712Z",
@@ -4442,20 +4499,6 @@
       ]
     },
     {
-      "id": "3bc6cdb34c17f840",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette",
-      "title": "datasette 1.0a43",
-      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this…",
-      "publishedAt": "2026-11-15T23:20:27.000Z",
-      "firstSeen": "2026-11-16T06:29:05.762Z",
-      "source": "simon-willison",
-      "sourceName": "Simon Willison's weblog",
-      "class": "atom",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
       "id": "87d7014c15ee68a3",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -4613,20 +4656,6 @@
       "class": "rss",
       "topics": [
         "openai"
-      ]
-    },
-    {
-      "id": "40e78db6601d46e6",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "",
-      "publishedAt": "2026-11-13T14:05:22.000Z",
-      "firstSeen": "2026-11-13T19:41:52.495Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
       ]
     },
     {
@@ -10211,36 +10240,6 @@
       "topics": [
         "research",
         "video"
-      ]
-    },
-    {
-      "id": "e05f5dfb850cddb8",
-      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-      "title": "Can we change an AI model’s architecture without retraining it from scratch?",
-      "summary": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
-      "publishedAt": "2026-10-12T17:36:18.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "amazon-science",
-      "sourceName": "Amazon Science",
-      "class": "rss",
-      "topics": [
-        "amazon",
-        "research"
-      ]
-    },
-    {
-      "id": "b3d04b5f805f38bf",
-      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "summary": "Will we give robots the moon?",
-      "publishedAt": "2026-10-12T12:30:39.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "import-ai",
-      "sourceName": "Import AI (Jack Clark)",
-      "class": "rss",
-      "topics": [
-        "research",
-        "policy"
       ]
     }
   ]
