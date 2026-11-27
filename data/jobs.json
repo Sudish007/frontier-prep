@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-11-27T08:32:52.225Z",
+  "generatedAt": "2026-11-27T21:17:18.856Z",
   "items": [
+    {
+      "id": "amzn-10615771",
+      "company": "Amazon",
+      "title": "Data Scientist II",
+      "location": "Bengaluru, Karnataka, IND",
+      "url": "https://www.amazon.jobs/en/jobs/10615771/data-scientist-ii",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "india": true,
+      "remote": false,
+      "board": "amazon-ml-india",
+      "firstSeen": "2026-11-27T21:17:18.856Z"
+    },
     {
       "id": "ashby-openai-f9818cd7-66b3-4d68-a354-868ea1ce976e",
       "company": "OpenAI",
@@ -2375,30 +2387,6 @@
       "india": false,
       "remote": false,
       "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5436293008",
-      "company": "Anthropic",
-      "title": "Staff+ Software Engineer, Account Abuse (Machine Learning)",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008",
-      "postedAt": "2026-09-28T20:31:13.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-cd3c9c99-9527-4ba2-bea7-9f8f4892bc62",
-      "company": "OpenAI",
-      "title": "Technical Program Manager, Global Programs — Applied AI Engineering",
-      "location": "San Francisco; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/cd3c9c99-9527-4ba2-bea7-9f8f4892bc62",
-      "postedAt": "2026-09-28T16:10:28.109Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]

@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-27T08:32:52.225Z",
+  "generatedAt": "2026-11-27T21:17:18.856Z",
   "items": [
+    {
+      "id": "2d7f8b4f8454af31",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "firstSeen": "2026-11-27T21:17:18.856Z",
+      "source": "hf-blog",
+      "sourceName": "Hugging Face blog",
+      "class": "rss",
+      "topics": [
+        "engineering"
+      ]
+    },
     {
       "id": "00bb51c293be1538",
       "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai",
@@ -10061,164 +10075,6 @@
       "title": "The EU’s next chapter in AI is agentic",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "publishedAt": "2026-10-14T00:00:00.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "openai-news",
-      "sourceName": "OpenAI news",
-      "class": "rss",
-      "topics": [
-        "openai"
-      ]
-    },
-    {
-      "id": "25432b6b093a311b",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "550c4c02e9ff21a9",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "publishedAt": "2026-10-13T17:05:48.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "hf-blog",
-      "sourceName": "Hugging Face blog",
-      "class": "rss",
-      "topics": [
-        "engineering"
-      ]
-    },
-    {
-      "id": "e1fac0b9234fc794",
-      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-      "summary": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of tangled features, where touching one component can unexpectedly affect another. Erik Chen, an engineer at Google, is using Gemini 4 Argon to ‘untangle’…",
-      "publishedAt": "2026-10-13T16:38:17.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "d5d8f56a864716d4",
-      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-      "summary": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber threats. Using its advanced reasoning and long-horizon capabilities, Gemini 4 Argon found over two times more vulnerabilities than baseline models and…",
-      "publishedAt": "2026-10-13T16:38:14.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "837e840d6faec8c2",
-      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
-      "title": "Building resilient AI-powered software, and planning for when things go wrong",
-      "summary": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman",
-      "publishedAt": "2026-10-13T16:03:33.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "pragmatic-engineer",
-      "sourceName": "The Pragmatic Engineer",
-      "class": "rss",
-      "topics": [
-        "career"
-      ]
-    },
-    {
-      "id": "8b0463614a7b86fd",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "316153953adff70c",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "deepmind-blog",
-      "sourceName": "Google DeepMind blog",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "66cb1e68848fee2d",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "publishedAt": "2026-10-13T16:00:00.000Z",
-      "firstSeen": "2026-10-22T11:11:38.073Z",
-      "source": "google-ai-blog",
-      "sourceName": "Google: The Keyword, AI",
-      "class": "rss",
-      "topics": [
-        "google"
-      ]
-    },
-    {
-      "id": "ade12c07232f4940",
-      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
-      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
-      "summary": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing cornhole. Using its video understanding and advanced reasoning capabilities, Gemini 4 built a virtual simulation in MuJoCo and accurately calculated the…",
-      "publishedAt": "2026-10-13T15:58:20.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "1d27ca953a63e744",
-      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
-      "title": "Untangling 500-page chemistry patents with Gemini 4",
-      "summary": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule’s structure can sit 50 pages away from its experimental readout. At Isomorphic Labs, researchers Brian Bender and Santosh Adhikari are using Gemini 4 Argon’s multimodal…",
-      "publishedAt": "2026-10-13T15:58:17.000Z",
-      "firstSeen": "2026-10-22T11:09:02.285Z",
-      "source": "yt-deepmind",
-      "sourceName": "Google DeepMind (YouTube)",
-      "class": "atom",
-      "topics": [
-        "google",
-        "video"
-      ]
-    },
-    {
-      "id": "ffc748cb8d88a919",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
       "firstSeen": "2026-10-22T11:09:02.285Z",
       "source": "openai-news",
       "sourceName": "OpenAI news",
