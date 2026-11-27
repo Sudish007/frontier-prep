@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:31:17.874Z",
+  "generatedAt": "2026-11-27T08:32:52.225Z",
   "items": [
     {
       "id": "ashby-openai-f9818cd7-66b3-4d68-a354-868ea1ce976e",
@@ -2399,18 +2399,6 @@
       "india": false,
       "remote": true,
       "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5432583008",
-      "company": "Anthropic",
-      "title": "Applied AI Architect, Partnerships",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
-      "postedAt": "2026-09-28T07:22:51.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
       "firstSeen": "2026-10-22T11:09:02.285Z"
     }
   ]
