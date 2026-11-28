@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:17:18.856Z",
+  "generatedAt": "2026-11-28T07:48:40.300Z",
   "items": [
     {
       "id": "amzn-10615771",
@@ -2360,30 +2360,6 @@
       "location": "Seoul, South Korea",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432554008",
       "postedAt": "2026-09-29T08:24:59.000Z",
-      "india": false,
-      "remote": false,
-      "board": "anthropic",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "ashby-openai-afebc24f-c6b8-4c66-a344-b1661fc77570",
-      "company": "OpenAI",
-      "title": "Applied AI Delivery Lead",
-      "location": "San Francisco; Remote",
-      "url": "https://jobs.ashbyhq.com/openai/afebc24f-c6b8-4c66-a344-b1661fc77570",
-      "postedAt": "2026-09-29T02:57:26.446Z",
-      "india": false,
-      "remote": true,
-      "board": "openai",
-      "firstSeen": "2026-10-22T11:09:02.285Z"
-    },
-    {
-      "id": "gh-anthropic-5437172008",
-      "company": "Anthropic",
-      "title": "Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design)",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
-      "postedAt": "2026-09-29T02:57:03.000Z",
       "india": false,
       "remote": false,
       "board": "anthropic",
